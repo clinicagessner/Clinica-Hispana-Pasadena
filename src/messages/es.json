@@ -1,0 +1,192 @@
+{
+  "Nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "blog": "Blog",
+    "walkIn": "Sin cita",
+    "contact": "Contacto",
+    "callNow": "Llamar ahora",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "languageLabel": "Idioma",
+    "spanish": "Español",
+    "english": "English"
+  },
+  "Common": {
+    "openNow": "Abierto ahora",
+    "getDirections": "Cómo llegar",
+    "call": "Llamar",
+    "viewAll": "Ver todo",
+    "readMore": "Leer más",
+    "learnMore": "Más información",
+    "walkInsWelcome": "Sin cita previa",
+    "bilingual": "Atención en español e inglés",
+    "withOrWithoutInsurance": "Sin seguro necesario",
+    "ratingSummary": "{count} reseñas en Google",
+    "affordable": "Precios accesibles"
+  },
+  "Hero": {
+    "badge": "Clínica médica hispana en Pasadena, TX",
+    "openToday": "Abierto hoy",
+    "titleLead": "Atención médica",
+    "titleHighlight": "100% en español",
+    "titleTail": "para toda la familia",
+    "subtitle": "Medicina familiar, ginecología, urología, laboratorio y más. Sin cita previa y con precios accesibles. Te atendemos como a los nuestros.",
+    "ctaCall": "Llamar a la clínica",
+    "ctaDirections": "Cómo llegar",
+    "trustWalkIn": "Sin cita previa",
+    "trustBilingual": "Hablamos español",
+    "trustInsurance": "Sin seguro necesario",
+    "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
+    "callShort": "Llamar"
+  },
+  "Services": {
+    "eyebrow": "Nuestros servicios",
+    "title": "Todo lo que tu familia necesita, en un solo lugar",
+    "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
+    "cta": "Ver todos los servicios",
+    "featured": "Destacado"
+  },
+  "Gynecology": {
+    "eyebrow": "Salud de la mujer",
+    "title": "Consulta de Ginecología en español",
+    "body": "Cuidamos tu salud en cada etapa con atención ginecológica integral, con la privacidad y el respeto que mereces. Papanicolaou, chequeos y orientación, todo en tu idioma.",
+    "point1": "Papanicolaou y chequeo anual",
+    "point2": "Planificación familiar y orientación",
+    "point3": "Atención de infecciones y molestias",
+    "cta": "Conocer el servicio"
+  },
+  "Testimonials": {
+    "eyebrow": "Lo que dicen nuestros pacientes",
+    "title": "Una comunidad que confía en nosotros",
+    "subtitle": "Reseñas reales de pacientes de Clínica Hispana Nueva Salud Pasadena.",
+    "reviewCta": "Escribir una reseña en Google",
+    "verified": "Reseña verificada de Google"
+  },
+  "Faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Resolvemos tus dudas",
+    "subtitle": "Lo que más nos preguntan antes de la primera visita."
+  },
+  "Location": {
+    "eyebrow": "Visítanos",
+    "title": "Estamos cerca de ti, en Pasadena",
+    "addressLabel": "Dirección",
+    "hoursLabel": "Horario",
+    "phoneLabel": "Teléfono",
+    "emailLabel": "Correo",
+    "directionsCta": "Cómo llegar",
+    "callCta": "Llamar ahora",
+    "mapTitle": "Mapa de ubicación de Clínica Hispana Nueva Salud Pasadena"
+  },
+  "Contact": {
+    "eyebrow": "Contáctanos",
+    "title": "Agenda tu visita o pide información",
+    "subtitle": "Déjanos tus datos y te contactamos lo antes posible. También puedes llamarnos directamente.",
+    "nameLabel": "Nombre completo",
+    "namePlaceholder": "Tu nombre",
+    "phoneLabel": "Teléfono",
+    "phonePlaceholder": "(832) 000-0000",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@correo.com",
+    "serviceLabel": "Servicio de interés",
+    "servicePlaceholder": "Selecciona un servicio",
+    "serviceGeneral": "Consulta general",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuéntanos cómo podemos ayudarte",
+    "consentLabel": "Acepto ser contactado por teléfono, mensaje o correo.",
+    "submit": "Enviar solicitud",
+    "submitting": "Enviando…",
+    "successTitle": "¡Mensaje enviado!",
+    "successBody": "Gracias por escribirnos. Te contactaremos muy pronto.",
+    "errorTitle": "No pudimos enviar tu mensaje",
+    "errorBody": "Inténtalo de nuevo o llámanos directamente.",
+    "orCall": "O llámanos al",
+    "optional": "opcional",
+    "errorName": "Escribe tu nombre (mínimo 2 caracteres).",
+    "errorPhone": "Escribe un teléfono válido.",
+    "errorEmail": "Escribe un correo electrónico válido.",
+    "errorConsent": "Debes aceptar para poder enviar."
+  },
+  "BlogPreview": {
+    "eyebrow": "Desde el blog",
+    "title": "Guías de salud para la comunidad hispana",
+    "subtitle": "Información clara sobre tu salud y los servicios de la clínica.",
+    "cta": "Ver todo el blog"
+  },
+  "Footer": {
+    "tagline": "Atención médica profesional 100% en español en Pasadena, TX.",
+    "servicesTitle": "Servicios",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto",
+    "hoursTitle": "Horario",
+    "followUs": "Síguenos",
+    "privacy": "Política de privacidad",
+    "rights": "Todos los derechos reservados.",
+    "developedBy": "Desarrollado por",
+    "disclaimer": "La información de este sitio es educativa y no sustituye una consulta médica."
+  },
+  "Floating": {
+    "call": "Llamar",
+    "directions": "Cómo llegar",
+    "backToTop": "Volver arriba"
+  },
+  "ServicesPage": {
+    "title": "Servicios médicos en Pasadena, TX",
+    "subtitle": "Atención profesional en español, con precios accesibles y sin cita previa.",
+    "filterAll": "Todos",
+    "filtersLabel": "Filtrar por categoría",
+    "resultsEmpty": "No hay servicios en esta categoría."
+  },
+  "ServiceDetail": {
+    "backToServices": "Volver a servicios",
+    "ctaTitle": "¿Listo para tu cita?",
+    "ctaBody": "Llámanos o escríbenos. Te atendemos en español, con precios accesibles.",
+    "ctaCall": "Llamar ahora",
+    "ctaContact": "Solicitar información",
+    "faqTitle": "Preguntas frecuentes",
+    "relatedTitle": "Otros servicios",
+    "keywordsLabel": "También buscado como"
+  },
+  "BlogPage": {
+    "title": "Blog de salud",
+    "subtitle": "Guías y consejos de salud para la comunidad hispana de Pasadena.",
+    "empty": "Pronto publicaremos nuevas guías."
+  },
+  "BlogPost": {
+    "backToBlog": "Volver al blog",
+    "publishedOn": "Publicado el {date}",
+    "relatedTitle": "Sigue leyendo",
+    "ctaTitle": "¿Tienes preguntas sobre tu salud?",
+    "ctaBody": "Agenda una visita en Clínica Hispana Nueva Salud Pasadena.",
+    "ctaCall": "Llamar a la clínica"
+  },
+  "Privacy": {
+    "title": "Política de privacidad",
+    "subtitle": "Cómo tratamos y protegemos tu información."
+  },
+  "NotFound": {
+    "title": "Página no encontrada",
+    "body": "La página que buscas no existe o fue movida.",
+    "cta": "Volver al inicio"
+  },
+  "Error": {
+    "title": "Algo salió mal",
+    "body": "Ocurrió un error inesperado. Intenta de nuevo.",
+    "retry": "Intentar de nuevo"
+  },
+  "MensHealth": {
+    "eyebrow": "Salud del hombre",
+    "title": "Exámenes del Hombre en español",
+    "body": "Cuidamos tu salud con exámenes clave para el hombre: antígeno prostático (PSA), testosterona y chequeo general, con resultados explicados en tu idioma.",
+    "cta": "Conocer el servicio",
+    "cond1": "Antígeno prostático (PSA)",
+    "cond2": "Nivel de testosterona",
+    "cond3": "Chequeo general",
+    "cond4": "Salud de la próstata",
+    "cond1d": "Detección temprana de la próstata",
+    "cond2d": "Energía, ánimo y vitalidad",
+    "cond3d": "Signos vitales y prevención",
+    "cond4d": "Evaluación y seguimiento"
+  }
+}

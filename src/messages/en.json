@@ -1,0 +1,192 @@
+{
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "walkIn": "Walk-in",
+    "contact": "Contact",
+    "callNow": "Call now",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageLabel": "Language",
+    "spanish": "Español",
+    "english": "English"
+  },
+  "Common": {
+    "openNow": "Open now",
+    "getDirections": "Get directions",
+    "call": "Call",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "walkInsWelcome": "Walk-ins welcome",
+    "bilingual": "Care in Spanish and English",
+    "withOrWithoutInsurance": "No insurance needed",
+    "ratingSummary": "{count} Google reviews",
+    "affordable": "Affordable prices"
+  },
+  "Hero": {
+    "badge": "Hispanic medical clinic in Pasadena, TX",
+    "openToday": "Open today",
+    "titleLead": "Healthcare",
+    "titleHighlight": "100% in Spanish",
+    "titleTail": "for the whole family",
+    "subtitle": "Family medicine, gynecology, urology, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
+    "ctaCall": "Call the clinic",
+    "ctaDirections": "Get directions",
+    "trustWalkIn": "Walk-ins welcome",
+    "trustBilingual": "We speak Spanish",
+    "trustInsurance": "No insurance needed",
+    "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
+    "callShort": "Call"
+  },
+  "Services": {
+    "eyebrow": "Our services",
+    "title": "Everything your family needs, in one place",
+    "subtitle": "A wide range of medical services with professional care in your language.",
+    "cta": "View all services",
+    "featured": "Featured"
+  },
+  "Gynecology": {
+    "eyebrow": "Women's health",
+    "title": "Gynecology Consultation in Spanish",
+    "body": "We care for your health at every stage with comprehensive gynecological care, with the privacy and respect you deserve. Pap smears, checkups and guidance, all in your language.",
+    "point1": "Pap smear and annual checkup",
+    "point2": "Family planning and guidance",
+    "point3": "Care for infections and discomfort",
+    "cta": "See the service"
+  },
+  "Testimonials": {
+    "eyebrow": "What our patients say",
+    "title": "A community that trusts us",
+    "subtitle": "Real reviews from Clínica Hispana Nueva Salud Pasadena patients.",
+    "reviewCta": "Write a review on Google",
+    "verified": "Verified Google review"
+  },
+  "Faq": {
+    "eyebrow": "Frequently asked questions",
+    "title": "We answer your questions",
+    "subtitle": "The things patients ask us most before their first visit."
+  },
+  "Location": {
+    "eyebrow": "Visit us",
+    "title": "We are close to you, in Pasadena",
+    "addressLabel": "Address",
+    "hoursLabel": "Hours",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "directionsCta": "Get directions",
+    "callCta": "Call now",
+    "mapTitle": "Location map for Clínica Hispana Nueva Salud Pasadena"
+  },
+  "Contact": {
+    "eyebrow": "Contact us",
+    "title": "Book your visit or request information",
+    "subtitle": "Leave us your details and we'll get back to you as soon as possible. You can also call us directly.",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Your name",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "(832) 000-0000",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@email.com",
+    "serviceLabel": "Service of interest",
+    "servicePlaceholder": "Select a service",
+    "serviceGeneral": "General consultation",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us how we can help you",
+    "consentLabel": "I agree to be contacted by phone, text or email.",
+    "submit": "Send request",
+    "submitting": "Sending…",
+    "successTitle": "Message sent!",
+    "successBody": "Thanks for reaching out. We'll contact you very soon.",
+    "errorTitle": "We couldn't send your message",
+    "errorBody": "Please try again or call us directly.",
+    "orCall": "Or call us at",
+    "optional": "optional",
+    "errorName": "Enter your name (at least 2 characters).",
+    "errorPhone": "Enter a valid phone number.",
+    "errorEmail": "Enter a valid email address.",
+    "errorConsent": "You must accept in order to send."
+  },
+  "BlogPreview": {
+    "eyebrow": "From the blog",
+    "title": "Health guides for the Hispanic community",
+    "subtitle": "Clear information about your health and the clinic's services.",
+    "cta": "View the full blog"
+  },
+  "Footer": {
+    "tagline": "Professional healthcare 100% in Spanish in Pasadena, TX.",
+    "servicesTitle": "Services",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "hoursTitle": "Hours",
+    "followUs": "Follow us",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved.",
+    "developedBy": "Developed by",
+    "disclaimer": "The information on this site is educational and does not replace a medical consultation."
+  },
+  "Floating": {
+    "call": "Call",
+    "directions": "Directions",
+    "backToTop": "Back to top"
+  },
+  "ServicesPage": {
+    "title": "Medical services in Pasadena, TX",
+    "subtitle": "Professional care in Spanish, with affordable pricing and walk-ins welcome.",
+    "filterAll": "All",
+    "filtersLabel": "Filter by category",
+    "resultsEmpty": "There are no services in this category."
+  },
+  "ServiceDetail": {
+    "backToServices": "Back to services",
+    "ctaTitle": "Ready for your visit?",
+    "ctaBody": "Call or message us. We care for you in Spanish, with affordable pricing.",
+    "ctaCall": "Call now",
+    "ctaContact": "Request information",
+    "faqTitle": "Frequently asked questions",
+    "relatedTitle": "Other services",
+    "keywordsLabel": "Also searched as"
+  },
+  "BlogPage": {
+    "title": "Health blog",
+    "subtitle": "Health guides and tips for the Hispanic community of Pasadena.",
+    "empty": "We'll publish new guides soon."
+  },
+  "BlogPost": {
+    "backToBlog": "Back to blog",
+    "publishedOn": "Published on {date}",
+    "relatedTitle": "Keep reading",
+    "ctaTitle": "Have questions about your health?",
+    "ctaBody": "Book a visit at Clínica Hispana Nueva Salud Pasadena.",
+    "ctaCall": "Call the clinic"
+  },
+  "Privacy": {
+    "title": "Privacy policy",
+    "subtitle": "How we handle and protect your information."
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or was moved.",
+    "cta": "Back to home"
+  },
+  "Error": {
+    "title": "Something went wrong",
+    "body": "An unexpected error occurred. Please try again.",
+    "retry": "Try again"
+  },
+  "MensHealth": {
+    "eyebrow": "Men's health",
+    "title": "Men's Health Exams in Spanish",
+    "body": "We care for your health with key men's exams: prostate antigen (PSA), testosterone and a general checkup, with results explained in your language.",
+    "cta": "See the service",
+    "cond1": "Prostate antigen (PSA)",
+    "cond2": "Testosterone level",
+    "cond3": "General checkup",
+    "cond4": "Prostate health",
+    "cond1d": "Early prostate screening",
+    "cond2d": "Energy, mood and vitality",
+    "cond3d": "Vitals and prevention",
+    "cond4d": "Evaluation and follow-up"
+  }
+}
