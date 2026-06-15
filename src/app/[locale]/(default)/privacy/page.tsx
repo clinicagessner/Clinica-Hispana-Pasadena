@@ -89,30 +89,41 @@ export default async function PrivacyPage({
 
   return (
     <>
-    <section className="bg-cloud py-16 lg:py-24">
-      <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-        <h1 className="font-heading text-4xl font-extrabold tracking-tight text-slate-dark">
-          {c.title}
-        </h1>
-        <p className="mt-3 text-lg text-slate-primary">{c.subtitle}</p>
-        <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
+      {/* Cabecera editorial */}
+      <header className="relative isolate overflow-hidden bg-sand-bg py-16 lg:py-20">
+        <div
+          aria-hidden
+          className="cross-pattern pointer-events-none absolute -right-20 -top-16 -z-10 h-96 w-96 text-blue-deep/5"
+        />
+        <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+          <span className="eyebrow">{c.subtitle}</span>
+          <h1 className="mt-4 font-heading text-4xl font-black tracking-tight text-ink sm:text-5xl">
+            {c.title}
+          </h1>
+        </div>
+      </header>
 
-        <div className="mt-10 rounded-2xl border border-blue-light bg-white px-6 py-8 shadow-sm sm:px-10">
-          <p className="leading-relaxed text-slate-primary">{c.intro}</p>
-          <div className="mt-6 space-y-6">
-            {c.sections.map((s) => (
-              <div key={s.h}>
-                <h2 className="font-heading text-xl font-bold text-slate-dark">
+      {/* Cuerpo del documento */}
+      <section className="bg-white py-14 lg:py-20">
+        <div className="mx-auto max-w-[70ch] px-4 sm:px-6 lg:px-8">
+          <p className="text-lg leading-relaxed text-slate-primary">{c.intro}</p>
+          <div className="mt-10 space-y-10">
+            {c.sections.map((s, i) => (
+              <div key={s.h} className="border-l-2 border-sand-deep pl-5">
+                <span className="font-heading text-sm font-bold text-teal-deep">
+                  {String(i + 1).padStart(2, "0")}
+                </span>
+                <h2 className="mt-1 font-heading text-2xl font-bold text-ink">
                   {s.h}
                 </h2>
-                <p className="mt-2 leading-relaxed text-slate-primary">{s.p}</p>
+                <p className="mt-2 leading-relaxed text-slate-muted">{s.p}</p>
               </div>
             ))}
           </div>
         </div>
-      </div>
-    </section>
-    <FaqSection items={HOME_FAQS} className="bg-sky-bg" />
+      </section>
+
+      <FaqSection items={HOME_FAQS} />
     </>
   );
 }

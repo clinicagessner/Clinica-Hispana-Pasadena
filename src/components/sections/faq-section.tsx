@@ -24,22 +24,26 @@ export function FaqSection({
   if (faqs.length === 0) return null;
 
   return (
-    <section className={cn("bg-cloud py-20 lg:py-24", className)}>
+    <section
+      className={cn("relative isolate overflow-hidden bg-sand-bg py-20 lg:py-24", className)}
+    >
       <JsonLdFaqPage faqs={faqs} />
+      <div
+        aria-hidden
+        className="cross-pattern pointer-events-none absolute -right-20 top-8 -z-10 h-96 w-96 text-blue-deep/5"
+      />
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
         <Reveal className="text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">
-            {t("eyebrow")}
-          </p>
-          <h2 className="mt-3 font-heading text-3xl font-extrabold tracking-tight text-slate-dark sm:text-4xl">
+          <span className="eyebrow justify-center">{t("eyebrow")}</span>
+          <h2 className="mt-4 font-heading text-4xl font-black tracking-tight text-ink sm:text-5xl">
             {t("title")}
           </h2>
-          <p className="mt-3 text-base leading-relaxed text-slate-primary">
+          <p className="mt-4 text-lg leading-relaxed text-slate-muted">
             {t("subtitle")}
           </p>
         </Reveal>
-        <Reveal delay={120} className="mt-8">
-          <div className="rounded-2xl border border-blue-light bg-white px-6 py-2 shadow-sm">
+        <Reveal delay={120} className="mt-10">
+          <div className="frame-card px-6 py-2 shadow-sm">
             <FaqAccordion items={faqs} />
           </div>
         </Reveal>

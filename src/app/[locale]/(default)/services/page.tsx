@@ -66,36 +66,33 @@ export default async function ServicesPage({
         }))}
       />
 
-      {/* Encabezado */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-cloud to-sky-bg py-16 lg:py-20">
+      {/* Encabezado editorial cálido */}
+      <section className="relative overflow-hidden border-b border-blue-deep/10 bg-sand-bg py-16 lg:py-24">
         <div
           aria-hidden
-          className="pointer-events-none absolute -right-20 -top-20 h-80 w-80 rounded-full bg-blue-soft/15 blur-3xl"
+          className="cross-pattern pointer-events-none absolute inset-y-0 right-0 hidden w-1/2 text-blue-primary/15 lg:block"
         />
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <Reveal>
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">
-              Clínica Hispana Nueva Salud Pasadena
-            </p>
-            <h1 className="mt-3 max-w-3xl font-heading text-4xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-5xl">
-              {t("title")}
+            <p className="eyebrow">Clínica Hispana Nueva Salud Pasadena</p>
+            <h1 className="mt-5 max-w-3xl font-heading text-4xl font-black leading-[1.05] tracking-tight text-slate-dark sm:text-5xl lg:text-6xl">
+              <span className="ink-underline">{t("title")}</span>
             </h1>
-            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-slate-primary">
+            <p className="mt-6 max-w-2xl font-sans text-lg leading-relaxed text-slate-primary">
               {t("subtitle")}
             </p>
-            <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
           </Reveal>
         </div>
       </section>
 
       {/* Grid + filtro */}
-      <section className="bg-cloud py-14 lg:py-20">
+      <section className="bg-white py-14 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <ServicesFilter services={services} categories={categories} />
         </div>
       </section>
 
-      <FaqSection items={HOME_FAQS} className="bg-sky-bg" />
+      <FaqSection items={HOME_FAQS} />
     </>
   );
 }

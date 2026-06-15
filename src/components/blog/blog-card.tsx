@@ -19,12 +19,18 @@ export function BlogCard({
     <Link
       href={`/blog/${post.slug}`}
       className={cn(
-        "group flex flex-col overflow-hidden rounded-2xl border border-blue-light bg-white transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:shadow-blue-primary/5",
+        "group relative flex flex-col overflow-hidden rounded-2xl border border-blue-deep/10 bg-white transition-all duration-300 hover:-translate-y-1.5 hover:border-red-accent/40 hover:shadow-[0_18px_40px_-22px_rgba(0,0,0,0.35)]",
         className,
       )}
     >
+      {/* Accent rail revealed on hover */}
+      <span
+        aria-hidden
+        className="absolute inset-x-0 top-0 z-10 h-1 origin-left scale-x-0 bg-red-accent transition-transform duration-300 group-hover:scale-x-100"
+      />
+
       {/* Cover: foto real si existe, si no composición CSS */}
-      <div className="relative flex aspect-[16/9] items-end overflow-hidden bg-gradient-to-br from-blue-primary via-blue-dark to-blue-deep p-5">
+      <div className="relative aspect-video overflow-hidden rounded-2xl bg-sand-deep">
         {post.hasCover ? (
           <>
             <Image
@@ -36,46 +42,42 @@ export function BlogCard({
             />
             <div
               aria-hidden
-              className="absolute inset-0 bg-gradient-to-t from-blue-deep/80 via-blue-deep/20 to-transparent"
+              className="absolute inset-0 bg-linear-to-t from-ink/55 via-ink/5 to-transparent"
             />
           </>
         ) : (
-          <>
-            <div
-              aria-hidden
-              className="absolute -right-6 -top-6 h-28 w-28 rounded-full bg-white/10 blur-xl"
-            />
-            <Newspaper
-              aria-hidden
-              className="absolute right-4 top-4 h-8 w-8 text-white/30"
-            />
-          </>
+          <div
+            aria-hidden
+            className="cross-pattern absolute inset-0 flex items-center justify-center bg-blue-soft/40 text-blue-deep/30"
+          >
+            <Newspaper className="h-10 w-10" />
+          </div>
         )}
-        <span className="relative rounded-full bg-white/15 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white backdrop-blur">
+        <span className="absolute bottom-3 left-3 rounded-md border border-white/30 bg-ink/55 px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-[0.18em] text-white backdrop-blur-sm">
           {post.category}
         </span>
       </div>
 
       <div className="flex flex-1 flex-col p-6">
-        <div className="flex items-center gap-4 text-xs text-slate-muted">
+        <div className="flex items-center gap-4 text-[0.7rem] font-medium uppercase tracking-[0.14em] text-slate-muted">
           <span className="inline-flex items-center gap-1.5">
-            <CalendarDays className="h-3.5 w-3.5" />
+            <CalendarDays className="h-3.5 w-3.5 text-teal" />
             {formatDate(post.date, locale)}
           </span>
           <span className="inline-flex items-center gap-1.5">
-            <Clock className="h-3.5 w-3.5" />
+            <Clock className="h-3.5 w-3.5 text-teal" />
             {post.readingMinutes} min
           </span>
         </div>
 
-        <h3 className="mt-3 font-heading text-lg font-bold leading-snug text-slate-dark group-hover:text-blue-dark">
+        <h3 className="mt-3 font-heading text-xl font-semibold leading-snug text-slate-dark transition-colors group-hover:text-red-dark">
           {post.title}
         </h3>
-        <p className="mt-2 flex-1 text-sm leading-relaxed text-slate-muted">
+        <p className="mt-2.5 flex-1 font-sans text-sm leading-relaxed text-slate-primary">
           {post.description}
         </p>
 
-        <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-blue-primary">
+        <span className="mt-5 inline-flex items-center gap-1.5 font-sans text-sm font-semibold text-red-accent">
           {locale === "en" ? "Read article" : "Leer artículo"}
           <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
         </span>

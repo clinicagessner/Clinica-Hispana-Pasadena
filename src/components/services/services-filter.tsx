@@ -29,26 +29,34 @@ export function ServicesFilter({
       <div
         role="group"
         aria-label={t("filtersLabel")}
-        className="flex flex-wrap gap-2.5"
+        className="flex flex-wrap items-center gap-x-6 gap-y-3 border-b border-blue-deep/10 pb-5"
       >
-        <FilterButton active={active === "all"} onClick={() => setActive("all")}>
-          {t("filterAll")}
-        </FilterButton>
-        {categories.map((c) => (
+        <span className="eyebrow text-blue-dark">{t("filtersLabel")}</span>
+        <div className="flex flex-wrap gap-x-5 gap-y-2">
           <FilterButton
-            key={c.value}
-            active={active === c.value}
-            onClick={() => setActive(c.value)}
+            active={active === "all"}
+            onClick={() => setActive("all")}
           >
-            {c.label}
+            {t("filterAll")}
           </FilterButton>
-        ))}
+          {categories.map((c) => (
+            <FilterButton
+              key={c.value}
+              active={active === c.value}
+              onClick={() => setActive(c.value)}
+            >
+              {c.label}
+            </FilterButton>
+          ))}
+        </div>
       </div>
 
       {filtered.length === 0 ? (
-        <p className="mt-10 text-center text-slate-muted">{t("resultsEmpty")}</p>
+        <p className="mt-16 text-center font-sans text-slate-muted">
+          {t("resultsEmpty")}
+        </p>
       ) : (
-        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {filtered.map((service, i) => (
             <Reveal key={service.slug} delay={(i % 3) * 70}>
               <ServiceCard service={service} className="h-full" />
@@ -75,10 +83,11 @@ function FilterButton({
       onClick={onClick}
       aria-pressed={active}
       className={cn(
-        "rounded-full border px-4 py-2 text-sm font-semibold transition-colors",
+        "relative pb-1 font-sans text-sm font-semibold tracking-tight transition-colors",
+        "after:absolute after:inset-x-0 after:-bottom-px after:h-0.5 after:rounded-full after:transition-all after:content-['']",
         active
-          ? "border-blue-dark bg-blue-dark text-white"
-          : "border-blue-light bg-white text-slate-primary hover:border-blue-primary/40 hover:text-blue-dark",
+          ? "text-blue-dark after:bg-red-accent"
+          : "text-slate-muted after:bg-transparent hover:text-blue-dark hover:after:bg-blue-primary/40",
       )}
     >
       {children}

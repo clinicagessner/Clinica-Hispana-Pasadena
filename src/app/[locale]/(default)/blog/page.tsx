@@ -57,44 +57,56 @@ export default async function BlogIndexPage({
         }))}
       />
 
-      <section className="relative overflow-hidden bg-gradient-to-b from-cloud to-sky-bg py-16 lg:py-20">
+      <section className="relative overflow-hidden border-b border-blue-deep/10 bg-sand-bg py-16 lg:py-24">
         <div
           aria-hidden
-          className="pointer-events-none absolute -left-24 -top-16 h-80 w-80 rounded-full bg-blue-soft/15 blur-3xl"
+          className="cross-pattern pointer-events-none absolute inset-0 opacity-[0.35]"
         />
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <Reveal>
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-deep">
+            <p className="eyebrow text-teal-deep">
               Clínica Hispana Nueva Salud Pasadena
             </p>
-            <h1 className="mt-3 max-w-3xl font-heading text-4xl font-extrabold leading-tight tracking-tight text-slate-dark sm:text-5xl">
+            <h1 className="mt-4 max-w-3xl font-heading text-4xl font-semibold leading-[1.05] tracking-tight text-slate-dark sm:text-5xl lg:text-6xl">
               {t("title")}
             </h1>
-            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-slate-primary">
+            <p className="mt-5 max-w-2xl font-sans text-lg leading-relaxed text-slate-primary">
               {t("subtitle")}
             </p>
-            <div className="mt-5 h-0.5 w-24 rounded-full bg-gradient-to-r from-blue-primary to-teal" />
+            <span className="mt-7 block h-px w-28 bg-red-accent" />
           </Reveal>
         </div>
       </section>
 
-      <section className="bg-cloud py-14 lg:py-20">
+      <section className="bg-white py-14 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           {posts.length === 0 ? (
-            <p className="text-center text-slate-muted">{t("empty")}</p>
+            <p className="text-center font-sans text-slate-muted">{t("empty")}</p>
           ) : (
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {posts.map((post, i) => (
-                <Reveal key={post.slug} delay={(i % 3) * 70}>
-                  <BlogCard post={post} className="h-full" />
-                </Reveal>
-              ))}
-            </div>
+            <>
+              {/* Featured: primer post destacado a mayor ancho */}
+              <Reveal>
+                <BlogCard
+                  post={posts[0]}
+                  className="mx-auto max-w-4xl"
+                />
+              </Reveal>
+
+              {posts.length > 1 && (
+                <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                  {posts.slice(1).map((post, i) => (
+                    <Reveal key={post.slug} delay={(i % 3) * 70}>
+                      <BlogCard post={post} className="h-full" />
+                    </Reveal>
+                  ))}
+                </div>
+              )}
+            </>
           )}
         </div>
       </section>
 
-      <FaqSection items={HOME_FAQS} className="bg-sky-bg" />
+      <FaqSection items={HOME_FAQS} />
     </>
   );
 }

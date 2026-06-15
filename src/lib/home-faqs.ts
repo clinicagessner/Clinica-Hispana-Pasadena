@@ -37,10 +37,10 @@ export const HOME_FAQS: ServiceFaq[] = [
   {
     question: "¿Dónde están ubicados?",
     answer:
-      "Estamos en 9606 Spencer Hwy Ste D, Pasadena, TX 77571, sirviendo a Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax y el área de Houston.",
+      "Estamos en 1101 Spencer Hwy Suite H, South Houston, TX 77587, sirviendo a Pasadena, South Houston, South Belt, Genoa, Galena Park, Deer Park y el área de Houston.",
     questionEn: "Where are you located?",
     answerEn:
-      "We are at 9606 Spencer Hwy Ste D, Pasadena, TX 77571, serving Deer Park, Pasadena, Shoreacres, Morgan's Point, Lomax and the greater Houston area.",
+      "We are at 1101 Spencer Hwy Suite H, South Houston, TX 77587, serving Pasadena, South Houston, South Belt, Genoa, Galena Park, Deer Park and the greater Houston area.",
   },
   {
     question: "¿Realizan el examen médico de inmigración?",

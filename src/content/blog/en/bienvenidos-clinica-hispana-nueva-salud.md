@@ -16,7 +16,7 @@ At Clínica Hispana Nueva Salud Pasadena we believe that taking care of your hea
 
 ## Who we are
 
-We are a family medical clinic located at **9606 Spencer Hwy Ste D, Pasadena, TX 77571**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
+We are a family medical clinic located at **1101 Spencer Hwy Suite H, South Houston, TX 77587**. We care for children and adults, with affordable pricing and no insurance needed, and no appointment is required. Our hours are **Monday to Sunday, 9:00 AM to 9:00 PM**, because health doesn't wait for the weekend.
 
 ## What you'll find with us
 

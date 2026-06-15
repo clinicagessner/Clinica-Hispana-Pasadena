@@ -21,7 +21,7 @@ const bg = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" hei
   <circle cx="160" cy="560" r="180" fill="${RED}" opacity="0.16"/>
   <text x="540" y="300" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Nueva Salud</text>
   <text x="540" y="362" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#7fe3ec">Pasadena, TX</text>
-  <text x="120" y="560" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#cfe2f6">Atención médica 100% en español · Sin cita · Con o sin seguro</text>
+  <text x="120" y="560" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#cfe2f6">Atención médica 100% en español · Sin cita · Sin seguro necesario</text>
 </svg>`);
 await sharp(bg)
   .composite([{ input: logo, top: 125, left: 110 }])

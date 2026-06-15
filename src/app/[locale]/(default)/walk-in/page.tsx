@@ -60,7 +60,7 @@ const COPY = {
       },
     ],
     finalTitle: "Estamos abiertos. Ven cuando nos necesites.",
-    finalBody: "9606 Spencer Hwy Ste D, Pasadena, TX 77571",
+    finalBody: "1101 Spencer Hwy Suite H, South Houston, TX 77587",
   },
   en: {
     metaTitle: "Walk-in Clinic in Pasadena - No Appointment, Spanish",
@@ -102,7 +102,7 @@ const COPY = {
       },
     ],
     finalTitle: "We're open. Come whenever you need us.",
-    finalBody: "9606 Spencer Hwy Ste D, Pasadena, TX 77571",
+    finalBody: "1101 Spencer Hwy Suite H, South Houston, TX 77587",
   },
 } as const;
 
@@ -144,27 +144,25 @@ export default async function WalkInPage({
         faqs={c.faqs.map((f) => ({ question: f.question, answer: f.answer }))}
       />
 
-      {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-blue-primary via-blue-dark to-blue-deep py-20 text-sky-bg lg:py-28">
+      {/* Hero editorial */}
+      <section className="relative isolate overflow-hidden bg-sand-bg py-16 lg:py-24">
         <div
           aria-hidden
-          className="pointer-events-none absolute -right-20 -top-16 h-96 w-96 rounded-full bg-teal/15 blur-3xl"
+          className="cross-pattern pointer-events-none absolute -right-16 -top-16 -z-10 h-104 w-104 text-blue-primary/15"
         />
         <div className="relative mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
           <Reveal>
-            <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-teal-light">
-              {c.eyebrow}
-            </span>
-            <h1 className="mx-auto mt-6 max-w-3xl font-heading text-4xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-5xl lg:text-6xl">
+            <span className="eyebrow justify-center">{c.eyebrow}</span>
+            <h1 className="mx-auto mt-5 max-w-3xl font-heading text-4xl font-black leading-[1.02] tracking-tight text-ink sm:text-5xl lg:text-6xl">
               {c.title}
             </h1>
-            <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-sky-bg/85">
+            <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-slate-muted">
               {c.subtitle}
             </p>
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <a
                 href={`tel:${CONTACT_INFO.phone}`}
-                className={cn(ctaButton({ variant: "gold", size: "lg" }))}
+                className={cn(ctaButton({ variant: "red", size: "lg" }))}
               >
                 <Phone className="h-5 w-5" />
                 {c.call}
@@ -173,7 +171,7 @@ export default async function WalkInPage({
                 href={CONTACT_INFO.googleMapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className={cn(ctaButton({ variant: "white", size: "lg" }))}
+                className={cn(ctaButton({ variant: "outline", size: "lg" }))}
               >
                 <Navigation className="h-5 w-5" />
                 {c.directions}
@@ -184,9 +182,9 @@ export default async function WalkInPage({
       </section>
 
       {/* Beneficios */}
-      <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-24">
+      <section className="bg-white py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
+          <h2 className="text-center font-heading text-3xl font-black tracking-tight text-ink sm:text-4xl">
             {c.benefitsTitle}
           </h2>
           <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
@@ -194,11 +192,11 @@ export default async function WalkInPage({
               const Icon = BENEFIT_ICONS[i];
               return (
                 <Reveal key={b.title} delay={i * 70}>
-                  <div className="h-full rounded-2xl border border-blue-light bg-white p-6">
-                    <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-sky-bg text-blue-primary">
+                  <div className="h-full rounded-2xl border border-blue-deep/10 bg-sand-bg p-6 transition-colors hover:border-red-accent/40">
+                    <span className="grid h-12 w-12 place-items-center rounded-xl bg-teal-bg text-teal-deep">
                       <Icon className="h-6 w-6" />
                     </span>
-                    <h3 className="mt-4 font-heading text-lg font-bold text-slate-dark">
+                    <h3 className="mt-4 font-heading text-lg font-bold text-ink">
                       {b.title}
                     </h3>
                     <p className="mt-2 text-sm leading-relaxed text-slate-muted">
@@ -213,19 +211,25 @@ export default async function WalkInPage({
       </section>
 
       {/* Cómo funciona */}
-      <section className="bg-gradient-to-b from-sky-bg to-cloud py-20 lg:py-24">
+      <section className="bg-sand-bg py-20 lg:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
+          <h2 className="text-center font-heading text-3xl font-black tracking-tight text-ink sm:text-4xl">
             {c.stepsTitle}
           </h2>
           <div className="mt-12 grid gap-6 md:grid-cols-3">
             {c.steps.map((s, i) => (
               <Reveal key={s.n} delay={i * 80}>
-                <div className="relative h-full rounded-2xl border border-blue-light bg-white p-7">
-                  <span className="flex h-12 w-12 items-center justify-center rounded-full bg-blue-primary font-heading text-lg font-extrabold text-white">
+                <div className="relative h-full overflow-hidden rounded-2xl border border-blue-deep/10 bg-white p-7">
+                  <span
+                    aria-hidden
+                    className="pointer-events-none absolute -right-2 -top-3 select-none font-heading text-7xl font-black leading-none text-blue-deep/5"
+                  >
                     {s.n}
                   </span>
-                  <h3 className="mt-4 font-heading text-lg font-bold text-slate-dark">
+                  <span className="grid h-12 w-12 place-items-center rounded-xl bg-red-bg font-heading text-lg font-black text-red-accent">
+                    {s.n}
+                  </span>
+                  <h3 className="mt-4 font-heading text-lg font-bold text-ink">
                     {s.title}
                   </h3>
                   <p className="mt-2 text-sm leading-relaxed text-slate-muted">
@@ -239,12 +243,12 @@ export default async function WalkInPage({
       </section>
 
       {/* FAQ */}
-      <section className="bg-gradient-to-b from-cloud to-sky-bg py-20 lg:py-24">
+      <section className="bg-white py-20 lg:py-24">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-center font-heading text-3xl font-extrabold tracking-tight text-slate-dark">
+          <h2 className="text-center font-heading text-3xl font-black tracking-tight text-ink sm:text-4xl">
             {c.faqTitle}
           </h2>
-          <div className="mt-8 rounded-2xl border border-blue-light bg-white px-6 py-2 shadow-sm">
+          <div className="frame-card mt-8 px-6 py-2 shadow-sm">
             <FaqAccordion
               items={c.faqs.map((f) => ({ question: f.question, answer: f.answer }))}
             />
@@ -252,27 +256,33 @@ export default async function WalkInPage({
         </div>
       </section>
 
-      {/* CTA final */}
-      <section className="bg-gradient-to-b from-sky-bg to-blue-deep py-16 text-center">
-        <div className="mx-auto max-w-3xl rounded-[2rem] bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep px-6 py-12 text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
-          <h2 className="font-heading text-2xl font-extrabold text-white sm:text-3xl">
-            {c.finalTitle}
-          </h2>
-          <p className="mt-3 text-sky-bg/80">{c.finalBody}</p>
-          <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row">
-            <a
-              href={`tel:${CONTACT_INFO.phone}`}
-              className={cn(ctaButton({ variant: "gold", size: "lg" }))}
-            >
-              <Phone className="h-5 w-5" />
-              {CONTACT_INFO.phoneDisplay}
-            </a>
-            <Link
-              href="/services"
-              className={cn(ctaButton({ variant: "white", size: "lg" }))}
-            >
-              {loc === "en" ? "View services" : "Ver servicios"}
-            </Link>
+      {/* CTA final navy */}
+      <section className="bg-white pb-16">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="relative isolate overflow-hidden rounded-3xl bg-blue-deep px-6 py-12 text-center text-sky-bg shadow-2xl shadow-blue-deep/20 sm:px-10">
+            <div
+              aria-hidden
+              className="cross-pattern pointer-events-none absolute inset-0 -z-10 text-white/5"
+            />
+            <h2 className="font-heading text-2xl font-bold text-white sm:text-3xl">
+              {c.finalTitle}
+            </h2>
+            <p className="mt-3 text-sky-bg/80">{c.finalBody}</p>
+            <div className="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row">
+              <a
+                href={`tel:${CONTACT_INFO.phone}`}
+                className={cn(ctaButton({ variant: "red", size: "lg" }))}
+              >
+                <Phone className="h-5 w-5" />
+                {CONTACT_INFO.phoneDisplay}
+              </a>
+              <Link
+                href="/services"
+                className={cn(ctaButton({ variant: "white", size: "lg" }))}
+              >
+                {loc === "en" ? "View services" : "Ver servicios"}
+              </Link>
+            </div>
           </div>
         </div>
       </section>

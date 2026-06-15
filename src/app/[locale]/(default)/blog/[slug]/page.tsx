@@ -80,83 +80,75 @@ export default async function BlogPostPage({
       />
       <JsonLdBlogPosting post={post} url={url} locale={loc} />
 
-      {/* Hero del post (foto de portada si existe + overlay verde) */}
-      <section className="relative isolate overflow-hidden bg-gradient-to-br from-blue-deep via-blue-dark to-blue-deep py-16 text-sky-bg lg:py-20">
-        {post.hasCover ? (
-          <>
-            <Image
-              src={post.cover}
-              alt={post.coverAlt || post.title}
-              fill
-              priority
-              sizes="100vw"
-              className="absolute inset-0 -z-20 object-cover object-center"
-            />
-            <div
-              aria-hidden
-              className="absolute inset-0 -z-10 bg-gradient-to-r from-blue-deep via-blue-deep/85 to-blue-deep/40"
-            />
-            <div
-              aria-hidden
-              className="absolute inset-0 -z-10 bg-blue-deep/35"
-            />
-          </>
-        ) : (
-          <div
-            aria-hidden
-            className="pointer-events-none absolute -right-16 top-0 h-72 w-72 rounded-full bg-blue-primary/30 blur-3xl"
-          />
-        )}
-        <div className="relative mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+      {/* Cabecera editorial del post */}
+      <header className="relative isolate overflow-hidden bg-sand-bg py-14 lg:py-16">
+        <div
+          aria-hidden
+          className="cross-pattern pointer-events-none absolute -right-20 -top-16 -z-10 h-96 w-96 text-blue-deep/5"
+        />
+        <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           <Link
             href="/blog"
-            className="inline-flex items-center gap-1.5 text-sm font-medium text-sky-bg/70 hover:text-white"
+            className="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-muted transition-colors hover:text-blue-dark"
           >
             <ArrowLeft className="h-4 w-4" />
             {t("backToBlog")}
           </Link>
 
-          <span className="mt-6 inline-block rounded-full bg-white/15 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-white">
-            {post.category}
-          </span>
-          <h1 className="mt-4 font-heading text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl">
+          <span className="eyebrow mt-6">{post.category}</span>
+          <h1 className="mt-4 font-heading text-4xl font-black leading-[1.05] tracking-tight text-ink sm:text-5xl">
             {post.title}
           </h1>
-          <p className="mt-4 text-lg leading-relaxed text-sky-bg/80">
+          <p className="mt-5 text-lg leading-relaxed text-slate-muted">
             {post.description}
           </p>
 
-          <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-sky-bg/70">
+          <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm font-medium text-slate-primary">
             <span className="inline-flex items-center gap-1.5">
-              <User className="h-4 w-4" />
+              <User className="h-4 w-4 text-teal-deep" />
               {post.author}
             </span>
             <span className="inline-flex items-center gap-1.5">
-              <CalendarDays className="h-4 w-4" />
+              <CalendarDays className="h-4 w-4 text-teal-deep" />
               {formatDate(post.date, loc)}
             </span>
             <span className="inline-flex items-center gap-1.5">
-              <Clock className="h-4 w-4" />
+              <Clock className="h-4 w-4 text-teal-deep" />
               {post.readingMinutes} min
             </span>
           </div>
         </div>
-      </section>
+      </header>
 
       {/* Contenido */}
-      <section className="bg-cloud py-14 lg:py-20">
+      <section className="bg-white py-14 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+          {/* Portada enmarcada (si existe) */}
+          {post.hasCover && (
+            <div className="mb-10 overflow-hidden rounded-3xl border border-blue-deep/10 shadow-xl shadow-blue-deep/10">
+              <Image
+                src={post.cover}
+                alt={post.coverAlt || post.title}
+                width={1360}
+                height={765}
+                priority
+                sizes="(max-width: 1024px) 100vw, 768px"
+                className="aspect-video w-full object-cover"
+              />
+            </div>
+          )}
+
           <article
             className={cn(
-              "rounded-2xl border border-blue-light bg-white px-6 py-8 shadow-sm sm:px-10 sm:py-10",
-              "space-y-4",
-              "[&_h2]:mt-8 [&_h2]:font-heading [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-slate-dark",
-              "[&_h3]:mt-6 [&_h3]:font-heading [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:text-slate-dark",
-              "[&_p]:leading-relaxed [&_p]:text-slate-primary",
-              "[&_ul]:list-disc [&_ul]:space-y-1.5 [&_ul]:pl-5 [&_li]:text-slate-primary [&_li]:leading-relaxed",
-              "[&_ol]:list-decimal [&_ol]:space-y-1.5 [&_ol]:pl-5",
-              "[&_strong]:font-semibold [&_strong]:text-slate-dark",
-              "[&_a]:text-blue-primary [&_a]:underline [&_a]:underline-offset-2",
+              "max-w-none space-y-5",
+              "[&_h2]:mt-10 [&_h2]:font-heading [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-ink sm:[&_h2]:text-3xl",
+              "[&_h3]:mt-7 [&_h3]:font-heading [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-ink",
+              "[&_p]:text-lg [&_p]:leading-relaxed [&_p]:text-slate-primary",
+              "[&_ul]:list-disc [&_ul]:space-y-2 [&_ul]:pl-5 [&_li]:text-lg [&_li]:text-slate-primary [&_li]:leading-relaxed",
+              "[&_ol]:list-decimal [&_ol]:space-y-2 [&_ol]:pl-5",
+              "[&_strong]:font-semibold [&_strong]:text-ink",
+              "[&_a]:font-medium [&_a]:text-blue-dark [&_a]:underline [&_a]:underline-offset-2",
+              "[&_blockquote]:border-l-4 [&_blockquote]:border-red-accent [&_blockquote]:pl-5 [&_blockquote]:text-slate-muted [&_blockquote]:italic",
             )}
           >
             <ReactMarkdown remarkPlugins={[remarkGfm]}>
@@ -164,13 +156,19 @@ export default async function BlogPostPage({
             </ReactMarkdown>
           </article>
 
-          {/* CTA */}
-          <div className="mt-8 rounded-2xl bg-gradient-to-br from-blue-primary to-blue-dark p-7 text-center text-white shadow-lg">
-            <h2 className="font-heading text-xl font-bold">{t("ctaTitle")}</h2>
-            <p className="mt-2 text-sm text-sky-bg/85">{t("ctaBody")}</p>
+          {/* CTA navy */}
+          <div className="relative isolate mt-12 overflow-hidden rounded-3xl bg-blue-deep p-8 text-center text-sky-bg shadow-xl sm:p-10">
+            <div
+              aria-hidden
+              className="cross-pattern pointer-events-none absolute inset-0 -z-10 text-white/5"
+            />
+            <h2 className="font-heading text-2xl font-bold text-white">
+              {t("ctaTitle")}
+            </h2>
+            <p className="mx-auto mt-2 max-w-md text-sky-bg/85">{t("ctaBody")}</p>
             <a
               href={`tel:${CONTACT_INFO.phone}`}
-              className={cn(ctaButton({ variant: "gold", size: "lg" }), "mt-5")}
+              className={cn(ctaButton({ variant: "red", size: "lg" }), "mt-6")}
             >
               <Phone className="h-5 w-5" />
               {t("ctaCall")}
@@ -181,12 +179,12 @@ export default async function BlogPostPage({
 
       {/* Relacionados */}
       {related.length > 0 && (
-        <section className="bg-sky-bg py-14 lg:py-20">
+        <section className="bg-sand-bg py-14 lg:py-20">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <h2 className="font-heading text-2xl font-bold text-slate-dark">
+            <h2 className="font-heading text-3xl font-black tracking-tight text-ink">
               {t("relatedTitle")}
             </h2>
-            <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-8 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
               {related.map((p) => (
                 <BlogCard key={p.slug} post={p} className="h-full" />
               ))}
@@ -195,7 +193,7 @@ export default async function BlogPostPage({
         </section>
       )}
 
-      <FaqSection items={HOME_FAQS} />
+      <FaqSection items={HOME_FAQS} className="bg-white" />
     </>
   );
 }
