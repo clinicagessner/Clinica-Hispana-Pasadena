@@ -31,7 +31,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entry("/services", "weekly", 0.9),
     entry("/blog", "weekly", 0.7),
     entry("/walk-in", "monthly", 0.8),
-    entry("/landing/comparacion-clinicas-pasadena", "monthly", 0.7),
     entry("/privacy", "yearly", 0.3),
   ];
 
