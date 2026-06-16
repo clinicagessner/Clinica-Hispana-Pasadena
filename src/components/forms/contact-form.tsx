@@ -33,6 +33,10 @@ export function ContactForm({
     formState: { errors, isSubmitting },
   } = useForm<ContactInput>({
     resolver: zodResolver(contactSchema),
+    // Valida cada campo al salir de él (blur) la primera vez y, una vez con
+    // error, actualiza en vivo mientras el usuario corrige. Muestra los errores
+    // sin forzarlos mientras aún escribe.
+    mode: "onTouched",
     defaultValues: {
       name: "",
       phone: "",

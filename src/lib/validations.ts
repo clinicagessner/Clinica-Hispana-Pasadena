@@ -11,11 +11,13 @@ export const contactSchema = z.object({
     .string()
     .trim()
     .regex(/^\d{10}$/, { message: "invalid" }),
+  // Email obligatorio y con formato válido.
   email: z
     .string()
     .trim()
+    .min(1, { message: "required" })
     .max(120)
-    .refine((v) => v === "" || EMAIL_RE.test(v), { message: "invalid" }),
+    .regex(EMAIL_RE, { message: "invalid" }),
   service: z.string().trim().max(140),
   // Mensaje opcional: puede ir vacío.
   message: z.string().trim().max(2000, { message: "max" }),
