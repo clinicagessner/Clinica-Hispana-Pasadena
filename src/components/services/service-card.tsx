@@ -8,20 +8,12 @@ import type { ServiceCardData } from "@/types";
 
 export function ServiceCard({
   service,
-  index,
   className,
 }: {
   service: ServiceCardData;
-  index?: number;
   className?: string;
 }) {
   const t = useTranslations("Common");
-
-  // Índice editorial tipo "01", "02"… (solo si se provee).
-  const indexLabel =
-    typeof index === "number"
-      ? String(index + 1).padStart(2, "0")
-      : null;
 
   // Variante con foto: imagen arriba con marco, contenido editorial abajo.
   if (service.image) {
@@ -44,11 +36,6 @@ export function ServiceCard({
           <span className="absolute left-4 top-4 flex h-11 w-11 items-center justify-center rounded-xl bg-teal-bg text-teal-deep shadow-sm">
             <ServiceIcon name={service.icon} />
           </span>
-          {indexLabel && (
-            <span className="absolute right-4 top-4 font-heading text-sm font-extrabold tracking-tight text-white/90">
-              {indexLabel}
-            </span>
-          )}
         </div>
 
         <div className="flex flex-1 flex-col p-6">
@@ -83,11 +70,6 @@ export function ServiceCard({
         <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-teal-bg text-teal-deep transition-colors group-hover:bg-teal group-hover:text-white">
           <ServiceIcon name={service.icon} />
         </span>
-        {indexLabel && (
-          <span className="font-heading text-2xl font-black tracking-tight text-blue-deep/10">
-            {indexLabel}
-          </span>
-        )}
       </div>
 
       <span className="mt-5 text-xs font-semibold uppercase tracking-widest text-red-accent">

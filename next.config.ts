@@ -21,7 +21,7 @@ const csp = [
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
-  `connect-src 'self'${connectDev} https://graph.facebook.com https://connect.facebook.net https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://places.googleapis.com https://maps.googleapis.com https://js.callrail.com https://api.callrail.com https://vitals.vercel-insights.com https://va.vercel-scripts.com`,
+  `connect-src 'self'${connectDev} https://graph.facebook.com https://connect.facebook.net https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://ad.doubleclick.net https://places.googleapis.com https://maps.googleapis.com https://js.callrail.com https://api.callrail.com https://vitals.vercel-insights.com https://va.vercel-scripts.com`,
   "frame-src 'self' https://www.google.com https://maps.google.com https://td.doubleclick.net https://www.facebook.com",
   "object-src 'none'",
   "base-uri 'self'",

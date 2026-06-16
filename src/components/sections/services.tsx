@@ -53,7 +53,7 @@ export function Services() {
         <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {services.map((service, i) => (
             <Reveal key={service.slug} delay={(i % 3) * 80}>
-              <ServiceCard service={service} index={i} className="h-full" />
+              <ServiceCard service={service} className="h-full" />
             </Reveal>
           ))}
         </div>
