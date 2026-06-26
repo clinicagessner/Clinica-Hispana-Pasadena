@@ -47,6 +47,11 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   images: {
+    // Optimizador de Vercel desactivado: la cuenta tiene topada la cuota de Image
+    // Optimization (/_next/image devuelve 402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED
+    // y las imágenes nuevas no cargan en prod). Servimos los originales de public/,
+    // ya comprimidos a mano (webp q80 + png pngquant/oxipng).
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "*.googleusercontent.com" },
