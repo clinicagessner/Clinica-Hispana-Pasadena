@@ -9,6 +9,7 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 import { MetaPixel } from "@/components/tracking/meta-pixel";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel-spa-tracker";
 import { GoogleAds } from "@/components/tracking/google-ads";
+import { CallRail } from "@/components/tracking/callrail";
 import { routing } from "@/i18n/routing";
 import { fontVariables } from "@/lib/fonts";
 import { SITE_CONFIG } from "@/lib/constants";
@@ -91,6 +92,7 @@ export default async function LocaleLayout({
           {children}
         </NextIntlClientProvider>
         <GoogleAds />
+        <CallRail />
         {gaId ? <GoogleAnalytics gaId={gaId} /> : null}
         <Analytics />
         <SpeedInsights />
