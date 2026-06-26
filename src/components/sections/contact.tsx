@@ -18,7 +18,7 @@ export function Contact() {
   return (
     <section
       id="contacto"
-      className="relative isolate overflow-hidden bg-sand-bg py-16 lg:py-24"
+      className="relative isolate overflow-hidden scroll-mt-24 bg-sand-bg py-16 lg:py-24"
     >
       <div
         aria-hidden

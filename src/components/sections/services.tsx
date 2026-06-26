@@ -26,7 +26,7 @@ export function Services() {
   );
 
   return (
-    <section id="servicios" className="relative overflow-hidden bg-white py-20 lg:py-28">
+    <section id="servicios" className="relative overflow-hidden scroll-mt-24 bg-white py-20 lg:py-28">
       {/* Patrón de cruz médica decorativo, esquina superior derecha */}
       <div
         aria-hidden

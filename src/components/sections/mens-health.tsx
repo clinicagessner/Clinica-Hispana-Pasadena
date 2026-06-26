@@ -15,7 +15,7 @@ export function MensHealth() {
   ];
 
   return (
-    <section className="bg-blue-deep py-20 lg:py-28">
+    <section id="salud-hombre" className="scroll-mt-24 bg-blue-deep py-20 lg:py-28">
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Motivo decorativo de cruz medica */}
         <div

@@ -16,7 +16,7 @@ export async function BlogPreview() {
   if (posts.length === 0) return null;
 
   return (
-    <section className="relative overflow-hidden bg-sand-bg py-20 lg:py-28">
+    <section id="blog" className="relative overflow-hidden scroll-mt-24 bg-sand-bg py-20 lg:py-28">
       <div
         aria-hidden
         className="pointer-events-none absolute inset-x-0 top-0 h-64 text-blue-deep/4 cross-pattern"

@@ -10,6 +10,7 @@ import { BlogPreview } from "@/components/sections/blog-preview";
 import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
+import { ScrollSpyUrl } from "@/components/shared/scroll-spy-url";
 import { SITE_CONFIG } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
@@ -40,6 +41,7 @@ export default async function HomePage({
 
   return (
     <>
+      <ScrollSpyUrl />
       <Hero />
       <Promotions />
       <Services />

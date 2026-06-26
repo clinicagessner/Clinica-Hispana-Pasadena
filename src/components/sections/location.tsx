@@ -13,7 +13,7 @@ export function Location() {
   const en = locale === "en";
 
   return (
-    <section className="relative overflow-hidden bg-blue-deep py-20 lg:py-28">
+    <section id="ubicacion" className="relative overflow-hidden scroll-mt-24 bg-blue-deep py-20 lg:py-28">
       {/* Patrón sutil de cruz médica para textura editorial sobre el navy */}
       <div
         aria-hidden

@@ -10,7 +10,7 @@ export function Gynecology() {
   const points = [t("point1"), t("point2"), t("point3")];
 
   return (
-    <section className="bg-sand-bg py-20 lg:py-28">
+    <section id="ginecologia" className="scroll-mt-24 bg-sand-bg py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
           {/* Lado imagen / marco editorial */}

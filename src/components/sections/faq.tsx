@@ -16,7 +16,7 @@ export function Faq() {
   const faqs = HOME_FAQS.map((f) => getLocalizedFaq(f, locale));
 
   return (
-    <section className="bg-white py-20 lg:py-28">
+    <section id="preguntas-frecuentes" className="scroll-mt-24 bg-white py-20 lg:py-28">
       <JsonLdFaqPage faqs={faqs} />
       <div className="mx-auto grid max-w-7xl gap-12 px-4 sm:px-6 lg:grid-cols-12 lg:gap-16 lg:px-8">
         {/* Encabezado editorial a la izquierda */}
