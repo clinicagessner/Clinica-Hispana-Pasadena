@@ -29,6 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticPaths: MetadataRoute.Sitemap = [
     entry("/", "weekly", 1),
     entry("/services", "weekly", 0.9),
+    entry("/promociones", "weekly", 0.8),
     entry("/blog", "weekly", 0.7),
     entry("/walk-in", "monthly", 0.8),
     entry("/privacy", "yearly", 0.3),

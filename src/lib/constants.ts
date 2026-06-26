@@ -1,5 +1,6 @@
 import type {
   NavLink,
+  Promotion,
   Service,
   ServiceCategory,
   Testimonial,
@@ -89,6 +90,7 @@ export const GOOGLE_REVIEWS_DATA = {
 // Navbar (header): sin "Sin cita".
 export const NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/promociones" },
   { key: "blog", href: "/blog" },
   { key: "contact", href: "/#contacto" },
 ];
@@ -96,9 +98,86 @@ export const NAV_LINKS: NavLink[] = [
 // Footer: incluye "Sin cita" (walk-in).
 export const FOOTER_NAV_LINKS: NavLink[] = [
   { key: "services", href: "/services" },
+  { key: "promotions", href: "/#promociones" },
   { key: "blog", href: "/blog" },
   { key: "walkIn", href: "/walk-in" },
   { key: "contact", href: "/#contacto" },
+];
+
+// Promociones / ofertas vigentes. Los flyers (ya optimizados a webp 1080x1350,
+// 4:5) viven en /public/images/promotions/<slug>.webp. El precio está incrustado
+// en el diseño del flyer; en datos se usa solo como dato de texto. Una sola
+// fuente alimenta el carrusel de la home y la página /promociones.
+// Redacción factual (sin claims médicos exagerados) por compliance de salud.
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "salud-intima-femenina",
+    image: "/images/promotions/salud-intima-femenina.webp",
+    price: "$69",
+    order: 1,
+    title: "Salud Íntima Femenina",
+    blurb:
+      "¿Picazón, flujo o mal olor? No lo ignores. Atiende tu salud íntima con una evaluación profesional y discreta, con atención en español.",
+    includes: ["Cultivo íntimo", "Consulta médica", "Examen de orina gratis"],
+    alt: "Flyer de la promoción Salud Íntima Femenina por $69 en Clínica Hispana Nueva Salud Pasadena: cultivo íntimo, consulta médica y examen de orina gratis.",
+    titleEn: "Women's Intimate Health",
+    blurbEn:
+      "Itching, discharge or odor? Don't ignore it. Take care of your intimate health with a professional, discreet evaluation and care in Spanish.",
+    includesEn: [
+      "Intimate culture test",
+      "Medical consultation",
+      "Free urine test",
+    ],
+    altEn: "Flyer for the Women's Intimate Health promotion for $69 at Clínica Hispana Nueva Salud Pasadena: intimate culture test, medical consultation and a free urine test.",
+  },
+  {
+    slug: "general-sangre-b12",
+    image: "/images/promotions/general-sangre-b12.webp",
+    price: "$99",
+    order: 2,
+    title: "General de Sangre + Vitamina B12",
+    blurb:
+      "Examen general de sangre acompañado de una inyección de vitamina B12, para apoyar tu energía y bienestar. Resultados claros y atención en tu idioma.",
+    includes: [
+      "Examen general de sangre",
+      "Inyección de vitamina B12",
+      "Orientación de resultados",
+    ],
+    alt: "Flyer de la promoción especial Examen General de Sangre más Vitamina B12 por $99 en Clínica Hispana Nueva Salud Pasadena.",
+    titleEn: "Blood Panel + Vitamin B12",
+    blurbEn:
+      "A complete blood panel paired with a vitamin B12 injection to support your energy and well-being. Clear results and care in your language.",
+    includesEn: [
+      "Complete blood panel",
+      "Vitamin B12 injection",
+      "Results guidance",
+    ],
+    altEn: "Flyer for the special Complete Blood Panel plus Vitamin B12 promotion for $99 at Clínica Hispana Nueva Salud Pasadena.",
+  },
+  {
+    slug: "perfil-hormonal-hombres",
+    image: "/images/promotions/perfil-hormonal-hombres.webp",
+    price: "$200",
+    order: 3,
+    title: "Perfil Hormonal para Hombres",
+    blurb:
+      "Evaluación del perfil hormonal masculino, útil si presentas fatiga, cambios de ánimo, pérdida de masa muscular o disminución de la libido.",
+    includes: [
+      "Exámenes confiables",
+      "Resultados precisos",
+      "Atención profesional",
+    ],
+    alt: "Flyer de la promoción Perfil Hormonal para Hombres por $200 en Clínica Hispana Nueva Salud Pasadena: evaluación de fatiga, masa muscular y libido.",
+    titleEn: "Men's Hormone Panel",
+    blurbEn:
+      "An evaluation of the male hormone profile — useful if you experience fatigue, mood changes, muscle loss or low libido.",
+    includesEn: [
+      "Reliable testing",
+      "Accurate results",
+      "Professional care",
+    ],
+    altEn: "Flyer for the Men's Hormone Panel promotion for $200 at Clínica Hispana Nueva Salud Pasadena: evaluation of fatigue, muscle mass and libido.",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {

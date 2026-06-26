@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Home",
     "services": "Services",
+    "promotions": "Promotions",
     "blog": "Blog",
     "walkIn": "Walk-in",
     "contact": "Contact",
@@ -38,7 +39,9 @@
     "trustBilingual": "We speak Spanish",
     "trustInsurance": "No insurance needed",
     "hoursLine": "Monday to Sunday · 9 AM – 9 PM",
-    "callShort": "Call"
+    "callShort": "Call",
+    "contactPrefer": "Prefer us to contact you?",
+    "contactWrite": "Write to us"
   },
   "Services": {
     "eyebrow": "Our services",
@@ -46,6 +49,40 @@
     "subtitle": "A wide range of medical services with professional care in your language.",
     "cta": "View all services",
     "featured": "Featured"
+  },
+  "Promotions": {
+    "eyebrow": "Limited-time offers",
+    "title": "This month's promotions",
+    "subtitle": "Affordable medical packages. Care 100% in Spanish, walk-ins welcome and no insurance needed.",
+    "viewAll": "View all promotions",
+    "viewPromo": "View promotion",
+    "swipeHint": "Swipe to see more",
+    "prev": "Previous",
+    "next": "Next",
+    "priceLabel": "Special price",
+    "includesLabel": "Includes",
+    "ctaCall": "Call the clinic",
+    "ctaDirections": "Get directions",
+    "ctaForm": "Fill out the form",
+    "close": "Close"
+  },
+  "PromotionsPage": {
+    "metaTitle": "Medical promotions in Pasadena, TX | Clínica Hispana Nueva Salud",
+    "metaDescription": "Affordable medical packages in Pasadena, TX: women's intimate health, blood panel with vitamin B12 and men's hormone panel. Care in Spanish, walk-ins welcome and no insurance needed.",
+    "backToHome": "Back to home",
+    "eyebrow": "Promotions",
+    "title": "Our clinic's promotions",
+    "subtitle": "Affordable medical packages with care 100% in Spanish. Walk-ins welcome and no insurance needed.",
+    "viewDetail": "View details",
+    "faqTitle": "Frequently asked questions",
+    "faq1Q": "How long are these promotions available?",
+    "faq1A": "These are limited-time promotions and subject to availability. We recommend calling us or filling out the form to confirm the current price before your visit.",
+    "faq2Q": "Do I need an appointment or insurance?",
+    "faq2A": "No. We welcome walk-ins and you don't need insurance: these are affordable direct-pay prices. We also speak Spanish.",
+    "faq3Q": "How do I book a promotion?",
+    "faq3A": "Call us, get directions, or fill out the contact form with the service you're interested in and we'll reach out to coordinate your visit.",
+    "formTitle": "Book your promotion",
+    "formSubtitle": "Leave us your details and the service you're interested in. We'll contact you to confirm the price and coordinate your visit."
   },
   "Gynecology": {
     "eyebrow": "Women's health",

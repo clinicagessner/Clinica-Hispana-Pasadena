@@ -2,6 +2,7 @@
   "Nav": {
     "home": "Inicio",
     "services": "Servicios",
+    "promotions": "Promociones",
     "blog": "Blog",
     "walkIn": "Sin cita",
     "contact": "Contacto",
@@ -38,7 +39,9 @@
     "trustBilingual": "Hablamos español",
     "trustInsurance": "Sin seguro necesario",
     "hoursLine": "Lunes a Domingo · 9 AM – 9 PM",
-    "callShort": "Llamar"
+    "callShort": "Llamar",
+    "contactPrefer": "¿Prefieres que te contactemos?",
+    "contactWrite": "Escríbenos"
   },
   "Services": {
     "eyebrow": "Nuestros servicios",
@@ -46,6 +49,40 @@
     "subtitle": "Una amplia variedad de servicios médicos con atención profesional en tu idioma.",
     "cta": "Ver todos los servicios",
     "featured": "Destacado"
+  },
+  "Promotions": {
+    "eyebrow": "Ofertas por tiempo limitado",
+    "title": "Promociones del mes",
+    "subtitle": "Paquetes médicos a precios accesibles. Atención 100% en español, sin cita previa y sin necesidad de seguro.",
+    "viewAll": "Ver todas las promociones",
+    "viewPromo": "Ver promoción",
+    "swipeHint": "Desliza para ver más",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "priceLabel": "Precio especial",
+    "includesLabel": "Incluye",
+    "ctaCall": "Llamar a la clínica",
+    "ctaDirections": "Cómo llegar",
+    "ctaForm": "Llenar formulario",
+    "close": "Cerrar"
+  },
+  "PromotionsPage": {
+    "metaTitle": "Promociones médicas en Pasadena, TX | Clínica Hispana Nueva Salud",
+    "metaDescription": "Paquetes médicos a precios accesibles en Pasadena, TX: salud íntima femenina, examen de sangre con vitamina B12 y perfil hormonal. Atención en español, sin cita y sin seguro.",
+    "backToHome": "Volver al inicio",
+    "eyebrow": "Promociones",
+    "title": "Promociones de nuestra clínica",
+    "subtitle": "Paquetes médicos a precios accesibles, con atención 100% en español. Sin cita previa y sin necesidad de seguro.",
+    "viewDetail": "Ver detalles",
+    "faqTitle": "Preguntas frecuentes",
+    "faq1Q": "¿Hasta cuándo están disponibles estas promociones?",
+    "faq1A": "Son promociones por tiempo limitado y sujetas a disponibilidad. Te recomendamos llamarnos o llenar el formulario para confirmar el precio vigente antes de tu visita.",
+    "faq2Q": "¿Necesito cita o seguro médico?",
+    "faq2A": "No. Atendemos sin cita previa y no necesitas seguro médico: son precios accesibles de pago directo. También hablamos español.",
+    "faq3Q": "¿Cómo reservo una promoción?",
+    "faq3A": "Llámanos, pídenos cómo llegar o llena el formulario de contacto con el servicio que te interesa y nos comunicamos contigo para coordinar tu visita.",
+    "formTitle": "Agenda tu promoción",
+    "formSubtitle": "Déjanos tus datos y el servicio que te interesa. Te contactamos para confirmar el precio y coordinar tu visita."
   },
   "Gynecology": {
     "eyebrow": "Salud de la mujer",

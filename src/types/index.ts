@@ -66,6 +66,40 @@ export interface ServiceCardData {
   image?: string;
 }
 
+/** Promoción / oferta de la clínica. Español base + variantes *En.
+ *  El flyer vive en /public/images/promotions/<slug>.webp (4:5). El precio
+ *  está incrustado en la imagen; en datos se usa solo como dato de texto. */
+export interface Promotion {
+  /** Descriptivo: = nombre del archivo .webp y ancla de deep-link. */
+  slug: string;
+  /** Path del flyer en /public/images/promotions/<slug>.webp */
+  image: string;
+  /** Precio mostrado como dato (ej. "$69"); null si el flyer no lo muestra. */
+  price: string | null;
+  order: number;
+  // Español (base)
+  title: string;
+  blurb: string;
+  includes: string[];
+  alt: string;
+  // Inglés
+  titleEn: string;
+  blurbEn: string;
+  includesEn: string[];
+  altEn: string;
+}
+
+/** DTO ligero de promoción ya localizado (seguro de serializar al cliente). */
+export interface PromotionCardData {
+  slug: string;
+  image: string;
+  price: string | null;
+  title: string;
+  blurb: string;
+  includes: string[];
+  alt: string;
+}
+
 export interface ServiceFaq {
   question: string;
   answer: string;
