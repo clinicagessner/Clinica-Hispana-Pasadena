@@ -82,5 +82,5 @@ async function fetchGooglePlaceData(): Promise<GooglePlaceData> {
 export const getGooglePlaceData = unstable_cache(
   fetchGooglePlaceData,
   ["google-place-data"],
-  { revalidate: 3600, tags: ["google-place-data"] },
+  { revalidate: 604800, tags: ["google-place-data"] },
 );
