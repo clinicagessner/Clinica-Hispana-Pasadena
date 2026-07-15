@@ -49,6 +49,10 @@
   --sand-deep: #e9dccb;   /* bordes/realces sobre crema */
   --ink: #1b1c1e;         /* tinta casi negra para titulares editoriales */
 
+  /* WhatsApp (color oficial de la marca; no cambia en modo oscuro) */
+  --whatsapp: #25d366;
+  --whatsapp-dark: #1da851;
+
   /* Estados */
   --success: #1f9d6b;
   --error: #e04444;
@@ -210,6 +214,8 @@
   --color-sand-alt: var(--sand-alt);
   --color-sand-deep: var(--sand-deep);
   --color-ink: var(--ink);
+  --color-whatsapp: var(--whatsapp);
+  --color-whatsapp-dark: var(--whatsapp-dark);
   --color-success: var(--success);
   --color-error: var(--error);
   --color-warning: var(--warning);

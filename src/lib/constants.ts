@@ -46,6 +46,10 @@ export const CONTACT_INFO = {
   phone: "+12817478817",
   phoneFormatted: "+1 (281) 747-8817",
   phoneDisplay: "(281) 747-8817",
+  // WhatsApp — número EXCLUSIVO para chat. Nunca usarlo en tel:, NAP ni schema.
+  // El teléfono de llamadas sigue siendo `phone`; CallRail hace swap solo sobre ese.
+  whatsapp: "18328314016", // E.164 sin "+", listo para wa.me
+  whatsappDisplay: "(832) 831-4016",
   email: "clinicamolina04@gmail.com",
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursEn: "Monday to Sunday: 9:00 AM - 9:00 PM",
