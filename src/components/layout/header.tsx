@@ -27,10 +27,7 @@ export function Header() {
   const [activeHash, setActiveHash] = useState("");
 
   useEffect(() => {
-    if (pathname !== "/") {
-      setActiveHash("");
-      return;
-    }
+    if (pathname !== "/") return;
     const ids = NAV_LINKS.filter((l) => l.href.startsWith("/#")).map(
       (l) => l.href.split("#")[1],
     );
