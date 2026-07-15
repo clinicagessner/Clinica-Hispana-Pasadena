@@ -3,8 +3,6 @@ import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
-import { Analytics } from "@vercel/analytics/next";
-import { SpeedInsights } from "@vercel/speed-insights/next";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { MetaPixel } from "@/components/tracking/meta-pixel";
 import { MetaPixelSPATracker } from "@/components/tracking/meta-pixel-spa-tracker";
@@ -94,8 +92,6 @@ export default async function LocaleLayout({
         <GoogleAds />
         <CallRail />
         {gaId ? <GoogleAnalytics gaId={gaId} /> : null}
-        <Analytics />
-        <SpeedInsights />
       </body>
     </html>
   );
