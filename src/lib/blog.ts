@@ -18,6 +18,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "laboratorio-clinico-pasadena-analisis-sangre",
   "medicos-autorizados-uscis-pasadena-civil-surgeon",
   "salud-mujer-pasadena-servicios-ginecologia",
+  "salud-hombre-pasadena-chequeos-preventivos",
 ]);
 
 function readingMinutes(content: string): number {
