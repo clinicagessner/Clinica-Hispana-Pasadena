@@ -24,12 +24,12 @@ const SITE_URL = normalizeBaseUrl(
 export const SITE_CONFIG = {
   name: "Clínica Hispana Nueva Salud Pasadena",
   shortName: "Nueva Salud Pasadena",
-  tagline: "Atención médica profesional 100% en español",
-  taglineEn: "Professional healthcare 100% in Spanish",
+  tagline: "Atención médica 100% en español en Pasadena, TX",
+  taglineEn: "Healthcare 100% in Spanish in Pasadena, TX",
   description:
-    "Clínica médica hispana en Pasadena, TX. Atención profesional en español, sin cita previa y con precios accesibles. No necesitas seguro médico. Medicina familiar, exámenes de inmigración, laboratorio y más.",
+    "Clínica hispana y centro médico en Pasadena, TX, cerca de Houston. Médico primario, análisis de sangre, exámenes de inmigración, ginecología y más. Atención en español, sin cita previa y con precios accesibles. No necesitas seguro médico.",
   descriptionEn:
-    "Hispanic medical clinic in Pasadena, TX. Professional care in Spanish, walk-ins welcome, no insurance needed. Family medicine, immigration exams, lab work and more.",
+    "Hispanic clinic and medical center in Pasadena, TX, near Houston. Primary care doctor, blood tests, immigration exams, gynecology and more. Care in Spanish, walk-ins welcome, no insurance needed.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -199,11 +199,11 @@ export const SERVICE_CATEGORIES: {
 // Bloques de copy reutilizados (marca Nueva Salud + Pasadena).
 const WHY_ES = `## ¿Por qué elegir Clínica Hispana Nueva Salud Pasadena?
 
-En Clínica Hispana Nueva Salud Pasadena te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
+Somos una clínica hispana y latina: tu centro médico cerca de ti en Pasadena. Te atendemos 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Estamos en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.`;
 
 const WHY_EN = `## Why choose Clínica Hispana Nueva Salud Pasadena?
 
-At Clínica Hispana Nueva Salud Pasadena we care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
+We are a Hispanic, Latino-friendly clinic: your medical center near you in Pasadena. We care for you 100% in Spanish, with no appointment needed and with affordable pricing, no insurance required. We are located at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.`;
 
 const PAYMENT_ES = `## Formas de pago
 
@@ -213,13 +213,13 @@ const PAYMENT_EN = `## Payment
 
 You don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.`;
 
-const AREAS_ES = `## Áreas que servimos
+const AREAS_ES = `## Centro médico cerca de ti en Pasadena y Houston, TX
 
-Atendemos a pacientes de Pasadena y South Houston, TX y el área de Houston: South Belt, Genoa, Sagemont, Galena Park, Deer Park, Hobby (Houston) y comunidades cercanas.`;
+Somos una clínica hispana en el área de Houston, TX: atendemos a pacientes de Pasadena y South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park, Hobby (Houston) y comunidades cercanas.`;
 
-const AREAS_EN = `## Areas we serve
+const AREAS_EN = `## Medical center near you in Pasadena and Houston, TX
 
-We care for patients across Pasadena and South Houston, TX and the greater Houston area: South Belt, Genoa, Sagemont, Galena Park, Deer Park, Hobby (Houston) and surrounding communities.`;
+We are a Hispanic clinic in the Houston, TX area: we care for patients across Pasadena and South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park, Hobby (Houston) and surrounding communities.`;
 
 
 export const SERVICES: Service[] = [
@@ -627,17 +627,20 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Atención ginecológica en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Ginecología en tu clínica hispana en Pasadena, TX, cerca de Houston: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
     descriptionEn:
-      "Gynecology care in Pasadena, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Gynecology at your Hispanic clinic in Pasadena, TX, near Houston: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
       "ginecologo pasadena español",
+      "ginecologos hispanos cerca de mi",
+      "clinica hispana ginecologia houston tx",
       "papanicolaou pasadena",
       "cultivo vaginal pasadena",
       "infeccion vaginal tratamiento pasadena",
     ],
     keywordsEn: [
       "gynecologist pasadena spanish",
+      "hispanic gynecologist near me",
       "pap smear pasadena",
       "vaginal culture pasadena",
       "vaginal infection treatment pasadena",
@@ -668,6 +671,10 @@ ${AREAS_EN}`,
 
 Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
 
+## Ginecología en una clínica hispana cerca de ti
+
+Si buscas ginecólogos hispanos que hablen español en Pasadena o el área de Houston, TX, en nuestro centro médico te atendemos sin cita previa, con privacidad y sin necesidad de seguro.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -686,6 +693,10 @@ ${AREAS_ES}`,
 ## Don't stay in doubt
 
 Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+
+## Gynecology at a Hispanic clinic near you
+
+If you're looking for Spanish-speaking, Hispanic gynecology care in Pasadena or the Houston, TX area, our medical center sees you with no appointment, with privacy and no insurance needed.
 
 ${WHY_EN}
 
@@ -1008,8 +1019,8 @@ ${AREAS_EN}`,
     category: "laboratorio",
     icon: "FlaskConical",
     highlighted: true,
-    title: "Exámenes de Sangre | Laboratorio",
-    titleEn: "Blood Tests | Lab",
+    title: "Análisis y Exámenes de Sangre | Laboratorio",
+    titleEn: "Blood Tests & Blood Work | Lab",
     shortDescription:
       "Análisis de sangre completos con resultados rápidos e interpretación en español, sin cita previa.",
     shortDescriptionEn:
@@ -1086,23 +1097,27 @@ ${AREAS_EN}`,
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
-    title: "Examen de Orina y Tratamiento de Infecciones Urinarias",
-    titleEn: "Urinalysis & Urinary Infection Treatment",
+    title: "Urología: Examen de Orina e Infecciones Urinarias",
+    titleEn: "Urology: Urinalysis & Urinary Infections",
     shortDescription:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Atención de urología general: examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
     shortDescriptionEn:
-      "Urinalysis and same-day urinary infection treatment, in Spanish.",
+      "General urology care: urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias en Pasadena, TX, el mismo día. En español, con precios accesibles.",
+      "Urología en tu clínica hispana en Pasadena, TX, cerca de Houston: examen de orina y tratamiento de infecciones urinarias el mismo día. En español, con precios accesibles.",
     descriptionEn:
-      "Urinalysis and urinary infection treatment in Pasadena, TX, same day. In Spanish, with affordable pricing.",
+      "Urology at your Hispanic clinic in Pasadena, TX, near Houston: urinalysis and same-day urinary infection treatment. In Spanish, with affordable pricing.",
     keywords: [
+      "urologia pasadena",
+      "urologo en español cerca de mi",
       "examen de orina pasadena",
       "infeccion urinaria pasadena",
       "tratamiento infeccion urinaria pasadena",
       "doctor infeccion de orina pasadena",
     ],
     keywordsEn: [
+      "urology pasadena",
+      "spanish speaking urology near me",
       "urinalysis pasadena",
       "urinary tract infection pasadena",
       "uti treatment pasadena",
@@ -1134,6 +1149,10 @@ ${AREAS_EN}`,
 
 Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
 
+## Urología en una clínica hispana cerca de ti
+
+Si buscas atención de urología en español en Pasadena o el área de Houston, TX, en nuestro centro médico evaluamos tus síntomas urinarios, hacemos el examen de orina y comenzamos el tratamiento el mismo día. Y si tu caso necesita un urólogo especialista, te referimos con uno de confianza.
+
 ${WHY_ES}
 
 ${PAYMENT_ES}
@@ -1152,6 +1171,10 @@ ${AREAS_ES}`,
 ## Common symptoms
 
 Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+
+## Urology at a Hispanic clinic near you
+
+If you're looking for urology care in Spanish in Pasadena or the Houston, TX area, our medical center evaluates your urinary symptoms, runs the urinalysis and starts treatment the same day. And if your case needs a specialist urologist, we refer you to a trusted one.
 
 ${WHY_EN}
 

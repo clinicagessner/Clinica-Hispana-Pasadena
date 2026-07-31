@@ -31,10 +31,10 @@
   "Hero": {
     "badge": "Hispanic medical clinic in Pasadena, TX",
     "openToday": "Open today",
-    "titleLead": "Healthcare",
-    "titleHighlight": "100% in Spanish",
-    "titleTail": "for the whole family",
-    "subtitle": "Family medicine, gynecology, urology, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
+    "titleLead": "Hispanic Clinic",
+    "titleHighlight": "in Pasadena, TX",
+    "titleTail": "Healthcare 100% in Spanish for the whole family",
+    "subtitle": "Your medical center in the Houston area: primary care doctor, gynecology, urology, blood tests, lab work and more. Walk-ins welcome, with affordable pricing. We treat you like family.",
     "ctaCall": "Call the clinic",
     "ctaDirections": "Get directions",
     "ctaWhatsapp": "WhatsApp",
@@ -48,7 +48,7 @@
   },
   "Services": {
     "eyebrow": "Our services",
-    "title": "Everything your family needs, in one place",
+    "title": "A medical center with everything your family needs",
     "subtitle": "A wide range of medical services with professional care in your language.",
     "cta": "View all services",
     "featured": "Featured"
@@ -74,7 +74,7 @@
     "metaDescription": "Affordable medical packages in Pasadena, TX: women's intimate health, blood panel with vitamin B12 and men's hormone panel. Care in Spanish, walk-ins welcome and no insurance needed.",
     "backToHome": "Back to home",
     "eyebrow": "Promotions",
-    "title": "Our clinic's promotions",
+    "title": "Promotions at your Hispanic clinic in Pasadena",
     "subtitle": "Affordable medical packages with care 100% in Spanish. Walk-ins welcome and no insurance needed.",
     "viewDetail": "View details",
     "faqTitle": "Frequently asked questions",
@@ -110,7 +110,7 @@
   },
   "Location": {
     "eyebrow": "Visit us",
-    "title": "We are close to you, in Pasadena",
+    "title": "Your Hispanic clinic near you, in Pasadena",
     "addressLabel": "Address",
     "hoursLabel": "Hours",
     "phoneLabel": "Phone",
@@ -155,7 +155,7 @@
     "cta": "View the full blog"
   },
   "Footer": {
-    "tagline": "Professional healthcare 100% in Spanish in Pasadena, TX.",
+    "tagline": "Hispanic clinic with professional healthcare 100% in Spanish in Pasadena, TX, near Houston.",
     "servicesTitle": "Services",
     "navTitle": "Navigation",
     "contactTitle": "Contact",
@@ -173,8 +173,8 @@
     "whatsapp": "WhatsApp"
   },
   "ServicesPage": {
-    "title": "Medical services in Pasadena, TX",
-    "subtitle": "Professional care in Spanish, with affordable pricing and walk-ins welcome.",
+    "title": "Our Hispanic Clinic's services in Pasadena, TX",
+    "subtitle": "Primary care doctor, blood tests, gynecology and more, with care in Spanish, affordable pricing and walk-ins welcome.",
     "filterAll": "All",
     "filtersLabel": "Filter by category",
     "resultsEmpty": "There are no services in this category."

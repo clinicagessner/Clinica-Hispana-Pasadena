@@ -25,7 +25,7 @@ const COPY = {
     metaDescription:
       "Atención médica sin cita previa en Pasadena, en español y con precios accesibles, sin necesidad de seguro. Abierto de lunes a domingo de 9 AM a 9 PM.",
     eyebrow: "Atención sin cita previa",
-    title: "Te atendemos hoy, sin cita y en español",
+    title: "Tu clínica hispana sin cita: te atendemos hoy en español",
     subtitle:
       "No necesitas agendar. Llega a Clínica Hispana Nueva Salud Pasadena cuando lo necesites: te recibimos con precios accesibles y sin necesidad de seguro, todos los días de 9 AM a 9 PM.",
     call: "Llamar ahora",
@@ -67,7 +67,7 @@ const COPY = {
     metaDescription:
       "Walk-in medical care in Pasadena, in Spanish, with affordable pricing, no insurance required. Open Monday to Sunday, 9 AM to 9 PM.",
     eyebrow: "Walk-ins welcome",
-    title: "We see you today—no appointment, in Spanish",
+    title: "Your Hispanic walk-in clinic—we see you today in Spanish",
     subtitle:
       "No need to schedule. Come to Clínica Hispana Nueva Salud Pasadena whenever you need: we see you with affordable pricing and no insurance required, every day from 9 AM to 9 PM.",
     call: "Call now",

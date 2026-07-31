@@ -43,6 +43,22 @@ export const HOME_FAQS: ServiceFaq[] = [
       "We are at 1101 Spencer Hwy Suite H, South Houston, TX 77587, serving Pasadena, South Houston, South Belt, Genoa, Galena Park, Deer Park and the greater Houston area.",
   },
   {
+    question: "¿Buscas una clínica hispana cerca de mí en Pasadena o Houston, TX?",
+    answer:
+      "Somos una clínica hispana y latina que atiende a Pasadena y al área de Houston, TX. Nos encuentras en 1101 Spencer Hwy Suite H, con atención 100% en español todos los días, sin cita previa.",
+    questionEn: "Looking for a Hispanic clinic near me in Pasadena or Houston, TX?",
+    answerEn:
+      "We are a Hispanic and Latino clinic serving Pasadena and the Houston, TX area. Find us at 1101 Spencer Hwy Suite H, with care 100% in Spanish every day, walk-ins welcome.",
+  },
+  {
+    question: "¿Pueden ser mi médico primario cerca de mí?",
+    answer:
+      "Sí. Muchas familias nos eligen como su médico primario y centro médico de confianza: consultas, control de condiciones crónicas, análisis de sangre y seguimiento continuo, todo en español.",
+    questionEn: "Can you be my primary care doctor near me?",
+    answerEn:
+      "Yes. Many families choose us as their primary care doctor and trusted medical center: visits, chronic condition management, blood tests and ongoing follow-up, all in Spanish.",
+  },
+  {
     question: "¿Realizan el examen médico de inmigración?",
     answer:
       "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas y el formulario sellado el mismo día.",
