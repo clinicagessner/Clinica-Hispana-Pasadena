@@ -115,10 +115,36 @@ export const FOOTER_NAV_LINKS: NavLink[] = [
 // Redacción factual (sin claims médicos exagerados) por compliance de salud.
 export const PROMOTIONS: Promotion[] = [
   {
+    slug: "chequeo-general-completo",
+    image: "/images/promotions/chequeo-general-completo.webp",
+    price: "$99",
+    order: 1,
+    title: "Chequeo General Completo",
+    blurb:
+      "Cuídate hoy, vive mejor mañana. Chequeo general completo por $99 (valor regular $250), con consulta médica gratis y atención en español.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Chequeo General Completo por $99 en Clínica Hispana Nueva Salud Pasadena: examen general de sangre, A1C, examen general de orina y consulta médica gratis.",
+    titleEn: "Complete General Checkup",
+    blurbEn:
+      "Take care of yourself today, live better tomorrow. Complete general checkup for $99 (regular value $250), with a free medical consultation and care in Spanish.",
+    includesEn: [
+      "Complete blood panel",
+      "A1C (glycated hemoglobin)",
+      "Complete urine test",
+      "Free medical consultation",
+    ],
+    altEn: "Flyer for the Complete General Checkup promotion for $99 at Clínica Hispana Nueva Salud Pasadena: complete blood panel, A1C, urine test and a free medical consultation.",
+  },
+  {
     slug: "salud-intima-femenina",
     image: "/images/promotions/salud-intima-femenina.webp",
     price: "$69",
-    order: 1,
+    order: 2,
     title: "Salud Íntima Femenina",
     blurb:
       "¿Picazón, flujo o mal olor? No lo ignores. Atiende tu salud íntima con una evaluación profesional y discreta, con atención en español.",
@@ -138,7 +164,7 @@ export const PROMOTIONS: Promotion[] = [
     slug: "general-sangre-b12",
     image: "/images/promotions/general-sangre-b12.webp",
     price: "$99",
-    order: 2,
+    order: 3,
     title: "General de Sangre + Vitamina B12",
     blurb:
       "Examen general de sangre acompañado de una inyección de vitamina B12, para apoyar tu energía y bienestar. Resultados claros y atención en tu idioma.",
@@ -162,7 +188,7 @@ export const PROMOTIONS: Promotion[] = [
     slug: "perfil-hormonal-hombres",
     image: "/images/promotions/perfil-hormonal-hombres.webp",
     price: "$200",
-    order: 3,
+    order: 4,
     title: "Perfil Hormonal para Hombres",
     blurb:
       "Evaluación del perfil hormonal masculino, útil si presentas fatiga, cambios de ánimo, pérdida de masa muscular o disminución de la libido.",
