@@ -19,6 +19,7 @@ const BLOG_IMAGE_SLUGS = new Set<string>([
   "medicos-autorizados-uscis-pasadena-civil-surgeon",
   "salud-mujer-pasadena-servicios-ginecologia",
   "salud-hombre-pasadena-chequeos-preventivos",
+  "vitamina-b12-beneficios-inyecciones-pasadena",
 ]);
 
 function readingMinutes(content: string): number {
