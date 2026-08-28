@@ -27,9 +27,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica 100% en español en Pasadena, TX",
   taglineEn: "Healthcare 100% in Spanish in Pasadena, TX",
   description:
-    "Clínica hispana y centro médico en Pasadena, TX, cerca de Houston. Médico primario, análisis de sangre, exámenes de inmigración, ginecología y más. Atención en español, sin cita previa y con precios accesibles. No necesitas seguro médico.",
+    "Clínica Hispana Nueva Salud en Pasadena, TX (1101 Spencer Hwy). Médico primario, análisis de sangre, exámenes de inmigración, ginecología y más. Sin cita, abierto 7 días de 9 AM a 9 PM, precios accesibles. No necesitas seguro.",
   descriptionEn:
-    "Hispanic clinic and medical center in Pasadena, TX, near Houston. Primary care doctor, blood tests, immigration exams, gynecology and more. Care in Spanish, walk-ins welcome, no insurance needed.",
+    "Clínica Hispana Nueva Salud in Pasadena, TX (1101 Spencer Hwy). Primary care, blood tests, immigration exams, gynecology and more. Walk-ins welcome, open 7 days 9 AM-9 PM, affordable prices. No insurance needed.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -333,21 +333,23 @@ ${AREAS_EN}`,
     order: 2,
     category: "medicina-general",
     icon: "Thermometer",
-    title: "Exámenes y Tratamiento de la Tiroides",
-    titleEn: "Thyroid Testing & Treatment",
+    title: "Doctor para la Tiroides: Exámenes y Tratamiento",
+    titleEn: "Thyroid Doctor: Testing & Treatment",
     shortDescription:
       "Diagnóstico y tratamiento de enfermedades de la tiroides (hipotiroidismo e hipertiroidismo) con seguimiento en español.",
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Exámenes y tratamiento de la tiroides en Pasadena, TX. Pruebas de laboratorio y control en español, con precios accesibles.",
+      "Doctor para la tiroides en Pasadena, TX. Pruebas TSH, T3 y T4, diagnóstico y tratamiento de hipotiroidismo e hipertiroidismo en español, sin cita y con precios accesibles.",
     descriptionEn:
-      "Thyroid testing and treatment in Pasadena, TX. Lab tests and follow-up in Spanish, with affordable pricing.",
+      "Thyroid doctor in Pasadena, TX. TSH, T3 and T4 tests, diagnosis and treatment of hypo- and hyperthyroidism in Spanish, walk-ins welcome, affordable pricing.",
     keywords: [
       "tiroides pasadena",
       "examen de tiroides pasadena",
       "hipotiroidismo tratamiento pasadena",
       "doctor tiroides español pasadena",
+      "que doctor atiende la tiroides",
+      "especialista en tiroides pasadena",
     ],
     keywordsEn: [
       "thyroid testing pasadena",
@@ -380,6 +382,10 @@ ${AREAS_EN}`,
 ## Síntomas frecuentes
 
 Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+
+## ¿Qué doctor atiende la tiroides?
+
+El médico general o de atención primaria es quien revisa la tiroides en primera instancia: ordena los análisis, interpreta los resultados e inicia el tratamiento para el hipotiroidismo o hipertiroidismo. Solo en casos complejos (nódulos, cáncer o tiroides que no responde al medicamento) se refiere a un endocrinólogo. En nuestra clínica en Pasadena puedes hacerte la prueba y empezar el tratamiento el mismo día, sin cita.
 
 ${WHY_ES}
 
@@ -1752,7 +1758,7 @@ ${AREAS_EN}`,
     category: "examenes",
     icon: "Truck",
     highlighted: true,
-    title: "Examen Físico DOT - Licencia CDL",
+    title: "Examen Físico DOT en Español - Licencia CDL",
     titleEn: "DOT Physical Exam - CDL License",
     shortDescription:
       "Examen físico DOT para conductores comerciales (CDL), con certificado el mismo día.",

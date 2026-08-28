@@ -27,6 +27,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "tiroides": [
     {
+      question: "¿Qué doctor atiende la tiroides?",
+      answer: "El médico general revisa la tiroides: ordena TSH, T3 y T4, interpreta los resultados e inicia el tratamiento. Se refiere a un endocrinólogo solo en casos complejos, como nódulos o cuando el medicamento no controla la enfermedad.",
+      questionEn: "What kind of doctor treats the thyroid?",
+      answerEn: "A primary care doctor checks the thyroid: orders TSH, T3 and T4, reads the results and starts treatment. Referral to an endocrinologist is only needed in complex cases, such as nodules or when medication doesn't control the condition.",
+    },
+    {
       question: "¿Qué prueba se usa para revisar la tiroides?",
       answer: "Usamos principalmente la TSH y, si es necesario, T3 y T4 para evaluar cómo funciona tu tiroides.",
       questionEn: "What test is used to check the thyroid?",
@@ -206,6 +212,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
   ],
   "examenes-sangre": [
+    {
+      question: "¿Qué exámenes de sangre hacen en la clínica?",
+      answer: "Biometría hemática completa, química sanguínea (glucosa, colesterol, triglicéridos), pruebas de tiroides, hígado y riñón, vitamina B12 y perfiles hormonales. La muestra se toma en la clínica, sin cita.",
+      questionEn: "Which blood tests do you offer?",
+      answerEn: "Complete blood count, blood chemistry (glucose, cholesterol, triglycerides), thyroid, liver and kidney tests, vitamin B12 and hormone panels. Samples are drawn at the clinic, no appointment needed.",
+    },
     {
       question: "¿En cuánto tiempo entregan los resultados?",
       answer: "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español.",

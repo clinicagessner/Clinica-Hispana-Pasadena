@@ -24,8 +24,8 @@ export async function generateMetadata({
   const isEn = locale === "en";
   return {
     title: isEn
-      ? "Hispanic Clinic in Pasadena, TX - Care in Spanish"
-      : "Clínica Hispana en Pasadena, TX - Atención en Español",
+      ? "Clínica Hispana Nueva Salud Pasadena, TX - Care in Spanish"
+      : "Clínica Hispana Nueva Salud Pasadena, TX - Atención en Español",
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
   };
