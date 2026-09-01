@@ -208,6 +208,56 @@ export const PROMOTIONS: Promotion[] = [
     ],
     altEn: "Flyer for the Men's Hormone Panel promotion for $200 at Clínica Hispana Nueva Salud Pasadena: evaluation of fatigue, muscle mass and libido.",
   },
+  {
+    slug: "examen-testosterona",
+    image: "/images/promotions/examen-testosterona.webp",
+    price: "$79",
+    order: 5,
+    title: "Revisa tu Testosterona",
+    blurb:
+      "¿Cansancio, poca energía, menos deseo sexual o dificultad con la erección? Revisa tu nivel de testosterona por $79 (precio regular $220), con consulta médica gratis y atención en español.",
+    includes: [
+      "Examen de testosterona",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Revisa tu Testosterona por $79 en Clínica Hispana Nueva Salud Pasadena: examen de testosterona, examen de orina y consulta médica gratis.",
+    titleEn: "Check Your Testosterone",
+    blurbEn:
+      "Tired, low on energy, low sex drive or trouble with erections? Check your testosterone level for $79 (regular price $220), with a free medical consultation and care in Spanish.",
+    includesEn: [
+      "Testosterone test",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn: "Flyer for the Check Your Testosterone promotion for $79 at Clínica Hispana Nueva Salud Pasadena: testosterone test, urine test and a free medical consultation.",
+  },
+  {
+    slug: "chequeo-completo-mujer",
+    image: "/images/promotions/chequeo-completo-mujer.webp",
+    price: "$179",
+    order: 6,
+    title: "Chequeo Completo de la Mujer",
+    blurb:
+      "Cuida tu salud con un chequeo completo de la mujer por $179 (precio regular $300): ultrasonido pélvico, papanicolaou y examen de orina, con consulta médica gratis y atención en español.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    alt: "Flyer de la promoción Chequeo Completo de la Mujer por $179 en Clínica Hispana Nueva Salud Pasadena: ultrasonido pélvico, papanicolaou, examen de orina y consulta médica gratis.",
+    titleEn: "Complete Women's Checkup",
+    blurbEn:
+      "Take care of your health with a complete women's checkup for $179 (regular price $300): pelvic ultrasound, Pap smear and urine test, with a free medical consultation and care in Spanish.",
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    altEn: "Flyer for the Complete Women's Checkup promotion for $179 at Clínica Hispana Nueva Salud Pasadena: pelvic ultrasound, Pap smear, urine test and a free medical consultation.",
+  },
 ];
 
 export const SERVICE_CATEGORIES: {
