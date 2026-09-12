@@ -1,5 +1,6 @@
 ---
 title: "Clinical lab in Pasadena: blood tests explained"
+relatedServices: ["examenes-sangre", "tiroides", "examen-heces"]
 description: "Learn which blood tests you can get in Pasadena, what they're for and how to receive same-day results in Spanish."
 date: "2026-03-30"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

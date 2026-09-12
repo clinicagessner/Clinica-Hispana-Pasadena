@@ -7,12 +7,10 @@ import {
 import { Link } from "@/i18n/navigation";
 import { Logo } from "@/components/shared/logo";
 import { ScrollLink } from "@/components/shared/scroll-link";
-import {
-  CONTACT_INFO,
+import { CONTACT_INFO,
   FOOTER_NAV_LINKS,
   SITE_CONFIG,
-  SOCIAL_LINKS,
-} from "@/lib/constants";
+  SOCIAL_LINKS, SERVICE_CATEGORIES } from "@/lib/constants";
 import { getAllServices } from "@/lib/services";
 import { getLocalizedService } from "@/lib/utils";
 import type { Locale } from "@/types";
@@ -22,9 +20,15 @@ export function Footer() {
   const tNav = useTranslations("Nav");
   const locale = useLocale() as Locale;
   const year = new Date().getFullYear();
-  const services = getAllServices()
-    .slice(0, 6)
-    .map((s) => getLocalizedService(s, locale));
+  // Todos los servicios, agrupados por categoría: antes solo 6 tenían enlace
+  // desde el footer y varios servicios contaban con un único enlace entrante.
+  const serviceGroups = SERVICE_CATEGORIES.map((cat) => ({
+    value: cat.value,
+    label: locale === "en" ? cat.labelEn : cat.label,
+    items: getAllServices()
+      .filter((s) => s.category === cat.value)
+      .map((s) => getLocalizedService(s, locale)),
+  })).filter((g) => g.items.length > 0);
 
   return (
     <footer className="relative overflow-hidden bg-blue-deep text-sky-alt">
@@ -35,7 +39,7 @@ export function Footer() {
       <div className="relative mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-12">
           {/* Marca */}
-          <div className="lg:col-span-4">
+          <div className="lg:col-span-3">
             <div className="w-fit rounded-xl bg-white px-4 py-3 ring-1 ring-white/20">
               <Logo />
             </div>
@@ -100,22 +104,31 @@ export function Footer() {
           </nav>
 
           {/* Servicios */}
-          <nav className="lg:col-span-3" aria-label={t("servicesTitle")}>
+          <nav className="lg:col-span-4" aria-label={t("servicesTitle")}>
             <h2 className="inline-block border-b-2 border-red-accent pb-1.5 font-heading text-sm font-bold uppercase tracking-widest text-white">
               {t("servicesTitle")}
             </h2>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              {services.map((s) => (
-                <li key={s.slug}>
-                  <Link
-                    href={`/services/${s.slug}`}
-                    className="text-sky-bg/80 hover:text-teal-light"
-                  >
-                    {s.title}
-                  </Link>
-                </li>
+            <div className="mt-4 grid gap-x-6 gap-y-5 text-sm sm:grid-cols-2">
+              {serviceGroups.map((g) => (
+                <div key={g.value}>
+                  <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-sky-bg/60">
+                    {g.label}
+                  </h3>
+                  <ul className="space-y-2">
+                    {g.items.map((s) => (
+                      <li key={s.slug}>
+                        <Link
+                          href={`/services/${s.slug}`}
+                          className="text-sky-bg/80 hover:text-teal-light"
+                        >
+                          {s.title}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               ))}
-            </ul>
+            </div>
           </nav>
 
           {/* Contacto */}

@@ -1,5 +1,6 @@
 ---
 title: "Control de diabetes en Pasadena: guía para pacientes"
+relatedServices: ["condiciones-cronicas", "examenes-sangre", "electrocardiograma"]
 description: "Aprende a controlar tu diabetes con una guía práctica en español: alimentación, monitoreo y seguimiento médico en Pasadena."
 date: "2026-02-10"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

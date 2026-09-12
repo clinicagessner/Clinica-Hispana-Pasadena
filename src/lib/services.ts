@@ -75,12 +75,13 @@ export function getServicesByCategory(category: Service["category"]): Service[] 
 export function getRelatedServices(slug: string, count = 3): Service[] {
   const current = getServiceBySlug(slug);
   if (!current) return getAllServices().slice(0, count);
-  const sameCategory = getAllServices().filter(
-    (s) => s.slug !== slug && s.category === current.category,
-  );
-  const others = getAllServices().filter(
-    (s) => s.slug !== slug && s.category !== current.category,
-  );
+  // Rotación desde el servicio actual: si siempre se tomaban los tres
+  // primeros de la categoría, los últimos nunca recibían enlaces de sus pares.
+  const all = getAllServices();
+  const idx = all.findIndex((s) => s.slug === slug);
+  const rotated = [...all.slice(idx + 1), ...all.slice(0, idx)];
+  const sameCategory = rotated.filter((s) => s.category === current.category);
+  const others = rotated.filter((s) => s.category !== current.category);
   return [...sameCategory, ...others].slice(0, count);
 }
 

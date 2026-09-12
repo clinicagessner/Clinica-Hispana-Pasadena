@@ -11,9 +11,10 @@ import { FaqSection } from "@/components/sections/faq-section";
 import { JsonLdBreadcrumb } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
+import { getServiceBySlug } from "@/lib/services";
 import { HOME_FAQS } from "@/lib/home-faqs";
 import { CONTACT_INFO } from "@/lib/constants";
-import { formatDate } from "@/lib/utils";
+import { formatDate, getLocalizedService } from "@/lib/utils";
 import { absoluteUrl, buildAlternates } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
@@ -62,6 +63,10 @@ export default async function BlogPostPage({
 
   const post = getPost(slug, loc);
   if (!post) notFound();
+  const relatedServices = (post.relatedServices ?? [])
+    .map((rs) => getServiceBySlug(rs))
+    .filter((svc): svc is NonNullable<typeof svc> => Boolean(svc))
+    .map((svc) => getLocalizedService(svc, loc));
 
   const t = await getTranslations("BlogPost");
   const url = absoluteUrl(`/blog/${slug}`, loc);
@@ -156,6 +161,34 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          {/* Servicios relacionados: 9 de 11 posts no enlazaban a ningún servicio
+              y las consultas de servicio aterrizaban en la home o en el post. */}
+          {relatedServices.length > 0 && (
+            <nav
+              aria-labelledby="related-services-heading"
+              className="mt-12 rounded-3xl border border-blue-deep/10 bg-sand-bg p-6 sm:p-8"
+            >
+              <h2
+                id="related-services-heading"
+                className="font-heading text-xl font-bold text-ink"
+              >
+                {t("relatedServicesTitle")}
+              </h2>
+              <ul className="mt-4 flex flex-wrap gap-3">
+                {relatedServices.map((s) => (
+                  <li key={s.slug}>
+                    <Link
+                      href={`/services/${s.slug}`}
+                      className="inline-block rounded-full border border-blue-deep/15 bg-white px-4 py-2 text-sm font-medium text-blue-dark hover:border-blue-dark"
+                    >
+                      {s.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
 
           {/* CTA navy */}
           <div className="relative isolate mt-12 overflow-hidden rounded-3xl bg-blue-deep p-8 text-center text-sky-bg shadow-xl sm:p-10">

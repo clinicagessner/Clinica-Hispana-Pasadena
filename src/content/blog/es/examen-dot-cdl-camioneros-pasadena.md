@@ -1,5 +1,6 @@
 ---
 title: "Examen DOT para camioneros CDL en Pasadena"
+relatedServices: ["examen-dot", "examen-alcohol-drogas", "examenes-sangre"]
 description: "Todo sobre el examen físico DOT para tu licencia CDL en Pasadena: qué incluye, qué llevar y cómo obtener tu certificado el mismo día."
 date: "2026-02-22"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

@@ -1,5 +1,6 @@
 ---
 title: "Atención médica sin seguro en Pasadena: tus opciones"
+relatedServices: ["examenes-sangre", "condiciones-cronicas", "enfermedades-respiratorias"]
 description: "¿No tienes seguro médico? En Pasadena puedes recibir atención profesional en español, con precios accesibles y sin cita previa."
 date: "2026-01-28"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

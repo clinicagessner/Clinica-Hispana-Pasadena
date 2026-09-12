@@ -1,5 +1,6 @@
 ---
 title: "Salud de la mujer en Pasadena: servicios de ginecología"
+relatedServices: ["ginecologia", "prueba-embarazo", "extraccion-implantes"]
 description: "Una guía de los servicios de salud de la mujer disponibles en Pasadena en español: chequeos, planificación familiar y prevención."
 date: "2026-04-25"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

@@ -1,5 +1,6 @@
 ---
 title: "Laboratorio clínico en Pasadena: análisis de sangre"
+relatedServices: ["examenes-sangre", "tiroides", "examen-heces"]
 description: "Conoce qué análisis de sangre puedes hacerte en Pasadena, para qué sirven y cómo obtener resultados el mismo día en español."
 date: "2026-03-30"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

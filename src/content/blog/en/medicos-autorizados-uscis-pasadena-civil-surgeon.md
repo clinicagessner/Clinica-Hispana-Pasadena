@@ -1,5 +1,6 @@
 ---
 title: "USCIS-authorized physicians in Pasadena (Civil Surgeon)"
+relatedServices: ["examenes-inmigracion", "vacunas", "examenes-sangre"]
 description: "What a civil surgeon is, why you need one for your immigration exam, and how to find one in Pasadena who speaks Spanish."
 date: "2026-04-12"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

@@ -1,5 +1,6 @@
 ---
 title: "Ginecólogos hispanos en Pasadena que hablan español"
+relatedServices: ["ginecologia", "prueba-embarazo", "anticonceptivos"]
 description: "Encuentra atención ginecológica en español en Pasadena: papanicolaou, chequeos y salud de la mujer con privacidad y respeto."
 date: "2026-03-05"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

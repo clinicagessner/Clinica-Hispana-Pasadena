@@ -1,5 +1,6 @@
 ---
 title: "Guide to the I-693 immigration medical exam in Pasadena"
+relatedServices: ["examenes-inmigracion", "vacunas", "prueba-tuberculosis"]
 description: "The I-693 medical exam in Pasadena: what it includes, which vaccines you need and how the form gets sealed by a USCIS-authorized physician."
 date: "2026-03-18"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

@@ -1,5 +1,6 @@
 ---
 title: "Diabetes management in Pasadena: a patient guide"
+relatedServices: ["condiciones-cronicas", "examenes-sangre", "electrocardiograma"]
 description: "Learn to manage your diabetes with a practical guide: nutrition, monitoring and medical follow-up in Pasadena."
 date: "2026-02-10"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

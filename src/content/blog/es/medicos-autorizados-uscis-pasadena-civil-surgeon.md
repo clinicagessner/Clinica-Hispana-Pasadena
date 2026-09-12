@@ -1,5 +1,6 @@
 ---
 title: "Médicos autorizados por USCIS en Pasadena (Civil Surgeon)"
+relatedServices: ["examenes-inmigracion", "vacunas", "examenes-sangre"]
 description: "Qué es un civil surgeon, por qué lo necesitas para tu examen de inmigración y cómo encontrar uno en Pasadena que hable español."
 date: "2026-04-12"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

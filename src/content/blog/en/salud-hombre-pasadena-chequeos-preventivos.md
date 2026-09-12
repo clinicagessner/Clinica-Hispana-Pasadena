@@ -1,5 +1,6 @@
 ---
 title: "Men's health in Pasadena: preventive checkups that save lives"
+relatedServices: ["salud-hombre", "examenes-sangre", "condiciones-cronicas"]
 metaTitle: "Men's health in Pasadena: checkups that save lives"
 description: "A guide to preventive checkups for men in Pasadena: PSA, testosterone, blood work, warning signs, and which exams you need at every age."
 date: "2026-07-22"

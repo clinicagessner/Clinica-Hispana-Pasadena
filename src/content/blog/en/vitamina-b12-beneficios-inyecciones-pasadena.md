@@ -1,5 +1,6 @@
 ---
 title: "Vitamin B12: benefits, deficiency symptoms and injections"
+relatedServices: ["sueros-vitaminados", "examenes-sangre"]
 description: "What vitamin B12 does, how to spot a deficiency and when a B12 shot beats pills. B12 testing and injections in Spanish in Pasadena, walk in."
 date: "2026-08-18"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

@@ -1,5 +1,6 @@
 ---
 title: "Women's health in Pasadena: gynecology services"
+relatedServices: ["ginecologia", "prueba-embarazo", "extraccion-implantes"]
 description: "A guide to the women's health services available in Pasadena in Spanish: checkups, family planning and prevention."
 date: "2026-04-25"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

@@ -1,5 +1,6 @@
 ---
 title: "Healthcare without insurance in Pasadena: your options"
+relatedServices: ["examenes-sangre", "condiciones-cronicas", "enfermedades-respiratorias"]
 description: "No health insurance? In Pasadena you can get professional care in Spanish, with affordable pricing and no appointment needed."
 date: "2026-01-28"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

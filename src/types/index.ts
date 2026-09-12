@@ -126,6 +126,8 @@ export interface BlogFrontmatter {
   title: string;
   /** Título para <title> y OG cuando el H1 pasa de 60 caracteres. */
   metaTitle?: string;
+  /** Slugs de servicios enlazados al pie del post ("Servicios relacionados"). */
+  relatedServices?: string[];
   description: string;
   date: string;
   /** YYYY-MM-DD del último cambio de contenido; si falta, se usa `date`. */

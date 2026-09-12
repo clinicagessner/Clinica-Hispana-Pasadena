@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Clínica Hispana Nueva Salud Pasadena"
+relatedServices: ["examenes-sangre", "ginecologia", "examen-dot"]
 description: "Get to know Clínica Hispana Nueva Salud Pasadena: healthcare 100% in Spanish in Pasadena, TX, walk-ins welcome and affordable pricing, no insurance needed."
 date: "2026-01-15"
 author: "Clínica Hispana Nueva Salud Pasadena Team"

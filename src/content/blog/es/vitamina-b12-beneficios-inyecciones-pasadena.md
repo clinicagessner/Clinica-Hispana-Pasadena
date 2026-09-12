@@ -1,5 +1,6 @@
 ---
 title: "Vitamina B12: beneficios, síntomas de deficiencia e inyecciones"
+relatedServices: ["sueros-vitaminados", "examenes-sangre"]
 metaTitle: "Vitamina B12: beneficios, deficiencia e inyecciones"
 description: "Para qué sirve la vitamina B12, cómo reconocer una deficiencia y cuándo conviene la inyección. Prueba e inyecciones de B12 en Pasadena, sin cita."
 date: "2026-08-18"
