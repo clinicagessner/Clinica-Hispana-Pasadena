@@ -35,4 +35,4 @@ En la mayoría de los casos entregamos resultados **el mismo día** y te los exp
 
 ## Ven sin cita
 
-En Clínica Hispana Nueva Salud Pasadena tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(832) 906-8551** o visítanos de 9 AM a 9 PM.
+En Clínica Hispana Nueva Salud Pasadena tomamos tus muestras en el momento y te orientamos sobre los siguientes pasos. Llámanos al **(281) 747-8817** o visítanos de 9 AM a 9 PM.

@@ -41,4 +41,4 @@ Poorly managed diabetes can damage the kidneys, eyesight and heart. That's why r
 
 ## Count on us
 
-At Clínica Hispana Nueva Salud Pasadena we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(832) 906-8551** and take control of your health.
+At Clínica Hispana Nueva Salud Pasadena we have a diabetes management program in Spanish, with same-day lab work and a personalized plan. Call us at **(281) 747-8817** and take control of your health.

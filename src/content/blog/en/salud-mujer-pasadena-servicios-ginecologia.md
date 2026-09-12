@@ -36,4 +36,4 @@ If you have itching, burning, unusual discharge, odor or pain, don't wait. A tim
 
 ## Care in your language
 
-At Clínica Hispana Nueva Salud Pasadena, women's health is a priority. We care for you in Spanish, with privacy and warmth. Call us at **(832) 906-8551** and book your visit.
+At Clínica Hispana Nueva Salud Pasadena, women's health is a priority. We care for you in Spanish, with privacy and warmth. Call us at **(281) 747-8817** and book your visit.

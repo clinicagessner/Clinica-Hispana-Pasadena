@@ -41,4 +41,4 @@ The exam is quick. In most cases you leave the **same day with your certificate*
 
 ## Do it with us
 
-At Clínica Hispana Nueva Salud Pasadena we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(832) 906-8551** or walk in.
+At Clínica Hispana Nueva Salud Pasadena we perform your DOT exam in Spanish, quickly and with a same-day certificate. Call us at **(281) 747-8817** or walk in.

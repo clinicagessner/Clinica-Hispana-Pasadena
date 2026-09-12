@@ -36,4 +36,4 @@ What sets us apart isn't just what we do, but **how we do it**. We welcome you i
 
 ## We're waiting for you
 
-Caring for your health is the best investment you can make for yourself and your family. Walk in or call us at **(832) 906-8551**. At Clínica Hispana Nueva Salud Pasadena, we treat you like family.
+Caring for your health is the best investment you can make for yourself and your family. Walk in or call us at **(281) 747-8817**. At Clínica Hispana Nueva Salud Pasadena, we treat you like family.

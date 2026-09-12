@@ -42,4 +42,4 @@ Do not open the sealed envelope. If you open it, the form may be invalidated and
 
 ## We're with you every step
 
-At Clínica Hispana Nueva Salud Pasadena we perform the I-693 exam with an authorized physician, all in Spanish and with the sealed form ready to submit. Call us at **(832) 906-8551**.
+At Clínica Hispana Nueva Salud Pasadena we perform the I-693 exam with an authorized physician, all in Spanish and with the sealed form ready to submit. Call us at **(281) 747-8817**.

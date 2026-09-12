@@ -41,4 +41,4 @@ El examen es rápido. En la mayoría de los casos sales el **mismo día con tu c
 
 ## Hazlo con nosotros
 
-En Clínica Hispana Nueva Salud Pasadena realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Llámanos al **(832) 906-8551** o visítanos sin cita.
+En Clínica Hispana Nueva Salud Pasadena realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Llámanos al **(281) 747-8817** o visítanos sin cita.

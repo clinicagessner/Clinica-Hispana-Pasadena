@@ -36,4 +36,4 @@ At our clinic, uninsured patients can access:
 
 ## We're here to help
 
-At Clínica Hispana Nueva Salud Pasadena we see patients **with no insurance required**, in Spanish and with no appointment. If you have questions about the cost of a service, call us at **(832) 906-8551** and we'll gladly guide you.
+At Clínica Hispana Nueva Salud Pasadena we see patients **with no insurance required**, in Spanish and with no appointment. If you have questions about the cost of a service, call us at **(281) 747-8817** and we'll gladly guide you.

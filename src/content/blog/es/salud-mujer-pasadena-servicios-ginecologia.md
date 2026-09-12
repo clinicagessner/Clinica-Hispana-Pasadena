@@ -36,4 +36,4 @@ Si presentas comezón, ardor, flujo diferente, mal olor o dolor, no esperes. Una
 
 ## Atención en tu idioma
 
-En Clínica Hispana Nueva Salud Pasadena la salud de la mujer es una prioridad. Te atendemos en español, con privacidad y cercanía. Llámanos al **(832) 906-8551** y agenda tu visita.
+En Clínica Hispana Nueva Salud Pasadena la salud de la mujer es una prioridad. Te atendemos en español, con privacidad y cercanía. Llámanos al **(281) 747-8817** y agenda tu visita.
