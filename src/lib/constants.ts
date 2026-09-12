@@ -305,6 +305,7 @@ export const SERVICES_LAST_MODIFIED = "2026-08-27";
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",
+    dateModified: "2026-09-12",
     order: 1,
     category: "medicina-general",
     icon: "Activity",
@@ -343,42 +344,66 @@ export const SERVICES: Service[] = [
       "Medication adjustment",
       "Nutrition and lifestyle plan",
     ],
-    longDescription: `Las enfermedades crónicas como la diabetes, la hipertensión y las dislipidemias (colesterol y triglicéridos altos) se controlan mejor con seguimiento constante. En Clínica Hispana Nueva Salud Pasadena diseñamos un plan claro y te acompañamos paso a paso, en español.
+    longDescription: `Diabetes, presión alta y colesterol suelen ir juntos y avanzan sin dar síntomas. El control funciona cuando hay un plan con números, revisiones a tiempo y alguien que te explique cada cambio en tu idioma. Eso es lo que hacemos en Clínica Hispana Nueva Salud Pasadena, sin cita y sin seguro.
 
-## ¿Qué incluye?
+## ¿Qué condiciones crónicas se controlan en la clínica?
 
-- Evaluación inicial y exámenes de laboratorio
-- Monitoreo de glucosa, presión arterial, colesterol y triglicéridos
-- Ajuste de medicamentos según tu evolución
-- Plan de alimentación y actividad física
-- Educación sobre tu condición en tu idioma
+Diabetes tipo 2 y prediabetes, presión arterial alta, colesterol y triglicéridos altos, y las que suelen acompañarlas: sobrepeso, hígado graso y tiroides. Se atiende tanto el diagnóstico nuevo como el paciente que ya toma medicamentos y necesita seguimiento, ajuste de dosis o una segunda opinión sobre su tratamiento.
 
-## Por qué es importante el control
+## ¿Cómo es la primera consulta de control?
 
-Una diabetes, presión o colesterol mal controlados dañan con el tiempo el corazón, los riñones, los ojos y los nervios. Un buen seguimiento previene complicaciones y mejora tu calidad de vida.
+Se revisa tu historial y tus medicamentos, se toman presión, peso y glucosa, y se ordenan los análisis de base: A1C, perfil de lípidos, función del riñón y del hígado, y examen de orina. Si el médico lo considera, se hace un [electrocardiograma](/services/electrocardiograma) en la misma visita. Con los resultados en mano se fijan tus metas y tu plan: alimentación, actividad, medicamentos y fecha de la siguiente revisión.
 
-${WHY_ES}
+## ¿Qué metas se usan?
 
-${PAYMENT_ES}
+Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80, colesterol LDL por debajo de 100 y triglicéridos por debajo de 150. Las metas se ajustan por edad y otras condiciones; el médico te dice las tuyas y las anota para compararlas en cada visita.
+
+## ¿Cada cuánto debo venir?
+
+Mientras se ajusta el tratamiento, cada 4 a 8 semanas. Cuando los números están en meta, cada 3 meses con A1C si tienes diabetes, y cada 3 a 6 meses para presión y colesterol. Una vez al año se repiten los análisis completos, la revisión de los pies y la vista, y las vacunas de temporada. No hace falta cita para ninguna de estas visitas.
+
+## ¿Qué medicamentos se manejan?
+
+Los de primera línea y sus ajustes: metformina y otros antidiabéticos orales, insulina cuando es necesaria, antihipertensivos y estatinas. Si un medicamento te cae mal o no alcanza la meta, se cambia en consulta. Trae siempre tus frascos para revisar dosis y evitar duplicados.
+
+## ¿Cuánto cuesta el control en Pasadena?
+
+La consulta de seguimiento se cobra como consulta; los análisis, según el panel. Como punto de partida, el Chequeo General Completo cuesta $99 e incluye examen general de sangre, A1C, examen de orina y consulta médica gratis. Para el precio de una consulta o un análisis suelto, llama al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## Servicios relacionados
+
+Los análisis de control se toman en [exámenes de sangre](/services/examenes-sangre). Si la glucosa o la presión aparecieron en un examen de trabajo, como el [examen DOT](/services/examen-dot), aquí se inicia el tratamiento para que puedas certificarte. Los problemas de tiroides se siguen en [tiroides](/services/tiroides).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Chronic conditions like diabetes, hypertension and dyslipidemia (high cholesterol and triglycerides) are best controlled with consistent follow-up. At Clínica Hispana Nueva Salud Pasadena we design a clear plan and support you every step of the way, in Spanish.
+    longDescriptionEn: `Diabetes, high blood pressure and cholesterol usually go together and progress without symptoms. Control works when there is a plan with numbers, timely checks and someone who explains each change in your language. That is what we do at Clínica Hispana Nueva Salud Pasadena, with no appointment and no insurance.
 
-## What's included?
+## Which chronic conditions are managed at the clinic?
 
-- Initial evaluation and lab work
-- Monitoring of glucose, blood pressure, cholesterol and triglycerides
-- Medication adjustment based on your progress
-- Nutrition and physical-activity plan
-- Education about your condition in your language
+Type 2 diabetes and prediabetes, high blood pressure, high cholesterol and triglycerides, and the ones that usually come with them: excess weight, fatty liver and thyroid problems. We see both the new diagnosis and the patient who already takes medication and needs follow-up, dose adjustment or a second opinion on their treatment.
 
-## Why control matters
+## What is the first follow-up visit like?
 
-Poorly managed diabetes, blood pressure or cholesterol damage the heart, kidneys, eyes and nerves over time. Good follow-up prevents complications and improves your quality of life.
+Your history and medications are reviewed, blood pressure, weight and glucose are taken, and the baseline tests are ordered: A1C, lipid panel, kidney and liver function, and urinalysis. If the physician sees fit, an [EKG](/en/services/electrocardiograma) is done at the same visit. With results in hand, your targets and plan are set: diet, activity, medications and the date of the next check.
 
-${WHY_EN}
+## Which targets are used?
 
-${PAYMENT_EN}
+For most adults: A1C under 7%, blood pressure under 130/80, LDL cholesterol under 100 and triglycerides under 150. Targets are adjusted for age and other conditions; the physician tells you yours and writes them down to compare at each visit.
+
+## How often should I come?
+
+While treatment is being adjusted, every 4 to 8 weeks. Once the numbers are on target, every 3 months with an A1C if you have diabetes, and every 3 to 6 months for blood pressure and cholesterol. Once a year the full labs, foot and eye checks and seasonal vaccines are repeated. No appointment is needed for any of these visits.
+
+## Which medications are managed?
+
+First-line ones and their adjustments: metformin and other oral diabetes drugs, insulin when needed, blood pressure medications and statins. If a medication does not agree with you or misses the target, it is changed at the visit. Always bring your bottles to check doses and avoid duplicates.
+
+## How much does follow-up cost in Pasadena?
+
+A follow-up is charged as an office visit; labs depend on the panel. As a starting point, the Complete General Checkup costs $99 and includes a general blood test, A1C, urine test and a free medical visit. For the price of a single visit or test, call (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## Related services
+
+Monitoring labs are drawn under [blood tests](/en/services/examenes-sangre). If glucose or blood pressure showed up on a work exam, such as the [DOT physical](/en/services/examen-dot), treatment starts here so you can get certified. Thyroid problems are followed under [thyroid](/en/services/tiroides).
 
 ${AREAS_EN}`,
   },
@@ -645,6 +670,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-fisico-escolar",
+    dateModified: "2026-09-12",
     order: 5,
     category: "examenes",
     icon: "ClipboardList",
@@ -682,47 +708,72 @@ ${AREAS_EN}`,
       "School and sports forms completed",
       "Care in Spanish",
     ],
-    longDescription: `Antes de inscribirse en la escuela o practicar un deporte, los niños y jóvenes necesitan un chequeo físico. En Clínica Hispana Nueva Salud Pasadena lo hacemos de forma rápida y completa, con todos los formularios listos.
+    longDescription: `Cada agosto llega la misma carrera: el formulario de la escuela o del equipo, la firma del médico y el plazo que se acaba. En Clínica Hispana Nueva Salud Pasadena el examen físico escolar y deportivo se hace sin cita, en español, y sales con el formulario llenado y firmado el mismo día.
 
-## ¿Qué incluye?
+## ¿Qué formularios se llenan?
 
-- Examen físico general
-- Revisión de signos vitales (peso, talla, presión)
-- Evaluación de visión y audición
-- Llenado de los formularios requeridos
-- Recomendaciones de salud
+El de evaluación física previa a la participación deportiva que usan las escuelas de Texas (el formulario de la UIL para deportes escolares), el físico de ingreso que piden algunas escuelas y guarderías, y los formularios de campamentos, ligas y programas. Trae el formulario impreso o en el teléfono; si tu escuela no te dio uno, el médico emite una constancia de examen físico.
 
-## Para la escuela y el deporte
+## ¿Qué revisa el médico?
 
-Cumple los requisitos de inscripción escolar y la evaluación para practicar deportes con seguridad. Trae el formulario de tu escuela o equipo y lo completamos.
+Historial de salud y antecedentes familiares, con atención especial a desmayos, dolor de pecho con el ejercicio, asma, alergias, lesiones previas y muertes cardiacas tempranas en la familia; signos vitales con peso, talla y presión arterial; visión y audición; corazón y pulmones; abdomen; columna y articulaciones; y un chequeo general de crecimiento. Si algo requiere estudio, por ejemplo un soplo, el médico lo indica antes de firmar.
 
-${WHY_ES}
+## ¿El físico deportivo es lo mismo que el escolar?
 
-${PAYMENT_ES}
+Casi. El deportivo pone el foco en el corazón, la respiración y las lesiones, porque su objetivo es que el joven entrene con seguridad; el escolar es un chequeo general de crecimiento y salud. En la misma visita se pueden cubrir los dos y llenar ambos formularios.
+
+## ¿Cada cuánto se necesita?
+
+El físico deportivo escolar en Texas se renueva cada año, normalmente antes de la temporada. El de ingreso se pide al entrar a una nueva escuela o etapa. Conviene hacerlo con semanas de anticipación: si aparece algo que estudiar, hay tiempo de resolverlo sin perder la inscripción.
+
+## ¿Qué debo traer?
+
+El formulario de la escuela o del equipo, con la parte del padre o tutor ya llenada y firmada; identificación del adulto; el registro de vacunas del menor, si la escuela lo pide; lentes o aparato auditivo si los usa; y la lista de medicamentos, incluido el inhalador. Un padre, madre o tutor acompaña a los menores.
+
+## ¿Cuánto cuesta el examen físico escolar en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817 antes de venir. No necesitas seguro médico; aceptamos efectivo y tarjeta. Si el joven necesita además un análisis o una vacuna, se hace en la misma visita y se cotiza aparte.
+
+## Servicios relacionados
+
+Si el formulario pide vacunas al día, consulta [vacunas](/services/vacunas). Para un chequeo con análisis de sangre, [exámenes de sangre](/services/examenes-sangre). Si el joven tiene asma o alergias, el seguimiento está en [alergias](/services/alergias) y [enfermedades respiratorias](/services/enfermedades-respiratorias).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Before enrolling in school or playing a sport, children and teens need a physical exam. At Clínica Hispana Nueva Salud Pasadena we do it quickly and thoroughly, with all the forms ready.
+    longDescriptionEn: `Every August brings the same rush: the school or team form, the physician's signature and a deadline running out. At Clínica Hispana Nueva Salud Pasadena the school and sports physical is done with no appointment, in Spanish or English, and you leave with the form completed and signed the same day.
 
-## What's included?
+## Which forms are completed?
 
-- General physical exam
-- Vital-signs check (weight, height, blood pressure)
-- Vision and hearing screening
-- Completion of required forms
-- Health recommendations
+The pre-participation physical evaluation used by Texas schools (the UIL form for school sports), the entry physical some schools and daycares require, and forms for camps, leagues and programs. Bring the form printed or on your phone; if your school did not give you one, the physician issues a physical exam certificate.
 
-## For school and sports
+## What does the physician check?
 
-Meet school enrollment requirements and the evaluation to play sports safely. Bring your school or team form and we'll complete it.
+Health history and family history, with special attention to fainting, chest pain with exercise, asthma, allergies, previous injuries and early cardiac deaths in the family; vital signs with weight, height and blood pressure; vision and hearing; heart and lungs; abdomen; spine and joints; and a general growth check. If something needs workup, such as a murmur, the physician orders it before signing.
 
-${WHY_EN}
+## Is the sports physical the same as the school physical?
 
-${PAYMENT_EN}
+Almost. The sports physical focuses on the heart, breathing and injuries, because its goal is for the student to train safely; the school physical is a general growth and health check. Both can be covered at the same visit and both forms completed.
+
+## How often is it needed?
+
+The school sports physical in Texas is renewed every year, usually before the season. The entry physical is required when starting a new school or stage. It is best done weeks in advance: if something needs workup, there is time to resolve it without losing enrollment.
+
+## What should I bring?
+
+The school or team form, with the parent or guardian section already filled out and signed; the adult's ID; the child's vaccine record, if the school asks for it; glasses or hearing aid if used; and the medication list, including the inhaler. A parent or guardian accompanies minors.
+
+## How much does a school physical cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817 before you come. No health insurance is needed; we accept cash and cards. If the student also needs a lab test or a vaccine, it is done at the same visit and quoted separately.
+
+## Related services
+
+If the form requires up-to-date vaccines, see [vaccines](/en/services/vacunas). For a checkup with lab work, [blood tests](/en/services/examenes-sangre). If the student has asthma or allergies, follow-up is under [allergies](/en/services/alergias) and [respiratory illnesses](/en/services/enfermedades-respiratorias).
 
 ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
+    dateModified: "2026-09-12",
     order: 6,
     category: "salud-mujer",
     icon: "Flower2",
@@ -764,50 +815,66 @@ ${AREAS_EN}`,
       "Treatment of vaginal infections",
       "Private care in Spanish",
     ],
-    longDescription: `Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Nueva Salud Pasadena ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.
+    longDescription: `Atención ginecológica en español, sin cita y con la privacidad que corresponde. En Clínica Hispana Nueva Salud Pasadena el Papanicolaou, los cultivos, las pruebas y el tratamiento de infecciones se hacen en la misma visita, y cada paso se explica antes de hacerlo.
 
-## ¿Qué incluye?
+## ¿Qué servicios ginecológicos ofrece la clínica?
 
-- Papanicolaou y chequeo ginecológico
-- Cultivos vaginales para identificar infecciones
-- Tratamiento de infecciones vaginales (hongos, bacterias)
-- Evaluación de molestias y flujo anormal
-- Referencias cuando se necesita un especialista
+Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y tratamiento de infecciones vaginales por hongos o bacterias y de infecciones urinarias; pruebas de infecciones de transmisión sexual; prueba de embarazo y consulta prenatal inicial; consulta de anticoncepción con pastillas, inyección, parche, anillo e implante; retiro del implante subdérmico; ultrasonido pélvico; y evaluación de la menopausia. Si un caso requiere cirugía o un especialista, se orienta la referencia.
 
-## No te quedes con la duda
+## ¿Cada cuánto se hace el Papanicolaou?
 
-Comezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.
+Desde los 21 años, cada 3 años si el resultado es normal. Entre los 30 y los 65, puede combinarse con la prueba de VPH y espaciarse a cada 5 años. Después de los 65, con resultados previos normales, suele suspenderse. Si tuviste un resultado anormal, el intervalo lo fija el médico. Para la toma, evita relaciones, duchas vaginales y óvulos 48 horas antes y procura no venir con el periodo.
 
-## Ginecología en una clínica hispana cerca de ti
+## ¿Qué pasa si tengo flujo, comezón o ardor?
 
-Si buscas ginecólogos hispanos que hablen español en Pasadena o el área de Houston, TX, en nuestro centro médico te atendemos sin cita previa, con privacidad y sin necesidad de seguro.
+Se toma un cultivo o una prueba rápida y en la mayoría de los casos el tratamiento empieza el mismo día: óvulos, crema o pastillas según la causa. Los síntomas que se confunden entre sí, como hongos, vaginosis bacteriana e infección urinaria, se distinguen con la prueba, no a ojo, para no tratar mal. Si la infección se repite, se buscan causas como diabetes o cambios hormonales.
 
-${WHY_ES}
+## ¿Atienden pruebas y tratamiento de ETS?
 
-${PAYMENT_ES}
+Sí, con la misma confidencialidad que el resto de la consulta. Se hacen pruebas de clamidia, gonorrea, sífilis, VIH y otras según tu situación, y el tratamiento se indica en la misma clínica cuando el resultado lo confirma. No se pide estatus migratorio ni se comparte información con terceros.
+
+## ¿Cuánto cuesta la consulta ginecológica en Pasadena?
+
+Los precios publicados son los de las promociones vigentes: Chequeo Completo de la Mujer por $179, que incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis; y Salud Íntima Femenina por $69, con cultivo íntimo, consulta médica y examen de orina gratis. Para una consulta o prueba suelta, llama al (281) 747-8817. No necesitas seguro médico.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM. La consulta empieza con una conversación sobre tu ciclo, tu método anticonceptivo y tus molestias; el examen se hace solo si es necesario y se explica antes. Puedes venir acompañada. Sales con el tratamiento o con la fecha para revisar resultados.
+
+## Servicios relacionados
+
+Si buscas confirmar un embarazo, empieza por la [prueba de embarazo](/services/prueba-embarazo). Para elegir o cambiar método, consulta [anticonceptivos](/services/anticonceptivos); para retirar el implante, [extracción de implantes](/services/extraccion-implantes). El estudio por imagen se hace en [ultrasonido](/services/ultrasonido).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Your health as a woman deserves a space of trust. At Clínica Hispana Nueva Salud Pasadena we offer gynecology care in Spanish, with the privacy and respect you deserve.
+    longDescriptionEn: `Gynecological care in Spanish or English, with no appointment and the privacy it deserves. At Clínica Hispana Nueva Salud Pasadena the Pap smear, cultures, testing and treatment of infections are done at the same visit, and each step is explained before it happens.
 
-## What's included?
+## Which gynecology services does the clinic offer?
 
-- Pap smear and gynecological checkup
-- Vaginal cultures to identify infections
-- Treatment of vaginal infections (yeast, bacteria)
-- Evaluation of discomfort and abnormal discharge
-- Referrals when a specialist is needed
+Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of yeast or bacterial vaginal infections and urinary infections; sexually transmitted infection tests; pregnancy test and initial prenatal visit; contraception counseling with pills, injection, patch, ring and implant; subdermal implant removal; pelvic ultrasound; and menopause evaluation. If a case requires surgery or a specialist, we guide the referral.
 
-## Don't stay in doubt
+## How often is a Pap smear done?
 
-Itching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.
+From age 21, every 3 years if the result is normal. Between 30 and 65 it can be combined with an HPV test and spaced to every 5 years. After 65, with previous normal results, it is usually stopped. If you had an abnormal result, the physician sets the interval. Before the sample, avoid sex, douching and vaginal suppositories for 48 hours and try not to come during your period.
 
-## Gynecology at a Hispanic clinic near you
+## What if I have discharge, itching or burning?
 
-If you're looking for Spanish-speaking, Hispanic gynecology care in Pasadena or the Houston, TX area, our medical center sees you with no appointment, with privacy and no insurance needed.
+A culture or rapid test is taken and in most cases treatment starts the same day: suppositories, cream or pills depending on the cause. Symptoms that mimic each other, such as yeast, bacterial vaginosis and urinary infection, are told apart by the test, not by eye, so you are not treated for the wrong thing. If the infection keeps coming back, causes such as diabetes or hormonal changes are looked for.
 
-${WHY_EN}
+## Do you test and treat STIs?
 
-${PAYMENT_EN}
+Yes, with the same confidentiality as the rest of the visit. Tests for chlamydia, gonorrhea, syphilis, HIV and others are done according to your situation, and treatment is prescribed at the same clinic once the result confirms it. No immigration status is requested and no information is shared with third parties.
+
+## How much does a gynecology visit cost in Pasadena?
+
+The published prices are those of the current promotions: Complete Women's Checkup for $179, which includes a pelvic ultrasound, Pap smear, urine test and a free medical visit; and Women's Intimate Health for $69, with an intimate culture, medical visit and free urine test. For a single visit or test, call (281) 747-8817. No health insurance is needed.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM. The visit starts with a conversation about your cycle, your birth control and your symptoms; the exam is done only if needed and is explained first. You may bring someone with you. You leave with treatment or with the date to review results.
+
+## Related services
+
+If you want to confirm a pregnancy, start with the [pregnancy test](/en/services/prueba-embarazo). To choose or switch methods, see [birth control](/en/services/anticonceptivos); to remove the implant, [implant removal](/en/services/extraccion-implantes). Imaging is done under [ultrasound](/en/services/ultrasonido).
 
 ${AREAS_EN}`,
   },
@@ -1043,6 +1110,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
+    dateModified: "2026-09-12",
     order: 10,
     category: "medicina-general",
     icon: "Mars",
@@ -1081,42 +1149,66 @@ ${AREAS_EN}`,
       "General men's checkup",
       "Results explained in Spanish",
     ],
-    longDescription: `La salud del hombre muchas veces se posterga. En Clínica Hispana Nueva Salud Pasadena facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.
+    longDescription: `Los hombres llegan al médico tarde y con la presión, el azúcar o la próstata ya afectadas. El chequeo del hombre en Clínica Hispana Nueva Salud Pasadena está pensado para el que trabaja todo el día: sin cita, hasta las 9 de la noche, en español, y con los análisis en la misma visita.
 
-## ¿Qué incluye?
+## ¿Qué incluye el chequeo del hombre?
 
-- Examen de antígeno prostático (PSA)
-- Medición del nivel de testosterona
-- Chequeo general y de signos vitales
-- Evaluación de síntomas urinarios o de energía
-- Referencia a especialista si se requiere
+Consulta con revisión de presión, peso y síntomas; análisis de sangre con glucosa, colesterol, función de riñón e hígado; antígeno prostático (PSA) cuando corresponde por edad o antecedentes; medición de testosterona si hay síntomas; examen de orina; y, si el médico lo indica, un electrocardiograma. Los resultados se explican con calma y se traducen a un plan: qué repetir, qué tratar y cuándo volver.
 
-## Por qué es importante
+## ¿A qué edad se revisa la próstata?
 
-El PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.
+La prueba de PSA se conversa con el médico a partir de los 50 años, y desde los 45 si tu padre o un hermano tuvieron cáncer de próstata. Un PSA elevado no significa cáncer: sube también con infección, inflamación o crecimiento benigno de la próstata, que es muy común después de los 50. Síntomas como levantarse varias veces a orinar, chorro débil o goteo merecen consulta a cualquier edad.
 
-${WHY_ES}
+## ¿Cuándo conviene medir la testosterona?
 
-${PAYMENT_ES}
+Cuando hay cansancio persistente, menos deseo sexual, dificultad para la erección, pérdida de masa muscular o ánimo bajo sin causa clara. La muestra se toma por la mañana, cuando el nivel es más alto, y si sale baja se repite para confirmar antes de hablar de tratamiento. La testosterona baja suele ir acompañada de sobrepeso, diabetes o apnea del sueño, y tratarlas mejora el nivel.
+
+## ¿Qué pruebas de infecciones se hacen?
+
+Pruebas de clamidia, gonorrea, sífilis y VIH, con tratamiento en la misma clínica cuando el resultado lo confirma, y evaluación de infecciones urinarias con examen de orina. Todo con confidencialidad: los resultados son tuyos y no se comparten.
+
+## ¿Cuánto cuestan los exámenes del hombre en Pasadena?
+
+Los precios publicados son los de las promociones vigentes: Revisa tu Testosterona por $79, que incluye examen de testosterona, examen de orina y consulta médica gratis; y el Perfil Hormonal para Hombres por $200. Para el PSA suelto o un chequeo con análisis completos, llama al (281) 747-8817 y te damos el precio. No necesitas seguro médico.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM; si vienes por testosterona, mejor por la mañana. Se toma la muestra y, cuando el resultado está listo, lo revisas con el equipo médico y sales con tu plan por escrito. Si algo requiere un urólogo o un cardiólogo, se orienta la referencia.
+
+## Servicios relacionados
+
+Los análisis se toman en [exámenes de sangre](/services/examenes-sangre). Si aparece presión alta, azúcar o colesterol, el seguimiento continúa en [condiciones crónicas](/services/condiciones-cronicas). Las molestias al orinar se atienden en [infecciones urinarias](/services/infecciones-urinarias) y las pruebas de ETS en [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Men's health is often postponed. At Clínica Hispana Nueva Salud Pasadena we make it easy to get the exams that help catch important changes early, with results explained in Spanish.
+    longDescriptionEn: `Men come to the doctor late, with blood pressure, sugar or the prostate already affected. The men's checkup at Clínica Hispana Nueva Salud Pasadena is built for the man who works all day: no appointment, open until 9 at night, in Spanish or English, and with lab work at the same visit.
 
-## What's included?
+## What does the men's checkup include?
 
-- Prostate antigen (PSA) test
-- Testosterone level measurement
-- General checkup and vital signs
-- Evaluation of urinary or energy symptoms
-- Referral to a specialist if needed
+A visit with blood pressure, weight and symptom review; blood tests with glucose, cholesterol, kidney and liver function; prostate-specific antigen (PSA) when age or family history call for it; testosterone if there are symptoms; urinalysis; and, if the physician orders it, an EKG. Results are explained calmly and turned into a plan: what to repeat, what to treat and when to return.
 
-## Why it matters
+## At what age is the prostate checked?
 
-PSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.
+The PSA test is discussed with the physician from age 50, and from 45 if your father or a brother had prostate cancer. A high PSA does not mean cancer: it also rises with infection, inflammation or benign prostate enlargement, which is very common after 50. Symptoms such as getting up several times at night to urinate, a weak stream or dribbling deserve a visit at any age.
 
-${WHY_EN}
+## When is testosterone worth measuring?
 
-${PAYMENT_EN}
+When there is persistent tiredness, lower sex drive, erection difficulty, loss of muscle mass or low mood without a clear cause. The sample is drawn in the morning, when the level is highest, and if it is low it is repeated to confirm before discussing treatment. Low testosterone often comes with excess weight, diabetes or sleep apnea, and treating those improves the level.
+
+## Which infection tests are done?
+
+Tests for chlamydia, gonorrhea, syphilis and HIV, with treatment at the same clinic once the result confirms it, and evaluation of urinary infections with a urinalysis. All confidential: the results are yours and are not shared.
+
+## How much do men's exams cost in Pasadena?
+
+The published prices are those of the current promotions: Check Your Testosterone for $79, which includes a testosterone test, urine test and a free medical visit; and the Men's Hormone Panel for $200. For a stand-alone PSA or a checkup with full labs, call (281) 747-8817 and we give you the price. No health insurance is needed.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM; if you come for testosterone, morning is best. The sample is drawn and, when the result is ready, you review it with the medical team and leave with your plan in writing. If something calls for a urologist or cardiologist, we guide the referral.
+
+## Related services
+
+Labs are drawn under [blood tests](/en/services/examenes-sangre). If high blood pressure, sugar or cholesterol shows up, follow-up continues under [chronic conditions](/en/services/condiciones-cronicas). Urinary symptoms are seen under [urinary infections](/en/services/infecciones-urinarias) and STI testing under [sexually transmitted diseases](/en/services/enfermedades-transmision-sexual).
 
 ${AREAS_EN}`,
   },
@@ -2132,6 +2224,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "vacunas",
+    dateModified: "2026-09-12",
     order: 22,
     category: "tratamientos",
     icon: "Syringe",
@@ -2169,47 +2262,72 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Las vacunas son una de las formas más sencillas de cuidar tu salud. En Clínica Hispana Nueva Salud Pasadena aplicamos la vacuna contra la influenza y el toxoide tetánico de forma segura y rápida.
+    longDescription: `Ponerse al día con las vacunas toma minutos y evita semanas de enfermedad. En Clínica Hispana Nueva Salud Pasadena las aplica personal médico, sin cita, con orientación en español sobre cuál te toca y cuándo viene el refuerzo.
 
-## ¿Qué incluye?
+## ¿Qué vacunas aplican en la clínica?
 
-- Vacuna anual contra la influenza (flu)
-- Toxoide tetánico (refuerzo del tétanos)
-- Aplicación por personal médico
-- Orientación sobre cuándo aplicar refuerzos
-- Atención en español
+La vacuna anual contra la influenza y el toxoide tetánico (Td o Tdap) para adultos. Además, las vacunas que exige el examen médico de inmigración cuando faltan en tu registro: sarampión, paperas y rubéola (MMR), varicela, hepatitis B y neumococo, según la edad. Si necesitas una vacuna distinta, llama antes para confirmar disponibilidad y te orientamos a dónde conseguirla si no la tenemos.
 
-## Por qué vacunarte
+## ¿Cuándo toca la vacuna de la influenza?
 
-La vacuna de la flu reduce el riesgo de enfermarte de gravedad en temporada de gripe, y el toxoide tetánico te protege ante cortes y heridas. Pregúntanos cuál te conviene.
+Cada temporada, idealmente entre septiembre y octubre, aunque sirve ponerla en cualquier momento mientras circule el virus. Es una sola dosis anual para adultos. Está especialmente indicada para mayores de 65, embarazadas, personas con diabetes, asma, enfermedades del corazón o del riñón, y quienes cuidan a bebés o adultos mayores. Los efectos habituales son dolor en el brazo y malestar leve uno o dos días.
 
-${WHY_ES}
+## ¿Cada cuánto se pone el tétanos?
 
-${PAYMENT_ES}
+Un refuerzo de Td cada 10 años. Se recomienda una dosis de Tdap, que además protege contra tos ferina, al menos una vez en la vida adulta y en cada embarazo. Si te cortas con algo sucio u oxidado y no recuerdas cuándo fue tu último refuerzo, conviene ponerlo si han pasado más de 5 años; en la clínica también se [cura la herida](/services/curacion-heridas) en la misma visita.
+
+## ¿Qué necesito para el examen de inmigración?
+
+Traer tu registro de vacunas en cualquier idioma. El médico compara lo que tienes con la lista de USCIS para tu edad y aplica solo lo que falta; algunas vacunas van en series de dos o tres dosis y la siguiente se programa. El detalle del proceso está en [examen médico de inmigración](/services/examenes-inmigracion).
+
+## ¿Quién no debe vacunarse o debe esperar?
+
+Quien tenga fiebre o una enfermedad aguda ese día espera a recuperarse. Quien haya tenido una reacción alérgica grave a una dosis previa o a un componente lo informa antes. En el embarazo la influenza y la Tdap sí se aplican; la MMR y la varicela no. Todo esto se revisa en una conversación breve antes de la inyección.
+
+## ¿Cuánto cuestan las vacunas en Pasadena?
+
+Te damos el precio de cada vacuna por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. Cada vacuna queda registrada y te entregamos constancia para tu archivo, la escuela o el trámite.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, se revisa tu registro y tus antecedentes, se aplica la vacuna y esperas unos 15 minutos en la clínica por si hubiera reacción. Sales con tu constancia y la fecha de la siguiente dosis si aplica.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vaccines are one of the simplest ways to protect your health. At Clínica Hispana Nueva Salud Pasadena we administer the influenza vaccine and tetanus toxoid safely and quickly.
+    longDescriptionEn: `Catching up on vaccines takes minutes and prevents weeks of illness. At Clínica Hispana Nueva Salud Pasadena they are given by medical staff, with no appointment, with guidance in Spanish or English on which one you are due for and when the booster comes.
 
-## What's included?
+## Which vaccines does the clinic give?
 
-- Annual influenza (flu) vaccine
-- Tetanus toxoid (tetanus booster)
-- Administered by medical staff
-- Guidance on when boosters are due
-- Care in Spanish
+The yearly flu vaccine and the tetanus toxoid (Td or Tdap) for adults. In addition, the vaccines required by the immigration medical exam when missing from your record: measles, mumps and rubella (MMR), varicella, hepatitis B and pneumococcal, by age. If you need a different vaccine, call first to confirm availability, and we guide you on where to get it if we do not have it.
 
-## Why get vaccinated
+## When is the flu shot due?
 
-The flu vaccine lowers your risk of getting seriously ill during flu season, and the tetanus toxoid protects you from cuts and wounds. Ask us which one you need.
+Every season, ideally in September or October, though it is worth getting at any time while the virus is circulating. It is a single yearly dose for adults. It is especially indicated for people over 65, pregnant women, people with diabetes, asthma, heart or kidney disease, and those who care for babies or older adults. The usual effects are a sore arm and mild malaise for a day or two.
 
-${WHY_EN}
+## How often is the tetanus shot given?
 
-${PAYMENT_EN}
+A Td booster every 10 years. One dose of Tdap, which also protects against whooping cough, is recommended at least once in adulthood and in every pregnancy. If you cut yourself on something dirty or rusty and do not remember your last booster, it is worth getting one if more than 5 years have passed; the clinic also does [wound care](/en/services/curacion-heridas) at the same visit.
+
+## What do I need for the immigration exam?
+
+Bring your vaccine record in any language. The physician compares what you have with the USCIS list for your age and gives only what is missing; some vaccines come in series of two or three doses, and the next one is scheduled. The process is detailed under [immigration medical exam](/en/services/examenes-inmigracion).
+
+## Who should not be vaccinated, or should wait?
+
+Anyone with a fever or an acute illness that day waits until recovered. Anyone who had a severe allergic reaction to a previous dose or a component says so beforehand. In pregnancy, the flu and Tdap vaccines are given; MMR and varicella are not. All of this is reviewed in a short conversation before the injection.
+
+## How much do vaccines cost in Pasadena?
+
+We give you the price of each vaccine by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. Each vaccine is recorded, and you receive proof for your records, the school or your case.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM; your record and history are reviewed, the vaccine is given and you wait about 15 minutes at the clinic in case of a reaction. You leave with your proof and the date of the next dose if applicable.
 
 ${AREAS_EN}`,
   },
   {
     slug: "sueros-vitaminados",
+    dateModified: "2026-09-12",
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
@@ -2247,42 +2365,66 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Los sueros vitaminados aportan hidratación, vitaminas y minerales directamente a tu organismo. En Clínica Hispana Nueva Salud Pasadena los aplicamos con personal médico y en un ambiente cómodo y seguro.
+    longDescription: `Un suero vitaminado es una infusión intravenosa de líquidos con vitaminas y minerales, aplicada por personal médico en unos 30 a 60 minutos. En Clínica Hispana Nueva Salud Pasadena se indica después de una evaluación breve, sin cita, y se acompaña de la inyección de vitamina B12 cuando hace falta.
 
-## ¿Qué incluye?
+## ¿Qué es un suero vitaminado y qué contiene?
 
-- Evaluación breve para elegir el suero adecuado
-- Hidratación intravenosa
-- Vitaminas y minerales
-- Aplicación y monitoreo por personal médico
-- Atención en español
+Una bolsa de solución salina a la que se añaden vitaminas, habitualmente del complejo B y vitamina C, y en algunos casos minerales; la mezcla disponible se confirma en la clínica. Entra por una vía en el brazo y llega directamente a la sangre, sin pasar por el estómago. La mezcla se elige según el motivo de la visita y tu historial, no es la misma para todos.
 
-## Cuándo pueden ayudar
+## ¿Cuándo puede ayudar?
 
-Después de un periodo de cansancio, deshidratación o malestar, un suero vitaminado puede ayudarte a recuperar energía. Te orientamos sobre si es adecuado para ti.
+Cuando hay deshidratación por calor, vómito, diarrea o exceso de alcohol; después de una gripe o una infección que dejó debilidad; en periodos de cansancio con mala alimentación; y en personas con deficiencia de vitaminas confirmada que no absorben bien las pastillas. En esos casos repone líquidos y vitaminas más rápido que por la boca. No sustituye el tratamiento de una enfermedad ni una alimentación adecuada, y no "quema grasa" ni "desintoxica": eso no lo prometemos.
 
-${WHY_ES}
+## ¿Quién no debe recibirlo?
 
-${PAYMENT_ES}
+Personas con insuficiencia renal o cardiaca, porque el exceso de líquido les hace daño; embarazadas sin indicación médica; y quien tenga alergia a alguno de los componentes. Por eso antes de la infusión el equipo médico revisa tu presión, tus antecedentes y tus medicamentos, y si conviene, pide un análisis.
+
+## ¿Duele o tiene efectos secundarios?
+
+Se siente el piquete de la vía y, a veces, frío en el brazo o un sabor metálico mientras pasa la vitamina C. Puede quedar un pequeño moretón en el sitio. Reacciones mayores son raras y por eso la infusión se hace en la clínica, con personal presente todo el tiempo.
+
+## ¿Y la inyección de vitamina B12?
+
+Se aplica en el músculo en segundos y está indicada cuando la B12 en sangre sale baja o hay factores de riesgo: dieta vegetariana, más de 50 años, metformina, antiácidos o cirugía de estómago. El paquete de Examen General de Sangre con Vitamina B12 cuesta $99 e incluye el examen general de sangre, la inyección de B12 y la orientación de resultados. Si quieres saber cómo es la inyección y cada cuánto se pone, lee nuestra [guía de la vitamina B12](/blog/vitamina-b12-beneficios-inyecciones-pasadena).
+
+## ¿Cuánto cuesta el suero vitaminado en Pasadena?
+
+El precio depende de la mezcla; te lo damos por teléfono al (281) 747-8817 antes de venir. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, hidratado y habiendo comido algo. Tras la evaluación, te sientas cómodo durante la infusión, entre 30 y 60 minutos, y sales caminando. Si el médico detecta una causa de fondo, como anemia o [tiroides](/services/tiroides) alterada, se estudia con [análisis de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Vitamin IV drips deliver hydration, vitamins and minerals directly into your body. At Clínica Hispana Nueva Salud Pasadena we administer them with medical staff in a comfortable, safe setting.
+    longDescriptionEn: `An IV vitamin drip is an intravenous infusion of fluids with vitamins and minerals, given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
 
-## What's included?
+## What is an IV vitamin drip, and what does it contain?
 
-- A brief evaluation to choose the right drip
-- Intravenous hydration
-- Vitamins and minerals
-- Administration and monitoring by medical staff
-- Care in Spanish
+A bag of saline solution to which vitamins, usually B-complex and vitamin C, and in some cases minerals are added; the available mix is confirmed at the clinic. It enters through an IV line in the arm and goes straight into the blood, bypassing the stomach. The mix is chosen according to the reason for the visit and your history; it is not the same for everyone.
 
-## When they can help
+## When can it help?
 
-After a period of fatigue, dehydration or feeling unwell, a vitamin drip can help you recover energy. We advise you on whether it's right for you.
+With dehydration from heat, vomiting, diarrhea or too much alcohol; after a flu or infection that left you weak; during periods of tiredness with poor eating; and in people with a confirmed vitamin deficiency who do not absorb pills well. In those cases it replaces fluids and vitamins faster than by mouth. It does not replace treatment for an illness or a proper diet, and it does not "burn fat" or "detox": we do not promise that.
 
-${WHY_EN}
+## Who should not receive it?
 
-${PAYMENT_EN}
+People with kidney or heart failure, because the extra fluid harms them; pregnant women without a medical indication; and anyone allergic to one of the components. That is why, before the infusion, the medical team checks your blood pressure, history and medications, and orders a lab test if appropriate.
+
+## Does it hurt, or have side effects?
+
+You feel the prick of the IV line and sometimes coolness in the arm or a metallic taste while the vitamin C runs. A small bruise may remain at the site. Major reactions are rare, which is why the infusion is done at the clinic with staff present the whole time.
+
+## What about the vitamin B12 injection?
+
+It is given into the muscle in seconds and is indicated when blood B12 is low or there are risk factors: a vegetarian diet, age over 50, metformin, antacids or stomach surgery. The General Blood Test with Vitamin B12 package costs $99 and includes the general blood test, the B12 injection and a review of your results. To learn what the shot is like and how often it is given, read our [vitamin B12 guide](/en/blog/vitamina-b12-beneficios-inyecciones-pasadena).
+
+## How much does an IV vitamin drip cost in Pasadena?
+
+The price depends on the mix; we give it to you by phone at (281) 747-8817 before you come. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, hydrated and having eaten something. After the evaluation, you sit comfortably during the infusion, 30 to 60 minutes, and walk out afterward. If the physician detects an underlying cause, such as anemia or an altered [thyroid](/en/services/tiroides), it is studied with [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
