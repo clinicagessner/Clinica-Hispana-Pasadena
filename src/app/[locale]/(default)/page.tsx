@@ -11,6 +11,7 @@ import { Faq } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { Contact } from "@/components/sections/contact";
 import { ScrollSpyUrl } from "@/components/shared/scroll-spy-url";
+import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { SITE_CONFIG } from "@/lib/constants";
 import { buildAlternates } from "@/lib/seo";
 import type { Locale } from "@/types";
@@ -41,6 +42,8 @@ export default async function HomePage({
 
   return (
     <>
+      {/* MedicalClinic completo (rating en vivo, reseñas, 29 servicios): solo aquí */}
+      <JsonLdMedicalClinic locale={locale as Locale} />
       <ScrollSpyUrl />
       <Hero />
       <Promotions />

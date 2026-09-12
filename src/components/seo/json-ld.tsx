@@ -1,7 +1,9 @@
+import { getLocale } from "next-intl/server";
 import {
   CONTACT_INFO,
   OPENING_HOURS,
   SITE_CONFIG,
+  SOCIAL_LINKS,
 } from "@/lib/constants";
 import { getAllServices } from "@/lib/services";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -28,10 +30,53 @@ const postalAddress = {
   addressCountry: "US",
 };
 
+const CLINIC_ID = `${SITE_CONFIG.baseUrl}/#clinic`;
+
+// Perfiles reales verificados (GBP, Facebook, Instagram). No inventar más.
+const SAME_AS = [SOCIAL_LINKS.facebook, SOCIAL_LINKS.instagram];
+
+// Ciudades del área de servicio, en el mismo orden que el bloque AREAS del
+// sitio. Pasadena es la ciudad de marca; la postal (GBP y USPS) es South Houston.
+const AREA_SERVED = [
+  "Pasadena",
+  "South Houston",
+  "South Belt",
+  "Genoa",
+  "Sagemont",
+  "Galena Park",
+  "Deer Park",
+  "Houston",
+].map((name) => ({ "@type": "City", name }));
+
 /**
- * MedicalClinic global (montado en (default)/layout). Async: trae rating y
- * reseñas 5★ en vivo (cache 1h) con fallback a GOOGLE_REVIEWS_DATA.
- * availableService usa MedicalProcedure (sin price → no rompe validación).
+ * Nodo ligero de la clínica para las páginas que no son la home: resuelve el
+ * `provider: {@id}` de cada MedicalProcedure sin repetir rating, reseñas y
+ * los 29 servicios en 90 páginas (y sin que reviewCount difiera entre
+ * páginas regeneradas en momentos distintos).
+ */
+export async function JsonLdMedicalClinicRef() {
+  const locale = (await getLocale()) as Locale;
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalClinic",
+        "@id": CLINIC_ID,
+        name: SITE_CONFIG.name,
+        url: absoluteUrl("/", locale),
+        telephone: CONTACT_INFO.phone,
+        address: postalAddress,
+        sameAs: SAME_AS,
+        inLanguage: locale,
+      }}
+    />
+  );
+}
+
+/**
+ * MedicalClinic completo (solo en la home, una única fuente de verdad para
+ * el rating). Async: trae rating y reseñas 5★ en vivo con fallback a
+ * GOOGLE_REVIEWS_DATA. availableService usa MedicalProcedure (sin price).
  */
 export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
   const place = await getGooglePlaceData();
@@ -41,8 +86,10 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
   const data: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "MedicalClinic",
-    "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+    "@id": CLINIC_ID,
     name: SITE_CONFIG.name,
+    inLanguage: locale,
+    sameAs: SAME_AS,
     description:
       locale === "en" ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     url: homeUrl,
@@ -60,7 +107,7 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
       longitude: CONTACT_INFO.coordinates.lng,
     },
     hasMap: CONTACT_INFO.googleMapsUrl,
-    areaServed: { "@type": "City", name: "Pasadena" },
+    areaServed: AREA_SERVED,
     availableLanguage: ["es", "en"],
     openingHoursSpecification: OPENING_HOURS.map((h) => ({
       "@type": "OpeningHoursSpecification",
@@ -98,16 +145,18 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
   return <JsonLd data={data} />;
 }
 
-export function JsonLdBreadcrumb({
+export async function JsonLdBreadcrumb({
   items,
 }: {
   items: { name: string; url: string }[];
 }) {
+  const locale = await getLocale();
   return (
     <JsonLd
       data={{
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        inLanguage: locale,
         itemListElement: items.map((item, i) => ({
           "@type": "ListItem",
           position: i + 1,
@@ -119,7 +168,7 @@ export function JsonLdBreadcrumb({
   );
 }
 
-export function JsonLdMedicalProcedure({
+export async function JsonLdMedicalProcedure({
   name,
   description,
   url,
@@ -128,6 +177,7 @@ export function JsonLdMedicalProcedure({
   description: string;
   url: string;
 }) {
+  const locale = await getLocale();
   return (
     <JsonLd
       data={{
@@ -136,19 +186,22 @@ export function JsonLdMedicalProcedure({
         name,
         description,
         url,
-        provider: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        inLanguage: locale,
+        provider: { "@id": CLINIC_ID },
       }}
     />
   );
 }
 
-export function JsonLdFaqPage({ faqs }: { faqs: LocalizedFaq[] }) {
+export async function JsonLdFaqPage({ faqs }: { faqs: LocalizedFaq[] }) {
   if (faqs.length === 0) return null;
+  const locale = await getLocale();
   return (
     <JsonLd
       data={{
         "@context": "https://schema.org",
         "@type": "FAQPage",
+        inLanguage: locale,
         mainEntity: faqs.map((f) => ({
           "@type": "Question",
           name: f.question,
@@ -159,7 +212,7 @@ export function JsonLdFaqPage({ faqs }: { faqs: LocalizedFaq[] }) {
   );
 }
 
-export function JsonLdCollectionPage({
+export async function JsonLdCollectionPage({
   name,
   description,
   url,
@@ -170,6 +223,7 @@ export function JsonLdCollectionPage({
   url: string;
   items: { name: string; url: string }[];
 }) {
+  const locale = await getLocale();
   return (
     <JsonLd
       data={{
@@ -178,6 +232,7 @@ export function JsonLdCollectionPage({
         name,
         description,
         url,
+        inLanguage: locale,
         mainEntity: {
           "@type": "ItemList",
           itemListElement: items.map((item, i) => ({

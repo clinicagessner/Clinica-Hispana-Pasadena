@@ -27,7 +27,7 @@ export function JsonLdBlogPosting({
         headline: post.title,
         description: post.description,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: post.dateModified ?? post.date,
         inLanguage: locale,
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,

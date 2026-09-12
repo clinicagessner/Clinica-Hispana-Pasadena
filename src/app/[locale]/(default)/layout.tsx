@@ -4,7 +4,7 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { FloatingButtons } from "@/components/layout/floating-buttons";
 import { HashCleaner } from "@/components/shared/hash-cleaner";
-import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import type { Locale } from "@/types";
 
 export default async function DefaultLayout({
@@ -19,8 +19,8 @@ export default async function DefaultLayout({
 
   return (
     <>
-      {/* JSON-LD MedicalClinic global (async, con rating en vivo) */}
-      <JsonLdMedicalClinic locale={locale as Locale} />
+      {/* Nodo ligero de la clínica; el bloque completo con rating vive en la home */}
+      <JsonLdMedicalClinicRef />
       <HashCleaner />
       <Header />
       <main className="flex-1">{children}</main>

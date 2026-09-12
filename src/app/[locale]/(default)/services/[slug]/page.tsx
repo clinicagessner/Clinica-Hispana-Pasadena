@@ -100,7 +100,7 @@ export default async function ServiceDetailPage({
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },
-          { name: "Servicios", url: absoluteUrl("/services", loc) },
+          { name: loc === "en" ? "Services" : "Servicios", url: absoluteUrl("/services", loc) },
           { name: l.title, url },
         ]}
       />
