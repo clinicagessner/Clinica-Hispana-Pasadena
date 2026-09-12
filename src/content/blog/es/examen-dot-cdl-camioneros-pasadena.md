@@ -3,6 +3,7 @@ title: "Examen DOT para camioneros CDL en Pasadena"
 relatedServices: ["examen-dot", "examen-alcohol-drogas", "examenes-sangre"]
 description: "Todo sobre el examen físico DOT para tu licencia CDL en Pasadena: qué incluye, qué llevar y cómo obtener tu certificado el mismo día."
 date: "2026-02-22"
+dateModified: "2026-09-12"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"
 category: "Exámenes"
 cover: "/images/blog/examen-dot-cdl-camioneros-pasadena.webp"
@@ -13,33 +14,37 @@ keywords:
   - "dot physical pasadena"
 ---
 
-Si manejas vehículos comerciales, el examen físico DOT es un requisito que no puedes dejar pasar. Aquí te explicamos en español todo lo que necesitas saber para hacerlo rápido y sin complicaciones.
+El examen DOT no es para reprobar a nadie: es para comprobar que puedes manejar con seguridad. Aun así, muchos conductores salen con un certificado corto o tienen que volver por un papel. Esta guía, pensada para quien maneja camión, explica cómo llegar preparado, qué acorta el certificado y qué hacer después con el DPS.
 
-## ¿Qué es el examen DOT?
+## ¿Cómo me preparo para aprobar a la primera?
 
-El examen físico DOT (Department of Transportation) evalúa que estés en condiciones de salud para conducir camiones y vehículos comerciales con seguridad. Es obligatorio para **obtener o renovar tu licencia CDL**.
+- **Duerme bien la noche anterior y no llegues corriendo.** El estrés y la falta de sueño suben la presión, y la presión es la causa número uno de certificados cortos.
+- **Evita café, energéticas y cigarro en las dos horas previas**, por la misma razón.
+- **Toma tus medicamentos como siempre.** Suspenderlos "para que no salga en el examen" es lo que hace que salga mal.
+- **Trae tus lentes o tu aparato auditivo.** El requisito es ver 20/40 en cada ojo y oír un susurro a 5 pies, con corrección permitida.
+- **Ve al baño justo antes solo si ya diste la muestra de orina.** La prueba busca proteína, sangre o azúcar; no es una prueba de drogas.
 
-## ¿Qué incluye?
+## ¿Qué acorta el certificado o lo niega?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico general
-- Revisión de tu historial médico y medicamentos
-- Certificado médico DOT
+El certificado dura hasta 24 meses, pero el médico examinador puede darlo por menos cuando hay algo que vigilar. Los motivos más frecuentes:
 
-## ¿Qué debo llevar?
+1. **Presión alta.** De 140/90 en adelante suele dar un certificado de un año; de 160/100, de tres meses para que la controles; de 180/110 no se certifica hasta que baje.
+2. **Diabetes.** Con control por pastillas y buena A1C se certifica; con insulina hace falta el formulario MCSA-5870 llenado por tu médico tratante en los últimos 45 días.
+3. **Apnea del sueño.** Si usas CPAP, trae el reporte de uso; sin tratamiento, el médico puede pedir un estudio antes de certificar.
+4. **Problemas de visión no corregidos**, pérdida auditiva sin aparato o una condición cardiaca reciente sin autorización del cardiólogo.
 
-Para agilizar tu visita, lleva:
+## ¿Qué documentos llevo?
 
-1. Tu identificación con foto.
-2. Lentes o aparatos auditivos si los usas.
-3. Lista de medicamentos que tomas.
-4. Si tienes diabetes o presión alta, datos de tu control reciente.
+Licencia vigente, lista de medicamentos con dosis, y según tu caso: resultado reciente de A1C, formulario de insulina, reporte de CPAP, carta del cardiólogo o del especialista, y tu certificado anterior. Si tienes una exención de la FMCSA (por visión, diabetes o extremidades), llévala también.
 
-## ¿Cuánto tarda?
+## ¿Qué hago con el certificado después?
 
-El examen es rápido. En la mayoría de los casos sales el **mismo día con tu certificado** listo para tramitar o renovar tu licencia.
+En Texas, el DPS exige que registres tu certificado médico para mantener la CDL activa: se presenta en una oficina de licencias o por el portal en línea del DPS junto con tu autocertificación de tipo de manejo. Si el certificado vence sin renovarlo, la CDL puede bajar a clase regular. Anota la fecha de vencimiento y agenda la renovación con un mes de anticipación.
 
-## Hazlo con nosotros
+## ¿Puedo volver si no aprobé?
 
-En Clínica Hispana Nueva Salud Pasadena realizamos tu examen DOT en español, de forma rápida y con certificado el mismo día. Llámanos al **(281) 747-8817** o visítanos sin cita.
+Sí. Si la presión salió alta, se puede repetir la medición el mismo día o en una visita corta después de unos días de control. Si faltó un documento, se completa el examen cuando lo traigas. El médico te dice exactamente qué necesitas para certificarte, y en la misma clínica se puede empezar el tratamiento de [presión alta o diabetes](/services/condiciones-cronicas).
+
+## En Pasadena
+
+En Clínica Hispana Nueva Salud Pasadena el [examen físico DOT](/services/examen-dot) se hace en español, sin cita, todos los días de 9 AM a 9 PM, y el certificado se entrega al terminar si calificas. Si tu empresa pide además [prueba de drogas o alcohol](/services/examen-alcohol-drogas), se hace en la misma visita. Llama al (281) 747-8817 para el precio.
