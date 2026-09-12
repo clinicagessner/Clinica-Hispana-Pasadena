@@ -22,7 +22,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "BlogPage" });
   return {
-    title: t("title"),
+    title: `${t("title")} | Nueva Salud Pasadena`,
     description: t("subtitle"),
     alternates: buildAlternates("/blog", locale as Locale),
   };

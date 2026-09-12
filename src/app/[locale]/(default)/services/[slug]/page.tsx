@@ -15,21 +15,11 @@ import {
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
 } from "@/components/seo/json-ld";
-import {
-  getAllServiceSlugs,
-  getCategoryLabel,
-  getRelatedServices,
-  getServiceBySlug,
-  hasServiceImage,
-} from "@/lib/services";
+import { getAllServiceSlugs, getCategoryLabel, getRelatedServices, getServiceBySlug, hasServiceImage } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
-import { CONTACT_INFO } from "@/lib/constants";
-import {
-  getLocalizedFaq,
-  getLocalizedService,
-  serviceImagePath,
-} from "@/lib/utils";
-import { absoluteUrl, buildAlternates } from "@/lib/seo";
+import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
+import { getLocalizedFaq, getLocalizedService, serviceImagePath } from "@/lib/utils";
+import { absoluteUrl, buildAlternates, seoTitle } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
@@ -51,16 +41,25 @@ export async function generateMetadata({
   const service = getServiceBySlug(slug);
   if (!service) return {};
   const l = getLocalizedService(service, locale as Locale);
+  const loc = locale as Locale;
+  const title = seoTitle(l.title, loc);
   return {
-    title: l.title,
+    title,
     description: l.description,
     keywords: l.keywords,
-    alternates: buildAlternates(`/services/${slug}`, locale as Locale),
+    alternates: buildAlternates(`/services/${slug}`, loc),
     openGraph: {
-      title: l.title,
+      title,
       description: l.description,
       type: "article",
-      url: absoluteUrl(`/services/${slug}`, locale as Locale),
+      url: absoluteUrl(`/services/${slug}`, loc),
+      // Las páginas de servicio no tenían og:image y heredaban nada al compartir.
+      images: [
+        {
+          url: hasServiceImage(slug) ? serviceImagePath(slug) : SITE_CONFIG.ogImage,
+          alt: l.title,
+        },
+      ],
     },
   };
 }

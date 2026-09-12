@@ -1,6 +1,6 @@
 ---
 title: "Bienvenidos a Clínica Hispana Nueva Salud Pasadena"
-description: "Conoce Clínica Hispana Nueva Salud Pasadena: atención médica 100% en español en Pasadena, TX, sin cita previa y con precios accesibles, sin necesidad de seguro."
+description: "Conoce Clínica Hispana Nueva Salud Pasadena: atención 100% en español en Pasadena, TX, sin cita previa, precios accesibles y sin necesidad de seguro."
 date: "2026-01-15"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"
 category: "Clínica"

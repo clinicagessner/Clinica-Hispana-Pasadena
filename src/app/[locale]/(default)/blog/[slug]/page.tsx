@@ -36,13 +36,13 @@ export async function generateMetadata({
   const post = getPost(slug, locale as Locale);
   if (!post) return {};
   return {
-    title: post.title,
+    title: post.metaTitle ?? post.title,
     description: post.description,
     keywords: post.keywords,
     alternates: buildAlternates(`/blog/${slug}`, locale as Locale),
     openGraph: {
       type: "article",
-      title: post.title,
+      title: post.metaTitle ?? post.title,
       description: post.description,
       publishedTime: post.date,
       url: absoluteUrl(`/blog/${slug}`, locale as Locale),

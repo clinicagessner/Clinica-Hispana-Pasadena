@@ -1,5 +1,6 @@
 ---
 title: "Salud del hombre en Pasadena: chequeos preventivos que salvan vidas"
+metaTitle: "Salud del hombre en Pasadena: chequeos que salvan vidas"
 description: "Guía de chequeos preventivos para hombres en Pasadena: PSA, testosterona, exámenes de sangre, señales de alarma y qué examen toca según tu edad."
 date: "2026-07-22"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"

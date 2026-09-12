@@ -27,7 +27,7 @@ export async function generateMetadata({
   return {
     title: isEn
       ? "Clínica Hispana Nueva Salud Pasadena, TX - Care in Spanish"
-      : "Clínica Hispana Nueva Salud Pasadena, TX - Atención en Español",
+      : "Clínica Hispana Nueva Salud Pasadena, TX · En Español",
     description: isEn ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     alternates: buildAlternates("/", locale as Locale),
   };

@@ -27,9 +27,9 @@ export const SITE_CONFIG = {
   tagline: "Atención médica 100% en español en Pasadena, TX",
   taglineEn: "Healthcare 100% in Spanish in Pasadena, TX",
   description:
-    "Clínica Hispana Nueva Salud en Pasadena, TX (1101 Spencer Hwy). Médico primario, análisis de sangre, exámenes de inmigración, ginecología y más. Sin cita, abierto 7 días de 9 AM a 9 PM, precios accesibles. No necesitas seguro.",
+    "Clínica hispana en Pasadena, TX (1101 Spencer Hwy): médico primario, análisis de sangre, inmigración y ginecología. Sin cita, 7 días de 9 AM a 9 PM.",
   descriptionEn:
-    "Clínica Hispana Nueva Salud in Pasadena, TX (1101 Spencer Hwy). Primary care, blood tests, immigration exams, gynecology and more. Walk-ins welcome, open 7 days 9 AM-9 PM, affordable prices. No insurance needed.",
+    "Hispanic clinic in Pasadena, TX (1101 Spencer Hwy): primary care, blood tests, immigration exams and gynecology. Walk-ins, 7 days 9 AM to 9 PM.",
   baseUrl: SITE_URL,
   locale: "es-MX",
   logoUrl: "/logo-nueva-salud.webp",
@@ -394,9 +394,9 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Diagnosis and treatment of thyroid conditions (hypothyroidism and hyperthyroidism) with follow-up in Spanish.",
     description:
-      "Doctor para la tiroides en Pasadena, TX. Pruebas TSH, T3 y T4, diagnóstico y tratamiento de hipotiroidismo e hipertiroidismo en español, sin cita y con precios accesibles.",
+      "Doctor para la tiroides en Pasadena, TX: pruebas TSH, T3 y T4, diagnóstico y tratamiento de hipotiroidismo e hipertiroidismo. En español, sin cita.",
     descriptionEn:
-      "Thyroid doctor in Pasadena, TX. TSH, T3 and T4 tests, diagnosis and treatment of hypo- and hyperthyroidism in Spanish, walk-ins welcome, affordable pricing.",
+      "Thyroid doctor in Pasadena, TX: TSH, T3 and T4 tests, diagnosis and treatment of hypo- and hyperthyroidism. In Spanish, walk-ins welcome.",
     keywords: [
       "tiroides pasadena",
       "examen de tiroides pasadena",
@@ -713,7 +713,7 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
     description:
-      "Ginecología en tu clínica hispana en Pasadena, TX, cerca de Houston: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
+      "Ginecología en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. Atención en español, sin cita y con precios accesibles.",
     descriptionEn:
       "Gynecology at your Hispanic clinic in Pasadena, TX, near Houston: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
     keywords: [
@@ -1190,7 +1190,7 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "General urology care: urinalysis and same-day urinary infection treatment, in Spanish.",
     description:
-      "Urología en tu clínica hispana en Pasadena, TX, cerca de Houston: examen de orina y tratamiento de infecciones urinarias el mismo día. En español, con precios accesibles.",
+      "Examen de orina y tratamiento de infecciones urinarias el mismo día en Pasadena, TX. Atención en español, sin cita y con precios accesibles.",
     descriptionEn:
       "Urology at your Hispanic clinic in Pasadena, TX, near Houston: urinalysis and same-day urinary infection treatment. In Spanish, with affordable pricing.",
     keywords: [
