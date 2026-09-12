@@ -9,12 +9,10 @@ import { cn } from "@/lib/utils";
 import type { Locale, ServiceCardData } from "@/types";
 
 // En el home solo se destacan estos 3; el catálogo completo vive en /services.
-// Cuatro: 2 × 2 en tablet y una fila de cuatro en escritorio, sin huecos.
 const HOME_SERVICE_SLUGS = [
   "condiciones-cronicas",
   "ginecologia",
   "examenes-sangre",
-  "examen-dot",
 ];
 
 export function Services() {
@@ -52,9 +50,15 @@ export function Services() {
         </div>
 
         {/* Grid de servicios */}
-        <div className="mt-14 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
+        {/* Flex centrado: con tres tarjetas, la grid de dos columnas en tablet
+            dejaba la tercera sola y pegada a la izquierda. */}
+        <div className="mt-14 flex flex-wrap justify-center gap-6">
           {services.map((service, i) => (
-            <Reveal key={service.slug} delay={(i % 4) * 80}>
+            <Reveal
+              key={service.slug}
+              delay={(i % 3) * 80}
+              className="w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)]"
+            >
               <ServiceCard service={service} className="h-full" />
             </Reveal>
           ))}
