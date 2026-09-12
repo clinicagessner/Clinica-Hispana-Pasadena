@@ -6,10 +6,25 @@ import { SITE_CONFIG } from "@/lib/constants";
  * Requiere INDEXNOW_KEY en .env y el archivo de verificación servido en
  * /public/<INDEXNOW_KEY>.txt (cuyo contenido es la propia key).
  *
+ * Cabecera obligatoria: Authorization: Bearer <INDEXNOW_TOKEN>.
  * Body opcional: { "urls": ["https://.../a", "https://.../b"] }
  * Sin body, envía la home.
  */
 export async function POST(request: Request) {
+  // La ruta era pública: cualquiera podía enviar URLs a IndexNow en nombre
+  // del sitio. Exige un token privado (INDEXNOW_TOKEN) distinto de la key de
+  // IndexNow, que por diseño es pública en /<key>.txt.
+  const token = process.env.INDEXNOW_TOKEN;
+  if (!token) {
+    return NextResponse.json(
+      { error: "INDEXNOW_TOKEN no configurada" },
+      { status: 503 },
+    );
+  }
+  if (request.headers.get("authorization") !== `Bearer ${token}`) {
+    return NextResponse.json({ error: "No autorizado" }, { status: 401 });
+  }
+
   const key = process.env.INDEXNOW_KEY;
   if (!key) {
     return NextResponse.json(
