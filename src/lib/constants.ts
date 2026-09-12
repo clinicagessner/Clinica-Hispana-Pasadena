@@ -298,6 +298,10 @@ const AREAS_EN = `## Medical center near you in Pasadena and Houston, TX
 We are a Hispanic clinic in the Houston, TX area: we care for patients across Pasadena and South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park, Hobby (Houston) and surrounding communities.`;
 
 
+// Último cambio real del copy de servicios (git). Actualizar al reescribir
+// contenido, no en refactors. Un servicio puede sobreescribirlo con dateModified.
+export const SERVICES_LAST_MODIFIED = "2026-08-27";
+
 export const SERVICES: Service[] = [
   {
     slug: "condiciones-cronicas",

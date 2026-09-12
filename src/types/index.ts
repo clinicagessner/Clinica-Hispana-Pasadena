@@ -21,6 +21,8 @@ export interface Service {
   /** Nombre de icono de lucide-react (PascalCase). */
   icon: string;
   highlighted?: boolean;
+  /** YYYY-MM-DD del último cambio de copy. Si falta, aplica SERVICES_LAST_MODIFIED. */
+  dateModified?: string;
 
   // Español (base)
   title: string;
@@ -124,6 +126,8 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** YYYY-MM-DD del último cambio de contenido; si falta, se usa `date`. */
+  dateModified?: string;
   author: string;
   category: string;
   cover: string;
