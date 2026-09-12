@@ -2365,11 +2365,11 @@ ${AREAS_EN}`,
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Un suero vitaminado es una infusión intravenosa de líquidos con vitaminas y minerales, aplicada por personal médico en unos 30 a 60 minutos. En Clínica Hispana Nueva Salud Pasadena se indica después de una evaluación breve, sin cita, y se acompaña de la inyección de vitamina B12 cuando hace falta.
+    longDescription: `Un suero vitaminado es una infusión intravenosa aplicada por personal médico en unos 30 a 60 minutos. En Clínica Hispana Nueva Salud Pasadena se indica después de una evaluación breve, sin cita, y se acompaña de la inyección de vitamina B12 cuando hace falta.
 
-## ¿Qué es un suero vitaminado y qué contiene?
+## ¿Qué es un suero vitaminado?
 
-Una bolsa de solución salina a la que se añaden vitaminas, habitualmente del complejo B y vitamina C, y en algunos casos minerales; la mezcla disponible se confirma en la clínica. Entra por una vía en el brazo y llega directamente a la sangre, sin pasar por el estómago. La mezcla se elige según el motivo de la visita y tu historial, no es la misma para todos.
+Una infusión que entra por una vía en el brazo y llega directamente a la sangre, sin pasar por el estómago. El equipo médico la indica según el motivo de la visita y tu historial, después de una evaluación breve; no es la misma para todos ni se aplica sin revisar antes.
 
 ## ¿Cuándo puede ayudar?
 
@@ -2381,7 +2381,7 @@ Personas con insuficiencia renal o cardiaca, porque el exceso de líquido les ha
 
 ## ¿Duele o tiene efectos secundarios?
 
-Se siente el piquete de la vía y, a veces, frío en el brazo o un sabor metálico mientras pasa la vitamina C. Puede quedar un pequeño moretón en el sitio. Reacciones mayores son raras y por eso la infusión se hace en la clínica, con personal presente todo el tiempo.
+Se siente el piquete de la vía y, a veces, frío en el brazo mientras pasa la infusión. Puede quedar un pequeño moretón en el sitio. Reacciones mayores son raras y por eso la infusión se hace en la clínica, con personal presente todo el tiempo.
 
 ## ¿Y la inyección de vitamina B12?
 
@@ -2396,11 +2396,11 @@ El precio depende de la mezcla; te lo damos por teléfono al (281) 747-8817 ante
 Llegas sin cita de 9 AM a 9 PM, hidratado y habiendo comido algo. Tras la evaluación, te sientas cómodo durante la infusión, entre 30 y 60 minutos, y sales caminando. Si el médico detecta una causa de fondo, como anemia o [tiroides](/services/tiroides) alterada, se estudia con [análisis de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An IV vitamin drip is an intravenous infusion of fluids with vitamins and minerals, given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
+    longDescriptionEn: `An IV vitamin drip is an intravenous infusion given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
 
-## What is an IV vitamin drip, and what does it contain?
+## What is an IV vitamin drip?
 
-A bag of saline solution to which vitamins, usually B-complex and vitamin C, and in some cases minerals are added; the available mix is confirmed at the clinic. It enters through an IV line in the arm and goes straight into the blood, bypassing the stomach. The mix is chosen according to the reason for the visit and your history; it is not the same for everyone.
+An infusion that enters through an IV line in the arm and goes straight into the blood, bypassing the stomach. The medical team orders it according to the reason for the visit and your history, after a brief evaluation; it is not the same for everyone and is never given without that review.
 
 ## When can it help?
 
@@ -2412,7 +2412,7 @@ People with kidney or heart failure, because the extra fluid harms them; pregnan
 
 ## Does it hurt, or have side effects?
 
-You feel the prick of the IV line and sometimes coolness in the arm or a metallic taste while the vitamin C runs. A small bruise may remain at the site. Major reactions are rare, which is why the infusion is done at the clinic with staff present the whole time.
+You feel the prick of the IV line and sometimes coolness in the arm while the infusion runs. A small bruise may remain at the site. Major reactions are rare, which is why the infusion is done at the clinic with staff present the whole time.
 
 ## What about the vitamin B12 injection?
 
