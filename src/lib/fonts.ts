@@ -6,9 +6,10 @@ export const fraunces = Fraunces({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-fraunces",
-  // Fuente variable: omitimos `weight` para cubrir todo el rango (400–900)
-  // y habilitamos los ejes ópticos para titulares con carácter editorial.
-  axes: ["opsz", "SOFT"],
+  // Fuente variable: omitimos `weight` para cubrir todo el rango (400–900).
+  // Solo el eje óptico (opsz): el navegador lo aplica solo a los titulares.
+  // SOFT no se usa en el CSS y duplicaba el peso del archivo (118 → 66 KB).
+  axes: ["opsz"],
 });
 
 // Plus Jakarta Sans → cuerpo (variable --font-sans). Humanista moderna,
