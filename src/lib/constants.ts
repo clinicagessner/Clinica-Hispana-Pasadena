@@ -514,6 +514,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "alergias",
+    dateModified: "2026-09-12",
     order: 3,
     category: "medicina-general",
     icon: "Leaf",
@@ -551,47 +552,72 @@ ${AREAS_EN}`,
       "Management of rhinitis and congestion",
       "Care in Spanish",
     ],
-    longDescription: `Las alergias pueden afectar tu respiración, tu piel y tu descanso. En Clínica Hispana Nueva Salud Pasadena identificamos qué las provoca y te ayudamos a controlarlas para que recuperes tu bienestar.
+    longDescription: `Estornudos cada mañana, ojos que pican, congestión que no se va con nada: en Houston las alergias no descansan, con polen de roble en primavera, ambrosía en otoño y moho y ácaros todo el año. En Clínica Hispana Nueva Salud Pasadena se evalúan y se tratan sin cita, en español.
 
-## ¿Qué incluye?
+## ¿Cómo sé si es alergia o un resfriado?
 
-- Evaluación de síntomas y posibles desencadenantes
-- Tratamiento de alergias estacionales y respiratorias
-- Manejo de rinitis, estornudos y congestión
-- Atención de alergias en la piel (ronchas, comezón)
-- Recomendaciones para evitar las crisis
+La alergia no da fiebre ni dolor de cuerpo, dura semanas o meses, pica (nariz, ojos, paladar) y empeora en ciertos lugares o épocas: al salir a la calle, al limpiar el polvo, con las mascotas, en primavera u otoño. El resfriado dura una o dos semanas, puede dar fiebre y no pica. Cuando los síntomas se repiten cada año en la misma temporada, casi siempre es alergia.
 
-## Cuándo consultar
+## ¿Qué alergias se atienden en la clínica?
 
-Estornudos frecuentes, ojos llorosos, comezón, ronchas o congestión que no mejora son señales de alergia. Un tratamiento adecuado marca la diferencia.
+Rinitis alérgica estacional y de todo el año (polen, ácaros, moho, caspa de mascota), conjuntivitis alérgica, urticaria y ronchas, dermatitis por contacto o por picaduras, y la tos y el silbido de pecho que la alergia provoca en quien tiene asma. Las alergias alimentarias y a medicamentos se evalúan en consulta y, si requieren pruebas especializadas, se orienta la referencia a un alergólogo.
 
-${WHY_ES}
+## ¿Cómo se identifica la causa?
 
-${PAYMENT_ES}
+Con una historia detallada: cuándo empiezan los síntomas, dónde, qué los mejora y qué los empeora, y si hay familiares alérgicos. En muchos casos eso basta para saber el desencadenante y empezar el tratamiento. Cuando hace falta confirmarlo, se puede pedir un análisis de sangre de anticuerpos a los alérgenos más comunes en esta zona.
+
+## ¿Qué tratamiento se da?
+
+Según el síntoma principal: antihistamínicos de nueva generación que no dan sueño, aerosol nasal con esteroide para la congestión, gotas para los ojos, cremas para la piel y, en las crisis de urticaria, medicamento de acción rápida. Si hay asma, se ajusta el inhalador. El tratamiento se explica con horario y duración, y se revisa en unas semanas para ajustar.
+
+## ¿Cuándo es una emergencia?
+
+Hinchazón de labios, lengua o garganta, dificultad para respirar, mareo o ronchas que se extienden rápido tras comer algo, una picadura o un medicamento pueden ser una reacción grave (anafilaxia): llama al 911 o acude a emergencias de inmediato. Si ya te ha pasado, pregunta en consulta por el autoinyector de epinefrina.
+
+## ¿Cómo reduzco los síntomas en casa?
+
+Ducharte y cambiarte al llegar de la calle en temporada de polen, cerrar ventanas y usar aire acondicionado con filtro, lavar sábanas con agua caliente cada semana contra los ácaros, fundas antiácaros en almohadas, controlar la humedad para evitar moho y mantener a las mascotas fuera de la habitación. Cada una de estas medidas baja la dosis de medicamento que necesitas.
+
+## ¿Cuánto cuesta la consulta de alergias en Pasadena?
+
+Te damos el precio de la consulta y, si se pide, del análisis por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. Llegas sin cita de 9 AM a 9 PM. Si tus síntomas son más de tos y fiebre que de comezón, revisa [enfermedades respiratorias](/services/enfermedades-respiratorias); las picaduras o heridas de piel infectadas se atienden en [curación de heridas](/services/curacion-heridas).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Allergies can affect your breathing, your skin and your rest. At Clínica Hispana Nueva Salud Pasadena we identify what triggers them and help you control them so you feel well again.
+    longDescriptionEn: `Sneezing every morning, itchy eyes, congestion that nothing clears: in Houston allergies never rest, with oak pollen in spring, ragweed in fall and mold and dust mites all year. At Clínica Hispana Nueva Salud Pasadena they are evaluated and treated with no appointment, in Spanish or English.
 
-## What's included?
+## How do I know if it is an allergy or a cold?
 
-- Evaluation of symptoms and possible triggers
-- Treatment of seasonal and respiratory allergies
-- Management of rhinitis, sneezing and congestion
-- Care for skin allergies (hives, itching)
-- Recommendations to avoid flare-ups
+An allergy causes no fever or body aches, lasts weeks or months, itches (nose, eyes, roof of the mouth) and gets worse in certain places or seasons: outdoors, when dusting, around pets, in spring or fall. A cold lasts one or two weeks, can cause fever and does not itch. When symptoms return every year in the same season, it is almost always an allergy.
 
-## When to seek care
+## Which allergies are treated at the clinic?
 
-Frequent sneezing, watery eyes, itching, hives or congestion that won't improve are signs of allergy. The right treatment makes the difference.
+Seasonal and year-round allergic rhinitis (pollen, dust mites, mold, pet dander), allergic conjunctivitis, hives and welts, contact or insect-bite dermatitis, and the cough and wheezing that allergies trigger in people with asthma. Food and drug allergies are evaluated at the visit and, if they require specialized testing, we guide the referral to an allergist.
 
-${WHY_EN}
+## How is the cause identified?
 
-${PAYMENT_EN}
+Through a detailed history: when the symptoms start, where, what improves them and what makes them worse, and whether there are allergic relatives. In many cases that is enough to know the trigger and start treatment. When confirmation is needed, a blood test for antibodies to the most common allergens in this area can be ordered.
+
+## What treatment is given?
+
+According to the main symptom: newer-generation antihistamines that do not cause drowsiness, a steroid nasal spray for congestion, eye drops, skin creams and, in hives flare-ups, fast-acting medication. If there is asthma, the inhaler is adjusted. The treatment is explained with schedule and duration, and reviewed in a few weeks to adjust.
+
+## When is it an emergency?
+
+Swelling of the lips, tongue or throat, trouble breathing, dizziness or hives spreading fast after eating something, an insect sting or a medication can be a severe reaction (anaphylaxis): call 911 or go to the emergency room right away. If it has happened to you before, ask at the visit about an epinephrine auto-injector.
+
+## How do I reduce symptoms at home?
+
+Shower and change clothes when you come in from outside during pollen season, keep windows closed and use air conditioning with a filter, wash sheets in hot water every week against dust mites, use mite-proof pillow covers, control humidity to prevent mold and keep pets out of the bedroom. Each of these measures lowers the dose of medication you need.
+
+## How much does an allergy visit cost in Pasadena?
+
+We give you the price of the visit and, if ordered, of the blood test by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. Walk in from 9 AM to 9 PM. If your symptoms are more cough and fever than itching, see [respiratory illnesses](/en/services/enfermedades-respiratorias); infected bites or skin wounds are treated under [wound care](/en/services/curacion-heridas).
 
 ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-respiratorias",
+    dateModified: "2026-09-12",
     order: 4,
     category: "medicina-general",
     icon: "Wind",
@@ -629,42 +655,66 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Cuando empiezan la fiebre, la tos o el malestar, saber si es flu o COVID ayuda a tratarte a tiempo. En Clínica Hispana Nueva Salud Pasadena hacemos pruebas rápidas y te damos tratamiento el mismo día, sin cita.
+    longDescription: `Fiebre, tos y cuerpo cortado se parecen en la gripe, el COVID-19 y un resfriado fuerte, pero el tratamiento no es el mismo. En Clínica Hispana Nueva Salud Pasadena las pruebas rápidas se hacen en la clínica, sin cita, y sales con el diagnóstico y el tratamiento en la misma visita.
 
-## ¿Qué incluye?
+## ¿Es gripe, COVID o resfriado?
 
-- Prueba rápida de influenza (flu)
-- Prueba de COVID-19
-- Evaluación de síntomas respiratorios
-- Tratamiento de gripe, tos, bronquitis e infecciones de garganta
-- Indicaciones de recuperación y cuidado
+El resfriado empieza despacio con congestión y estornudos, casi sin fiebre. La influenza llega de golpe: fiebre alta, dolor de cuerpo, cansancio intenso y tos seca. El COVID-19 puede parecerse a cualquiera de los dos y a veces añade pérdida de olfato o gusto. Como los síntomas se cruzan, la única forma de saberlo es la prueba, y de ella depende si conviene un antiviral.
 
-## No dejes que avance
+## ¿Qué pruebas se hacen y cuánto tardan?
 
-Si la fiebre es alta, la tos no mejora o cuesta respirar, es mejor evaluarte. Un diagnóstico oportuno acorta la enfermedad y evita complicaciones.
+Prueba rápida de influenza A y B y prueba de COVID-19 con muestra nasal, con resultado en la clínica durante la misma visita. Cuando hay dolor de garganta con placas o fiebre sin tos, se añade la [prueba de estreptococo](/services/prueba-strep). Si la tos lleva más de tres semanas, hay dificultad para respirar o sonidos en el pecho, el médico evalúa bronquitis o neumonía y decide si hace falta una radiografía.
 
-${WHY_ES}
+## ¿Qué tratamiento se da?
 
-${PAYMENT_ES}
+Depende del resultado. Para la influenza existe un antiviral que acorta la enfermedad si se empieza en las primeras 48 horas, sobre todo en mayores de 65, embarazadas y personas con asma, diabetes o enfermedades del corazón. Para el COVID-19 hay antivirales indicados en los primeros días para quienes tienen mayor riesgo. Para el resfriado y la mayoría de las bronquitis, que son virales, el tratamiento es de los síntomas: los antibióticos no sirven y solo se recetan cuando hay una infección bacteriana confirmada, como sinusitis o neumonía.
+
+## ¿Cuándo debo ir a emergencias?
+
+Dificultad para respirar en reposo, labios o uñas azulados, dolor en el pecho, confusión, fiebre que no baja después de tres días de tratamiento, o un niño que respira muy rápido, no bebe líquidos o está muy decaído. En esos casos no esperes a la clínica.
+
+## ¿Cómo evito contagiar a mi familia?
+
+Con influenza o COVID, quédate en casa mientras tengas fiebre y hasta 24 horas después de que baje sin medicamento, usa cubrebocas si convives con adultos mayores o bebés, lávate las manos y ventila la casa. La [vacuna de la influenza](/services/vacunas) cada temporada reduce las probabilidades de que la próxima gripe sea grave.
+
+## ¿Cuánto cuesta la consulta con prueba en Pasadena?
+
+Te damos el precio de la consulta y de cada prueba por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM; si tienes fiebre y tos, pide un cubrebocas en recepción. Se toma la muestra, se espera el resultado en la clínica y el médico te examina el pecho, la garganta y los oídos. Sales con receta, indicaciones y, si lo necesitas, una constancia para el trabajo o la escuela. Las [alergias](/services/alergias) que imitan un resfriado que nunca se quita también se atienden aquí.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `When fever, cough or discomfort begin, knowing whether it's flu or COVID helps treat you in time. At Clínica Hispana Nueva Salud Pasadena we run rapid tests and provide same-day treatment, no appointment needed.
+    longDescriptionEn: `Fever, cough and body aches look alike in the flu, COVID-19 and a bad cold, but the treatment is not the same. At Clínica Hispana Nueva Salud Pasadena rapid tests are done in the clinic, with no appointment, and you leave with the diagnosis and treatment at the same visit.
 
-## What's included?
+## Is it the flu, COVID or a cold?
 
-- Rapid influenza (flu) test
-- COVID-19 test
-- Respiratory symptom evaluation
-- Treatment of flu, cough, bronchitis and throat infections
-- Recovery and care instructions
+A cold starts slowly with congestion and sneezing, with little or no fever. The flu hits suddenly: high fever, body aches, intense tiredness and a dry cough. COVID-19 can look like either and sometimes adds loss of smell or taste. Because the symptoms overlap, the only way to know is the test, and whether an antiviral makes sense depends on it.
 
-## Don't let it progress
+## Which tests are done, and how long do they take?
 
-If the fever is high, the cough won't improve or breathing is hard, it's best to get evaluated. Timely diagnosis shortens the illness and prevents complications.
+A rapid influenza A and B test and a COVID-19 test with a nasal swab, with the result in the clinic during the same visit. When there is a sore throat with white patches or fever without cough, the [strep test](/en/services/prueba-strep) is added. If the cough has lasted more than three weeks, there is trouble breathing or sounds in the chest, the physician evaluates for bronchitis or pneumonia and decides whether an X-ray is needed.
 
-${WHY_EN}
+## What treatment is given?
 
-${PAYMENT_EN}
+It depends on the result. For the flu there is an antiviral that shortens the illness if started within the first 48 hours, especially for people over 65, pregnant women and those with asthma, diabetes or heart disease. For COVID-19 there are antivirals indicated in the first days for those at higher risk. For colds and most bronchitis, which are viral, treatment is for the symptoms: antibiotics do not help and are prescribed only when a bacterial infection is confirmed, such as sinusitis or pneumonia.
+
+## When should I go to the emergency room?
+
+Trouble breathing at rest, blue lips or nails, chest pain, confusion, fever that does not come down after three days of treatment, or a child who breathes very fast, will not drink fluids or is very listless. In those cases do not wait for the clinic.
+
+## How do I avoid infecting my family?
+
+With the flu or COVID, stay home while you have a fever and until 24 hours after it comes down without medication, wear a mask if you live with older adults or babies, wash your hands and air out the house. The [flu vaccine](/en/services/vacunas) every season lowers the odds that the next flu will be severe.
+
+## How much does a visit with testing cost in Pasadena?
+
+We give you the price of the visit and of each test by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM; if you have fever and cough, ask for a mask at the front desk. The sample is taken, the result is awaited in the clinic and the physician examines your chest, throat and ears. You leave with a prescription, instructions and, if needed, a note for work or school. [Allergies](/en/services/alergias) that mimic a cold that never goes away are also seen here.
 
 ${AREAS_EN}`,
   },
@@ -819,7 +869,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué servicios ginecológicos ofrece la clínica?
 
-Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y tratamiento de infecciones vaginales por hongos o bacterias y de infecciones urinarias; pruebas de infecciones de transmisión sexual; prueba de embarazo y consulta prenatal inicial; consulta de anticoncepción con pastillas, inyección, parche, anillo e implante; retiro del implante subdérmico; ultrasonido pélvico; y evaluación de la menopausia. Si un caso requiere cirugía o un especialista, se orienta la referencia.
+Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y tratamiento de infecciones vaginales por hongos o bacterias y de infecciones urinarias; pruebas de infecciones de transmisión sexual; prueba de embarazo y consulta prenatal inicial; consulta de anticoncepción con inicio de pastillas o inyección y orientación sobre los demás métodos; retiro del implante subdérmico; ultrasonido pélvico; y evaluación de la menopausia. Si un caso requiere cirugía o un especialista, se orienta la referencia.
 
 ## ¿Cada cuánto se hace el Papanicolaou?
 
@@ -850,7 +900,7 @@ ${AREAS_ES}`,
 
 ## Which gynecology services does the clinic offer?
 
-Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of yeast or bacterial vaginal infections and urinary infections; sexually transmitted infection tests; pregnancy test and initial prenatal visit; contraception counseling with pills, injection, patch, ring and implant; subdermal implant removal; pelvic ultrasound; and menopause evaluation. If a case requires surgery or a specialist, we guide the referral.
+Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of yeast or bacterial vaginal infections and urinary infections; sexually transmitted infection tests; pregnancy test and initial prenatal visit; contraception counseling with pills or the injection started here and guidance on the other methods; subdermal implant removal; pelvic ultrasound; and menopause evaluation. If a case requires surgery or a specialist, we guide the referral.
 
 ## How often is a Pap smear done?
 
@@ -880,6 +930,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "prueba-embarazo",
+    dateModified: "2026-09-12",
     order: 7,
     category: "salud-mujer",
     icon: "Baby",
@@ -917,45 +968,72 @@ ${AREAS_EN}`,
       "Guidance on next steps",
       "Care in Spanish",
     ],
-    longDescription: `Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Nueva Salud Pasadena realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.
+    longDescription: `Un retraso, náuseas por la mañana o simplemente la duda: la prueba de embarazo en Clínica Hispana Nueva Salud Pasadena se hace sin cita, con resultado confirmado por el equipo médico y una conversación en español sobre lo que sigue, sea cual sea tu decisión.
 
-## ¿Qué incluye?
+## ¿Qué prueba de embarazo se hace y cuándo es confiable?
 
-- Prueba de embarazo (orina o sangre)
-- Confirmación médica del resultado
-- Orientación sobre tus siguientes pasos
-- Información sobre control prenatal y referencias
+La prueba de orina detecta la hormona del embarazo (hCG) y es confiable desde el primer día de retraso del periodo; si se hace antes, puede dar negativo aunque haya embarazo. La prueba de sangre detecta la hormona unos días antes que la de orina y, en su versión cuantitativa, mide la cantidad, útil para calcular el tiempo o vigilar un embarazo temprano. El médico te indica cuál conviene según tus fechas.
 
-## Con confianza y respeto
+## ¿Qué pasa si la prueba sale positiva?
 
-Te explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.
+Se confirma el resultado, se calcula la fecha probable de parto a partir de tu último periodo y se revisan tus antecedentes: presión, diabetes, medicamentos que tomas y embarazos previos. Se indica ácido fólico y vitaminas prenatales desde ese día, se piden los análisis iniciales si lo deseas, y se programa un [ultrasonido](/services/ultrasonido) entre las 6 y las 8 semanas para confirmar que el embarazo está en el útero y ver el latido. Para el control prenatal completo te orientamos con una referencia a obstetricia.
 
-${WHY_ES}
+## ¿Y si sale negativa pero el periodo no llega?
 
-${PAYMENT_ES}
+Se repite la prueba en una semana o se hace la de sangre. Si sigue negativa, se buscan otras causas del retraso: estrés, cambios de peso, tiroides, ovarios poliquísticos o la perimenopausia. Un análisis de tiroides y hormonas suele aclararlo, y el seguimiento se hace en [ginecología](/services/ginecologia).
+
+## ¿Es confidencial y sin juicios?
+
+Sí. El resultado es tuyo y no se comparte con nadie sin tu permiso. No se pide estatus migratorio. La conversación sobre tus opciones es informativa y respetuosa; el equipo médico responde tus preguntas y te orienta a los recursos que necesites.
+
+## ¿Cuándo debo venir de inmediato?
+
+Si con la prueba positiva tienes sangrado, dolor fuerte en un lado del vientre, mareo o desmayo, ven el mismo día o acude a emergencias: hay que descartar un embarazo fuera del útero. Vómitos que no permiten retener líquidos también requieren atención.
+
+## ¿Cuánto cuesta la prueba de embarazo en Pasadena?
+
+Te damos el precio de la prueba de orina o de sangre por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. El Chequeo Completo de la Mujer por $179 incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta, y puede ser un buen punto de partida si además llevas tiempo sin revisión.
+
+## Servicios relacionados
+
+Si buscas evitar el embarazo, consulta [anticonceptivos](/services/anticonceptivos). Si estás embarazada y necesitas vacunas o análisis, se hacen en la clínica: [vacunas](/services/vacunas) y [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Nueva Salud Pasadena we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.
+    longDescriptionEn: `A late period, morning nausea or simply the doubt: the pregnancy test at Clínica Hispana Nueva Salud Pasadena is done with no appointment, with the result confirmed by the medical team and a conversation in Spanish or English about what comes next, whatever your decision.
 
-## What's included?
+## Which pregnancy test is done, and when is it reliable?
 
-- Pregnancy test (urine or blood)
-- Medical confirmation of the result
-- Guidance on your next steps
-- Information on prenatal care and referrals
+The urine test detects the pregnancy hormone (hCG) and is reliable from the first day of a missed period; done earlier, it can be negative even if there is a pregnancy. The blood test detects the hormone a few days before the urine test and, in its quantitative version, measures the amount, useful for dating or monitoring an early pregnancy. The physician tells you which one fits your dates.
 
-## With trust and respect
+## What happens if the test is positive?
 
-We explain the result clearly and support you in whatever decision you make, always with respect and privacy.
+The result is confirmed, the due date is estimated from your last period and your history is reviewed: blood pressure, diabetes, medications you take and previous pregnancies. Folic acid and prenatal vitamins are started that day, initial lab work is ordered if you wish, and an [ultrasound](/en/services/ultrasonido) is scheduled between 6 and 8 weeks to confirm the pregnancy is in the uterus and see the heartbeat. For full prenatal care we guide you with an obstetrics referral.
 
-${WHY_EN}
+## What if it is negative but the period does not come?
 
-${PAYMENT_EN}
+The test is repeated in a week or the blood test is done. If it stays negative, other causes of the delay are looked for: stress, weight changes, thyroid, polycystic ovaries or perimenopause. A thyroid and hormone test usually clears it up, and follow-up is done under [gynecology](/en/services/ginecologia).
+
+## Is it confidential and judgment-free?
+
+Yes. The result is yours and is not shared with anyone without your permission. No immigration status is requested. The conversation about your options is informative and respectful; the medical team answers your questions and points you to the resources you need.
+
+## When should I come right away?
+
+If with a positive test you have bleeding, strong pain on one side of the belly, dizziness or fainting, come the same day or go to the emergency room: a pregnancy outside the uterus must be ruled out. Vomiting that keeps you from holding down fluids also needs care.
+
+## How much does a pregnancy test cost in Pasadena?
+
+We give you the price of the urine or blood test by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. The Complete Women's Checkup for $179 includes a pelvic ultrasound, Pap smear, urine test and visit, and can be a good starting point if you have also gone a while without a checkup.
+
+## Related services
+
+If you want to prevent pregnancy, see [birth control](/en/services/anticonceptivos). If you are pregnant and need vaccines or lab work, they are done at the clinic: [vaccines](/en/services/vacunas) and [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
   {
     slug: "anticonceptivos",
+    dateModified: "2026-09-12",
     order: 8,
     category: "salud-mujer",
     icon: "Tablets",
@@ -993,47 +1071,72 @@ ${AREAS_EN}`,
       "Method start and follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Decidir cuándo y cómo formar tu familia es tu derecho. En Clínica Hispana Nueva Salud Pasadena te damos información clara y sin juicios para que elijas el método anticonceptivo que mejor se adapta a ti.
+    longDescription: `Elegir método anticonceptivo es una decisión tuya, y la consulta sirve para que la tomes con información y sin presión. En Clínica Hispana Nueva Salud Pasadena iniciamos y damos seguimiento a las pastillas y a la inyección anticonceptiva, en español, sin cita y con la misma confidencialidad que el resto de la atención.
 
-## ¿Qué incluye?
+## ¿Qué métodos ofrece la clínica?
 
-- Consulta de orientación personalizada
-- Información sobre los distintos métodos
-- Pastillas anticonceptivas e inyección
-- Inicio y seguimiento del método elegido
-- Resolución de dudas y efectos secundarios
+Pastillas anticonceptivas, combinadas o solo de progestina, y la inyección anticonceptiva que se aplica cada 3 meses. En la consulta también se explican los demás métodos, como el parche, el anillo, el implante y el DIU, y si uno de ellos es el que te conviene, te orientamos a dónde colocarlo. Si ya tienes un implante y quieres retirarlo, lo hacemos en la clínica: [extracción de implantes](/services/extraccion-implantes).
 
-## Una decisión informada
+## ¿Cómo se elige el método?
 
-Cada cuerpo y cada vida es distinta. Te ayudamos a comparar opciones según tu salud, tus planes y tu comodidad para que tomes la mejor decisión.
+Con una conversación sobre tu salud y tu rutina: si fumas, tu presión arterial, migrañas, si estás amamantando, si quieres embarazarte en uno o en cinco años, y qué tan fácil te resulta tomar una pastilla a la misma hora. Las pastillas combinadas no se recomiendan con presión alta sin control, migraña con aura o tabaquismo después de los 35; en esos casos la pastilla de progestina o la inyección son opciones. El médico revisa tu presión y tu historial antes de recetar.
 
-${WHY_ES}
+## ¿Cuándo empieza a proteger?
 
-${PAYMENT_ES}
+Si las pastillas se inician en los primeros cinco días del periodo, protegen desde ese momento; si se inician otro día, se usa condón durante la primera semana. La inyección protege desde el primer día si se aplica dentro de los primeros siete días del periodo. En cualquier caso, el condón sigue siendo el único método que también previene infecciones de transmisión sexual.
+
+## ¿Qué efectos secundarios son normales y cuáles no?
+
+Sangrado irregular los primeros meses, sensibilidad en los senos o cambios leves de ánimo suelen pasar. Con la inyección es común que el periodo se vuelva escaso o desaparezca, y al suspenderla la fertilidad puede tardar varios meses en regresar. Dolor fuerte en la pierna, dolor en el pecho, dificultad para respirar o dolor de cabeza intenso y nuevo no son normales: consulta de inmediato.
+
+## ¿Necesito Papanicolaou para que me den anticonceptivos?
+
+No. Se puede iniciar el método sin examen pélvico; solo hace falta revisar presión e historial. Si te toca el Papanicolaou, se puede hacer en la misma visita en [ginecología](/services/ginecologia), pero no es requisito.
+
+## ¿Cuánto cuestan los anticonceptivos en Pasadena?
+
+La consulta y la inyección se cotizan por teléfono al (281) 747-8817; las pastillas se surten con receta en la farmacia de tu preferencia. No necesitas seguro médico. El Chequeo Completo de la Mujer por $179 incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta, si quieres aprovechar la visita para una revisión completa.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM; puedes venir sola o acompañada. Tras la conversación y la toma de presión, sales con tu receta o con la inyección aplicada, y con la fecha de la siguiente dosis o del control a los 3 meses. Si sospechas embarazo antes de iniciar, primero se hace la [prueba de embarazo](/services/prueba-embarazo).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Deciding when and how to build your family is your right. At Clínica Hispana Nueva Salud Pasadena we give you clear, judgment-free information so you can choose the contraceptive method that best fits you.
+    longDescriptionEn: `Choosing a contraceptive method is your decision, and the visit is there so you make it with information and without pressure. At Clínica Hispana Nueva Salud Pasadena we start and follow up birth control pills and the contraceptive injection, in Spanish or English, with no appointment and the same confidentiality as the rest of your care.
 
-## What's included?
+## Which methods does the clinic offer?
 
-- Personalized guidance visit
-- Information about the different methods
-- Birth control pills and injection
-- Starting and following up on the chosen method
-- Answers to questions and side effects
+Birth control pills, combined or progestin-only, and the contraceptive injection given every 3 months. At the visit the other methods are explained too, such as the patch, ring, implant and IUD, and if one of them is the right fit, we guide you on where to get it placed. If you already have an implant and want it out, we remove it at the clinic: [implant removal](/en/services/extraccion-implantes).
 
-## An informed decision
+## How is the method chosen?
 
-Every body and every life is different. We help you compare options based on your health, your plans and your comfort so you make the best decision.
+Through a conversation about your health and routine: whether you smoke, your blood pressure, migraines, whether you are breastfeeding, whether you want a pregnancy in one year or five, and how easy it is for you to take a pill at the same time every day. Combined pills are not recommended with uncontrolled high blood pressure, migraine with aura or smoking after 35; in those cases the progestin-only pill or the injection are options. The physician checks your blood pressure and history before prescribing.
 
-${WHY_EN}
+## When does it start protecting?
 
-${PAYMENT_EN}
+If pills are started within the first five days of your period, they protect from then on; if started on another day, use condoms for the first week. The injection protects from day one if given within the first seven days of your period. Either way, the condom remains the only method that also prevents sexually transmitted infections.
+
+## Which side effects are normal, and which are not?
+
+Irregular bleeding in the first months, breast tenderness or mild mood changes usually pass. With the injection it is common for periods to become light or stop, and after stopping it fertility can take several months to return. Severe leg pain, chest pain, trouble breathing or a new, intense headache are not normal: seek care right away.
+
+## Do I need a Pap smear to get birth control?
+
+No. The method can be started without a pelvic exam; only blood pressure and history need review. If you are due for a Pap smear, it can be done at the same visit under [gynecology](/en/services/ginecologia), but it is not a requirement.
+
+## How much does birth control cost in Pasadena?
+
+The visit and the injection are quoted by phone at (281) 747-8817; pills are filled with a prescription at the pharmacy of your choice. No health insurance is needed. The Complete Women's Checkup for $179 includes a pelvic ultrasound, Pap smear, urine test and visit, if you want to use the visit for a full checkup.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM; you can come alone or with someone. After the conversation and a blood pressure check, you leave with your prescription or the injection given, and with the date of the next dose or the 3-month follow-up. If you suspect pregnancy before starting, a [pregnancy test](/en/services/prueba-embarazo) is done first.
 
 ${AREAS_EN}`,
   },
   {
     slug: "extraccion-implantes",
+    dateModified: "2026-09-12",
     order: 9,
     category: "salud-mujer",
     icon: "Bandage",
@@ -1071,40 +1174,66 @@ ${AREAS_EN}`,
       "Trained staff",
       "After-care explained",
     ],
-    longDescription: `Si llegó el momento de retirar tu implante subdérmico —porque caducó o porque deseas cambiar de método— en Clínica Hispana Nueva Salud Pasadena lo hacemos de forma segura, rápida y con cuidado.
+    longDescription: `El implante anticonceptivo del brazo tiene fecha de caducidad y también puede retirarse antes si ya no lo quieres. En Clínica Hispana Nueva Salud Pasadena la extracción se hace en la clínica, con anestesia local, en una visita corta y sin cita.
 
-## ¿Qué incluye?
+## ¿Cuándo hay que retirar el implante?
 
-- Evaluación y localización del implante
-- Extracción ambulatoria con anestesia local
-- Indicaciones claras de cuidado posterior
-- Orientación sobre tus próximos pasos de planificación
+El implante subdérmico que se usa en Estados Unidos está aprobado para 3 años; pasado ese tiempo hay que retirarlo o cambiarlo. También se retira antes si quieres embarazarte, si los sangrados irregulares o los efectos secundarios no te convienen, o si decides cambiar de método. No hace falta esperar a que caduque para pedir la extracción.
 
-## Un procedimiento sencillo
+## ¿Cómo es el procedimiento?
 
-El retiro suele tomar pocos minutos y se realiza con una pequeña incisión. Te explicamos cada paso en español para que estés tranquila.
+Se localiza el implante al tacto en la cara interna del brazo, se limpia la zona y se aplica anestesia local. A través de una incisión de unos milímetros, el médico extrae la varilla con una pinza. Dura entre 10 y 20 minutos. No requiere puntos: se cierra con cinta adhesiva estéril y se coloca una venda compresiva que se deja unas 24 horas. Sales caminando y puedes seguir con tu día.
 
-${WHY_ES}
+## ¿Duele?
 
-${PAYMENT_ES}
+El piquete de la anestesia es lo que más se siente; después, solo presión. En los días siguientes puede haber un moretón y sensibilidad en la zona, que se controlan con hielo y un analgésico común. Si el implante está muy profundo o no se palpa, no se intenta a ciegas: se pide un [ultrasonido](/services/ultrasonido) para localizarlo y, si es necesario, se refiere a un especialista.
+
+## ¿Cuándo vuelve la fertilidad?
+
+Rápido: la hormona sale del cuerpo en pocos días y puedes ovular en el primer mes. Si no buscas embarazo, hay que empezar otro método el mismo día de la extracción; en la clínica iniciamos [pastillas o inyección](/services/anticonceptivos) en esa misma visita.
+
+## ¿Qué cuidados hay después?
+
+Mantener la venda compresiva 24 horas y la cinta adhesiva 3 a 5 días, no mojar la zona el primer día, evitar cargar peso con ese brazo un par de días, y vigilar señales de infección: enrojecimiento que crece, calor, pus o fiebre. Con eso, la cicatriz queda mínima.
+
+## ¿Cuánto cuesta retirar el implante en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. Si en la misma visita quieres iniciar otro método, se cotiza aparte.
+
+## ¿Qué debo traer?
+
+Identificación con foto y, si la tienes, la tarjeta o el registro con la fecha en que te pusieron el implante y el brazo donde está. Ven con ropa que deje libre el brazo. Si tomas anticoagulantes o tienes alergia a la anestesia local, dilo en recepción.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If it's time to remove your subdermal implant —because it expired or you want to switch methods— at Clínica Hispana Nueva Salud Pasadena we do it safely, quickly and with care.
+    longDescriptionEn: `The contraceptive implant in the arm has an expiration date, and it can also be removed earlier if you no longer want it. At Clínica Hispana Nueva Salud Pasadena removal is done at the clinic, under local anesthesia, in a short visit and with no appointment.
 
-## What's included?
+## When does the implant need to be removed?
 
-- Evaluation and location of the implant
-- Outpatient removal with local anesthesia
-- Clear after-care instructions
-- Guidance on your next family-planning steps
+The subdermal implant used in the United States is approved for 3 years; after that it must be removed or replaced. It is also removed earlier if you want to get pregnant, if irregular bleeding or side effects do not suit you, or if you decide to switch methods. You do not have to wait for it to expire to ask for removal.
 
-## A simple procedure
+## What is the procedure like?
 
-Removal usually takes only a few minutes through a small incision. We explain every step in Spanish so you feel at ease.
+The implant is located by touch on the inner arm, the area is cleaned and local anesthesia is applied. Through an incision of a few millimeters, the physician removes the rod with forceps. It takes 10 to 20 minutes. No stitches are needed: it is closed with sterile adhesive strips and a pressure bandage is placed for about 24 hours. You walk out and can go on with your day.
 
-${WHY_EN}
+## Does it hurt?
 
-${PAYMENT_EN}
+The prick of the anesthesia is what you feel most; after that, only pressure. In the following days there may be a bruise and tenderness, managed with ice and a common pain reliever. If the implant is very deep or cannot be felt, it is not attempted blind: an [ultrasound](/en/services/ultrasonido) is ordered to locate it and, if necessary, you are referred to a specialist.
+
+## When does fertility return?
+
+Quickly: the hormone leaves the body within days and you can ovulate in the first month. If you are not trying to get pregnant, another method must start the same day as removal; at the clinic we start [pills or the injection](/en/services/anticonceptivos) at that same visit.
+
+## What care is needed afterward?
+
+Keep the pressure bandage on for 24 hours and the adhesive strips for 3 to 5 days, do not get the area wet the first day, avoid lifting with that arm for a couple of days, and watch for signs of infection: spreading redness, warmth, pus or fever. With that, the scar stays minimal.
+
+## How much does implant removal cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. If you want to start another method at the same visit, it is quoted separately.
+
+## What should I bring?
+
+A photo ID and, if you have it, the card or record with the date the implant was placed and which arm it is in. Wear clothing that leaves the arm free. If you take blood thinners or are allergic to local anesthesia, say so at the front desk.
 
 ${AREAS_EN}`,
   },
@@ -1334,6 +1463,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
+    dateModified: "2026-09-12",
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
@@ -1375,50 +1505,66 @@ ${AREAS_EN}`,
       "Same-day treatment",
       "Walk-in care in Spanish",
     ],
-    longDescription: `El examen de orina ayuda a detectar infecciones urinarias y otras condiciones. En Clínica Hispana Nueva Salud Pasadena te hacemos la prueba y, si hay infección, empezamos el tratamiento el mismo día.
+    longDescription: `Ardor al orinar, ganas constantes y orina turbia: una infección urinaria no espera a la cita del mes que viene. En Clínica Hispana Nueva Salud Pasadena el examen de orina se hace en la clínica, sin cita, y el tratamiento empieza el mismo día cuando el resultado lo confirma.
 
-## ¿Qué incluye?
+## ¿Cómo sé si tengo infección urinaria?
 
-- Examen general de orina (urianálisis)
-- Evaluación de síntomas
-- Diagnóstico de infección urinaria
-- Tratamiento adecuado el mismo día
-- Indicaciones para evitar que regrese
+Los síntomas típicos son ardor o dolor al orinar, necesidad de ir muchas veces y con poca cantidad, urgencia, orina turbia o con mal olor, y presión en la parte baja del vientre. En la mujer es mucho más frecuente por la anatomía. Si además hay fiebre, escalofríos, dolor en la espalda baja o a un lado, o náusea, la infección puede haber subido al riñón y hay que atenderla ese mismo día.
 
-## Síntomas frecuentes
+## ¿Qué prueba se hace?
 
-Ardor al orinar, ganas constantes de ir al baño, orina turbia o con mal olor y dolor en la parte baja del abdomen. No esperes: una infección sin tratar puede llegar a los riñones.
+Un examen general de orina con tira reactiva y análisis en la clínica, que detecta glóbulos blancos, sangre y nitritos, señales de infección. Cuando la infección se repite, hay fiebre, eres hombre, estás embarazada o tienes diabetes, se manda además un urocultivo, que identifica la bacteria y a qué antibiótico responde. La muestra se toma de la parte media del chorro, tras limpiar la zona, para que no se contamine.
 
-## Urología en una clínica hispana cerca de ti
+## ¿Qué tratamiento se da?
 
-Si buscas atención de urología en español en Pasadena o el área de Houston, TX, en nuestro centro médico evaluamos tus síntomas urinarios, hacemos el examen de orina y comenzamos el tratamiento el mismo día. Y si tu caso necesita un urólogo especialista, te referimos con uno de confianza.
+Un antibiótico elegido según los síntomas, tu historial y, si existe, el cultivo previo; en cistitis no complicada suele durar de 3 a 7 días. Es importante completarlo aunque el ardor desaparezca al segundo día. Se indican también líquidos abundantes y algo para el dolor si hace falta. Si en 48 a 72 horas no mejoras, o empeoras, vuelve: puede que la bacteria sea resistente y haya que cambiar el antibiótico con el resultado del cultivo.
 
-${WHY_ES}
+## ¿Por qué me repite la infección?
 
-${PAYMENT_ES}
+Las causas más comunes son aguantar la orina, poca ingesta de agua, relaciones sexuales sin orinar después, diabetes mal controlada, cambios hormonales de la menopausia y, en el hombre, crecimiento de la próstata. Tres o más infecciones al año merecen un estudio: cultivo, glucosa y, en algunos casos, ultrasonido de vías urinarias.
+
+## ¿Cuánto cuesta atender una infección urinaria en Pasadena?
+
+La consulta con examen de orina se cotiza por teléfono al (281) 747-8817 antes de venir; el cultivo, si se necesita, va aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta. El examen general de orina está incluido en el Chequeo General Completo por $99 junto con el examen general de sangre, A1C y consulta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, de preferencia sin haber orinado en la última hora para poder dar la muestra. Se analiza en la clínica, el médico te examina y sales con la receta y las indicaciones. Si se envió cultivo, te avisamos con el resultado.
+
+## Servicios relacionados
+
+Las infecciones vaginales que se confunden con las urinarias se atienden en [ginecología](/services/ginecologia). Si la infección viene con diabetes descontrolada, el seguimiento está en [condiciones crónicas](/services/condiciones-cronicas). Las pruebas de infecciones de transmisión sexual, que pueden dar síntomas parecidos, se hacen en [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A urine test helps detect urinary infections and other conditions. At Clínica Hispana Nueva Salud Pasadena we run the test and, if there's an infection, we start treatment the same day.
+    longDescriptionEn: `Burning when you urinate, a constant urge and cloudy urine: a urinary infection does not wait for next month's appointment. At Clínica Hispana Nueva Salud Pasadena the urine test is done in the clinic, with no appointment, and treatment starts the same day once the result confirms it.
 
-## What's included?
+## How do I know if I have a urinary infection?
 
-- General urinalysis
-- Symptom evaluation
-- Diagnosis of urinary infection
-- Appropriate same-day treatment
-- Tips to prevent it from coming back
+The typical symptoms are burning or pain when urinating, needing to go often with little output, urgency, cloudy or foul-smelling urine, and pressure in the lower belly. It is far more common in women because of anatomy. If there is also fever, chills, pain in the lower back or one side, or nausea, the infection may have reached the kidney and needs to be seen that same day.
 
-## Common symptoms
+## Which test is done?
 
-Burning when urinating, a constant urge to go, cloudy or foul-smelling urine and lower-abdomen pain. Don't wait: an untreated infection can reach the kidneys.
+A general urine test with a dipstick and in-clinic analysis, which detects white blood cells, blood and nitrites, the signs of infection. When the infection recurs, there is fever, you are a man, you are pregnant or you have diabetes, a urine culture is also sent, which identifies the bacteria and which antibiotic it responds to. The sample is taken midstream, after cleaning the area, so it is not contaminated.
 
-## Urology at a Hispanic clinic near you
+## What treatment is given?
 
-If you're looking for urology care in Spanish in Pasadena or the Houston, TX area, our medical center evaluates your urinary symptoms, runs the urinalysis and starts treatment the same day. And if your case needs a specialist urologist, we refer you to a trusted one.
+An antibiotic chosen according to your symptoms, your history and, if there is one, a previous culture; for uncomplicated cystitis it usually lasts 3 to 7 days. It is important to finish it even if the burning is gone by the second day. Plenty of fluids and something for pain are also advised if needed. If you do not improve in 48 to 72 hours, or get worse, come back: the bacteria may be resistant and the antibiotic may need to change based on the culture result.
 
-${WHY_EN}
+## Why does my infection keep coming back?
 
-${PAYMENT_EN}
+The most common causes are holding urine, drinking little water, sex without urinating afterward, poorly controlled diabetes, hormonal changes of menopause and, in men, prostate enlargement. Three or more infections a year deserve a workup: culture, glucose and, in some cases, an ultrasound of the urinary tract.
+
+## How much does treating a urinary infection cost in Pasadena?
+
+The visit with urine test is quoted by phone at (281) 747-8817 before you come; the culture, if needed, is separate. No health insurance is needed; we accept cash and cards. The general urine test is included in the Complete General Checkup for $99 along with the general blood test, A1C and visit.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, preferably without having urinated in the last hour so you can give the sample. It is analyzed in the clinic, the physician examines you and you leave with the prescription and instructions. If a culture was sent, we let you know the result.
+
+## Related services
+
+Vaginal infections that are mistaken for urinary ones are seen under [gynecology](/en/services/ginecologia). If the infection comes with uncontrolled diabetes, follow-up is under [chronic conditions](/en/services/condiciones-cronicas). Sexually transmitted infection tests, which can cause similar symptoms, are done under [sexually transmitted diseases](/en/services/enfermedades-transmision-sexual).
 
 ${AREAS_EN}`,
   },
