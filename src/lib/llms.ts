@@ -31,7 +31,7 @@ const HOURS_ES = "Lunes a domingo de 9:00 AM a 9:00 PM. Sin cita previa en todo 
 const AREA_EN =
   "Pasadena, TX and nearby: South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park and Hobby (Houston). The clinic sits on Spencer Hwy in ZIP 77587, inside the Pasadena area of Greater Houston.";
 // Sin nombrar otras clínicas (decisión del cliente): solo la ubicación exacta.
-const ENTITY_EN = `${SITE_CONFIG.name} is a Hispanic family walk-in clinic at ${ADDRESS}, on Spencer Hwy in the Pasadena area of southeast Houston (ZIP 77587). This is its only location. Official phone: ${CONTACT_INFO.phoneDisplay}. Website: ${base}.`;
+const ENTITY_EN = `${SITE_CONFIG.name} is a Hispanic family walk-in clinic at ${ADDRESS}, on Spencer Hwy in the Pasadena area of southeast Houston (ZIP 77587). This is its only location. Official phone: ${CONTACT_INFO.phoneDisplay}. Website: [${base.replace("https://","")}](${base}).`;
 
 const lastUpdated = () => {
   const dates = [
@@ -52,11 +52,11 @@ export function buildLlmsTxt(): string {
     "",
     `- Address: ${ADDRESS}`,
     `- Phone (calls): ${CONTACT_INFO.phoneDisplay}`,
-    `- WhatsApp (chat only, not for calls): ${CONTACT_INFO.whatsappDisplay} — https://wa.me/${CONTACT_INFO.whatsapp}`,
+    `- WhatsApp (chat only, not for calls): [${CONTACT_INFO.whatsappDisplay}](https://wa.me/${CONTACT_INFO.whatsapp})`,
     `- Email: ${CONTACT_INFO.email}`,
     `- Coordinates: ${CONTACT_INFO.coordinates.lat}, ${CONTACT_INFO.coordinates.lng}`,
-    `- Google Maps: ${CONTACT_INFO.googleMapsUrl}`,
-    `- Google reviews: ${CONTACT_INFO.googleReviewUrl}`,
+    `- [Google Maps](${CONTACT_INFO.googleMapsUrl})`,
+    `- [Google reviews](${CONTACT_INFO.googleReviewUrl})`,
     "",
   );
   L.push("## Hours", "", HOURS_EN, "", "## Service area", "", AREA_EN, "");
@@ -68,28 +68,28 @@ export function buildLlmsTxt(): string {
     L.push(`### ${cat.labelEn} / ${cat.label}`, "");
     for (const raw of group) {
       const s = getLocalizedService(raw, "en");
-      L.push(`- ${s.title} — ${url(`/services/${raw.slug}`)}`);
+      L.push(`- [${s.title}](${url(`/services/${raw.slug}`)})`);
     }
     L.push("");
   }
   L.push(
     "## Key pages",
     "",
-    `- Homepage: ${url("/")}`,
-    `- All services: ${url("/services")}`,
-    `- Walk-in clinic info: ${url("/walk-in")}`,
-    `- Promotions / health packages: ${url("/promociones")}`,
-    `- Blog: ${url("/blog")}`,
-    `- English version: ${url("/", "en")}`,
+    `- [Homepage](${url("/")})`,
+    `- [All services](${url("/services")})`,
+    `- [Walk-in clinic info](${url("/walk-in")})`,
+    `- [Promotions and health packages](${url("/promociones")})`,
+    `- [Blog](${url("/blog")})`,
+    `- [English version](${url("/", "en")})`,
     "",
   );
   L.push(`## Current promotions (${PROMOTIONS.length})`, "");
   for (const p of byPromoOrder) {
-    L.push(`- ${p.titleEn}${p.price ? ` (${p.price})` : ""}: ${p.includesEn.join(", ")} — ${url("/promociones")}#${p.slug}`);
+    L.push(`- [${p.titleEn}${p.price ? ` (${p.price})` : ""}](${url("/promociones")}#${p.slug}): ${p.includesEn.join(", ")}`);
   }
   L.push("", "Prices are the ones printed on each promotion flyer and may change without notice.", "");
   L.push(`## Guides (${posts.length})`, "");
-  for (const p of posts) L.push(`- ${p.title} (updated ${p.dateModified ?? p.date}) — ${url(`/blog/${p.slug}`)}`);
+  for (const p of posts) L.push(`- [${p.title}](${url(`/blog/${p.slug}`)}): updated ${p.dateModified ?? p.date}`);
   L.push("");
   L.push(
     "## Pricing and insurance",
@@ -102,8 +102,8 @@ export function buildLlmsTxt(): string {
     const q = getLocalizedFaq(f, "en");
     L.push(`Q: ${q.question}`, `A: ${q.answer}`, "");
   }
-  L.push("## Social media", "", `- Facebook: ${SOCIAL_LINKS.facebook}`, `- Instagram: ${SOCIAL_LINKS.instagram}`, "");
-  L.push("## Full descriptions", "", url("/llms-full.txt"), "");
+  L.push("## Social media", "", `- [Facebook](${SOCIAL_LINKS.facebook})`, `- [Instagram](${SOCIAL_LINKS.instagram})`, "");
+  L.push("## Full descriptions", "", `- [llms-full.txt](${url("/llms-full.txt")}): every service in Spanish and English with its FAQ, promotions and guides`, "");
   L.push(`Last updated: ${lastUpdated()}`, "");
   return L.join("\n");
 }
@@ -132,7 +132,7 @@ export function buildLlmsFullTxt(): string {
       }
     }
     L.push(
-      `Service page: ${url(`/services/${raw.slug}`)} | English: ${url(`/services/${raw.slug}`, "en")}`,
+      `Pages: [Spanish](${url(`/services/${raw.slug}`)}) | [English](${url(`/services/${raw.slug}`, "en")})`,
       `Last updated: ${raw.dateModified ?? SERVICES_LAST_MODIFIED}`,
       "",
       "---",
@@ -146,7 +146,7 @@ export function buildLlmsFullTxt(): string {
     "",
     `Walk-ins welcome ${HOURS_EN.charAt(0).toLowerCase()}${HOURS_EN.slice(1)} Bring a photo ID and your medication list. No insurance needed.`,
     "",
-    `Page: ${url("/walk-in")} | English: ${url("/walk-in", "en")}`,
+    `Pages: [Spanish](${url("/walk-in")}) | [English](${url("/walk-in", "en")})`,
     "",
     "---",
     "",
@@ -156,13 +156,13 @@ export function buildLlmsFullTxt(): string {
     L.push(`### ${p.title} / ${p.titleEn}${p.price ? ` — ${p.price}` : ""}`, "", p.blurb, "", p.blurbEn, "");
     L.push("Incluye / Includes:");
     p.includes.forEach((x, i) => L.push(`- ${x}${p.includesEn[i] ? ` / ${p.includesEn[i]}` : ""}`));
-    L.push("", `Page: ${url("/promociones")}#${p.slug}`, "");
+    L.push("", `Page: [${p.titleEn}](${url("/promociones")}#${p.slug})`, "");
   }
   L.push("---", "");
   const posts = getAllPosts("es");
   L.push(`## Guías del blog / Blog guides (${posts.length})`, "");
   for (const p of posts) {
-    L.push(`### ${p.title}`, "", p.description, "", `Published: ${p.date} | Updated: ${p.dateModified ?? p.date}`, `Page: ${url(`/blog/${p.slug}`)} | English: ${url(`/blog/${p.slug}`, "en")}`, "");
+    L.push(`### ${p.title}`, "", p.description, "", `Published: ${p.date} | Updated: ${p.dateModified ?? p.date}`, `Pages: [Spanish](${url(`/blog/${p.slug}`)}) | [English](${url(`/blog/${p.slug}`, "en")})`, "");
   }
   L.push("---", "", `Last updated: ${lastUpdated()}`, "");
   return L.join("\n");
