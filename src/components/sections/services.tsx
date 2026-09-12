@@ -9,10 +9,12 @@ import { cn } from "@/lib/utils";
 import type { Locale, ServiceCardData } from "@/types";
 
 // En el home solo se destacan estos 3; el catálogo completo vive en /services.
+// Cuatro: 2 × 2 en tablet y una fila de cuatro en escritorio, sin huecos.
 const HOME_SERVICE_SLUGS = [
   "condiciones-cronicas",
   "ginecologia",
   "examenes-sangre",
+  "examen-dot",
 ];
 
 export function Services() {
@@ -50,9 +52,9 @@ export function Services() {
         </div>
 
         {/* Grid de servicios */}
-        <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-14 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
           {services.map((service, i) => (
-            <Reveal key={service.slug} delay={(i % 3) * 80}>
+            <Reveal key={service.slug} delay={(i % 4) * 80}>
               <ServiceCard service={service} className="h-full" />
             </Reveal>
           ))}
