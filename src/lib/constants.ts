@@ -2740,6 +2740,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "suturas-heridas",
+    dateModified: "2026-09-12",
     order: 24,
     category: "tratamientos",
     icon: "Scissors",
@@ -2777,47 +2778,72 @@ ${AREAS_EN}`,
       "Walk-ins welcome",
       "After-care instructions",
     ],
-    longDescription: `Una herida que no cierra bien puede infectarse o dejar cicatriz. En Clínica Hispana Nueva Salud Pasadena cerramos cortes y heridas con suturas de forma segura, sin cita y con atención en español.
+    longDescription: `Un corte en la cocina, con una herramienta o en una caída no tiene por qué pasar por emergencias. En Clínica Hispana Nueva Salud Pasadena se limpia, se cierra con puntos bajo anestesia local y se dan las indicaciones de cuidado, sin cita y a una fracción del costo de un hospital.
 
-## ¿Qué incluye?
+## ¿Qué heridas necesitan puntos?
 
-- Evaluación y limpieza de la herida
-- Cierre con suturas (puntos)
-- Aplicación de anestesia local
-- Indicaciones de cuidado y signos de alarma
-- Retiro de puntos cuando corresponde
+Las que abren la piel y no juntan sus bordes solas, las de más de un centímetro de largo, las profundas que dejan ver grasa o músculo, las que sangran sin parar tras 10 minutos de presión y las que están en zonas de movimiento o visibles, como manos, articulaciones o cara. Los raspones y los cortes superficiales que cierran solos no los necesitan; se curan y se vendan.
 
-## Cuándo acudir
+## ¿Cuánto tiempo tengo para suturar?
 
-Cortes profundos, heridas que sangran o no cierran solas, o que tienen bordes abiertos. Atender pronto reduce el riesgo de infección y mejora la cicatrización.
+Lo ideal es dentro de las primeras 6 a 8 horas; en cara y cuero cabelludo, donde la circulación es buena, se puede hasta 24 horas. Pasado ese tiempo, cerrar la herida aumenta el riesgo de infección y el médico puede optar por dejarla abierta y curarla. Mientras vienes, presiona con una gasa limpia y no apliques remedios caseros.
 
-${WHY_ES}
+## ¿Cómo es el procedimiento?
 
-${PAYMENT_ES}
+Se revisa la herida en busca de cuerpos extraños y daño a tendones o nervios, se lava a presión con solución estéril, se aplica anestesia local y se cierra con puntos, grapas o adhesivo según el lugar. Toma entre 20 y 40 minutos. Si no recuerdas cuándo fue tu último refuerzo de tétanos o pasaron más de 5 años y la herida está sucia, se aplica ese día: consulta [vacunas](/services/vacunas).
+
+## ¿Cuándo se quitan los puntos?
+
+Depende de la zona: cara 5 a 7 días, cuero cabelludo y tronco 7 a 10 días, brazos y piernas 10 a 14 días, y articulaciones hasta 14 días. El retiro se hace en la clínica en minutos, sin cita. Los adhesivos y algunos puntos absorbibles se caen solos.
+
+## ¿Qué cuidados hay en casa?
+
+Mantén la venda seca 24 a 48 horas; después, lava con agua y jabón suave, seca con toques y cubre. No sumerjas la herida en piscina o tina hasta retirar los puntos. Ven antes de la cita si ves enrojecimiento que crece, calor, pus, dolor que aumenta o fiebre.
+
+## ¿Cuánto cuesta una sutura en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817; depende del tamaño y la zona. No necesitas seguro médico; aceptamos efectivo y tarjeta. El retiro de puntos y las curaciones de seguimiento se cotizan aparte.
+
+## ¿Cuándo debo ir a emergencias en vez de a la clínica?
+
+Sangrado que no para con presión, heridas por mordedura profunda, cortes con pérdida de sensibilidad o movimiento, heridas en el ojo, objetos clavados, o cortes muy extensos. Para todo lo demás, llegas sin cita de 9 AM a 9 PM. El seguimiento de la herida se hace en [curación de heridas](/services/curacion-heridas).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A wound that doesn't close well can get infected or leave a scar. At Clínica Hispana Nueva Salud Pasadena we close cuts and wounds with sutures safely, no appointment needed and with care in Spanish.
+    longDescriptionEn: `A cut in the kitchen, with a tool or in a fall does not have to mean the emergency room. At Clínica Hispana Nueva Salud Pasadena it is cleaned, closed with stitches under local anesthesia and sent home with care instructions, with no appointment and at a fraction of a hospital's cost.
 
-## What's included?
+## Which wounds need stitches?
 
-- Wound evaluation and cleaning
-- Closure with sutures (stitches)
-- Local anesthesia
-- Care instructions and warning signs
-- Suture removal when appropriate
+Those that open the skin and whose edges do not come together on their own, those longer than a centimeter, deep ones that show fat or muscle, those that keep bleeding after 10 minutes of pressure and those in areas of movement or visibility, such as hands, joints or face. Scrapes and shallow cuts that close by themselves do not need them; they are cleaned and dressed.
 
-## When to come in
+## How long do I have to get stitches?
 
-Deep cuts, wounds that bleed or won't close on their own, or that have open edges. Treating them promptly reduces the risk of infection and improves healing.
+Ideally within the first 6 to 8 hours; on the face and scalp, where circulation is good, up to 24 hours. After that, closing the wound raises the risk of infection and the physician may choose to leave it open and treat it. On your way, press with a clean gauze and do not apply home remedies.
 
-${WHY_EN}
+## What is the procedure like?
 
-${PAYMENT_EN}
+The wound is checked for foreign bodies and damage to tendons or nerves, washed under pressure with sterile solution, numbed with local anesthesia and closed with stitches, staples or adhesive depending on the site. It takes 20 to 40 minutes. If you do not remember your last tetanus booster or more than 5 years have passed and the wound is dirty, it is given that day: see [vaccines](/en/services/vacunas).
+
+## When are stitches removed?
+
+It depends on the area: face 5 to 7 days, scalp and trunk 7 to 10 days, arms and legs 10 to 14 days, and joints up to 14 days. Removal is done at the clinic in minutes, with no appointment. Adhesives and some absorbable stitches fall off on their own.
+
+## What care is needed at home?
+
+Keep the dressing dry for 24 to 48 hours; after that, wash with water and mild soap, pat dry and cover. Do not soak the wound in a pool or bathtub until the stitches are out. Come before your follow-up if you see spreading redness, warmth, pus, increasing pain or fever.
+
+## How much do stitches cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817; it depends on the size and location. No health insurance is needed; we accept cash and cards. Stitch removal and follow-up dressings are quoted separately.
+
+## When should I go to the emergency room instead of the clinic?
+
+Bleeding that does not stop with pressure, deep bite wounds, cuts with loss of sensation or movement, eye wounds, embedded objects, or very extensive cuts. For everything else, walk in from 9 AM to 9 PM. Wound follow-up is done under [wound care](/en/services/curacion-heridas).
 
 ${AREAS_EN}`,
   },
   {
     slug: "curacion-heridas",
+    dateModified: "2026-09-12",
     order: 25,
     category: "tratamientos",
     icon: "Bandage",
@@ -2855,47 +2881,72 @@ ${AREAS_EN}`,
       "Healing follow-up",
       "Care in Spanish",
     ],
-    longDescription: `Una buena curación evita infecciones y ayuda a que la herida sane más rápido. En Clínica Hispana Nueva Salud Pasadena limpiamos, curamos y vendamos tus heridas, y te seguimos hasta que cicatricen.
+    longDescription: `Raspones, quemaduras leves, ampollas, picaduras infectadas o una herida que no termina de cerrar: la curación bien hecha acorta el tiempo de cicatrización y evita infecciones. En Clínica Hispana Nueva Salud Pasadena se limpia, se cubre y se da seguimiento hasta el cierre, sin cita y en español.
 
-## ¿Qué incluye?
+## ¿Qué heridas se curan en la clínica?
 
-- Limpieza y desinfección de la herida
-- Aplicación de apósitos y vendajes
-- Cambio periódico de vendajes
-- Vigilancia de signos de infección
-- Indicaciones de cuidado en casa
+Raspones y cortes superficiales; quemaduras de primer grado y de segundo grado pequeñas; ampollas; picaduras y mordeduras superficiales; heridas que ya fueron suturadas y necesitan cambio de vendaje o retiro de puntos; y heridas crónicas como úlceras en los pies de personas con diabetes o en las piernas por mala circulación, que requieren curaciones repetidas y vigilancia.
 
-## Para todo tipo de heridas
+## ¿Cómo es una curación?
 
-Heridas postoperatorias, úlceras, quemaduras leves o heridas que tardan en sanar. Te ayudamos con curaciones regulares para una mejor recuperación.
+Se lava la herida con solución estéril, se retiran restos y tejido muerto si los hay, se aplica el antiséptico o el apósito indicado según el tipo de herida y se cubre. El médico revisa si hay signos de infección y decide si hace falta antibiótico. Se te explica cómo cambiar el vendaje en casa y cada cuánto volver: heridas simples, cada 2 a 3 días hasta cerrar; úlceras, según evolución.
 
-${WHY_ES}
+## ¿Qué señales indican infección?
 
-${PAYMENT_ES}
+Enrojecimiento que se extiende más allá del borde, calor, hinchazón, dolor que aumenta en vez de disminuir, pus o mal olor, líneas rojas que suben por la piel y fiebre. Ante cualquiera de ellas, ven ese día; una infección de piel tratada temprano se resuelve con antibiótico en casa, tardía puede necesitar hospital.
+
+## ¿Qué hago con una quemadura antes de venir?
+
+Enfría con agua corriente fresca 10 a 20 minutos, no uses hielo, pasta de dientes, mantequilla ni remedios caseros, no revientes las ampollas y cubre con un paño limpio. Las quemaduras de la cara, manos, pies, genitales o articulaciones, las mayores que la palma de la mano o las que dejan la piel blanca o sin dolor son para emergencias.
+
+## ¿Por qué mi herida no cierra?
+
+Diabetes con azúcar alta, mala circulación, presión constante sobre la zona, infección, tabaco y falta de proteínas retrasan la cicatrización. Cuando una herida lleva más de dos semanas sin mejorar, además de curarla se busca la causa: un [análisis de glucosa y sangre](/services/examenes-sangre) y el control de [diabetes y circulación](/services/condiciones-cronicas) son parte del tratamiento.
+
+## ¿Cuánto cuesta una curación en Pasadena?
+
+Te damos el precio de la primera curación y de las de seguimiento por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM con la herida cubierta con un paño limpio. Trae la lista de medicamentos y, si es una herida antigua, cuéntanos desde cuándo la tienes y qué le has puesto. Si necesita puntos, se hace en [suturas](/services/suturas-heridas); si tiene pus acumulado, en [drenaje de abscesos](/services/drenaje-abscesos). Si no recuerdas tu última vacuna del tétanos, se revisa ese día.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Good wound care prevents infections and helps the wound heal faster. At Clínica Hispana Nueva Salud Pasadena we clean, treat and dress your wounds, and follow you until they heal.
+    longDescriptionEn: `Scrapes, minor burns, blisters, infected bites or a wound that will not finish closing: proper wound care shortens healing time and prevents infection. At Clínica Hispana Nueva Salud Pasadena the wound is cleaned, dressed and followed until it closes, with no appointment, in Spanish or English.
 
-## What's included?
+## Which wounds are treated at the clinic?
 
-- Wound cleaning and disinfection
-- Application of dressings and bandages
-- Periodic dressing changes
-- Monitoring for signs of infection
-- Home-care instructions
+Scrapes and shallow cuts; first-degree and small second-degree burns; blisters; superficial bites and stings; wounds that were stitched and need a dressing change or stitch removal; and chronic wounds such as foot ulcers in people with diabetes or leg ulcers from poor circulation, which need repeated dressings and monitoring.
 
-## For all kinds of wounds
+## What is a wound-care visit like?
 
-Post-surgical wounds, ulcers, minor burns or wounds that are slow to heal. We help with regular dressing changes for a better recovery.
+The wound is washed with sterile solution, debris and dead tissue are removed if present, the antiseptic or dressing suited to the wound type is applied and it is covered. The physician checks for signs of infection and decides whether an antibiotic is needed. You are shown how to change the dressing at home and how often to return: simple wounds every 2 to 3 days until closed; ulcers according to progress.
 
-${WHY_EN}
+## Which signs point to infection?
 
-${PAYMENT_EN}
+Redness spreading beyond the edge, warmth, swelling, pain that increases instead of easing, pus or a bad smell, red streaks running up the skin and fever. With any of these, come that day; a skin infection treated early clears with an antibiotic at home, treated late it may need a hospital.
+
+## What should I do with a burn before coming?
+
+Cool it under fresh running water for 10 to 20 minutes, do not use ice, toothpaste, butter or home remedies, do not pop blisters and cover with a clean cloth. Burns on the face, hands, feet, genitals or joints, those larger than the palm of the hand or those that leave the skin white or painless belong in the emergency room.
+
+## Why is my wound not closing?
+
+Diabetes with high sugar, poor circulation, constant pressure on the area, infection, tobacco and low protein delay healing. When a wound has gone more than two weeks without improving, besides treating it the cause is looked for: a [glucose and blood test](/en/services/examenes-sangre) and control of [diabetes and circulation](/en/services/condiciones-cronicas) are part of the treatment.
+
+## How much does wound care cost in Pasadena?
+
+We give you the price of the first visit and of follow-up dressings by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM with the wound covered by a clean cloth. Bring your medication list and, if it is an old wound, tell us how long you have had it and what you have put on it. If it needs stitches, it is done under [stitches](/en/services/suturas-heridas); if it has pus collected, under [abscess drainage](/en/services/drenaje-abscesos). If you do not remember your last tetanus shot, it is reviewed that day.
 
 ${AREAS_EN}`,
   },
   {
     slug: "cirugias-menores",
+    dateModified: "2026-09-12",
     order: 26,
     category: "tratamientos",
     icon: "Stethoscope",
@@ -2933,47 +2984,72 @@ ${AREAS_EN}`,
       "Removal of moles, cysts and lipomas",
       "After-care explained",
     ],
-    longDescription: `Muchos problemas de piel y tejidos blandos se resuelven con un procedimiento sencillo. En Clínica Hispana Nueva Salud Pasadena realizamos cirugías menores ambulatorias con anestesia local, en un mismo día.
+    longDescription: `Un lunar que molesta con la ropa, una bolita bajo la piel que crece, un quiste que se inflama: son problemas que se resuelven en una visita, con anestesia local y sin hospital. En Clínica Hispana Nueva Salud Pasadena la cirugía menor se evalúa y, si procede, se realiza en la misma clínica, en español.
 
-## ¿Qué incluye?
+## ¿Qué procedimientos se hacen?
 
-- Evaluación del lunar, quiste o lesión
-- Procedimiento ambulatorio con anestesia local
-- Extracción de lunares, quistes y lipomas
-- Indicaciones claras de cuidado posterior
-- Retiro de puntos cuando corresponde
+Extracción de lunares y de verrugas o acrocordones (las "bolitas" de piel del cuello y las axilas); extracción de quistes sebáceos y de lipomas, las bolas de grasa bajo la piel; retiro de cuerpos extraños como astillas o vidrio; y biopsia de lesiones de piel cuando el médico necesita saber qué son. Los [abscesos](/services/drenaje-abscesos) y las [uñas encarnadas](/services/unas-encarnadas) tienen su propia página.
 
-## Rápido y seguro
+## ¿Cómo se decide si un lunar se quita?
 
-La mayoría de estos procedimientos toman poco tiempo y no requieren hospitalización. Te explicamos cada paso en español para que estés tranquilo.
+Primero se examina. Se quitan los que molestan por roce, sangran o el paciente quiere retirar por estética, y los que muestran signos de alarma: asimetría, bordes irregulares, varios colores, más de 6 milímetros o cambios recientes. En esos casos el tejido se envía a análisis para descartar cáncer de piel, y si el aspecto es muy sospechoso, se orienta la referencia a dermatología antes de tocarlo.
 
-${WHY_ES}
+## ¿Cómo es el procedimiento?
 
-${PAYMENT_ES}
+Se limpia la zona, se aplica anestesia local con una inyección pequeña y se retira la lesión: por rasurado, por corte con cierre con puntos, o por extracción completa en el caso de quistes y lipomas, para que no vuelvan. Dura entre 15 y 45 minutos según el tamaño. Sales caminando con la zona cubierta y las indicaciones por escrito.
+
+## ¿Duele y deja cicatriz?
+
+Se siente el piquete de la anestesia; después, solo presión. Toda incisión deja una marca, que se minimiza con puntos finos siguiendo las líneas de la piel y con buen cuidado en casa: mantener seco 24 a 48 horas, no exponer al sol la cicatriz durante meses y no forzar la zona hasta retirar los puntos, en 7 a 14 días según el lugar.
+
+## ¿Qué no se hace en la clínica?
+
+Lesiones muy grandes o en zonas delicadas como párpados, lesiones que requieren anestesia general, y lesiones con alta sospecha de melanoma, que se refieren a dermatología o cirugía. Si tomas anticoagulantes, tienes diabetes descontrolada o alergia a la anestesia local, dilo en la evaluación: puede que haga falta ajustar antes.
+
+## ¿Cuánto cuesta una cirugía menor en Pasadena?
+
+Depende del tipo y tamaño de la lesión; te damos el precio en la evaluación o por teléfono al (281) 747-8817. Si la lesión se envía a análisis, ese estudio se cotiza aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM para la evaluación; según el caso, el procedimiento se hace en esa misma visita o se programa. Come normalmente, trae la lista de tus medicamentos y ropa cómoda que deje libre la zona. El seguimiento y el retiro de puntos se hacen en [curación de heridas](/services/curacion-heridas).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many skin and soft-tissue problems are solved with a simple procedure. At Clínica Hispana Nueva Salud Pasadena we perform minor outpatient surgery with local anesthesia, in a single day.
+    longDescriptionEn: `A mole that rubs against clothing, a lump under the skin that grows, a cyst that keeps getting inflamed: these are problems solved in one visit, under local anesthesia and without a hospital. At Clínica Hispana Nueva Salud Pasadena minor surgery is evaluated and, when appropriate, performed at the same clinic, in Spanish or English.
 
-## What's included?
+## Which procedures are done?
 
-- Evaluation of the mole, cyst or lesion
-- Outpatient procedure with local anesthesia
-- Removal of moles, cysts and lipomas
-- Clear after-care instructions
-- Suture removal when appropriate
+Removal of moles and of warts or skin tags (the small "bumps" on the neck and armpits); removal of sebaceous cysts and lipomas, the fatty lumps under the skin; removal of foreign bodies such as splinters or glass; and biopsy of skin lesions when the physician needs to know what they are. [Abscesses](/en/services/drenaje-abscesos) and [ingrown toenails](/en/services/unas-encarnadas) have their own pages.
 
-## Fast and safe
+## How is it decided whether a mole comes off?
 
-Most of these procedures take little time and don't require hospitalization. We explain every step in Spanish so you feel at ease.
+It is examined first. Those removed are the ones that bother you by rubbing, bleed or you want gone for cosmetic reasons, and those showing warning signs: asymmetry, irregular borders, several colors, more than 6 millimeters or recent changes. In those cases the tissue is sent for analysis to rule out skin cancer, and if the appearance is highly suspicious, a dermatology referral is arranged before touching it.
 
-${WHY_EN}
+## What is the procedure like?
 
-${PAYMENT_EN}
+The area is cleaned, local anesthesia is given with a small injection and the lesion is removed: by shaving, by excision closed with stitches, or by complete removal in the case of cysts and lipomas, so they do not come back. It takes 15 to 45 minutes depending on size. You walk out with the area covered and written instructions.
+
+## Does it hurt, and does it scar?
+
+You feel the prick of the anesthesia; after that, only pressure. Every incision leaves a mark, which is minimized with fine stitches along the skin lines and good care at home: keep it dry for 24 to 48 hours, keep the scar out of the sun for months and do not strain the area until the stitches come out, in 7 to 14 days depending on the site.
+
+## What is not done at the clinic?
+
+Very large lesions or lesions in delicate areas such as the eyelids, lesions that require general anesthesia, and lesions with high suspicion of melanoma, which are referred to dermatology or surgery. If you take blood thinners, have uncontrolled diabetes or are allergic to local anesthesia, say so at the evaluation: an adjustment may be needed first.
+
+## How much does minor surgery cost in Pasadena?
+
+It depends on the type and size of the lesion; we give you the price at the evaluation or by phone at (281) 747-8817. If the lesion is sent for analysis, that study is quoted separately. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM for the evaluation; depending on the case, the procedure is done at that same visit or scheduled. Eat normally, bring your medication list and comfortable clothing that leaves the area free. Follow-up and stitch removal are done under [wound care](/en/services/curacion-heridas).
 
 ${AREAS_EN}`,
   },
   {
     slug: "drenaje-abscesos",
+    dateModified: "2026-09-12",
     order: 27,
     category: "tratamientos",
     icon: "Droplet",
@@ -3011,47 +3087,72 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un absceso es una acumulación de pus que causa dolor e hinchazón y necesita drenarse. En Clínica Hispana Nueva Salud Pasadena lo tratamos de forma segura para aliviar la molestia y prevenir que la infección avance.
+    longDescription: `Un grano que creció, se puso duro, rojo y caliente, y ahora late de dolor: es un absceso, una bolsa de pus que no se cura con antibiótico solo. Hay que abrirlo y vaciarlo. En Clínica Hispana Nueva Salud Pasadena se drena con anestesia local, sin cita, y sales aliviado el mismo día.
 
-## ¿Qué incluye?
+## ¿Cómo sé si es un absceso?
 
-- Evaluación del absceso o infección de piel
-- Drenaje con anestesia local
-- Limpieza y desinfección de la zona
-- Tratamiento de la infección cuando se requiere
-- Indicaciones de cuidado y seguimiento
+Empieza como un grano o una picadura y en días se convierte en un bulto doloroso, rojo, caliente y blando en el centro, a veces con un punto blanco por donde quiere salir el pus. Es frecuente en axilas, ingles, glúteos, espalda y muslos, y en quien se rasura o suda mucho. Si además tienes fiebre, escalofríos o el enrojecimiento se extiende rápido, ven ese mismo día.
 
-## No lo dejes pasar
+## ¿Por qué no basta el antibiótico?
 
-Un bulto rojo, caliente y doloroso, a veces con fiebre, necesita atención. Drenarlo a tiempo evita complicaciones y alivia el dolor rápidamente.
+Porque el pus está encapsulado y el medicamento no llega bien adentro. El tratamiento es abrir y drenar; el antibiótico se añade cuando hay celulitis alrededor, fiebre, varios abscesos, diabetes o defensas bajas. Apretarlo en casa empuja la infección hacia adentro y empeora las cosas.
 
-${WHY_ES}
+## ¿Cómo es el drenaje?
 
-${PAYMENT_ES}
+Se limpia la zona y se anestesia con una inyección local; el médico hace una pequeña incisión, vacía el pus, lava la cavidad y, si es grande, deja una gasa dentro (mecha) para que siga drenando y no cierre en falso. Se cubre con un vendaje. Toma entre 15 y 30 minutos. El alivio del dolor es casi inmediato porque desaparece la presión.
+
+## ¿Qué cuidados hay después?
+
+Cambiar el vendaje una o dos veces al día, lavar con agua y jabón en la ducha, no meter la zona en tina ni piscina, y volver en 24 a 48 horas para revisar y retirar o cambiar la mecha. La herida cierra sola desde adentro en una o dos semanas. Ven antes si hay más dolor, fiebre o el enrojecimiento crece.
+
+## ¿Por qué me salen abscesos seguido?
+
+Bacterias en la piel como el estafilococo, incluida la variedad resistente (MRSA), diabetes sin control, rasurado que irrita, ropa ajustada y sudor. Cuando se repiten, se envía el pus a cultivo para conocer la bacteria, se revisa la [glucosa](/services/examenes-sangre) y se dan medidas para reducir las recaídas.
+
+## ¿Cuánto cuesta drenar un absceso en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817. Las revisiones de seguimiento se cotizan como curación. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM; no hace falta ayuno. Trae la lista de tus medicamentos y avisa si tomas anticoagulantes o tienes alergia a la anestesia local. Las curaciones posteriores se hacen en [curación de heridas](/services/curacion-heridas). Si un absceso está en la cara, cerca del ano o es muy grande y profundo, el médico puede indicarte emergencias o cirugía.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An abscess is a buildup of pus that causes pain and swelling and needs to be drained. At Clínica Hispana Nueva Salud Pasadena we treat it safely to relieve the discomfort and prevent the infection from spreading.
+    longDescriptionEn: `A pimple that grew, turned hard, red and hot, and now throbs with pain: it is an abscess, a pocket of pus that antibiotics alone will not cure. It has to be opened and emptied. At Clínica Hispana Nueva Salud Pasadena it is drained under local anesthesia, with no appointment, and you leave relieved the same day.
 
-## What's included?
+## How do I know it is an abscess?
 
-- Evaluation of the abscess or skin infection
-- Drainage with local anesthesia
-- Cleaning and disinfection of the area
-- Treatment of the infection when needed
-- Care and follow-up instructions
+It starts as a pimple or a bite and within days becomes a painful lump, red, warm and soft in the center, sometimes with a white point where the pus wants out. It is common in the armpits, groin, buttocks, back and thighs, and in people who shave or sweat a lot. If you also have fever, chills or the redness spreads fast, come that same day.
 
-## Don't let it go
+## Why is an antibiotic not enough?
 
-A red, warm, painful lump, sometimes with fever, needs attention. Draining it in time prevents complications and relieves pain quickly.
+Because the pus is walled off and the medication does not reach well inside. The treatment is to open and drain; an antibiotic is added when there is cellulitis around it, fever, several abscesses, diabetes or weak immunity. Squeezing it at home pushes the infection deeper and makes things worse.
 
-${WHY_EN}
+## What is the drainage like?
 
-${PAYMENT_EN}
+The area is cleaned and numbed with a local injection; the physician makes a small incision, empties the pus, washes the cavity and, if it is large, leaves a gauze inside (packing) so it keeps draining and does not close falsely. It is covered with a dressing. It takes 15 to 30 minutes. Pain relief is almost immediate because the pressure is gone.
+
+## What care is needed afterward?
+
+Change the dressing once or twice a day, wash with soap and water in the shower, do not soak the area in a tub or pool, and return in 24 to 48 hours to check and remove or change the packing. The wound closes on its own from the inside in one or two weeks. Come sooner if there is more pain, fever or spreading redness.
+
+## Why do I keep getting abscesses?
+
+Skin bacteria such as staph, including the resistant kind (MRSA), uncontrolled diabetes, shaving that irritates, tight clothing and sweat. When they recur, the pus is sent for culture to identify the bacteria, [glucose](/en/services/examenes-sangre) is checked and measures are given to reduce relapses.
+
+## How much does abscess drainage cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817. Follow-up checks are quoted as wound care. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM; no fasting needed. Bring your medication list and say if you take blood thinners or are allergic to local anesthesia. Later dressings are done under [wound care](/en/services/curacion-heridas). If an abscess is on the face, near the anus or very large and deep, the physician may direct you to the emergency room or surgery.
 
 ${AREAS_EN}`,
   },
   {
     slug: "unas-encarnadas",
+    dateModified: "2026-09-12",
     order: 28,
     category: "tratamientos",
     icon: "Footprints",
@@ -3089,47 +3190,72 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `Una uña encarnada puede doler mucho e infectarse si no se trata. En Clínica Hispana Nueva Salud Pasadena la atendemos con un procedimiento sencillo y anestesia local para aliviarte el mismo día.
+    longDescription: `El borde de la uña del dedo gordo se clava en la piel, duele al caminar, se hincha y a veces supura. Una uña encarnada no se arregla sola cuando ya está infectada. En Clínica Hispana Nueva Salud Pasadena se trata con anestesia local, sin cita, y sales caminando con alivio ese mismo día.
 
-## ¿Qué incluye?
+## ¿Por qué se encarna la uña?
 
-- Evaluación de la uña y el dedo
-- Procedimiento con anestesia local
-- Extracción de la porción encarnada de la uña
-- Tratamiento de la infección si la hay
-- Indicaciones de cuidado para evitar que regrese
+Por cortarla demasiado corta o redondeando las esquinas, por zapatos estrechos o puntiagudos, por un golpe, por uñas naturalmente curvas y por sudor excesivo que ablanda la piel. Es más frecuente en adolescentes y adultos jóvenes, y en quien tiene diabetes es más peligrosa porque la infección avanza rápido y cierra peor.
 
-## Cuándo acudir
+## ¿Cuándo se puede tratar en casa y cuándo no?
 
-Dolor, enrojecimiento, hinchazón o pus alrededor de la uña, sobre todo del dedo gordo del pie. Atenderla pronto evita una infección mayor.
+Si solo hay enrojecimiento leve y sin pus, sirve remojar el pie en agua tibia con sal 15 minutos dos o tres veces al día, levantar suavemente el borde con un poco de algodón y usar calzado abierto. Si hay pus, hinchazón que aumenta, dolor que impide caminar, o tienes diabetes o mala circulación, no esperes: hace falta tratamiento en la clínica.
 
-${WHY_ES}
+## ¿Cómo es el procedimiento?
 
-${PAYMENT_ES}
+Se anestesia el dedo con dos pequeñas inyecciones en la base; a partir de ahí no se siente dolor. El médico levanta y retira la porción de uña encarnada, limpia el tejido inflamado y drena el pus si lo hay. Dura entre 15 y 30 minutos. Cuando el problema se repite, se puede tratar la raíz de ese borde para que no vuelva a crecer, lo que el médico decide según el caso. Se cubre con un vendaje y sales caminando con calzado holgado.
+
+## ¿Qué cuidados hay después?
+
+Mantener el pie elevado el resto del día, cambiar el vendaje a diario tras lavar con agua y jabón, usar calzado abierto o amplio una o dos semanas y tomar el analgésico indicado. Si se recetó antibiótico, completarlo. Volver en una semana para revisión, o antes si aumentan el dolor, el enrojecimiento o la fiebre. La uña vuelve a crecer en varios meses.
+
+## ¿Cómo evito que vuelva?
+
+Corta la uña recta, sin redondear las esquinas, y no demasiado corta; usa zapatos con espacio para los dedos; mantén los pies secos; y si haces deporte, revisa que el calzado no apriete la punta. Con diabetes, revisa tus pies a diario y ven ante cualquier herida.
+
+## ¿Cuánto cuesta tratar una uña encarnada en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM con calzado que puedas quitarte fácil. Trae la lista de tus medicamentos y avisa si tomas anticoagulantes o eres alérgico a la anestesia local. El seguimiento se hace en [curación de heridas](/services/curacion-heridas); si tienes diabetes, el control del azúcar en [condiciones crónicas](/services/condiciones-cronicas) forma parte del tratamiento.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An ingrown toenail can hurt a lot and get infected if untreated. At Clínica Hispana Nueva Salud Pasadena we treat it with a simple procedure and local anesthesia to relieve you the same day.
+    longDescriptionEn: `The edge of the big toenail digs into the skin, it hurts to walk, it swells and sometimes oozes. An ingrown toenail does not fix itself once it is infected. At Clínica Hispana Nueva Salud Pasadena it is treated under local anesthesia, with no appointment, and you walk out relieved the same day.
 
-## What's included?
+## Why does the nail grow in?
 
-- Evaluation of the nail and toe
-- Procedure with local anesthesia
-- Removal of the ingrown portion of the nail
-- Treatment of the infection if present
-- Care instructions to prevent recurrence
+From cutting it too short or rounding the corners, from narrow or pointed shoes, from a blow, from naturally curved nails and from heavy sweating that softens the skin. It is more common in teenagers and young adults, and in people with diabetes it is more dangerous because the infection advances fast and heals worse.
 
-## When to come in
+## When can it be treated at home, and when not?
 
-Pain, redness, swelling or pus around the nail, especially the big toe. Treating it promptly prevents a larger infection.
+If there is only mild redness and no pus, soaking the foot in warm salt water for 15 minutes two or three times a day, gently lifting the edge with a bit of cotton and wearing open shoes helps. If there is pus, growing swelling, pain that keeps you from walking, or you have diabetes or poor circulation, do not wait: treatment at the clinic is needed.
 
-${WHY_EN}
+## What is the procedure like?
 
-${PAYMENT_EN}
+The toe is numbed with two small injections at the base; from then on there is no pain. The physician lifts and removes the ingrown portion of the nail, cleans the inflamed tissue and drains pus if present. It takes 15 to 30 minutes. When the problem keeps coming back, the root of that edge can be treated so it does not grow again, which the physician decides case by case. It is covered with a dressing and you walk out in loose footwear.
+
+## What care is needed afterward?
+
+Keep the foot elevated the rest of the day, change the dressing daily after washing with soap and water, wear open or roomy shoes for one or two weeks and take the pain reliever prescribed. If an antibiotic was prescribed, finish it. Return in a week for a check, or sooner if pain, redness or fever increase. The nail grows back over several months.
+
+## How do I keep it from coming back?
+
+Cut the nail straight across, without rounding the corners, and not too short; wear shoes with room for the toes; keep your feet dry; and if you play sports, check that the shoe does not squeeze the tip. With diabetes, check your feet daily and come in for any wound.
+
+## How much does ingrown toenail treatment cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM in shoes you can take off easily. Bring your medication list and say if you take blood thinners or are allergic to local anesthesia. Follow-up is done under [wound care](/en/services/curacion-heridas); if you have diabetes, sugar control under [chronic conditions](/en/services/condiciones-cronicas) is part of the treatment.
 
 ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
+    dateModified: "2026-09-12",
     order: 29,
     category: "tratamientos",
     icon: "Pill",
@@ -3167,42 +3293,66 @@ ${AREAS_EN}`,
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
     ],
-    longDescription: `Al terminar tu consulta en Clínica Hispana Nueva Salud Pasadena puedes recoger tus medicamentos en nuestra propia farmacia, sin tener que ir a otro lugar. Es la comodidad de resolver todo en una sola visita, con atención en español.
+    longDescription: `Salir de la consulta con el medicamento en la mano, sin buscar otra farmacia, sin esperar y con la explicación en español de cómo tomarlo. En Clínica Hispana Nueva Salud Pasadena los medicamentos que el médico te receta en la visita se entregan en la misma clínica.
 
-## ¿Qué incluye?
+## ¿Qué medicamentos se entregan en la clínica?
 
-- Surtido de tu receta justo al terminar la consulta
-- Medicamentos de marca y genéricos
-- Medicamentos de venta libre (OTC) para gripe, dolor, alergias y más
-- Asesoría del personal sobre cómo tomar tus medicamentos
-- Resurtido de recetas
+Los de la receta emitida en tu consulta: antibióticos, antiinflamatorios y analgésicos, medicamentos para presión, diabetes y colesterol, antialérgicos, tratamientos para infecciones vaginales y urinarias y otros de uso frecuente, en versión genérica siempre que exista, y también productos de venta libre para gripe, dolor, alergia y estómago. Si un medicamento no está disponible ese día, te damos la receta para surtirla en la farmacia de tu preferencia.
 
-## ¿Por qué usar nuestra farmacia?
+## ¿Por qué genéricos?
 
-Te ahorras una segunda parada: el médico te atiende, te receta y recoges tu medicamento en el mismo lugar. Te explicamos en español la dosis, los horarios y los cuidados.
+Contienen el mismo principio activo, en la misma dosis y con los mismos controles de calidad que el de marca, y cuestan una fracción. Cuando hay diferencia relevante entre marca y genérico, el médico te lo dice; si no la hay, el genérico es la opción que cuida tu bolsillo.
 
-${WHY_ES}
+## ¿Me explican cómo tomarlo?
 
-${PAYMENT_ES}
+Sí, antes de salir: dosis, horarios, con o sin alimento, cuántos días, qué hacer si olvidas una toma y qué efectos secundarios son normales y cuáles no. Se revisa además que el medicamento nuevo no interfiera con los que ya tomas, por eso es importante traer siempre tu lista o tus frascos.
+
+## ¿Puedo comprar sin consulta?
+
+Los productos de venta libre, sí. Los medicamentos de receta requieren consulta con el médico de la clínica, porque la receta se emite aquí; si traes una receta de otro consultorio, pregunta por teléfono si se puede surtir. Si necesitas renovar un tratamiento crónico, la consulta de seguimiento es rápida y sin cita.
+
+## ¿Cuánto cuestan los medicamentos en Pasadena?
+
+Cada medicamento tiene su precio y se te informa antes de entregarlo, junto con el de la consulta, para que decidas. Puedes llamar al (281) 747-8817 para preguntar si un medicamento está disponible. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Qué debo saber sobre antibióticos?
+
+Se toman completos, los días indicados, aunque te sientas bien antes; no se guardan "para la próxima" ni se comparten. Un antibiótico mal usado deja de funcionar cuando de verdad hace falta. Si te cae mal, no lo suspendas sin avisar: se cambia por otro.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, pasas a consulta y, si el médico receta, recoges el medicamento en la clínica antes de irte. Trae tu lista de medicamentos y tus alergias. El control de tratamientos de largo plazo se hace en [condiciones crónicas](/services/condiciones-cronicas); los análisis que a veces se piden para vigilar un medicamento, en [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `After your visit at Clínica Hispana Nueva Salud Pasadena you can pick up your medications at our own pharmacy, without going anywhere else. It's the convenience of getting everything done in a single visit, with service in Spanish.
+    longDescriptionEn: `Leaving the visit with your medication in hand, without looking for another pharmacy, without waiting and with an explanation in Spanish or English of how to take it. At Clínica Hispana Nueva Salud Pasadena the medications the physician prescribes at your visit are provided at the same clinic.
 
-## What's included?
+## Which medications are provided at the clinic?
 
-- Your prescription filled right after your visit
-- Brand-name and generic medications
-- Over-the-counter (OTC) medications for colds, pain, allergies and more
-- Staff guidance on how to take your medications
-- Prescription refills
+Those on the prescription written at your visit: antibiotics, anti-inflammatories and pain relievers, medications for blood pressure, diabetes and cholesterol, allergy medications, treatments for vaginal and urinary infections and other commonly used ones, in generic form whenever one exists, plus over-the-counter products for colds, pain, allergies and stomach upset. If a medication is not available that day, we give you the prescription to fill at the pharmacy of your choice.
 
-## Why use our pharmacy?
+## Why generics?
 
-You skip the second stop: the doctor sees you, writes your prescription, and you pick up your medication in the same place. We explain the dosage, schedule and precautions in Spanish.
+They contain the same active ingredient, in the same dose and with the same quality controls as the brand, and cost a fraction. When there is a relevant difference between brand and generic, the physician tells you; when there is not, the generic is the option that protects your wallet.
 
-${WHY_EN}
+## Will they explain how to take it?
 
-${PAYMENT_EN}
+Yes, before you leave: dose, times, with or without food, for how many days, what to do if you miss a dose and which side effects are normal and which are not. It is also checked that the new medication does not interfere with the ones you already take, which is why it is important to always bring your list or your bottles.
+
+## Can I buy without a visit?
+
+Over-the-counter products, yes. Prescription medications require a visit with the clinic's physician, because the prescription is written here; if you bring a prescription from another office, ask by phone whether it can be filled. If you need to renew a long-term treatment, the follow-up visit is quick and needs no appointment.
+
+## How much do medications cost in Pasadena?
+
+Each medication has its price and you are told before it is handed over, along with the visit price, so you can decide. You can call (281) 747-8817 to ask whether a medication is available. No health insurance is needed; we accept cash and cards.
+
+## What should I know about antibiotics?
+
+Take the full course, for the days indicated, even if you feel better sooner; do not save them "for next time" or share them. A misused antibiotic stops working when it is really needed. If it does not agree with you, do not stop it without telling us: it is switched for another.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, see the physician and, if a medication is prescribed, pick it up at the clinic before you leave. Bring your medication list and your allergies. Long-term treatments are managed under [chronic conditions](/en/services/condiciones-cronicas); the lab tests sometimes ordered to monitor a medication, under [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
