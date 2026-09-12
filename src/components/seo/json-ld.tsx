@@ -90,6 +90,12 @@ export async function JsonLdMedicalClinic({ locale }: { locale: Locale }) {
     name: SITE_CONFIG.name,
     inLanguage: locale,
     sameAs: SAME_AS,
+    // Ubicación exacta para que buscadores e IAs no la mezclen con otras
+    // clínicas del mismo nombre en el área. Sin nombrarlas.
+    disambiguatingDescription:
+      locale === "en"
+        ? `Family walk-in clinic at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, TX ${CONTACT_INFO.zip} (Pasadena area). Phone ${CONTACT_INFO.phoneDisplay}.`
+        : `Clínica familiar sin cita en ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, TX ${CONTACT_INFO.zip} (área de Pasadena). Teléfono ${CONTACT_INFO.phoneDisplay}.`,
     description:
       locale === "en" ? SITE_CONFIG.descriptionEn : SITE_CONFIG.description,
     url: homeUrl,
