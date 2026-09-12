@@ -52,8 +52,13 @@ function AccordionContent({
   ...props
 }: AccordionPrimitive.Panel.Props) {
   return (
+    // hiddenUntilFound: la respuesta va en el HTML del servidor (antes solo
+    // existía en el JSON-LD y Google y las IAs leían preguntas sin respuesta).
+    // Cerrado lleva hidden="until-found": indexable y lo abre el buscador del
+    // navegador; la animación de apertura se mantiene.
     <AccordionPrimitive.Panel
       data-slot="accordion-content"
+      hiddenUntilFound
       className="overflow-hidden text-sm data-open:animate-accordion-down data-closed:animate-accordion-up"
       {...props}
     >
