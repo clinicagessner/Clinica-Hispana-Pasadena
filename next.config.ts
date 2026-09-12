@@ -51,7 +51,13 @@ const nextConfig: NextConfig = {
     // Optimization (/_next/image devuelve 402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED
     // y las imágenes nuevas no cargan en prod). Servimos los originales de public/,
     // ya comprimidos a mano (webp q80 + png pngquant/oxipng).
-    unoptimized: true,
+    // Loader propio: sirve variantes pregeneradas de public/ (scripts/
+    // generate-image-variants.mjs) para que next/image emita srcset y las
+    // tarjetas no carguen 1024 px, sin pasar por /_next/image.
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
+    deviceSizes: [384, 640, 828, 1080, 1376],
+    imageSizes: [128, 256, 512],
     remotePatterns: [
       { protocol: "https", hostname: "lh3.googleusercontent.com" },
       { protocol: "https", hostname: "*.googleusercontent.com" },
