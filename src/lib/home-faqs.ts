@@ -3,67 +3,51 @@ import type { ServiceFaq } from "@/types";
 // FAQs generales del home (bilingüe). También alimentan el FAQPage JSON-LD.
 export const HOME_FAQS: ServiceFaq[] = [
   {
-    question: "¿Necesito cita para que me atiendan?",
-    answer:
-      "No. Atendemos sin cita previa de lunes a domingo de 9:00 AM a 9:00 PM. También puedes llamarnos para reservar un horario.",
-    questionEn: "Do I need an appointment to be seen?",
-    answerEn:
-      "No. We welcome walk-ins Monday to Sunday from 9:00 AM to 9:00 PM. You can also call us to reserve a time.",
+    question: "¿Necesito cita para que me atiendan en Clínica Hispana Nueva Salud Pasadena?",
+    answer: "No. Atendemos por orden de llegada todos los días de 9 AM a 9 PM, sábados y domingos incluidos. Si prefieres, llama al (281) 747-8817 o escribe por WhatsApp al (346) 222-1006 para preguntar precios o cuánta gente hay antes de venir.",
+    questionEn: "Do I need an appointment at Clínica Hispana Nueva Salud Pasadena?",
+    answerEn: "No. We see patients in order of arrival every day from 9 AM to 9 PM, Saturdays and Sundays included. If you prefer, call (281) 747-8817 or message us on WhatsApp at (346) 222-1006 to ask about prices or how busy it is before coming.",
   },
   {
-    question: "¿Atienden a pacientes sin seguro médico?",
-    answer:
-      "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita.",
-    questionEn: "Do you see patients without health insurance?",
-    answerEn:
-      "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit.",
+    question: "¿Cuánto cuesta una consulta si no tengo seguro médico?",
+    answer: "No necesitas seguro. Cada servicio tiene un precio directo que te decimos en recepción antes de pasar, y se paga en efectivo o con tarjeta. Los paquetes con precio publicado, como el Chequeo General Completo por $99, están en la página de promociones.",
+    questionEn: "How much does a visit cost if I have no health insurance?",
+    answerEn: "You do not need insurance. Each service has a direct price we tell you at the front desk before you go in, paid in cash or by card. Packages with a published price, such as the Complete General Checkup for $99, are on the promotions page.",
   },
   {
-    question: "¿El personal habla español?",
-    answer:
-      "Sí, todo nuestro equipo te atiende 100% en español. También ofrecemos atención en inglés.",
-    questionEn: "Does the staff speak Spanish?",
-    answerEn:
-      "Yes, our entire team cares for you 100% in Spanish. We also offer care in English.",
+    question: "¿La atención es en español?",
+    answer: "Sí, desde recepción hasta la consulta con el equipo médico. También atendemos en inglés, y toda la información del sitio está en los dos idiomas.",
+    questionEn: "Is care provided in Spanish?",
+    answerEn: "Yes, from the front desk to the visit with the medical team. We also serve patients in English, and everything on this site is available in both languages.",
   },
   {
-    question: "¿Qué servicios ofrecen?",
-    answer:
-      "Medicina familiar, exámenes de inmigración I-693, laboratorio, ultrasonido, ginecología, examen DOT, control de diabetes e hipertensión y mucho más.",
-    questionEn: "What services do you offer?",
-    answerEn:
-      "Family medicine, I-693 immigration exams, lab work, ultrasound, gynecology, DOT exams, diabetes and hypertension management and much more.",
+    question: "¿Qué servicios ofrece la clínica?",
+    answer: "Consulta general, control de diabetes, presión y colesterol, tiroides, ginecología y planificación familiar, salud del hombre, análisis de sangre y orina, ultrasonido, electrocardiograma, vacunas, sueros vitaminados, curación de heridas y cirugías menores, y los exámenes con formulario: DOT para licencia CDL, físico escolar y examen médico de inmigración.",
+    questionEn: "Which services does the clinic offer?",
+    answerEn: "General visits, diabetes, blood pressure and cholesterol care, thyroid, gynecology and family planning, men's health, blood and urine tests, ultrasound, EKG, vaccines, IV vitamin therapy, wound care and minor surgery, and the exams that come with a form: DOT physical for a CDL, school physical and the immigration medical exam.",
   },
   {
-    question: "¿Dónde están ubicados?",
-    answer:
-      "Estamos en 1101 Spencer Hwy Suite H, South Houston, TX 77587, sirviendo a Pasadena, South Houston, South Belt, Genoa, Galena Park, Deer Park y el área de Houston.",
-    questionEn: "Where are you located?",
-    answerEn:
-      "We are at 1101 Spencer Hwy Suite H, South Houston, TX 77587, serving Pasadena, South Houston, South Belt, Genoa, Galena Park, Deer Park and the greater Houston area.",
+    question: "¿Dónde está la clínica y cómo llego?",
+    answer: "En 1101 Spencer Hwy, Suite H, South Houston, TX 77587, sobre Spencer Hwy en el área de Pasadena, al sureste de Houston. Busca Clínica Hispana Nueva Salud Pasadena en Google Maps para las indicaciones desde donde estés.",
+    questionEn: "Where is the clinic, and how do I get there?",
+    answerEn: "At 1101 Spencer Hwy, Suite H, South Houston, TX 77587, on Spencer Hwy in the Pasadena area, southeast of Houston. Search for Clínica Hispana Nueva Salud Pasadena on Google Maps for directions from wherever you are.",
   },
   {
-    question: "¿Buscas una clínica hispana cerca de mí en Pasadena o Houston, TX?",
-    answer:
-      "Somos una clínica hispana y latina que atiende a Pasadena y al área de Houston, TX. Nos encuentras en 1101 Spencer Hwy Suite H, con atención 100% en español todos los días, sin cita previa.",
-    questionEn: "Looking for a Hispanic clinic near me in Pasadena or Houston, TX?",
-    answerEn:
-      "We are a Hispanic and Latino clinic serving Pasadena and the Houston, TX area. Find us at 1101 Spencer Hwy Suite H, with care 100% in Spanish every day, walk-ins welcome.",
+    question: "¿Abren los fines de semana y por la noche?",
+    answer: "Sí. El horario es el mismo los siete días: de 9 de la mañana a 9 de la noche. Puedes venir saliendo del trabajo, un sábado o un domingo, sin cita.",
+    questionEn: "Are you open on weekends and in the evening?",
+    answerEn: "Yes. The hours are the same seven days a week: 9 in the morning to 9 at night. You can come after work, on a Saturday or a Sunday, with no appointment.",
   },
   {
-    question: "¿Pueden ser mi médico primario cerca de mí?",
-    answer:
-      "Sí. Muchas familias nos eligen como su médico primario y centro médico de confianza: consultas, control de condiciones crónicas, análisis de sangre y seguimiento continuo, todo en español.",
-    questionEn: "Can you be my primary care doctor near me?",
-    answerEn:
-      "Yes. Many families choose us as their primary care doctor and trusted medical center: visits, chronic condition management, blood tests and ongoing follow-up, all in Spanish.",
+    question: "¿Pueden ser mi médico de cabecera?",
+    answer: "Sí. Muchas familias de Pasadena, South Houston, South Belt, Deer Park y Galena Park nos usan como su clínica de siempre: consulta cuando enferman, chequeo anual, control de sus condiciones crónicas y análisis en el mismo lugar, con su historial en la clínica.",
+    questionEn: "Can you be my primary care clinic?",
+    answerEn: "Yes. Many families from Pasadena, South Houston, South Belt, Deer Park and Galena Park use us as their regular clinic: visits when they get sick, a yearly checkup, follow-up of chronic conditions and lab work in the same place, with their records kept here.",
   },
   {
-    question: "¿Realizan el examen médico de inmigración?",
-    answer:
-      "Sí, realizamos el examen I-693 con médico autorizado por USCIS, incluyendo vacunas y el formulario sellado el mismo día.",
-    questionEn: "Do you perform the immigration medical exam?",
-    answerEn:
-      "Yes, we perform the I-693 exam with a USCIS-authorized physician, including vaccines and the sealed form the same day.",
+    question: "¿Hacen el examen médico de inmigración I-693?",
+    answer: "Sí, con un médico autorizado por USCIS. Se hace el examen físico, las pruebas de laboratorio y las vacunas que falten en la misma clínica, y se entrega el Formulario I-693 en sobre sellado cuando los resultados están completos. Trae tu registro de vacunas.",
+    questionEn: "Do you perform the I-693 immigration medical exam?",
+    answerEn: "Yes, with a USCIS-authorized physician. The physical exam, lab tests and any missing vaccines are done at the same clinic, and Form I-693 is delivered in a sealed envelope once results are complete. Bring your vaccine record.",
   },
 ];
