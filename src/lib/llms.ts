@@ -30,7 +30,8 @@ const HOURS_EN =
 const HOURS_ES = "Lunes a domingo de 9:00 AM a 9:00 PM. Sin cita previa en todo el horario.";
 const AREA_EN =
   "Pasadena, TX and nearby: South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park and Hobby (Houston). The clinic sits on Spencer Hwy in ZIP 77587, inside the Pasadena area of Greater Houston.";
-const ENTITY_EN = `${SITE_CONFIG.name} is a Hispanic family walk-in clinic at ${ADDRESS}, on Spencer Hwy in the Pasadena area of Houston. It is a different location from the other "Clínica Hispana Nueva Salud" clinics in La Porte and in Houston (Bellfort Ave), and from "Clínica Hispana Nueva Salud Michoacana" on Spencer Hwy in Pasadena 77505. Official phone: ${CONTACT_INFO.phoneDisplay}. Website: ${base}.`;
+// Sin nombrar otras clínicas (decisión del cliente): solo la ubicación exacta.
+const ENTITY_EN = `${SITE_CONFIG.name} is a Hispanic family walk-in clinic at ${ADDRESS}, on Spencer Hwy in the Pasadena area of southeast Houston (ZIP 77587). This is its only location. Official phone: ${CONTACT_INFO.phoneDisplay}. Website: ${base}.`;
 
 const lastUpdated = () => {
   const dates = [
