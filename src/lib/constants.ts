@@ -384,6 +384,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "tiroides",
+    dateModified: "2026-09-12",
     order: 2,
     category: "medicina-general",
     icon: "Thermometer",
@@ -423,46 +424,66 @@ ${AREAS_EN}`,
       "Treatment and medication adjustment",
       "Follow-up in Spanish",
     ],
-    longDescription: `La tiroides regula tu energía, tu peso y tu ánimo. Cuando funciona de más o de menos aparecen síntomas que afectan tu día a día. En Clínica Hispana Nueva Salud Pasadena evaluamos tu tiroides con análisis de laboratorio y te damos el tratamiento adecuado.
-
-## ¿Qué incluye?
-
-- Evaluación de síntomas
-- Pruebas de función tiroidea (TSH, T3, T4)
-- Diagnóstico de hipotiroidismo o hipertiroidismo
-- Inicio y ajuste del tratamiento
-- Seguimiento periódico
-
-## Síntomas frecuentes
-
-Cansancio, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, nerviosismo o tristeza. Si los notas, una prueba sencilla puede dar la respuesta.
+    longDescription: `Cansancio que no se quita, peso que sube o baja sin razón, frío o calor fuera de lo normal: muchas veces la explicación está en la tiroides. En Clínica Hispana Nueva Salud Pasadena revisamos tu tiroides con análisis de sangre, te explicamos los resultados en español y empezamos el tratamiento en la misma clínica.
 
 ## ¿Qué doctor atiende la tiroides?
 
-El médico general o de atención primaria es quien revisa la tiroides en primera instancia: ordena los análisis, interpreta los resultados e inicia el tratamiento para el hipotiroidismo o hipertiroidismo. Solo en casos complejos (nódulos, cáncer o tiroides que no responde al medicamento) se refiere a un endocrinólogo. En nuestra clínica en Pasadena puedes hacerte la prueba y empezar el tratamiento el mismo día, sin cita.
+El médico general o de atención primaria. Es quien ordena las pruebas, interpreta los resultados, inicia el tratamiento y ajusta la dosis en las visitas de seguimiento. El endocrinólogo, el especialista en glándulas, se necesita solo en casos complejos: nódulos que requieren estudio, hipertiroidismo difícil de controlar, embarazo con tiroides alterada o cáncer de tiroides. Si tu caso lo requiere, te lo decimos y te orientamos para la referencia; la mayoría de los pacientes con hipotiroidismo se controlan bien con su médico general.
 
-${WHY_ES}
+## ¿Qué pruebas se hacen para revisar la tiroides?
 
-${PAYMENT_ES}
+La prueba principal es la TSH, la hormona que le ordena a la tiroides trabajar. Si la TSH sale alterada, se completa con T4 libre y, en algunos casos, T3, para saber si la glándula trabaja de menos (hipotiroidismo) o de más (hipertiroidismo). Cuando hay sospecha de causa autoinmune se piden anticuerpos tiroideos, y si el médico palpa un bulto en el cuello, se indica un [ultrasonido de tiroides](/services/ultrasonido). No hace falta ayuno para estas pruebas y la muestra se toma en la clínica, sin cita.
+
+## ¿Cuáles son los síntomas de hipotiroidismo e hipertiroidismo?
+
+Cuando la tiroides trabaja de menos: cansancio, aumento de peso, frío, piel seca, estreñimiento, caída de cabello, tristeza, periodos menstruales abundantes. Cuando trabaja de más: nerviosismo, palpitaciones, pérdida de peso con buen apetito, calor y sudoración, temblor en las manos, insomnio, periodos escasos. Los dos cuadros se confunden fácilmente con estrés o con otras condiciones, por eso la prueba de sangre es la que da la respuesta.
+
+## ¿Cómo se trata la tiroides?
+
+El hipotiroidismo se trata con levotiroxina, una pastilla diaria que repone la hormona; se toma en ayunas y la dosis se ajusta con controles de TSH cada 6 a 8 semanas hasta encontrar la correcta, y después cada 6 a 12 meses. El hipertiroidismo se trata con medicamentos que frenan la glándula y, según el caso, con referencia al especialista. El tratamiento suele ser de largo plazo; lo importante es no suspenderlo sin hablar con el médico.
+
+## ¿Cuánto cuesta revisar la tiroides en Pasadena?
+
+Te damos el precio de la prueba de TSH y del panel completo por teléfono antes de venir. No necesitas seguro médico; aceptamos efectivo y tarjeta. Las visitas de seguimiento para ajuste de dosis se cobran como consulta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita, de lunes a domingo de 9 AM a 9 PM. El médico revisa tus síntomas y tu cuello, ordena las pruebas y se toma la muestra ese día. Cuando el resultado está listo, te avisamos, lo revisas con el equipo médico y, si hay que tratar, sales con tu receta y tu fecha de control.
+
+## Servicios relacionados
+
+Los análisis de tiroides forman parte de [exámenes de sangre](/services/examenes-sangre). Si además tienes diabetes, presión alta o colesterol, el seguimiento se integra en [condiciones crónicas](/services/condiciones-cronicas).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The thyroid regulates your energy, weight and mood. When it works too much or too little, symptoms appear that affect your daily life. At Clínica Hispana Nueva Salud Pasadena we evaluate your thyroid with lab work and provide the right treatment.
+    longDescriptionEn: `Tiredness that will not go away, weight going up or down for no reason, feeling cold or hot beyond the usual: the thyroid is often the explanation. At Clínica Hispana Nueva Salud Pasadena we check your thyroid with blood tests, explain the results in Spanish or English and start treatment at the same clinic.
 
-## What's included?
+## Which doctor treats the thyroid?
 
-- Symptom evaluation
-- Thyroid function tests (TSH, T3, T4)
-- Diagnosis of hypothyroidism or hyperthyroidism
-- Treatment start and adjustment
-- Periodic follow-up
+The general or primary-care physician. That is who orders the tests, interprets the results, starts treatment and adjusts the dose at follow-up visits. An endocrinologist, the gland specialist, is needed only in complex cases: nodules that need workup, hyperthyroidism that is hard to control, pregnancy with an altered thyroid or thyroid cancer. If your case calls for it, we tell you and guide the referral; most patients with hypothyroidism do well with their primary-care physician.
 
-## Common symptoms
+## Which tests check the thyroid?
 
-Fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, nervousness or sadness. If you notice them, a simple test can give the answer.
+The main test is TSH, the hormone that tells the thyroid to work. If TSH is off, it is completed with free T4 and, in some cases, T3, to learn whether the gland is underactive (hypothyroidism) or overactive (hyperthyroidism). When an autoimmune cause is suspected, thyroid antibodies are ordered, and if the physician feels a lump in the neck, a [thyroid ultrasound](/en/services/ultrasonido) is indicated. No fasting is needed for these tests, and the sample is drawn at the clinic, no appointment required.
 
-${WHY_EN}
+## What are the symptoms of hypothyroidism and hyperthyroidism?
 
-${PAYMENT_EN}
+When the thyroid is underactive: tiredness, weight gain, feeling cold, dry skin, constipation, hair loss, low mood, heavy periods. When it is overactive: nervousness, palpitations, weight loss despite a good appetite, feeling hot and sweaty, hand tremor, insomnia, light periods. Both pictures are easily mistaken for stress or other conditions, which is why the blood test gives the answer.
+
+## How is the thyroid treated?
+
+Hypothyroidism is treated with levothyroxine, a daily pill that replaces the hormone; it is taken on an empty stomach, and the dose is adjusted with TSH checks every 6 to 8 weeks until the right one is found, then every 6 to 12 months. Hyperthyroidism is treated with medications that slow the gland and, depending on the case, with a specialist referral. Treatment is usually long term; the key is not to stop it without talking to the physician.
+
+## How much does a thyroid check cost in Pasadena?
+
+We give you the price of the TSH test and of the full panel by phone before you come. No health insurance is needed; we accept cash and cards. Follow-up visits for dose adjustment are charged as an office visit.
+
+## What is the visit like?
+
+Walk in, Monday to Sunday, 9 AM to 9 PM. The physician reviews your symptoms and your neck, orders the tests, and the sample is drawn that day. When the result is ready we let you know, you review it with the medical team and, if treatment is needed, you leave with your prescription and your follow-up date.
+
+## Related services
+
+Thyroid tests are part of [blood tests](/en/services/examenes-sangre). If you also have diabetes, high blood pressure or cholesterol, follow-up is combined under [chronic conditions](/en/services/condiciones-cronicas).
 
 ${AREAS_EN}`,
   },
@@ -1101,6 +1122,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examenes-sangre",
+    dateModified: "2026-09-12",
     order: 11,
     category: "laboratorio",
     icon: "FlaskConical",
@@ -1139,42 +1161,82 @@ ${AREAS_EN}`,
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish",
     ],
-    longDescription: `Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Nueva Salud Pasadena tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.
+    longDescription: `Un análisis de sangre sin cita, tomado en la clínica y explicado en tu idioma. Llegas, das tu muestra y el equipo médico te dice qué significa cada número cuando el resultado está listo.
 
-## ¿Qué incluye?
+## ¿Qué exámenes de sangre se hacen en la clínica?
 
-- Biometría hemática completa (conteo de células)
-- Química sanguínea (glucosa, colesterol, triglicéridos)
-- Pruebas de tiroides, hígado y riñón
-- Paneles para chequeo general o seguimiento
-- Resultados rápidos en la mayoría de los casos
+En Clínica Hispana Nueva Salud Pasadena tomamos la muestra en la clínica y la procesamos con laboratorio clínico. Los estudios más pedidos son: biometría hemática completa, química sanguínea, glucosa en ayunas, hemoglobina glicosilada (A1C), perfil de lípidos (colesterol total, HDL, LDL y triglicéridos), pruebas de tiroides (TSH, T3 y T4), función del hígado y del riñón, vitamina B12, perfil hormonal, testosterona, PSA para próstata y pruebas de infecciones de transmisión sexual. Si necesitas un estudio que no está en la lista, pregúntanos: muchos paneles se arman según lo que el médico quiera revisar.
 
-## Para qué sirven
+## ¿Necesito ayuno para el análisis?
 
-Los análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.
+Depende de la prueba. Para glucosa en ayunas y perfil de lípidos se recomiendan entre 8 y 12 horas sin comer; puedes tomar agua. Para biometría, tiroides, B12 o pruebas hormonales no hace falta ayunar. Si vienes en ayunas, procura llegar por la mañana; si no, te decimos qué pruebas sí se pueden tomar ese mismo día y cuáles conviene repetir en ayunas.
 
-${WHY_ES}
+## ¿Cuánto cuesta un examen de sangre en Pasadena?
 
-${PAYMENT_ES}
+Los precios que publicamos son los de nuestras promociones vigentes. El Chequeo General Completo cuesta $99 e incluye examen general de sangre, A1C, examen general de orina y consulta médica gratis. El paquete de Examen General de Sangre con Vitamina B12 cuesta $99 e incluye la inyección de B12 y la orientación de resultados. Para pruebas sueltas o paneles específicos, llama y te damos el precio antes de tomar la muestra. No necesitas seguro médico y aceptamos efectivo y tarjeta.
+
+## ¿Cuándo conviene hacerse un análisis de sangre?
+
+- Una vez al año como chequeo, aunque te sientas bien.
+- Si tienes diabetes, presión alta o colesterol y llevas control.
+- Si notas cansancio constante, caída de cabello, aumento o pérdida de peso sin causa, sed excesiva o sueño irregular.
+- Si te lo piden para el trabajo, la escuela, un trámite de inmigración o antes de una cirugía.
+- Si empezaste un medicamento nuevo y el médico quiere vigilar el hígado o el riñón.
+
+## ¿Cómo funciona la visita?
+
+1. Llegas sin cita en nuestro horario: lunes a domingo de 9 AM a 9 PM.
+2. En recepción indicas qué prueba necesitas o describes tus síntomas; si no sabes cuál te conviene, el médico te orienta.
+3. Se toma la muestra en la clínica. La extracción tarda unos minutos.
+4. La mayoría de los resultados están listos rápido. Te avisamos en cuanto los tenemos y, al tomar la muestra, te decimos cuánto suele tardar tu prueba.
+5. Revisas el resultado con el equipo médico, en español, y sales con un plan: repetir, tratar, o dar seguimiento.
+
+## ¿Qué debo traer?
+
+Una identificación con foto, la lista de medicamentos que tomas y, si los tienes, resultados anteriores para comparar. Si el análisis es para un trámite, trae la orden o el formulario que te pidieron.
+
+## Servicios relacionados
+
+Si el resultado muestra la tiroides alterada, seguimos el caso en [pruebas y tratamiento de tiroides](/services/tiroides). Para glucosa, presión o colesterol fuera de rango, el control continúa en [condiciones crónicas](/services/condiciones-cronicas). Los hombres que piden PSA o testosterona pueden completar su chequeo en [salud del hombre](/services/salud-hombre), y la inyección de B12 forma parte de [sueros vitaminados](/services/sueros-vitaminados).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A good diagnosis starts with a good lab. At Clínica Hispana Nueva Salud Pasadena we draw your samples on the spot and explain your results in Spanish, without the jargon.
+    longDescriptionEn: `A blood test with no appointment, drawn at the clinic and explained in your language. You walk in, give your sample, and the medical team tells you what each number means once the result is ready.
 
-## What's included?
+## Which blood tests does the clinic run?
 
-- Complete blood count (CBC)
-- Blood chemistry (glucose, cholesterol, triglycerides)
-- Thyroid, liver and kidney tests
-- Panels for general checkups or follow-up
-- Fast results in most cases
+At Clínica Hispana Nueva Salud Pasadena we draw the sample in the clinic and process it through a clinical laboratory. The most requested tests are: complete blood count, blood chemistry, fasting glucose, A1C (glycated hemoglobin), lipid panel (total cholesterol, HDL, LDL and triglycerides), thyroid tests (TSH, T3 and T4), liver and kidney function, vitamin B12, hormone panel, testosterone, PSA for the prostate and sexually transmitted infection tests. If you need a test that is not on the list, ask us: many panels are built around what the physician wants to check.
 
-## Why they matter
+## Do I need to fast?
 
-Blood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.
+It depends on the test. Fasting glucose and the lipid panel call for 8 to 12 hours without food; water is fine. A blood count, thyroid, B12 or hormone tests do not require fasting. If you come fasting, try to arrive in the morning; if not, we tell you which tests can be drawn that day and which are better repeated while fasting.
 
-${WHY_EN}
+## How much does a blood test cost in Pasadena?
 
-${PAYMENT_EN}
+The prices we publish are those of our current promotions. The Complete General Checkup costs $99 and includes a general blood test, A1C, a general urine test and a free medical visit. The General Blood Test with Vitamin B12 package costs $99 and includes the B12 injection and a review of your results. For single tests or specific panels, call us and we give you the price before drawing the sample. No health insurance is required, and we accept cash and cards.
+
+## When is a blood test worth doing?
+
+- Once a year as a checkup, even if you feel fine.
+- If you have diabetes, high blood pressure or high cholesterol and are under follow-up.
+- If you notice constant tiredness, hair loss, unexplained weight gain or loss, excessive thirst or irregular sleep.
+- If it is required for work, school, an immigration process or before surgery.
+- If you started a new medication and the physician wants to monitor your liver or kidneys.
+
+## How does the visit work?
+
+1. Walk in during our hours: Monday to Sunday, 9 AM to 9 PM.
+2. At the front desk, say which test you need or describe your symptoms; if you are unsure, the physician guides you.
+3. The sample is drawn in the clinic. The draw takes a few minutes.
+4. Most results are ready quickly. We let you know as soon as we have them and, when we draw the sample, we tell you how long your test usually takes.
+5. You review the result with the medical team, in Spanish or English, and leave with a plan: repeat, treat or follow up.
+
+## What should I bring?
+
+A photo ID, the list of medications you take and, if you have them, previous results to compare. If the test is for a formal process, bring the order or form you were given.
+
+## Related services
+
+If the result shows an altered thyroid, we follow the case in [thyroid testing and treatment](/en/services/tiroides). For glucose, blood pressure or cholesterol out of range, care continues in [chronic conditions](/en/services/condiciones-cronicas). Men who request PSA or testosterone can complete their checkup in [men's health](/en/services/salud-hombre), and the B12 injection is part of [IV vitamin therapy](/en/services/sueros-vitaminados).
 
 ${AREAS_EN}`,
   },
@@ -1732,6 +1794,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ultrasonido",
+    dateModified: "2026-09-12",
     order: 19,
     category: "laboratorio",
     icon: "ScanLine",
@@ -1769,45 +1832,82 @@ ${AREAS_EN}`,
       "Modern equipment",
       "Care in Spanish",
     ],
-    longDescription: `El ultrasonido es una herramienta segura y sin dolor que nos permite ver el interior de tu cuerpo para diagnosticar con precisión. En Clínica Hispana Nueva Salud Pasadena contamos con equipo moderno y personal que te explica todo en español.
+    longDescription: `El ultrasonido muestra en tiempo real lo que pasa dentro del cuerpo usando ondas de sonido, sin radiación y sin dolor. En Clínica Hispana Nueva Salud Pasadena lo hacemos en la misma clínica, con personal que te explica lo que ve, en español.
 
-## ¿Qué incluye?
+## ¿Qué tipos de ultrasonido hacen en la clínica?
 
-- Ultrasonido abdominal (hígado, vesícula, riñones)
-- Ultrasonido pélvico
-- Ultrasonido de embarazo (control y seguimiento)
-- Evaluación de tiroides y tejidos blandos
+- **Abdominal:** hígado, vesícula y vías biliares, páncreas, bazo y riñones. Se pide por dolor abdominal, sospecha de piedras en la vesícula o el riñón, o resultados de hígado alterados.
+- **Pélvico:** útero y ovarios en la mujer; vejiga y próstata en el hombre. Se usa para dolor pélvico, sangrado irregular, quistes o miomas.
+- **De embarazo:** confirma el embarazo, calcula la edad gestacional, revisa el latido y el crecimiento del bebé y sirve de control durante el seguimiento prenatal.
+- **De tiroides y tejidos blandos:** estudia nódulos en el cuello, bultos bajo la piel o ganglios inflamados.
 
-## Sin radiación y sin dolor
+Si el médico necesita un estudio distinto, te lo indica y te orienta a dónde hacerlo.
 
-A diferencia de los rayos X, el ultrasonido no usa radiación, por lo que es seguro incluso durante el embarazo. El estudio es rápido y no requiere preparación complicada.
+## ¿Cómo debo prepararme?
 
-${WHY_ES}
+Depende del estudio. Para el abdominal conviene venir con 6 a 8 horas de ayuno, para que la vesícula esté llena y el intestino con menos gas. Para el pélvico y el de embarazo temprano se pide la vejiga llena: toma unos vasos de agua una hora antes y no orines hasta terminar. Para tiroides, tejidos blandos y embarazo avanzado no hace falta preparación. Usa ropa cómoda de dos piezas.
 
-${PAYMENT_ES}
+## ¿El ultrasonido es seguro en el embarazo?
+
+Sí. No usa radiación, a diferencia de los rayos X o la tomografía, y se emplea de forma rutinaria durante todo el embarazo. El gel que se aplica sobre la piel solo sirve para que las ondas pasen mejor; se limpia al terminar.
+
+## ¿Cuánto dura y cuándo tengo los resultados?
+
+El estudio suele tomar entre 15 y 30 minutos. Las imágenes se ven en el momento y el equipo médico las revisa contigo en la misma visita; si hace falta un reporte escrito o compartir el estudio con otro médico, lo preparamos y te avisamos en cuanto esté listo.
+
+## ¿Cuánto cuesta un ultrasonido en Pasadena?
+
+El precio varía según la zona que se estudia; te lo confirmamos por teléfono antes de venir. No necesitas seguro médico y aceptamos efectivo y tarjeta.
+
+## ¿Necesito orden médica?
+
+No es obligatoria. Puedes llegar sin cita, de lunes a domingo de 9 AM a 9 PM, y el médico decide contigo qué estudio corresponde según tus síntomas. Si traes una orden de otro doctor, la seguimos tal cual.
+
+## Servicios relacionados
+
+Un ultrasonido de embarazo empieza con una [prueba de embarazo](/services/prueba-embarazo); el control ginecológico continúa en [ginecología](/services/ginecologia). Los nódulos de tiroides se evalúan junto con los análisis de [tiroides](/services/tiroides).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Ultrasound is a safe, painless tool that lets us see inside your body for an accurate diagnosis. At Clínica Hispana Nueva Salud Pasadena we have modern equipment and staff who explain everything in Spanish.
+    longDescriptionEn: `Ultrasound shows in real time what is happening inside the body using sound waves, with no radiation and no pain. At Clínica Hispana Nueva Salud Pasadena we do it at the clinic itself, with staff who explain what they see, in Spanish or English.
 
-## What's included?
+## Which types of ultrasound does the clinic do?
 
-- Abdominal ultrasound (liver, gallbladder, kidneys)
-- Pelvic ultrasound
-- Pregnancy ultrasound (monitoring and follow-up)
-- Thyroid and soft-tissue evaluation
+- **Abdominal:** liver, gallbladder and bile ducts, pancreas, spleen and kidneys. Ordered for abdominal pain, suspected gallstones or kidney stones, or abnormal liver results.
+- **Pelvic:** uterus and ovaries in women; bladder and prostate in men. Used for pelvic pain, irregular bleeding, cysts or fibroids.
+- **Pregnancy:** confirms the pregnancy, estimates gestational age, checks the heartbeat and the baby's growth and serves as a check during prenatal follow-up.
+- **Thyroid and soft tissue:** studies neck nodules, lumps under the skin or swollen lymph nodes.
 
-## No radiation, no pain
+If the physician needs a different study, they tell you and guide you on where to get it.
 
-Unlike X-rays, ultrasound uses no radiation, so it's safe even during pregnancy. The study is quick and requires little preparation.
+## How should I prepare?
 
-${WHY_EN}
+It depends on the study. For an abdominal scan, come with 6 to 8 hours of fasting so the gallbladder is full and the bowel has less gas. For pelvic and early pregnancy scans, a full bladder is needed: drink a few glasses of water an hour before and do not urinate until you are done. Thyroid, soft-tissue and late-pregnancy scans need no preparation. Wear comfortable two-piece clothing.
 
-${PAYMENT_EN}
+## Is ultrasound safe in pregnancy?
+
+Yes. It uses no radiation, unlike X-rays or CT scans, and it is used routinely throughout pregnancy. The gel applied to the skin only helps the waves pass through; it is wiped off when you finish.
+
+## How long does it take, and when do I get results?
+
+The study usually takes 15 to 30 minutes. The images are seen on the spot and the medical team reviews them with you at the same visit; if a written report is needed or the study must be shared with another physician, we prepare it and let you know as soon as it is ready.
+
+## How much does an ultrasound cost in Pasadena?
+
+The price varies with the area studied; we confirm it by phone before you come. No health insurance is needed, and we accept cash and cards.
+
+## Do I need a doctor's order?
+
+It is not required. You can walk in, Monday to Sunday, 9 AM to 9 PM, and the physician decides with you which study fits your symptoms. If you bring an order from another doctor, we follow it as written.
+
+## Related services
+
+A pregnancy ultrasound starts with a [pregnancy test](/en/services/prueba-embarazo); gynecological follow-up continues under [gynecology](/en/services/ginecologia). Thyroid nodules are evaluated together with [thyroid](/en/services/tiroides) lab work.
 
 ${AREAS_EN}`,
   },
   {
     slug: "examen-dot",
+    dateModified: "2026-09-12",
     order: 20,
     category: "examenes",
     icon: "Truck",
@@ -1846,47 +1946,82 @@ ${AREAS_EN}`,
       "Fast process",
       "Care in Spanish",
     ],
-    longDescription: `Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Nueva Salud Pasadena lo realizamos de forma rápida y te entregamos tu certificado el mismo día.
+    longDescription: `Si manejas camión, autobús o cualquier vehículo comercial, necesitas un certificado médico DOT vigente para obtener o renovar tu licencia CDL. En Clínica Hispana Nueva Salud Pasadena hacemos el examen en español, sin cita, y te entregamos el certificado al terminar si cumples los requisitos.
 
-## ¿Qué incluye?
+## ¿Qué se revisa en el examen físico DOT?
 
-- Revisión de visión y audición
-- Toma de presión arterial
-- Examen físico requerido por el DOT
-- Revisión de historial médico
-- Certificado médico DOT el mismo día
+El examen sigue el formato que exige la FMCSA (la agencia federal de transporte). Incluye: cuestionario de salud e historial médico; medición de presión arterial y pulso; examen de visión, donde se pide ver al menos 20/40 en cada ojo, con o sin lentes, y distinguir colores de semáforo; prueba de audición, con capacidad de oír un susurro a 5 pies; análisis de orina para detectar proteína, sangre o azúcar (no es una prueba de drogas); y un examen físico general que revisa corazón, pulmones, abdomen, columna y extremidades. Al final el médico decide si calificas y por cuánto tiempo.
 
-## Para conductores comerciales
+## ¿Cuánto dura el certificado DOT?
 
-El examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.
+Hasta 24 meses cuando no hay condiciones que vigilar. Si tienes presión alta, diabetes, apnea del sueño u otra condición controlada, el certificado puede ser de un año, tres meses o menos, para que el médico revise tu control con más frecuencia. La presión arterial es la causa más común de certificados cortos: una lectura de 140/90 o más suele acortar la vigencia, y de 180/110 o más descalifica hasta que baje.
 
-${WHY_ES}
+## ¿Qué pasa si tengo diabetes o presión alta?
 
-${PAYMENT_ES}
+Puedes aprobar el examen si tu condición está controlada. Trae tus medicamentos y, si tienes diabetes, tu último resultado de A1C; si usas insulina, la FMCSA pide un formulario adicional de tu médico tratante. Si tu presión sale alta el día del examen, el médico puede repetir la medición o darte un certificado corto mientras la controlas; en la misma clínica tratamos [presión alta y diabetes](/services/condiciones-cronicas).
+
+## ¿Cuánto cuesta el examen DOT en Pasadena?
+
+Te damos el precio por teléfono antes de venir; no necesitas seguro médico y aceptamos efectivo y tarjeta. Si necesitas repetir alguna medición o traer documentación adicional, te lo decimos en la misma visita para que no pierdas tiempo.
+
+## ¿Qué debo traer?
+
+- Licencia de conducir vigente.
+- Lentes o aparato auditivo, si los usas.
+- Lista de medicamentos con dosis.
+- Si tienes diabetes, resultado reciente de A1C; si usas insulina, el formulario de tu médico.
+- Si usas CPAP para apnea del sueño, el reporte de uso del aparato.
+- Tu certificado DOT anterior, si lo tienes.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita en nuestro horario de 9 AM a 9 PM, todos los días. Llenas el cuestionario de salud, pasas a las mediciones y luego al examen con el médico. Si calificas, sales con tu certificado médico firmado, listo para presentarlo en el DPS de Texas y para tu empleador.
+
+## Servicios relacionados
+
+Si tu empresa te pide además una prueba de drogas o alcohol, la hacemos en [examen de alcohol y drogas](/services/examen-alcohol-drogas). Los análisis de laboratorio que complementan el chequeo están en [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Nueva Salud Pasadena we perform it quickly and give you your certificate the same day.
+    longDescriptionEn: `If you drive a truck, a bus or any commercial vehicle, you need a current DOT medical certificate to get or renew your CDL. At Clínica Hispana Nueva Salud Pasadena we do the exam in Spanish or English, no appointment needed, and hand you the certificate when you finish if you meet the requirements.
 
-## What's included?
+## What is checked in the DOT physical?
 
-- Vision and hearing screening
-- Blood-pressure check
-- DOT-required physical exam
-- Medical-history review
-- Same-day DOT medical certificate
+The exam follows the format required by the FMCSA (the federal transportation agency). It includes: a health questionnaire and medical history; blood pressure and pulse; a vision test, where you need at least 20/40 in each eye, with or without glasses, and must tell traffic-light colors apart; a hearing test, with the ability to hear a forced whisper at 5 feet; a urinalysis to detect protein, blood or sugar (it is not a drug test); and a general physical exam covering heart, lungs, abdomen, spine and limbs. At the end the physician decides whether you qualify and for how long.
 
-## For commercial drivers
+## How long is the DOT certificate valid?
 
-The exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.
+Up to 24 months when there are no conditions to monitor. If you have high blood pressure, diabetes, sleep apnea or another controlled condition, the certificate may be for one year, three months or less, so the physician can recheck your control more often. Blood pressure is the most common reason for short certificates: a reading of 140/90 or higher usually shortens it, and 180/110 or higher disqualifies you until it comes down.
 
-${WHY_EN}
+## What if I have diabetes or high blood pressure?
 
-${PAYMENT_EN}
+You can pass the exam if your condition is controlled. Bring your medications and, if you have diabetes, your latest A1C result; if you use insulin, the FMCSA requires an additional form from your treating physician. If your blood pressure is high on exam day, the physician can repeat the reading or issue a short certificate while you get it under control; at the same clinic we treat [high blood pressure and diabetes](/en/services/condiciones-cronicas).
+
+## How much does the DOT exam cost in Pasadena?
+
+We give you the price by phone before you come; no health insurance is needed, and we accept cash and cards. If you need to repeat a measurement or bring extra paperwork, we tell you at the same visit so you do not lose time.
+
+## What should I bring?
+
+- A valid driver's license.
+- Glasses or hearing aids, if you use them.
+- A list of medications with doses.
+- If you have diabetes, a recent A1C result; if you use insulin, your physician's form.
+- If you use a CPAP for sleep apnea, the device usage report.
+- Your previous DOT certificate, if you have one.
+
+## What is the visit like?
+
+Walk in during our hours, 9 AM to 9 PM every day. You fill out the health questionnaire, go through the measurements and then see the physician. If you qualify, you leave with your signed medical certificate, ready for Texas DPS and your employer.
+
+## Related services
+
+If your company also requires a drug or alcohol test, we do it under [drug and alcohol testing](/en/services/examen-alcohol-drogas). The lab work that complements the checkup is under [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
   {
     slug: "examenes-inmigracion",
+    dateModified: "2026-09-12",
     order: 21,
     category: "examenes",
     icon: "ClipboardCheck",
@@ -1924,42 +2059,74 @@ ${AREAS_EN}`,
       "Required vaccines available",
       "Process explained in Spanish",
     ],
-    longDescription: `El examen médico de inmigración (Formulario I-693) es un requisito para el ajuste de estatus. En Clínica Hispana Nueva Salud Pasadena lo realizamos con un médico autorizado por USCIS (civil surgeon) y te entregamos el formulario sellado listo para enviar.
+    longDescription: `El examen médico de inmigración es el paso médico del ajuste de estatus: un médico autorizado por USCIS (civil surgeon) revisa tu salud, verifica tus vacunas y llena el Formulario I-693. En Clínica Hispana Nueva Salud Pasadena lo hacemos completo, en español, y te entregamos el sobre sellado listo para tu trámite.
 
-## ¿Qué incluye?
+## ¿Qué revisa el médico en el examen I-693?
 
-- Revisión de historial médico y de vacunas
-- Examen físico completo
-- Pruebas requeridas por USCIS (incluida la de tuberculosis)
-- Aplicación de las vacunas que te falten
-- Formulario I-693 completado y sellado en sobre oficial
+El examen tiene cuatro partes. Primero, tu historial: enfermedades previas, medicamentos y vacunas. Segundo, un examen físico general. Tercero, las pruebas que exige USCIS: la de tuberculosis, que para mayores de 2 años se hace con una prueba de sangre (IGRA) y, si sale positiva, una radiografía de tórax; y, según tu edad, pruebas de sífilis y gonorrea. Cuarto, la revisión de vacunas: se comparan las que tienes con las que USCIS pide para tu edad y se aplican las que falten. Todo se registra en el I-693, que el médico firma y sella.
 
-## Qué traer a tu cita
+## ¿Qué vacunas piden para inmigración?
 
-Identificación con foto, registro de vacunas si lo tienes y cualquier documento médico relevante. Te explicamos todo el proceso en español para que llegues tranquilo.
+Depende de la edad, y la lista la fija USCIS con base en el calendario del CDC. Las más comunes para adultos son tétanos y difteria (Td o Tdap), sarampión, paperas y rubéola (MMR), varicela, hepatitis B, y la de influenza durante la temporada de gripe. Los mayores de 65 años suelen necesitar también la vacuna contra el neumococo. Si traes tu cartilla o registro de vacunas, solo se aplican las que falten; si no tienes registro, el médico decide qué corresponde. La vacuna contra COVID-19 ya no es requisito del I-693.
 
-${WHY_ES}
+## ¿Cuánto tarda y cuándo me entregan el sobre?
 
-${PAYMENT_ES}
+La consulta y el examen físico se hacen el mismo día en que vienes, sin cita. El sobre se sella cuando están completos los resultados de laboratorio y las vacunas, porque el formulario debe incluirlos. Te avisamos en cuanto esté listo. Importante: el sobre debe entregarse a USCIS cerrado; si lo abres, pierde validez. Pide una copia del formulario para tu archivo antes de que se selle.
+
+## ¿Cuánto tiempo es válido el I-693?
+
+Según la política vigente de USCIS, los formularios I-693 firmados por el civil surgeon a partir del 1 de noviembre de 2023 no vencen mientras se usen para una solicitud. Aun así, conviene presentarlo con la solicitud o cuando USCIS lo pida, y confirmar la regla actual en uscis.gov, porque puede cambiar.
+
+## ¿Cuánto cuesta el examen de inmigración en Pasadena?
+
+El precio depende de qué pruebas y vacunas necesites, así que lo confirmamos por teléfono antes de tu visita. No hace falta seguro médico; aceptamos efectivo y tarjeta. Si ya tienes pruebas recientes o vacunas registradas, se descuentan del proceso.
+
+## ¿Qué debo traer?
+
+- Identificación con foto vigente.
+- Cartilla o registro de vacunas, en cualquier idioma.
+- Resultados médicos recientes, si los tienes: radiografía de tórax, prueba de tuberculosis, análisis.
+- Lista de medicamentos y diagnósticos previos.
+- El nombre exacto como aparece en tu solicitud, para que coincida en el formulario.
+
+## Servicios relacionados
+
+Las vacunas que falten se aplican en la misma visita: consulta [vacunas](/services/vacunas). La prueba de tuberculosis se describe en [prueba de tuberculosis](/services/prueba-tuberculosis) y los análisis en [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The immigration medical exam (Form I-693) is required for adjustment of status. At Clínica Hispana Nueva Salud Pasadena we perform it with a USCIS-authorized physician (civil surgeon) and give you the sealed form ready to submit.
+    longDescriptionEn: `The immigration medical exam is the medical step of adjustment of status: a USCIS-authorized physician (civil surgeon) reviews your health, checks your vaccines and completes Form I-693. At Clínica Hispana Nueva Salud Pasadena we do the whole process, in Spanish or English, and hand you the sealed envelope ready for your case.
 
-## What's included?
+## What does the physician check in the I-693 exam?
 
-- Review of medical and vaccination history
-- Complete physical exam
-- USCIS-required tests (including tuberculosis)
-- Administration of any missing vaccines
-- Form I-693 completed and sealed in the official envelope
+The exam has four parts. First, your history: previous illnesses, medications and vaccines. Second, a general physical exam. Third, the tests USCIS requires: tuberculosis screening, done for everyone over 2 years old with a blood test (IGRA) and, if positive, a chest X-ray; and, depending on your age, syphilis and gonorrhea tests. Fourth, the vaccine review: the vaccines you have are compared with those USCIS requires for your age, and any missing ones are given. Everything is recorded on the I-693, which the physician signs and seals.
 
-## What to bring
+## Which vaccines are required for immigration?
 
-Photo ID, your vaccination record if you have it and any relevant medical documents. We explain the entire process in Spanish so you arrive with peace of mind.
+It depends on age, and USCIS sets the list based on the CDC schedule. The most common ones for adults are tetanus and diphtheria (Td or Tdap), measles, mumps and rubella (MMR), varicella, hepatitis B and the flu shot during flu season. People over 65 usually also need the pneumococcal vaccine. If you bring your vaccine card or record, only the missing ones are given; without a record, the physician decides what applies. The COVID-19 vaccine is no longer an I-693 requirement.
 
-${WHY_EN}
+## How long does it take, and when do I get the envelope?
 
-${PAYMENT_EN}
+The visit and physical exam happen the same day you walk in, no appointment needed. The envelope is sealed once the lab results and vaccines are complete, because the form must include them. We let you know as soon as it is ready. Important: the envelope must reach USCIS sealed; opening it voids it. Ask for a copy of the form for your records before it is sealed.
+
+## How long is the I-693 valid?
+
+Under current USCIS policy, I-693 forms signed by the civil surgeon on or after November 1, 2023 do not expire while used for an application. Even so, it is best to file it with your application or when USCIS requests it, and to confirm the current rule at uscis.gov, since it can change.
+
+## How much does the immigration exam cost in Pasadena?
+
+The price depends on which tests and vaccines you need, so we confirm it by phone before your visit. No health insurance is needed; we accept cash and cards. If you already have recent tests or documented vaccines, they are taken off the process.
+
+## What should I bring?
+
+- A valid photo ID.
+- Your vaccine card or record, in any language.
+- Recent medical results, if you have them: chest X-ray, tuberculosis test, lab work.
+- A list of medications and previous diagnoses.
+- Your name exactly as it appears on your application, so it matches the form.
+
+## Related services
+
+Missing vaccines are given at the same visit: see [vaccines](/en/services/vacunas). Tuberculosis screening is described under [tuberculosis test](/en/services/prueba-tuberculosis) and lab work under [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
