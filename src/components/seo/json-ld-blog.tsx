@@ -31,8 +31,15 @@ export function JsonLdBlogPosting({
         inLanguage: locale,
         keywords: post.keywords?.join(", "),
         image: `${SITE_CONFIG.baseUrl}${post.cover}`,
-        mainEntityOfPage: { "@type": "WebPage", "@id": url },
+        mainEntityOfPage: {
+          "@type": "MedicalWebPage",
+          "@id": url,
+          lastReviewed: post.dateModified ?? post.date,
+          reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+        },
         author: { "@type": "Organization", name: post.author },
+        // Sin médico nombrado por decisión del cliente: revisa la clínica.
+        reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
         publisher: {
           "@type": "Organization",
           name: SITE_CONFIG.name,

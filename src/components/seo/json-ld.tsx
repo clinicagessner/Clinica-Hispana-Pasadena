@@ -199,6 +199,38 @@ export async function JsonLdMedicalProcedure({
   );
 }
 
+/**
+ * MedicalWebPage: fecha de última revisión y responsable (la clínica, por
+ * decisión del cliente no hay médico nombrado). Señal E-E-A-T para YMYL.
+ */
+export async function JsonLdMedicalWebPage({
+  name,
+  url,
+  lastReviewed,
+  about,
+}: {
+  name: string;
+  url: string;
+  lastReviewed: string;
+  about?: string;
+}) {
+  const locale = await getLocale();
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        name,
+        url,
+        inLanguage: locale,
+        lastReviewed,
+        reviewedBy: { "@id": CLINIC_ID },
+        ...(about ? { about: { "@type": "MedicalProcedure", name: about } } : {}),
+      }}
+    />
+  );
+}
+
 export async function JsonLdFaqPage({ faqs }: { faqs: LocalizedFaq[] }) {
   if (faqs.length === 0) return null;
   const locale = await getLocale();

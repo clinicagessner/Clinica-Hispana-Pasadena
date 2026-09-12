@@ -14,10 +14,12 @@ import {
   JsonLdBreadcrumb,
   JsonLdFaqPage,
   JsonLdMedicalProcedure,
+  JsonLdMedicalWebPage,
 } from "@/components/seo/json-ld";
 import { getAllServiceSlugs, getCategoryLabel, getRelatedServices, getServiceBySlug, hasServiceImage } from "@/lib/services";
 import { getServiceFaqs } from "@/lib/service-faqs";
-import { CONTACT_INFO, SITE_CONFIG } from "@/lib/constants";
+import { CONTACT_INFO, SERVICES_LAST_MODIFIED, SITE_CONFIG } from "@/lib/constants";
+import { MedicalReview } from "@/components/shared/medical-review";
 import { getLocalizedFaq, getLocalizedService, serviceImagePath } from "@/lib/utils";
 import { absoluteUrl, buildAlternates, seoTitle } from "@/lib/seo";
 import { ctaButton } from "@/lib/button-styles";
@@ -109,6 +111,12 @@ export default async function ServiceDetailPage({
         url={url}
       />
       <JsonLdFaqPage faqs={faqs} />
+      <JsonLdMedicalWebPage
+        name={l.title}
+        url={url}
+        lastReviewed={service.dateModified ?? SERVICES_LAST_MODIFIED}
+        about={l.title}
+      />
 
       {/* Hero del servicio: split editorial sobre crema */}
       <section className="relative isolate overflow-hidden bg-sand-bg py-12 lg:py-16">
@@ -217,6 +225,8 @@ export default async function ServiceDetailPage({
                 {l.longDescription}
               </ReactMarkdown>
             </div>
+
+            <MedicalReview updated={service.dateModified ?? SERVICES_LAST_MODIFIED} />
 
             {/* FAQ */}
             {faqs.length > 0 && (

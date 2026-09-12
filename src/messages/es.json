@@ -234,5 +234,11 @@
   "about": {
     "heading": "¿Qué es Clínica Hispana Nueva Salud Pasadena?",
     "body": "Una clínica familiar de barrio en Spencer Hwy donde entras sin cita y sales atendido el mismo día. Estamos en 1101 Spencer Hwy, Suite H, South Houston, TX 77587, a la altura de Pasadena, y abrimos de 9 de la mañana a 9 de la noche todos los días, también sábados y domingos. No pedimos seguro médico: cada servicio tiene un precio directo y accesible, en efectivo o tarjeta. Se habla español en recepción y en consulta, y también inglés. El equipo médico resuelve lo cotidiano y lo específico: consulta general, laboratorio de sangre y orina, ginecología, examen físico DOT para camioneros, examen médico de inmigración, control de diabetes, presión y tiroides, ultrasonido, vacunas, sueros vitaminados, cirugía menor y chequeos para hombres. Llama al (281) 747-8817 o escribe por WhatsApp al (346) 222-1006. Recibimos pacientes de Pasadena, South Houston, South Belt, Genoa, Sagemont, Galena Park, Deer Park y Hobby."
+  },
+  "MedicalReview": {
+    "reviewedBy": "Revisado por el equipo médico de Clínica Hispana Nueva Salud Pasadena",
+    "published": "Publicado el {date}",
+    "updated": "Última revisión: {date}",
+    "disclaimer": "Información general de salud. No sustituye la consulta con un profesional; si tienes síntomas, visítanos o llama a la clínica."
   }
 }

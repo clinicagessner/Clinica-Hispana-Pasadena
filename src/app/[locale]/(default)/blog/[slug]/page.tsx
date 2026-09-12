@@ -8,6 +8,7 @@ import { ArrowLeft, CalendarDays, Clock, Phone, User } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { BlogCard } from "@/components/blog/blog-card";
 import { FaqSection } from "@/components/sections/faq-section";
+import { MedicalReview } from "@/components/shared/medical-review";
 import { JsonLdBreadcrumb } from "@/components/seo/json-ld";
 import { JsonLdBlogPosting } from "@/components/seo/json-ld-blog";
 import { getAllPosts, getPost, getPostSlugs } from "@/lib/blog";
@@ -115,7 +116,7 @@ export default async function BlogPostPage({
             </span>
             <span className="inline-flex items-center gap-1.5">
               <CalendarDays className="h-4 w-4 text-teal-deep" />
-              {formatDate(post.date, loc)}
+              <time dateTime={post.date}>{formatDate(post.date, loc)}</time>
             </span>
             <span className="inline-flex items-center gap-1.5">
               <Clock className="h-4 w-4 text-teal-deep" />
@@ -161,6 +162,8 @@ export default async function BlogPostPage({
               {post.content}
             </ReactMarkdown>
           </article>
+
+          <MedicalReview published={post.date} updated={post.dateModified ?? post.date} />
 
           {/* Servicios relacionados: 9 de 11 posts no enlazaban a ningún servicio
               y las consultas de servicio aterrizaban en la home o en el post. */}
