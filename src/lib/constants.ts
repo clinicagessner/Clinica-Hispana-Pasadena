@@ -1570,6 +1570,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "examen-heces",
+    dateModified: "2026-09-12",
     order: 13,
     category: "laboratorio",
     icon: "TestTubes",
@@ -1607,47 +1608,80 @@ ${AREAS_EN}`,
       "Digestive symptom evaluation",
       "Results explained in Spanish",
     ],
-    longDescription: `Los problemas digestivos a veces tienen una causa que solo un análisis de heces puede revelar. En Clínica Hispana Nueva Salud Pasadena realizamos exámenes de heces fecales para encontrar el origen y darte el tratamiento correcto.
+    longDescription: `Diarrea que no se quita, dolor de estómago recurrente, un niño que no sube de peso o la sospecha de parásitos: el examen de heces responde preguntas que la consulta sola no puede. En Clínica Hispana Nueva Salud Pasadena te damos el recipiente y las instrucciones, analizamos la muestra y te explicamos el resultado en español.
 
-## ¿Qué incluye?
+## ¿Qué detecta el examen de heces?
 
-- Análisis general de heces fecales
-- Detección de parásitos
-- Identificación de infecciones intestinales
-- Evaluación de sangre oculta cuando se requiere
-- Resultados explicados en español
+Parásitos y sus huevos (amebas, giardia, lombrices), infecciones bacterianas intestinales, sangre oculta que no se ve a simple vista, y signos de mala absorción o inflamación. Según los síntomas, el médico pide el examen general (coproparasitoscópico), la prueba de sangre oculta, un coprocultivo para identificar bacterias o, según la disponibilidad del laboratorio, pruebas específicas como la de *H. pylori* en heces.
 
-## Cuándo es útil
+## ¿Cómo se recolecta la muestra en casa?
 
-Diarrea persistente, dolor abdominal, gases, cambios en las evacuaciones o pérdida de peso sin explicación. El examen ayuda a un diagnóstico preciso.
+1. Te entregamos un recipiente limpio con tapa; no uses frascos caseros.
+2. Recoge la muestra sobre papel limpio o un recipiente seco, sin que toque el agua del inodoro ni la orina.
+3. Con la paleta del recipiente, toma una cantidad del tamaño de una nuez, o unas cucharadas si es líquida, y cierra bien.
+4. Anota tu nombre y la fecha y hora; tráela a la clínica el mismo día, en menos de dos horas si es posible, o guárdala en el refrigerador hasta 24 horas si te lo indicaron.
+5. Para parásitos, a veces se piden tres muestras de días distintos, porque no se eliminan todos los días.
 
-${WHY_ES}
+## ¿Necesito alguna preparación?
 
-${PAYMENT_ES}
+Para el examen general, no. Para la prueba de sangre oculta, según el tipo, se pide evitar carne roja, antiinflamatorios y ciertas vitaminas unos días antes; te lo indicamos al entregarte el recipiente. Si tomas antibióticos o antidiarreicos, dilo: pueden alterar el resultado y a veces conviene esperar.
+
+## ¿Cuándo pedirlo para un niño?
+
+Diarrea de más de una semana, dolor abdominal repetido, comezón anal por la noche, apetito raro, palidez o poca ganancia de peso son motivos frecuentes. Los parásitos son comunes en niños que van a guardería o que visitaron zonas rurales, y el tratamiento suele ser corto y eficaz. Si un niño tiene diarrea con fiebre alta, sangre o signos de deshidratación (boca seca, poca orina, decaimiento), ven el mismo día.
+
+## ¿Qué tratamiento sigue?
+
+Depende del hallazgo: antiparasitarios de uno o varios días, antibiótico solo si el cultivo lo justifica, tratamiento para *H. pylori*, o cambios en la dieta y seguimiento si hay mala absorción. Sangre oculta positiva en un adulto requiere estudiar la causa, incluida la referencia para colonoscopia según edad y antecedentes.
+
+## ¿Cuánto cuesta el examen de heces en Pasadena?
+
+Te damos el precio de cada prueba por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, el médico evalúa los síntomas y te entrega el recipiente con las instrucciones; traes la muestra y te avisamos con el resultado para revisarlo juntos. Si el cuadro viene con vómito o deshidratación, los [análisis de sangre](/services/examenes-sangre) y la hidratación se atienden en la misma clínica.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Digestive problems sometimes have a cause that only a stool test can reveal. At Clínica Hispana Nueva Salud Pasadena we perform stool tests to find the source and give you the right treatment.
+    longDescriptionEn: `Diarrhea that will not go away, recurring stomach pain, a child who is not gaining weight or a suspicion of parasites: the stool test answers questions the visit alone cannot. At Clínica Hispana Nueva Salud Pasadena we give you the container and instructions, analyze the sample and explain the result in Spanish or English.
 
-## What's included?
+## What does the stool test detect?
 
-- General stool analysis
-- Parasite detection
-- Identification of intestinal infections
-- Occult-blood evaluation when needed
-- Results explained in Spanish
+Parasites and their eggs (amoebas, giardia, worms), bacterial intestinal infections, hidden blood that is not visible to the eye, and signs of malabsorption or inflammation. Depending on symptoms, the physician orders the general exam (ova and parasites), the occult blood test, a stool culture to identify bacteria, or, depending on lab availability, specific tests such as *H. pylori* in stool.
 
-## When it helps
+## How is the sample collected at home?
 
-Persistent diarrhea, abdominal pain, gas, changes in bowel movements or unexplained weight loss. The test helps with an accurate diagnosis.
+1. We give you a clean container with a lid; do not use household jars.
+2. Collect the sample on clean paper or a dry container, without letting it touch toilet water or urine.
+3. With the container's scoop, take an amount the size of a walnut, or a few spoonfuls if liquid, and close it tightly.
+4. Write your name, date and time; bring it to the clinic the same day, within two hours if possible, or keep it in the refrigerator for up to 24 hours if instructed.
+5. For parasites, three samples from different days are sometimes requested, because they are not shed every day.
 
-${WHY_EN}
+## Do I need any preparation?
 
-${PAYMENT_EN}
+For the general exam, no. For the occult blood test, depending on the type, you may be asked to avoid red meat, anti-inflammatories and certain vitamins for a few days beforehand; we tell you when we give you the container. If you take antibiotics or anti-diarrheals, say so: they can alter the result and sometimes it is better to wait.
+
+## When should I request it for a child?
+
+Diarrhea for more than a week, repeated abdominal pain, anal itching at night, odd appetite, paleness or poor weight gain are common reasons. Parasites are common in children who attend daycare or who visited rural areas, and treatment is usually short and effective. If a child has diarrhea with high fever, blood or signs of dehydration (dry mouth, little urine, listlessness), come the same day.
+
+## What treatment follows?
+
+It depends on the finding: antiparasitic medication for one or several days, an antibiotic only if the culture justifies it, treatment for *H. pylori*, or diet changes and follow-up if there is malabsorption. Positive occult blood in an adult requires looking for the cause, including a colonoscopy referral depending on age and history.
+
+## How much does a stool test cost in Pasadena?
+
+We give you the price of each test by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, the physician evaluates the symptoms and gives you the container with instructions; you bring the sample and we let you know the result to review it together. If the illness comes with vomiting or dehydration, [blood tests](/en/services/examenes-sangre) and hydration are handled at the same clinic.
 
 ${AREAS_EN}`,
   },
   {
     slug: "prueba-strep",
+    dateModified: "2026-09-12",
     order: 14,
     category: "laboratorio",
     icon: "TestTube",
@@ -1685,47 +1719,72 @@ ${AREAS_EN}`,
       "Treatment if positive",
       "Walk-in care in Spanish",
     ],
-    longDescription: `No todo dolor de garganta es igual: la faringitis por estreptococo necesita tratamiento específico. En Clínica Hispana Nueva Salud Pasadena hacemos la prueba rápida de strep y te damos el resultado y el tratamiento el mismo día.
+    longDescription: `Dolor de garganta fuerte, fiebre y placas blancas en las amígdalas: puede ser estreptococo, y esa sí necesita antibiótico. En Clínica Hispana Nueva Salud Pasadena la prueba rápida se hace en la clínica, sin cita, y el resultado y el tratamiento salen en la misma visita.
 
-## ¿Qué incluye?
+## ¿Cómo distingo una faringitis por estreptococo de una viral?
 
-- Prueba rápida de estreptococo (hisopado de garganta)
-- Resultado en pocos minutos
-- Evaluación del dolor de garganta
-- Tratamiento adecuado si el resultado es positivo
-- Indicaciones de recuperación
+La bacteriana suele dar dolor intenso al tragar, fiebre, ganglios inflamados en el cuello, amígdalas rojas con puntos o placas blancas, y a veces dolor de cabeza o de estómago, sin tos ni congestión. La viral viene con tos, mocos, ronquera y ojos irritados. Como la apariencia engaña, la única forma segura de saberlo es la prueba.
 
-## Cuándo hacerla
+## ¿Cómo es la prueba rápida?
 
-Dolor de garganta fuerte, fiebre, dificultad para tragar o placas blancas en las amígdalas, sobre todo en niños. La prueba evita tratamientos innecesarios.
+Se pasa un hisopo por las amígdalas y la parte de atrás de la garganta durante unos segundos; da náusea breve, no dolor. El resultado se tiene en minutos. Si sale negativo pero los síntomas apuntan a estreptococo, sobre todo en niños, se puede enviar un cultivo de garganta que confirma en uno o dos días. No comas ni bebas nada justo antes de la prueba.
 
-${WHY_ES}
+## ¿Qué tratamiento se da?
 
-${PAYMENT_ES}
+Si es positivo, un antibiótico de 10 días, normalmente de la familia de la penicilina, o una alternativa si eres alérgico. A las 24 horas de tratamiento dejas de contagiar y puedes volver al trabajo o la escuela si no hay fiebre. Es importante completar los 10 días aunque te sientas bien al tercero: así se evita la fiebre reumática, una complicación rara pero seria. Si es negativo, el tratamiento es para aliviar: líquidos, analgésico y reposo; el antibiótico no sirve.
+
+## ¿Cuándo debo venir de inmediato?
+
+Dificultad para respirar o tragar saliva, no poder abrir bien la boca, hinchazón de un lado del cuello, voz apagada o fiebre que no baja después de dos días de antibiótico. Esos signos pueden indicar un absceso y requieren atención el mismo día.
+
+## ¿Se puede repetir en la familia?
+
+Sí. Si alguien en casa tiene estreptococo, quienes desarrollen síntomas deben hacerse la prueba; no se trata a quien no tiene síntomas. Cambiar el cepillo de dientes después de las primeras 24 horas de antibiótico ayuda a no reinfectarse.
+
+## ¿Cuánto cuesta la prueba de estreptococo en Pasadena?
+
+Te damos el precio de la consulta con prueba rápida por teléfono al (281) 747-8817; el cultivo, si se necesita, va aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, se toma la muestra, esperas el resultado en la clínica y el médico revisa garganta, oídos y cuello. Sales con receta y, si lo necesitas, constancia para el trabajo o la escuela. Si además hay tos y cuerpo cortado, la prueba de [influenza y COVID](/services/enfermedades-respiratorias) se hace en la misma visita; las [vacunas](/services/vacunas) de temporada también.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Not every sore throat is the same: strep throat needs specific treatment. At Clínica Hispana Nueva Salud Pasadena we run the rapid strep test and give you the result and treatment the same day.
+    longDescriptionEn: `A severe sore throat, fever and white patches on the tonsils: it may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud Pasadena the rapid test is done in the clinic, with no appointment, and the result and treatment come out at the same visit.
 
-## What's included?
+## How do I tell strep throat from a viral sore throat?
 
-- Rapid strep test (throat swab)
-- Result in minutes
-- Sore-throat evaluation
-- Appropriate treatment if the result is positive
-- Recovery instructions
+The bacterial kind usually causes intense pain when swallowing, fever, swollen glands in the neck, red tonsils with spots or white patches, and sometimes headache or stomachache, without cough or congestion. The viral kind comes with cough, runny nose, hoarseness and irritated eyes. Since looks can deceive, the only sure way to know is the test.
 
-## When to get it
+## What is the rapid test like?
 
-Severe sore throat, fever, trouble swallowing or white patches on the tonsils, especially in children. The test avoids unnecessary treatments.
+A swab is passed over the tonsils and the back of the throat for a few seconds; it causes brief gagging, not pain. The result is ready in minutes. If it is negative but symptoms point to strep, especially in children, a throat culture can be sent, which confirms in one or two days. Do not eat or drink anything right before the test.
 
-${WHY_EN}
+## What treatment is given?
 
-${PAYMENT_EN}
+If positive, a 10-day antibiotic, usually from the penicillin family, or an alternative if you are allergic. After 24 hours of treatment you are no longer contagious and can return to work or school if there is no fever. It is important to finish the 10 days even if you feel fine by day three: that is how rheumatic fever, a rare but serious complication, is prevented. If negative, treatment is for relief: fluids, pain reliever and rest; an antibiotic does not help.
+
+## When should I come right away?
+
+Trouble breathing or swallowing saliva, not being able to open the mouth well, swelling on one side of the neck, a muffled voice or fever that does not come down after two days of antibiotics. Those signs may point to an abscess and need same-day care.
+
+## Can it spread in the family?
+
+Yes. If someone at home has strep, those who develop symptoms should be tested; people without symptoms are not treated. Changing the toothbrush after the first 24 hours of antibiotics helps avoid reinfection.
+
+## How much does a strep test cost in Pasadena?
+
+We give you the price of the visit with rapid test by phone at (281) 747-8817; the culture, if needed, is separate. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, the sample is taken, you wait for the result in the clinic and the physician checks your throat, ears and neck. You leave with a prescription and, if needed, a note for work or school. If there is also cough and body aches, the [flu and COVID](/en/services/enfermedades-respiratorias) test is done at the same visit; seasonal [vaccines](/en/services/vacunas) too.
 
 ${AREAS_EN}`,
   },
   {
     slug: "prueba-tuberculosis",
+    dateModified: "2026-09-12",
     order: 15,
     category: "laboratorio",
     icon: "ShieldPlus",
@@ -1763,45 +1822,72 @@ ${AREAS_EN}`,
       "Useful for work and school",
       "Care in Spanish",
     ],
-    longDescription: `Muchos trabajos y escuelas piden una prueba de tuberculosis al día. En Clínica Hispana Nueva Salud Pasadena la aplicamos y leemos el resultado, con todo explicado en español.
+    longDescription: `Para trabajar en salud, guarderías o escuelas, para un trámite de inmigración o porque estuviste en contacto con alguien enfermo: la prueba de tuberculosis se pide por muchas razones, y hay dos formas de hacerla. En Clínica Hispana Nueva Salud Pasadena te decimos cuál corresponde a tu caso y te entregamos el resultado documentado.
 
-## ¿Qué incluye?
+## ¿Prueba en la piel o en sangre?
 
-- Prueba cutánea de tuberculosis (PPD)
-- Cita de lectura del resultado (48–72 horas después)
-- Documentación del resultado para tu trámite
-- Orientación si el resultado requiere seguimiento
+La **prueba cutánea (PPD o Mantoux)** se aplica con una pequeña inyección bajo la piel del antebrazo y se lee entre 48 y 72 horas después: hay que volver a la clínica para la lectura. Es la que suelen pedir empleadores y escuelas. La **prueba en sangre (IGRA)** se hace con una sola extracción, no requiere volver, y no se altera por la vacuna BCG que muchos recibimos de niños en Latinoamérica; es la que exige USCIS para el examen de inmigración y la más recomendable si tienes BCG.
 
-## Para qué la piden
+## ¿Qué significa un resultado positivo?
 
-Empleos de salud, escuelas, trámites y voluntariado suelen requerir una prueba de TB vigente. Te ayudamos a cumplir el requisito sin complicaciones.
+Que en algún momento tu cuerpo tuvo contacto con la bacteria de la tuberculosis, no que estés enfermo. La mayoría de los positivos son infección latente: la bacteria está dormida, no contagias y no tienes síntomas. Para descartar la enfermedad activa se pide una radiografía de tórax y se revisan síntomas como tos de más de tres semanas, fiebre, sudores nocturnos o pérdida de peso. Con radiografía normal, el trámite sigue y, según el caso, se ofrece tratamiento preventivo.
 
-${WHY_ES}
+## ¿Qué pasa si tuve la vacuna BCG?
 
-${PAYMENT_ES}
+Con la prueba cutánea puede salir un falso positivo por la vacuna. Si sabes que la tienes, lo mejor es la prueba en sangre desde el principio; si ya te hicieron la cutánea y salió positiva, la de sangre ayuda a aclararlo.
+
+## ¿Cómo se lee la prueba cutánea?
+
+Se mide la induración, el bulto endurecido, no el enrojecimiento. El corte para considerarla positiva depende de tu riesgo: 5 mm en contactos cercanos o personas con defensas bajas, 10 mm en quienes trabajan en salud, llegaron de países con tuberculosis frecuente o tienen diabetes, y 15 mm en el resto. Si no vuelves a la lectura en 72 horas, la prueba se anula y hay que repetirla.
+
+## ¿Cuánto cuesta la prueba de tuberculosis en Pasadena?
+
+Te damos el precio de la prueba cutánea, que incluye la lectura, y de la prueba en sangre por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Qué debo traer?
+
+Identificación con foto, el formulario de tu empleador, escuela o trámite si te dieron uno, y resultados previos de tuberculosis o radiografías si los tienes. Llegas sin cita de 9 AM a 9 PM; para la cutánea, elige un día en que puedas volver 48 a 72 horas después.
+
+## Servicios relacionados
+
+Para el examen de inmigración, la prueba en sangre forma parte del proceso: [examen médico de inmigración](/services/examenes-inmigracion). La extracción se hace en [exámenes de sangre](/services/examenes-sangre). Si tienes tos persistente, se evalúa en [enfermedades respiratorias](/services/enfermedades-respiratorias).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and schools require an up-to-date tuberculosis test. At Clínica Hispana Nueva Salud Pasadena we administer it and read the result, with everything explained in Spanish.
+    longDescriptionEn: `To work in healthcare, daycare or schools, for an immigration case or because you were in contact with someone who is sick: the tuberculosis test is requested for many reasons, and there are two ways to do it. At Clínica Hispana Nueva Salud Pasadena we tell you which one fits your case and give you a documented result.
 
-## What's included?
+## Skin test or blood test?
 
-- Tuberculosis skin test (PPD)
-- Result-reading appointment (48–72 hours later)
-- Documentation of the result for your paperwork
-- Guidance if the result needs follow-up
+The **skin test (PPD or Mantoux)** is given with a small injection under the skin of the forearm and read 48 to 72 hours later: you must return to the clinic for the reading. It is the one employers and schools usually request. The **blood test (IGRA)** is done with a single draw, requires no return visit and is not affected by the BCG vaccine many of us received as children in Latin America; it is the one USCIS requires for the immigration exam and the best choice if you had BCG.
 
-## Why it's required
+## What does a positive result mean?
 
-Healthcare jobs, schools, paperwork and volunteering often require a current TB test. We help you meet the requirement without hassle.
+That at some point your body had contact with the tuberculosis bacteria, not that you are sick. Most positives are latent infection: the bacteria is dormant, you are not contagious and you have no symptoms. To rule out active disease, a chest X-ray is ordered and symptoms such as a cough lasting more than three weeks, fever, night sweats or weight loss are reviewed. With a normal X-ray, the process continues and, depending on the case, preventive treatment is offered.
 
-${WHY_EN}
+## What if I had the BCG vaccine?
 
-${PAYMENT_EN}
+The skin test can give a false positive because of the vaccine. If you know you had it, the blood test is best from the start; if you already had the skin test and it was positive, the blood test helps clarify.
+
+## How is the skin test read?
+
+The induration, the hardened bump, is measured, not the redness. The cutoff for a positive depends on your risk: 5 mm in close contacts or people with weak immunity, 10 mm in healthcare workers, people from countries where tuberculosis is common or people with diabetes, and 15 mm in everyone else. If you do not return for the reading within 72 hours, the test is void and must be repeated.
+
+## How much does a tuberculosis test cost in Pasadena?
+
+We give you the price of the skin test, which includes the reading, and of the blood test by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards.
+
+## What should I bring?
+
+A photo ID, your employer's, school's or case form if you were given one, and previous tuberculosis results or X-rays if you have them. Walk in from 9 AM to 9 PM; for the skin test, pick a day when you can return 48 to 72 hours later.
+
+## Related services
+
+For the immigration exam, the blood test is part of the process: [immigration medical exam](/en/services/examenes-inmigracion). The draw is done under [blood tests](/en/services/examenes-sangre). If you have a persistent cough, it is evaluated under [respiratory illnesses](/en/services/enfermedades-respiratorias).
 
 ${AREAS_EN}`,
   },
   {
     slug: "enfermedades-transmision-sexual",
+    dateModified: "2026-09-12",
     order: 16,
     category: "laboratorio",
     icon: "ShieldCheck",
@@ -1839,47 +1925,72 @@ ${AREAS_EN}`,
       "Treatment available",
       "Care in Spanish",
     ],
-    longDescription: `Cuidar tu salud sexual es un acto de responsabilidad. En Clínica Hispana Nueva Salud Pasadena ofrecemos pruebas de enfermedades de transmisión sexual de forma confidencial y respetuosa, con tratamiento cuando es necesario.
+    longDescription: `La mayoría de las infecciones de transmisión sexual no dan síntomas al principio, y la única forma de saberlo es la prueba. En Clínica Hispana Nueva Salud Pasadena se hace sin cita, en español, con resultado confidencial y tratamiento en la misma clínica cuando corresponde.
 
-## ¿Qué incluye?
+## ¿Qué pruebas de ETS se hacen?
 
-- Evaluación de síntomas y factores de riesgo
-- Pruebas de las infecciones más comunes
-- Análisis de laboratorio
-- Tratamiento y orientación si el resultado es positivo
-- Total confidencialidad
+Clamidia y gonorrea en muestra de orina o hisopado; sífilis y VIH en sangre; hepatitis B y C en sangre; y, cuando hay lesiones o flujo, evaluación de herpes, tricomonas y otras infecciones. El médico elige el panel según tus síntomas, tus prácticas y tu última prueba; no hace falta pedirlas una por una.
 
-## Cuándo hacerte la prueba
+## ¿Cuándo debo hacerme la prueba?
 
-Si tuviste contacto de riesgo, tienes síntomas o simplemente quieres estar tranquilo, hacerte la prueba es la mejor decisión. La detección temprana facilita el tratamiento.
+Una vez al año si eres sexualmente activo; cada 3 a 6 meses si tienes parejas nuevas o más de una; siempre que una pareja te avise de un resultado positivo; al inicio del embarazo; y ante síntomas como flujo distinto, ardor al orinar, llagas, verrugas o dolor pélvico. Ten en cuenta el periodo ventana: una prueba hecha a los pocos días de la exposición puede salir negativa; para VIH y sífilis conviene repetirla a las 4 a 6 semanas y a los 3 meses.
 
-${WHY_ES}
+## ¿Es confidencial?
 
-${PAYMENT_ES}
+Sí. El resultado es tuyo: no se comparte con tu pareja, tu familia ni tu empleador, y no se pregunta estatus migratorio. En recepción solo necesitas decir que vienes por una prueba; los detalles se hablan en consulta. Si prefieres, puedes preguntar precios por WhatsApp al (346) 222-1006 antes de venir.
+
+## ¿Qué pasa si sale positiva?
+
+Clamidia, gonorrea, sífilis y tricomonas se curan con antibióticos que se indican en la misma clínica. El herpes y el VIH no se curan, pero se controlan con tratamiento; en el caso del VIH, se orienta la referencia a un centro especializado donde el medicamento puede ser gratuito o de bajo costo. En todos los casos se recomienda avisar a las parejas recientes para que también se hagan la prueba y evitar reinfecciones.
+
+## ¿Cómo evito una ETS?
+
+El condón en cada relación es lo único que previene la mayoría de ellas. Además, la vacuna del VPH protege contra las cepas que causan cáncer de cuello uterino y verrugas, y la de hepatitis B se aplica en la clínica: consulta [vacunas](/services/vacunas). Si tuviste una exposición de alto riesgo al VIH en las últimas 72 horas, acude de inmediato a emergencias para valorar la profilaxis.
+
+## ¿Cuánto cuestan las pruebas de ETS en Pasadena?
+
+Te damos el precio del panel completo o de cada prueba por teléfono al (281) 747-8817, sin que tengas que dar tu nombre. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM. Para la muestra de orina, procura no orinar en la hora previa. Se toma la muestra de sangre en la clínica y te avisamos cuando el resultado esté listo; si hay síntomas, el tratamiento puede empezar el mismo día. Las revisiones de [ginecología](/services/ginecologia) y de [salud del hombre](/services/salud-hombre) incluyen estas pruebas cuando se solicitan.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Taking care of your sexual health is an act of responsibility. At Clínica Hispana Nueva Salud Pasadena we offer confidential, respectful testing for sexually transmitted diseases, with treatment when needed.
+    longDescriptionEn: `Most sexually transmitted infections cause no symptoms at first, and the only way to know is the test. At Clínica Hispana Nueva Salud Pasadena it is done with no appointment, in Spanish or English, with a confidential result and treatment at the same clinic when needed.
 
-## What's included?
+## Which STD tests are done?
 
-- Symptom and risk-factor assessment
-- Testing for the most common infections
-- Laboratory analysis
-- Treatment and guidance if the result is positive
-- Complete confidentiality
+Chlamydia and gonorrhea on a urine sample or swab; syphilis and HIV on blood; hepatitis B and C on blood; and, when there are sores or discharge, evaluation for herpes, trichomonas and other infections. The physician chooses the panel based on your symptoms, your practices and your last test; you do not need to ask for them one by one.
 
-## When to get tested
+## When should I get tested?
 
-If you had a risky encounter, have symptoms or simply want peace of mind, getting tested is the best decision. Early detection makes treatment easier.
+Once a year if you are sexually active; every 3 to 6 months if you have new or multiple partners; whenever a partner tells you about a positive result; at the start of pregnancy; and with symptoms such as unusual discharge, burning when urinating, sores, warts or pelvic pain. Keep the window period in mind: a test done a few days after exposure can be negative; for HIV and syphilis it is worth repeating at 4 to 6 weeks and at 3 months.
 
-${WHY_EN}
+## Is it confidential?
 
-${PAYMENT_EN}
+Yes. The result is yours: it is not shared with your partner, your family or your employer, and no immigration status is asked. At the front desk you only need to say you are here for a test; details are discussed in the exam room. If you prefer, you can ask about prices on WhatsApp at (346) 222-1006 before coming.
+
+## What if it is positive?
+
+Chlamydia, gonorrhea, syphilis and trichomonas are cured with antibiotics prescribed at the same clinic. Herpes and HIV are not cured but are controlled with treatment; for HIV, we guide the referral to a specialized center where the medication may be free or low cost. In every case, recent partners should be told so they can get tested too and reinfection is avoided.
+
+## How do I prevent an STD?
+
+A condom every time is the only thing that prevents most of them. In addition, the HPV vaccine protects against the strains that cause cervical cancer and warts, and the hepatitis B vaccine is given at the clinic: see [vaccines](/en/services/vacunas). If you had a high-risk HIV exposure in the last 72 hours, go to the emergency room right away to be evaluated for prophylaxis.
+
+## How much do STD tests cost in Pasadena?
+
+We give you the price of the full panel or of each test by phone at (281) 747-8817, without you having to give your name. No health insurance is needed; we accept cash and cards.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM. For the urine sample, try not to urinate in the hour before. The blood sample is drawn in the clinic and we let you know when the result is ready; if there are symptoms, treatment can start the same day. [Gynecology](/en/services/ginecologia) and [men's health](/en/services/salud-hombre) checkups include these tests when requested.
 
 ${AREAS_EN}`,
   },
   {
     slug: "examen-alcohol-drogas",
+    dateModified: "2026-09-12",
     order: 17,
     category: "examenes",
     icon: "Beaker",
@@ -1917,45 +2028,72 @@ ${AREAS_EN}`,
       "Fast process",
       "Result documentation",
     ],
-    longDescription: `Muchos empleos y trámites requieren una prueba de alcohol y drogas. En Clínica Hispana Nueva Salud Pasadena la realizamos de forma rápida y te entregamos la documentación que necesitas.
+    longDescription: `Un empleo nuevo, una promoción, un contrato o un trámite legal: cada vez más procesos piden una prueba de drogas y alcohol. En Clínica Hispana Nueva Salud Pasadena se hace sin cita, con discreción, y sales con la documentación del resultado para entregar.
 
-## ¿Qué incluye?
+## ¿Qué pruebas de drogas y alcohol se hacen?
 
-- Prueba de detección de drogas
-- Prueba de alcohol
-- Proceso ágil y discreto
-- Documentación del resultado para tu empleador o trámite
+Prueba de drogas en orina con panel de las sustancias más solicitadas por los empleadores (marihuana, cocaína, anfetaminas, opiáceos, fenciclidina y, en paneles ampliados, benzodiacepinas, barbitúricos, metadona y otras) y prueba de alcohol. La prueba rápida da resultado en la clínica; cuando el empleador exige confirmación de laboratorio, la muestra se envía y el resultado se entrega por escrito.
 
-## Para trabajo y trámites
+## ¿Sirve para el trabajo?
 
-Atendemos solicitudes de empleo, requisitos laborales y trámites personales. Te explicamos el proceso en español para que llegues tranquilo.
+Sí, para pruebas de preempleo, aleatorias o por sospecha razonable que pide una empresa, y para trámites personales o legales que requieran constancia. Si tu empleador exige el protocolo federal para conductores comerciales (prueba DOT con cadena de custodia y laboratorio certificado), confírmalo por teléfono antes de venir para indicarte si podemos realizarla o a dónde acudir. El [examen físico DOT](/services/examen-dot) para la licencia CDL sí se hace en la clínica.
 
-${WHY_ES}
+## ¿Cuánto tiempo se detectan las sustancias?
 
-${PAYMENT_ES}
+Depende de la sustancia y del uso. En orina, el alcohol se detecta hasta 12 a 24 horas; la cocaína, 2 a 4 días; las anfetaminas, 2 a 4 días; los opiáceos, 2 a 4 días; la marihuana, de 3 días en uso ocasional a 30 días o más en uso frecuente. Son rangos generales, no garantías.
+
+## ¿Qué medicamentos pueden dar positivo?
+
+Algunos medicamentos con receta y sin receta pueden dar un resultado positivo inicial: analgésicos opioides, medicamentos para el TDAH, ciertos ansiolíticos y jarabes con codeína, entre otros. Trae tus recetas o los frascos: si el resultado inicial es positivo por un medicamento indicado, la confirmación de laboratorio lo distingue y se documenta.
+
+## ¿Cómo es la toma de muestra?
+
+Se verifica tu identidad, se toma la muestra de orina en un baño de la clínica siguiendo las indicaciones del personal y se sella el recipiente frente a ti. Para la prueba de alcohol, se usa el método disponible según lo que solicite tu empleador o trámite. Todo el proceso toma unos minutos; evita beber grandes cantidades de agua antes, porque una orina muy diluida puede invalidar la muestra.
+
+## ¿Cuánto cuesta la prueba de drogas en Pasadena?
+
+Te damos el precio de la prueba rápida y de la confirmación por laboratorio por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. Si la paga tu empleador, tráelo indicado por escrito.
+
+## ¿Qué debo traer?
+
+Identificación con foto vigente, el formulario o la solicitud del empleador si te dieron uno, la lista de medicamentos que tomas y, si aplica, la orden del trámite. Llegas sin cita de 9 AM a 9 PM. Los [exámenes de sangre](/services/examenes-sangre) que a veces acompañan el ingreso laboral se toman en la misma visita.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Many jobs and processes require an alcohol and drug test. At Clínica Hispana Nueva Salud Pasadena we perform it quickly and give you the documentation you need.
+    longDescriptionEn: `A new job, a promotion, a contract or a legal process: more and more procedures require a drug and alcohol test. At Clínica Hispana Nueva Salud Pasadena it is done with no appointment, discreetly, and you leave with the result documentation to hand in.
 
-## What's included?
+## Which drug and alcohol tests are done?
 
-- Drug screening test
-- Alcohol test
-- Quick, discreet process
-- Result documentation for your employer or paperwork
+A urine drug test with a panel of the substances employers most often request (marijuana, cocaine, amphetamines, opiates, phencyclidine and, in extended panels, benzodiazepines, barbiturates, methadone and others) and an alcohol test. The rapid test gives a result in the clinic; when the employer requires lab confirmation, the sample is sent out and the result is delivered in writing.
 
-## For work and paperwork
+## Does it work for employment?
 
-We handle job applications, workplace requirements and personal paperwork. We explain the process in Spanish so you arrive with peace of mind.
+Yes, for pre-employment, random or reasonable-suspicion tests a company requests, and for personal or legal processes that require proof. If your employer requires the federal protocol for commercial drivers (a DOT test with chain of custody and a certified lab), confirm by phone before coming so we can tell you whether we can perform it or where to go. The [DOT physical](/en/services/examen-dot) for the CDL is done at the clinic.
 
-${WHY_EN}
+## How long are substances detectable?
 
-${PAYMENT_EN}
+It depends on the substance and the use. In urine, alcohol is detectable for up to 12 to 24 hours; cocaine, 2 to 4 days; amphetamines, 2 to 4 days; opiates, 2 to 4 days; marijuana, from 3 days with occasional use to 30 days or more with frequent use. These are general ranges, not guarantees.
+
+## Which medications can cause a positive?
+
+Some prescription and over-the-counter medications can cause an initial positive: opioid pain relievers, ADHD medications, certain anti-anxiety drugs and codeine cough syrups, among others. Bring your prescriptions or bottles: if the initial result is positive because of a prescribed medication, lab confirmation tells the difference and it is documented.
+
+## How is the sample collected?
+
+Your identity is verified, the urine sample is collected in a clinic restroom following staff instructions and the container is sealed in front of you. For the alcohol test, the available method is used according to what your employer or process requests. The whole process takes a few minutes; avoid drinking large amounts of water beforehand, since very diluted urine can invalidate the sample.
+
+## How much does a drug test cost in Pasadena?
+
+We give you the price of the rapid test and of lab confirmation by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. If your employer pays, bring that in writing.
+
+## What should I bring?
+
+A valid photo ID, the employer's form or request if you were given one, the list of medications you take and, if applicable, the order for the process. Walk in from 9 AM to 9 PM. The [blood tests](/en/services/examenes-sangre) that sometimes go with a new job are drawn at the same visit.
 
 ${AREAS_EN}`,
   },
   {
     slug: "electrocardiograma",
+    dateModified: "2026-09-12",
     order: 18,
     category: "laboratorio",
     icon: "HeartPulse",
@@ -1993,40 +2131,66 @@ ${AREAS_EN}`,
       "Useful for medical exams",
       "Results in Spanish",
     ],
-    longDescription: `El electrocardiograma (EKG) registra la actividad eléctrica de tu corazón en pocos minutos y sin ninguna molestia. En Clínica Hispana Nueva Salud Pasadena lo realizamos como parte de chequeos y exámenes médicos.
+    longDescription: `Un electrocardiograma registra en unos minutos cómo late tu corazón: el ritmo, la velocidad y las señales de que el músculo sufre. En Clínica Hispana Nueva Salud Pasadena se hace en la clínica, sin cita, y el equipo médico lo interpreta contigo en la misma visita.
 
-## ¿Qué incluye?
+## ¿Para qué sirve un electrocardiograma?
 
-- Estudio del ritmo y la actividad del corazón
-- Interpretación por personal médico
-- Útil para exámenes de trabajo, deporte o cirugía
-- Resultados explicados en español
+Para detectar arritmias como la fibrilación auricular, signos de un infarto reciente o antiguo, falta de riego al corazón, crecimiento del músculo cardiaco por presión alta de años, y alteraciones por potasio o calcio fuera de rango. También forma parte de exámenes médicos de trabajo, chequeos preoperatorios y evaluaciones deportivas cuando el médico lo indica.
 
-## Cuándo se recomienda
+## ¿Cuándo debo hacérmelo?
 
-Si tienes palpitaciones, presión alta, dolor en el pecho o necesitas un examen médico completo, el EKG aporta información valiosa sobre tu corazón.
+Si tienes palpitaciones, dolor u opresión en el pecho, falta de aire con el esfuerzo, mareos o desmayos; si tienes presión alta, diabetes o colesterol alto y nunca te lo han hecho; si empiezas un medicamento que afecta el ritmo; o si un formulario lo exige. Con dolor en el pecho intenso, sudor frío o dolor que se corre al brazo o la mandíbula, no vengas a la clínica: llama al 911.
 
-${WHY_ES}
+## ¿Cómo se hace y cuánto dura?
 
-${PAYMENT_ES}
+Te recuestas, se limpian pequeñas zonas de la piel del pecho, brazos y piernas y se colocan electrodos adhesivos conectados al equipo. Debes quedarte quieto y relajado unos segundos mientras se registra. En total toma unos 10 minutos. No duele, no usa electricidad hacia el cuerpo ni radiación, y puedes hacerlo aunque estés embarazada.
+
+## ¿Necesito preparación?
+
+No hace falta ayuno. Evita cremas o aceites en el pecho ese día, ven con ropa fácil de quitar y, si es posible, no hagas ejercicio intenso ni tomes café justo antes, porque aceleran el pulso. Trae la lista de tus medicamentos y, si tienes, electrocardiogramas anteriores para comparar.
+
+## ¿Qué pasa si sale alterado?
+
+Muchas alteraciones son variantes normales o se explican por la presión, el pulso rápido o un medicamento. Cuando el trazo muestra algo que requiere estudio, el médico ordena análisis, ajusta el tratamiento de [presión, diabetes o colesterol](/services/condiciones-cronicas) y, si corresponde, orienta la referencia a cardiología para un ecocardiograma, un Holter o una prueba de esfuerzo. Si el hallazgo es urgente, se indica ir a emergencias ese momento.
+
+## ¿Cuánto cuesta un electrocardiograma en Pasadena?
+
+Te damos el precio por teléfono al (281) 747-8817. No necesitas seguro médico; aceptamos efectivo y tarjeta. Cuando forma parte de un chequeo con análisis, se cotiza junto.
+
+## ¿Cómo es la visita?
+
+Llegas sin cita de 9 AM a 9 PM, el médico revisa tus síntomas y tu presión, se hace el estudio y se interpreta en la misma visita. Sales con tu resultado y las indicaciones. Los [análisis de sangre](/services/examenes-sangre) que suelen acompañarlo, como colesterol y glucosa, se toman al mismo tiempo; para el [examen DOT](/services/examen-dot) o el [chequeo del hombre](/services/salud-hombre) se incluye cuando el médico lo indica.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The electrocardiogram (EKG) records your heart's electrical activity in just a few minutes with no discomfort. At Clínica Hispana Nueva Salud Pasadena we perform it as part of checkups and medical exams.
+    longDescriptionEn: `An electrocardiogram records in a few minutes how your heart beats: the rhythm, the rate and the signs that the muscle is under strain. At Clínica Hispana Nueva Salud Pasadena it is done in the clinic, with no appointment, and the medical team interprets it with you at the same visit.
 
-## What's included?
+## What is an electrocardiogram for?
 
-- Study of your heart's rhythm and activity
-- Interpretation by medical staff
-- Useful for work, sports or surgery exams
-- Results explained in Spanish
+To detect arrhythmias such as atrial fibrillation, signs of a recent or old heart attack, poor blood flow to the heart, thickening of the heart muscle from years of high blood pressure, and changes caused by potassium or calcium out of range. It is also part of work physicals, pre-surgery checkups and sports evaluations when the physician orders it.
 
-## When it's recommended
+## When should I have one?
 
-If you have palpitations, high blood pressure, chest discomfort or need a complete medical exam, the EKG provides valuable information about your heart.
+If you have palpitations, chest pain or pressure, shortness of breath with exertion, dizziness or fainting; if you have high blood pressure, diabetes or high cholesterol and have never had one; if you start a medication that affects heart rhythm; or if a form requires it. With intense chest pain, cold sweat or pain spreading to the arm or jaw, do not come to the clinic: call 911.
 
-${WHY_EN}
+## How is it done, and how long does it take?
 
-${PAYMENT_EN}
+You lie down, small areas of skin on the chest, arms and legs are cleaned, and adhesive electrodes connected to the machine are placed. You need to stay still and relaxed for a few seconds while it records. In all it takes about 10 minutes. It does not hurt, sends no electricity into the body and uses no radiation, and you can have it even if you are pregnant.
+
+## Do I need preparation?
+
+No fasting is needed. Avoid creams or oils on the chest that day, wear clothing that is easy to remove and, if possible, do not exercise hard or drink coffee right before, since they speed up the pulse. Bring your medication list and, if you have them, previous electrocardiograms to compare.
+
+## What if it is abnormal?
+
+Many abnormalities are normal variants or are explained by blood pressure, a fast pulse or a medication. When the tracing shows something that needs workup, the physician orders labs, adjusts treatment for [blood pressure, diabetes or cholesterol](/en/services/condiciones-cronicas) and, when appropriate, guides a cardiology referral for an echocardiogram, a Holter monitor or a stress test. If the finding is urgent, you are sent to the emergency room right then.
+
+## How much does an electrocardiogram cost in Pasadena?
+
+We give you the price by phone at (281) 747-8817. No health insurance is needed; we accept cash and cards. When it is part of a checkup with labs, it is quoted together.
+
+## What is the visit like?
+
+Walk in from 9 AM to 9 PM, the physician reviews your symptoms and blood pressure, the study is done and interpreted at the same visit. You leave with your result and instructions. The [blood tests](/en/services/examenes-sangre) that usually go with it, such as cholesterol and glucose, are drawn at the same time; for the [DOT physical](/en/services/examen-dot) or the [men's checkup](/en/services/salud-hombre) it is included when the physician orders it.
 
 ${AREAS_EN}`,
   },
