@@ -82,6 +82,15 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={fontVariables} suppressHydrationWarning>
+      <head>
+        {/* Marca html.js antes del primer pintado: .reveal solo oculta
+            contenido cuando hay JS (ver globals.css). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: "document.documentElement.classList.add('js')",
+          }}
+        />
+      </head>
       <body className="flex min-h-dvh flex-col bg-background text-foreground">
         {/* Meta Pixel: script crudo, antes de la hidratación */}
         <MetaPixel />

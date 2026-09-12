@@ -243,17 +243,22 @@
 
 /* Animaciones de entrada (scroll-animations) — suaves y frescas */
 @layer utilities {
+  /* Solo se oculta cuando hay JS (clase .js puesta por un script inline en
+     <head> antes del primer pintado). Sin JS, o para rastreadores y Lighthouse
+     antes de hidratar, todo el contenido es visible desde el HTML. */
   .reveal {
-    opacity: 0;
-    transform: translateY(28px);
     transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
   }
-  .reveal.is-visible {
+  .js .reveal {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  .js .reveal.is-visible {
     opacity: 1;
     transform: none;
   }
   @media (prefers-reduced-motion: reduce) {
-    .reveal {
+    .js .reveal {
       opacity: 1;
       transform: none;
       transition: none;

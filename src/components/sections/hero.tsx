@@ -37,6 +37,7 @@ export async function Hero() {
         alt="Fachada de Clínica Hispana Nueva Salud Pasadena en 1101 Spencer Hwy, South Houston, TX"
         fill
         priority
+        fetchPriority="high"
         sizes="100vw"
         className="absolute inset-0 -z-20 object-cover object-center"
       />

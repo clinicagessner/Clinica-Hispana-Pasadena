@@ -73,15 +73,14 @@ export default async function ServicesPage({
           className="cross-pattern pointer-events-none absolute inset-y-0 right-0 hidden w-1/2 text-blue-primary/15 lg:block"
         />
         <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Reveal>
-            <p className="eyebrow">Clínica Hispana Nueva Salud Pasadena</p>
-            <h1 className="mt-5 max-w-3xl font-heading text-4xl font-black leading-[1.05] tracking-tight text-slate-dark sm:text-5xl lg:text-6xl">
-              <span className="ink-underline">{t("title")}</span>
-            </h1>
-            <p className="mt-6 max-w-2xl font-sans text-lg leading-relaxed text-slate-primary">
-              {t("subtitle")}
-            </p>
-          </Reveal>
+          {/* Sin Reveal: el H1 es el elemento LCP y no debe nacer con opacity 0 */}
+          <p className="eyebrow">Clínica Hispana Nueva Salud Pasadena</p>
+          <h1 className="mt-5 max-w-3xl font-heading text-4xl font-black leading-[1.05] tracking-tight text-slate-dark sm:text-5xl lg:text-6xl">
+            <span className="ink-underline">{t("title")}</span>
+          </h1>
+          <p className="mt-6 max-w-2xl font-sans text-lg leading-relaxed text-slate-primary">
+            {t("subtitle")}
+          </p>
         </div>
       </section>
 

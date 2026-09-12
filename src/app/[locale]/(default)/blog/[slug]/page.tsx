@@ -132,6 +132,7 @@ export default async function BlogPostPage({
                 width={1360}
                 height={765}
                 priority
+                fetchPriority="high"
                 sizes="(max-width: 1024px) 100vw, 768px"
                 className="aspect-video w-full object-cover"
               />
