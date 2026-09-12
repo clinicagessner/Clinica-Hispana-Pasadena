@@ -1,14 +1,4 @@
 {
-  "/images/blog/atencion-medica-sin-seguro-pasadena 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/blog/atencion-medica-sin-seguro-pasadena.webp": {
     "widths": [
       256,
@@ -19,27 +9,7 @@
     ],
     "original": 1024
   },
-  "/images/blog/bienvenidos-clinica-hispana-nueva-salud 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/blog/bienvenidos-clinica-hispana-nueva-salud.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/blog/control-diabetes-pasadena-guia-pacientes 2.webp": {
     "widths": [
       256,
       384,
@@ -70,16 +40,6 @@
     "original": 1024
   },
   "/images/blog/ginecologos-hispanos-pasadena-hablan-espanol.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/blog/guia-examen-medico-inmigracion-i693-pasadena 2.webp": {
     "widths": [
       256,
       384,
@@ -149,27 +109,7 @@
     ],
     "original": 1024
   },
-  "/images/clinica-exterior 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1200
-  },
   "/images/clinica-exterior.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1200
-  },
-  "/images/hero-bg 2.webp": {
     "widths": [
       256,
       384,
@@ -269,16 +209,6 @@
     ],
     "original": 1024
   },
-  "/images/services/cirugias-menores 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/cirugias-menores.webp": {
     "widths": [
       256,
@@ -289,27 +219,7 @@
     ],
     "original": 1024
   },
-  "/images/services/condiciones-cronicas 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/condiciones-cronicas.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/curacion-heridas 2.webp": {
     "widths": [
       256,
       384,
@@ -339,16 +249,6 @@
     ],
     "original": 1024
   },
-  "/images/services/electrocardiograma 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/electrocardiograma.webp": {
     "widths": [
       256,
@@ -360,16 +260,6 @@
     "original": 1024
   },
   "/images/services/enfermedades-respiratorias.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/enfermedades-transmision-sexual 2.webp": {
     "widths": [
       256,
       384,
@@ -399,16 +289,6 @@
     ],
     "original": 1024
   },
-  "/images/services/examen-dot 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/examen-dot.webp": {
     "widths": [
       256,
@@ -429,16 +309,6 @@
     ],
     "original": 1024
   },
-  "/images/services/examen-heces 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/examen-heces.webp": {
     "widths": [
       256,
@@ -449,27 +319,7 @@
     ],
     "original": 1024
   },
-  "/images/services/examenes-inmigracion 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/examenes-inmigracion.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/examenes-sangre 2.webp": {
     "widths": [
       256,
       384,
@@ -509,27 +359,7 @@
     ],
     "original": 1024
   },
-  "/images/services/ginecologia 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/ginecologia.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/infecciones-urinarias 2.webp": {
     "widths": [
       256,
       384,
@@ -569,16 +399,6 @@
     ],
     "original": 1024
   },
-  "/images/services/prueba-tuberculosis 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/prueba-tuberculosis.webp": {
     "widths": [
       256,
@@ -590,16 +410,6 @@
     "original": 1024
   },
   "/images/services/salud-hombre.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/sueros-vitaminados 2.webp": {
     "widths": [
       256,
       384,
@@ -629,16 +439,6 @@
     ],
     "original": 1024
   },
-  "/images/services/tiroides 2.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
   "/images/services/tiroides.webp": {
     "widths": [
       256,
@@ -650,16 +450,6 @@
     "original": 1024
   },
   "/images/services/ultrasonido.webp": {
-    "widths": [
-      256,
-      384,
-      512,
-      640,
-      828
-    ],
-    "original": 1024
-  },
-  "/images/services/unas-encarnadas 2.webp": {
     "widths": [
       256,
       384,
