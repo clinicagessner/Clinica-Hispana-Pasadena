@@ -10,9 +10,9 @@ Propiedad: `https://www.clinicahispanans4.com/`. Token `pasadena` reautorizado e
 Solo las 4 no indexadas (español antes que inglés): el contenido lleva días publicado y las indexadas ya lo reflejan.
 Antes de la tanda 1, reenviar el sitemap en GSC (Sitemaps → `sitemap.xml`).
 
-## Tanda 1
+## Tanda 1  ✅ PEDIDA 25/09/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/control-diabetes-pasadena-guia-pacientes  — rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — rastreada sin indexar · 41 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/cirugias-menores  — rastreada sin indexar · 14 impr.
-- [ ] https://www.clinicahispanans4.com/en/promociones  — descubierta sin indexar · 0 impr.
+- [x] https://www.clinicahispanans4.com/blog/control-diabetes-pasadena-guia-pacientes  — rastreada sin indexar · 0 impr.
+- [x] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — rastreada sin indexar · 41 impr.
+- [x] https://www.clinicahispanans4.com/en/services/cirugias-menores  — rastreada sin indexar · 14 impr.
+- [x] https://www.clinicahispanans4.com/en/promociones  — descubierta sin indexar · 0 impr.
