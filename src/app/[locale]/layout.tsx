@@ -11,6 +11,7 @@ import { routing } from "@/i18n/routing";
 import { fontVariables } from "@/lib/fonts";
 import { SITE_CONFIG } from "@/lib/constants";
 import type { Locale } from "@/types";
+import { ConversionEvents } from "@/components/tracking/conversion-events";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -98,6 +99,7 @@ export default async function LocaleLayout({
         </NextIntlClientProvider>
         <GoogleTags />
         <CallRail />
+        <ConversionEvents />
       </body>
     </html>
   );

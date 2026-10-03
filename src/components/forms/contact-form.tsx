@@ -13,6 +13,7 @@ import { contactSchema, type ContactInput } from "@/lib/validations";
 import { CONTACT_INFO } from "@/lib/constants";
 import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
+import { trackEvent } from "@/components/tracking/conversion-events";
 
 type FbqWindow = Window & {
   fbq?: (...args: unknown[]) => void;
@@ -68,6 +69,7 @@ export function ContactForm({
       const result = await sendContactEmail(values, eventId);
       if (result.ok) {
         reset();
+        trackEvent("formulario", { form_name: "contacto" });
         setStatus("success");
       } else {
         setStatus("error");
