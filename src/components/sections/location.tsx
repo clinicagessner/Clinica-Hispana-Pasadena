@@ -42,6 +42,8 @@ export function Location() {
                 {CONTACT_INFO.address}
                 <br />
                 {CONTACT_INFO.city}, {CONTACT_INFO.state} {CONTACT_INFO.zip}
+                <br />
+                {t("parking")}
               </InfoCard>
 
               <InfoCard
