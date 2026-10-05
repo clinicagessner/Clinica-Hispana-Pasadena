@@ -4,7 +4,6 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { FloatingButtons } from "@/components/layout/floating-buttons";
 import { HashCleaner } from "@/components/shared/hash-cleaner";
-import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import type { Locale } from "@/types";
 
 export default async function DefaultLayout({
@@ -19,8 +18,6 @@ export default async function DefaultLayout({
 
   return (
     <>
-      {/* Nodo ligero de la clínica; el bloque completo con rating vive en la home */}
-      <JsonLdMedicalClinicRef />
       <HashCleaner />
       <Header />
       <main className="flex-1">{children}</main>

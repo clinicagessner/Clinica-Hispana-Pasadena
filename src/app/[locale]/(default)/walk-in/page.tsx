@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { setRequestLocale } from "next-intl/server";
 import {
   Clock,
@@ -134,6 +135,7 @@ export default async function WalkInPage({
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

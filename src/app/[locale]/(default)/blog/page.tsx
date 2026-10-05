@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { BlogCard } from "@/components/blog/blog-card";
@@ -41,6 +42,7 @@ export default async function BlogIndexPage({
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },

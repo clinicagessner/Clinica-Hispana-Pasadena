@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Reveal } from "@/components/animations/reveal";
 import { ServicesFilter } from "@/components/services/services-filter";
@@ -50,6 +51,7 @@ export default async function ServicesPage({
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdBreadcrumb
         items={[
           { name: "Home", url: absoluteUrl("/", loc) },
