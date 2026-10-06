@@ -3,7 +3,7 @@
 **Este archivo es la fuente de verdad del progreso.** Al pedir una tanda, marcar sus casillas y
 poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día por propiedad.
 
-Propiedad: `https://www.clinicahispanans4.com/`. Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
+Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
 **Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 87 de 90 URLs del sitemap indexadas · 3 sin indexar (3 rastreada sin indexar).
