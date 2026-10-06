@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 2 — 📨 ENVIADA 05/10/2026
+## Tanda 2  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispanans4.com  — cambiada 2026-10-05 · rastreada 2026-10-04 · indexada · 8325 impr.
-- [ ] https://www.clinicahispanans4.com/walk-in  — cambiada 2026-10-05 · rastreada 2026-09-27 · indexada · 304 impr.
-- [ ] https://www.clinicahispanans4.com/services  — cambiada 2026-10-05 · rastreada 2026-09-24 · indexada · 243 impr.
-- [ ] https://www.clinicahispanans4.com/promociones  — cambiada 2026-10-05 · rastreada 2026-09-23 · indexada · 108 impr.
-- [ ] https://www.clinicahispanans4.com/services/examen-dot  — cambiada 2026-09-12 · rastreada 2026-08-30 · indexada · 79 impr.
-- [ ] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 78 impr.
-- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-09-12 · rastreada 2026-09-11 · indexada · 44 impr.
-- [ ] https://www.clinicahispanans4.com/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-05 · indexada · 30 impr.
-- [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 23 impr.
-- [ ] https://www.clinicahispanans4.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-09-04 · indexada · 20 impr.
+- [x] https://www.clinicahispanans4.com  — cambiada 2026-10-05 · rastreada 2026-10-04 · indexada · 8325 impr.
+- [x] https://www.clinicahispanans4.com/walk-in  — cambiada 2026-10-05 · rastreada 2026-09-27 · indexada · 304 impr.
+- [x] https://www.clinicahispanans4.com/services  — cambiada 2026-10-05 · rastreada 2026-09-24 · indexada · 243 impr.
+- [x] https://www.clinicahispanans4.com/promociones  — cambiada 2026-10-05 · rastreada 2026-09-23 · indexada · 108 impr.
+- [x] https://www.clinicahispanans4.com/services/examen-dot  — cambiada 2026-09-12 · rastreada 2026-08-30 · indexada · 79 impr.
+- [x] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 78 impr.
+- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-09-12 · rastreada 2026-09-11 · indexada · 44 impr.
+- [x] https://www.clinicahispanans4.com/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-05 · indexada · 30 impr.
+- [x] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 23 impr.
+- [x] https://www.clinicahispanans4.com/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-09-04 · indexada · 20 impr.
 
 ## Tanda 3
 
