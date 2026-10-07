@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 06/10/2026
+## Tanda 3  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 15 impr.
-- [ ] https://www.clinicahispanans4.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 12 impr.
-- [ ] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-09-12 · rastreada 2026-06-25 · indexada · 11 impr.
-- [ ] https://www.clinicahispanans4.com/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-08-18 · indexada · 10 impr.
-- [ ] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 9 impr.
-- [ ] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 8 impr.
-- [ ] https://www.clinicahispanans4.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 7 impr.
-- [ ] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-05 · indexada · 7 impr.
-- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 7 impr.
-- [ ] https://www.clinicahispanans4.com/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 6 impr.
+- [x] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 15 impr.
+- [x] https://www.clinicahispanans4.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 12 impr.
+- [x] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-09-12 · rastreada 2026-06-25 · indexada · 11 impr.
+- [x] https://www.clinicahispanans4.com/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-08-18 · indexada · 10 impr.
+- [x] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 9 impr.
+- [x] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 8 impr.
+- [x] https://www.clinicahispanans4.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 7 impr.
+- [x] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-05 · indexada · 7 impr.
+- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 7 impr.
+- [x] https://www.clinicahispanans4.com/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 6 impr.
 
 ## Tanda 4
 
