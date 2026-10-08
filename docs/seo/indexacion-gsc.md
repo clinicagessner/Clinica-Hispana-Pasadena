@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-07; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 87 de 90 URLs del sitemap indexadas · 3 sin indexar (3 rastreada sin indexar).
+**Estado (actualizado 2026-10-08; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 87 de 90 URLs del sitemap indexadas · 3 sin indexar (3 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 47 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 37 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-09).
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 07/10/2026
+## Tanda 4  📨 ENVIADA 08/10/2026
 
 - [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 6 impr.
 - [ ] https://www.clinicahispanans4.com/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 6 impr.
