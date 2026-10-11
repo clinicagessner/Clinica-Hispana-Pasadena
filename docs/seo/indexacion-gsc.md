@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4  📨 ENVIADA 10/10/2026
+## Tanda 4  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 6 impr.
-- [ ] https://www.clinicahispanans4.com/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 6 impr.
-- [ ] https://www.clinicahispanans4.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-06 · indexada · 3 impr.
-- [ ] https://www.clinicahispanans4.com/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 3 impr.
-- [ ] https://www.clinicahispanans4.com/blog  — cambiada 2026-10-05 · rastreada 2026-10-04 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-14 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-09-11 · indexada · 1 impr.
+- [x] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 6 impr.
+- [x] https://www.clinicahispanans4.com/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 6 impr.
+- [x] https://www.clinicahispanans4.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-06 · indexada · 3 impr.
+- [x] https://www.clinicahispanans4.com/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 3 impr.
+- [x] https://www.clinicahispanans4.com/blog  — cambiada 2026-10-05 · rastreada 2026-10-04 · indexada · 2 impr.
+- [x] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
+- [x] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
+- [x] https://www.clinicahispanans4.com/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-09-12 · rastreada 2026-07-14 · indexada · 1 impr.
+- [x] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
+- [x] https://www.clinicahispanans4.com/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-09-11 · indexada · 1 impr.
 
 ## Tanda 5
 
