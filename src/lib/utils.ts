@@ -29,6 +29,7 @@ export function getLocalizedService(
     icon: service.icon,
     highlighted: service.highlighted ?? false,
     title: en && service.titleEn ? service.titleEn : service.title,
+    seoTitle: en ? service.seoTitleEn : service.seoTitle,
     shortDescription:
       en && service.shortDescriptionEn
         ? service.shortDescriptionEn

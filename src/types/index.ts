@@ -26,6 +26,9 @@ export interface Service {
 
   // Español (base)
   title: string;
+  /** <title> SEO si debe ser distinto del H1 (title). */
+  seoTitle?: string;
+  seoTitleEn?: string;
   shortDescription: string;
   description: string;
   keywords: string[];
@@ -49,6 +52,7 @@ export interface LocalizedService {
   icon: string;
   highlighted: boolean;
   title: string;
+  seoTitle?: string;
   shortDescription: string;
   description: string;
   keywords: string[];

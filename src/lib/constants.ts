@@ -2642,13 +2642,14 @@ ${AREAS_EN}`,
     category: "tratamientos",
     icon: "Droplets",
     title: "Sueros Vitaminados (Terapia IV)",
+    seoTitle: "Sueros Vitaminados en Pasadena, TX: Cuánto Dura",
     titleEn: "Vitamin IV Therapy",
     shortDescription:
       "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
     shortDescriptionEn:
       "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
     description:
-      "Sueros vitaminados (terapia IV) en Pasadena, TX. Hidratación y vitaminas en español, con precios accesibles.",
+      "Suero vitaminado (terapia IV) en Pasadena, TX: la infusión dura de 30 a 60 minutos, con evaluación previa por personal médico. Sin cita y en español.",
     descriptionEn:
       "Vitamin IV therapy in Pasadena, TX. Hydration and vitamins in Spanish, with affordable pricing.",
     keywords: [

@@ -45,7 +45,7 @@ export async function generateMetadata({
   if (!service) return {};
   const l = getLocalizedService(service, locale as Locale);
   const loc = locale as Locale;
-  const title = seoTitle(l.title, loc);
+  const title = seoTitle(l.seoTitle || l.title, loc);
   return {
     title,
     description: l.description,
