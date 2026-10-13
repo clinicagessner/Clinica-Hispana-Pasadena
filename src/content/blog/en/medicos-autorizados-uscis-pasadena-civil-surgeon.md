@@ -1,7 +1,8 @@
 ---
 title: "USCIS-authorized physicians in Pasadena (Civil Surgeon)"
+metaTitle: "Civil Surgeon in Pasadena, TX: Immigration Doctor for I-693"
 relatedServices: ["examenes-inmigracion", "vacunas", "examenes-sangre"]
-description: "What a civil surgeon is, why you need one for your immigration exam, and how to find one in Pasadena who speaks Spanish."
+description: "Civil surgeon in Pasadena, TX: the USCIS-designated immigration doctor for Form I-693. What the exam includes and how to get it in Spanish."
 date: "2026-04-12"
 dateModified: "2026-09-12"
 author: "Clínica Hispana Nueva Salud Pasadena Team"
