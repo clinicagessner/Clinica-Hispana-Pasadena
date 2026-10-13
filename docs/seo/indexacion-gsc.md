@@ -12,7 +12,7 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5  📨 ENVIADA 13/10/2026
+## Tanda 5
 
 - [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · 2315 impr.
@@ -29,8 +29,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-12
 
-## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon)
+## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon; procede pasadena: consulta gratis en la home)  📨 ENVIADA 13/10/2026
 
+- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-13 (consulta inicial gratis)
+- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-10-13 (consulta inicial gratis)
 - [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-10-13
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-10-13
 - [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-10-13
