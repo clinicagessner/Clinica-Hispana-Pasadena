@@ -25,17 +25,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 9 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 8 impr.
 
-## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon; procede pasadena: consulta gratis en la home)  📨 ENVIADA 13/10/2026
+## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon; procede pasadena: consulta gratis en la home)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-13 (consulta inicial gratis)
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-10-13 (consulta inicial gratis)
-- [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-13
-- [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-10-13 (consulta inicial gratis)
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-10-13 (consulta inicial gratis)
+- [x] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-13
+- [x] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-10-13
 
 ## Tanda 15
 
