@@ -78,6 +78,14 @@ export async function Hero() {
             {t("subtitle")}
           </p>
 
+          {/* Consulta inicial gratis (confirmado por el usuario, 2026-10-13) */}
+          <p className="mt-5">
+            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-gray-900 shadow-md md:text-base">
+              <Check className="h-5 w-5 shrink-0 text-teal-600" />
+              {t("freeConsultation")}
+            </span>
+          </p>
+
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
               href={`tel:${CONTACT_INFO.phone}`}
