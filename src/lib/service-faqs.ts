@@ -582,9 +582,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Venden medicamentos de venta libre sin consulta?",
-      answer: "Sí, productos para gripe, dolor, alergia y estómago. Los medicamentos de receta requieren consulta en la clínica; si traes una receta de otro consultorio, pregunta por teléfono si se puede surtir.",
+      answer: "Sí, productos para gripe, dolor, alergia y estómago. Los medicamentos de receta requieren consulta en la clínica, porque la receta se emite aquí.",
       questionEn: "Do you sell over-the-counter medications without a visit?",
-      answerEn: "Yes, products for colds, pain, allergies and stomach upset. Prescription medications require a visit at the clinic; if you bring a prescription from another office, ask by phone whether it can be filled.",
+      answerEn: "Yes, products for colds, pain, allergies and stomach upset. Prescription medications require a visit at the clinic, because the prescription is written here.",
     },
   ],
 };

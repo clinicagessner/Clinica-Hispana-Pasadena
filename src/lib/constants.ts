@@ -3266,29 +3266,29 @@ ${AREAS_EN}`,
     shortDescriptionEn:
       "Pick up your medications right after your visit — no second stop.",
     description:
-      "Farmacia en Pasadena, TX dentro de la clínica. Surtimos tu receta al terminar la consulta, atención en español.",
+      "Farmacia en Pasadena, TX dentro de la clínica: los medicamentos indicados en tu consulta se entregan antes de irte, en español.",
     descriptionEn:
-      "Pharmacy in Pasadena, TX inside the clinic. We fill your prescription right after your visit, service in Spanish.",
+      "Pharmacy in Pasadena, TX inside the clinic: medications prescribed at your visit are provided before you leave, in Spanish.",
     keywords: [
       "farmacia en pasadena",
       "farmacia hispana pasadena",
       "farmacia cerca de mí pasadena",
-      "surtir receta pasadena",
+      "medicamentos en la clínica pasadena",
     ],
     keywordsEn: [
       "pharmacy pasadena",
       "hispanic pharmacy pasadena",
       "pharmacy near me pasadena",
-      "fill prescription pasadena",
+      "medications at the clinic pasadena",
     ],
     features: [
-      "Surtido de tu receta al instante",
+      "Entrega de los medicamentos indicados en la consulta",
       "Medicamentos de marca y genéricos",
       "Medicamentos de venta libre (OTC)",
       "Asesoría sobre tus medicamentos en español",
     ],
     featuresEn: [
-      "Prescriptions filled on the spot",
+      "Medications prescribed at your visit, provided on site",
       "Brand-name and generic medications",
       "Over-the-counter (OTC) medications",
       "Guidance about your medications in Spanish",
@@ -3309,7 +3309,7 @@ Sí, antes de salir: dosis, horarios, con o sin alimento, cuántos días, qué h
 
 ## ¿Puedo comprar sin consulta?
 
-Los productos de venta libre, sí. Los medicamentos de receta requieren consulta con el médico de la clínica, porque la receta se emite aquí; si traes una receta de otro consultorio, pregunta por teléfono si se puede surtir. Si necesitas renovar un tratamiento crónico, la consulta de seguimiento es rápida y sin cita.
+Los productos de venta libre, sí. Los medicamentos de receta requieren consulta con el médico de la clínica, porque la receta se emite aquí y se entrega en la misma visita. Si necesitas renovar un tratamiento crónico, la consulta de seguimiento es rápida y sin cita.
 
 ## ¿Cuánto cuestan los medicamentos en Pasadena?
 
@@ -3340,7 +3340,7 @@ Yes, before you leave: dose, times, with or without food, for how many days, wha
 
 ## Can I buy without a visit?
 
-Over-the-counter products, yes. Prescription medications require a visit with the clinic's physician, because the prescription is written here; if you bring a prescription from another office, ask by phone whether it can be filled. If you need to renew a long-term treatment, the follow-up visit is quick and needs no appointment.
+Over-the-counter products, yes. Prescription medications require a visit with the clinic's physician, because the prescription is written here and provided at the same visit. If you need to renew a long-term treatment, the follow-up visit is quick and needs no appointment.
 
 ## How much do medications cost in Pasadena?
 
