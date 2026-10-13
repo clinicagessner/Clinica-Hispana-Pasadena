@@ -12,7 +12,7 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 5  📨 ENVIADA 12/10/2026
+## Tanda 5  📨 ENVIADA 13/10/2026
 
 - [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · 2315 impr.
