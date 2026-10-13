@@ -25,10 +25,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 9 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 8 impr.
 
-## Tanda 10 — cambios del 2026-10-12 (rendimiento: etiquetas tras primera interacción)
-
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-12
-
 ## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon; procede pasadena: consulta gratis en la home)  📨 ENVIADA 13/10/2026
 
 - [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-13 (consulta inicial gratis)
