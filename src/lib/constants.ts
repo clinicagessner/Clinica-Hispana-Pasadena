@@ -1244,27 +1244,27 @@ ${AREAS_EN}`,
     category: "medicina-general",
     icon: "Mars",
     highlighted: true,
-    title: "Exámenes del Hombre: PSA y Testosterona",
-    titleEn: "Men's Health Exams: PSA & Testosterone",
+    title: "Exámenes del Hombre: PSA y Perfil Hormonal",
+    titleEn: "Men's Health Exams: PSA & Hormone Profile",
     shortDescription:
-      "Exámenes de salud del hombre: antígeno prostático (PSA), testosterona y chequeo general, en español.",
+      "Exámenes de salud del hombre: antígeno prostático (PSA), perfil hormonal y chequeo general, en español.",
     shortDescriptionEn:
-      "Men's health exams: prostate antigen (PSA), testosterone and general checkup, in Spanish.",
+      "Men's health exams: prostate antigen (PSA), hormone profile and general checkup, in Spanish.",
     description:
-      "Exámenes del hombre en Pasadena, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
+      "Exámenes del hombre en Pasadena, TX: PSA de próstata, perfil hormonal y chequeo general. Laboratorio y atención en español.",
     descriptionEn:
-      "Men's health exams in Pasadena, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
+      "Men's health exams in Pasadena, TX: prostate PSA, hormone profile and general checkup. Lab work and care in Spanish.",
     keywords: [
       "examen del hombre pasadena",
       "prueba psa pasadena",
       "examen de prostata pasadena",
-      "examen de testosterona pasadena",
+      "chequeo del hombre pasadena",
     ],
     keywordsEn: [
       "mens health pasadena",
       "psa test pasadena",
       "prostate exam pasadena",
-      "testosterone test pasadena",
+      "mens checkup pasadena",
     ],
     features: [
       "Antígeno prostático (PSA)",
