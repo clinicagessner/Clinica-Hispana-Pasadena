@@ -6,9 +6,9 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-12; URL Inspection API, datos de hoy 2026-10-12):** 87 de 92 URLs del sitemap indexadas · 5 sin indexar (4 rastreada sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-13; URL Inspection API, datos de hoy 2026-10-13):** 87 de 92 URLs del sitemap indexadas · 5 sin indexar (4 rastreada sin indexar · 1 descubierta sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 22 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 19 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
@@ -29,39 +29,46 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispanans4.com/  — cambiada 2026-10-12
 
-## Tanda 11
+## Tanda 14 — cambios del 2026-10-13 (análisis diario: farmacia, salud del hombre, sueros y civil surgeon)
 
-- [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 7 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 6 impr.
-- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · indexada · 6 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 5 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-09-12 · rastreada 2026-08-19 · indexada · 4 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 4 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 4 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-09-12 · rastreada 2026-07-14 · indexada · 3 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-09-12 · rastreada 2026-07-15 · indexada · 3 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 3 impr.
+- [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-13
+- [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-10-13
 
-## Tanda 12
+## Tanda 15
 
-- [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-10-05 · rastreada 2026-10-03 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
+- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · indexada · 7 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 3 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 2 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-10-05 · rastreada 2026-10-03 · indexada · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-09-12 · rastreada 2026-08-19 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
+
+## Tanda 16
+
 - [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
-
-## Tanda 13
-
 - [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · pedida 2026-09-25 · 6 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-10-12 · rastreada sin indexar · 7 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 3 impr.
+
+## Tanda 17
+
+- [ ] https://www.clinicahispanans4.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 2 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-10-12 · rastreada sin indexar · 2 impr.
 
 ## Historial (tandas pedidas)
 
