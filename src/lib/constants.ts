@@ -3256,65 +3256,65 @@ ${AREAS_EN}`,
   },
   {
     slug: "farmacia",
-    dateModified: "2026-09-12",
+    dateModified: "2026-10-15",
     order: 29,
     category: "tratamientos",
     icon: "Pill",
-    title: "Farmacia",
-    titleEn: "Pharmacy",
+    title: "Receta Electrónica",
+    titleEn: "E-Prescriptions",
     shortDescription:
-      "Recoge tus medicamentos al terminar la consulta, sin ir a otra farmacia.",
+      "Al terminar la consulta, enviamos tu receta a la farmacia que tú elijas.",
     shortDescriptionEn:
-      "Pick up your medications right after your visit — no second stop.",
+      "After your visit, we send your prescription to the pharmacy you choose.",
     description:
-      "Farmacia en Pasadena, TX dentro de la clínica: los medicamentos indicados en tu consulta se entregan antes de irte, en español.",
+      "Receta electrónica en Pasadena, TX: al terminar tu consulta enviamos tu receta a la farmacia que prefieras y la recoges cuando te quede mejor.",
     descriptionEn:
-      "Pharmacy in Pasadena, TX inside the clinic: medications prescribed at your visit are provided before you leave, in Spanish.",
+      "E-prescriptions in Pasadena, TX: after your visit we send your prescription to the pharmacy you choose, so you can pick it up when it suits you.",
     keywords: [
-      "farmacia en pasadena",
-      "farmacia hispana pasadena",
-      "farmacia cerca de mí pasadena",
-      "medicamentos en la clínica pasadena",
+      "receta electrónica pasadena",
+      "clínica que envía la receta a mi farmacia pasadena",
+      "médico hispano con receta electrónica pasadena",
+      "receta médica sin seguro pasadena",
     ],
     keywordsEn: [
-      "pharmacy pasadena",
-      "hispanic pharmacy pasadena",
-      "pharmacy near me pasadena",
-      "medications at the clinic pasadena",
+      "e-prescription pasadena",
+      "clinic that sends prescription to my pharmacy pasadena",
+      "hispanic doctor e-prescription pasadena",
+      "prescription without insurance pasadena",
     ],
     features: [
-      "Entrega de los medicamentos indicados en la consulta",
-      "Medicamentos de marca y genéricos",
-      "Medicamentos de venta libre (OTC)",
-      "Asesoría sobre tus medicamentos en español",
+      "Receta enviada de forma electrónica al terminar la consulta",
+      "A la farmacia que tú elijas",
+      "Cómo tomar cada medicamento, explicado en español",
+      "Revisión de los medicamentos que ya tomas",
     ],
     featuresEn: [
-      "Medications prescribed at your visit, provided on site",
-      "Brand-name and generic medications",
-      "Over-the-counter (OTC) medications",
-      "Guidance about your medications in Spanish",
+      "Prescription sent electronically when your visit ends",
+      "To the pharmacy you choose",
+      "How to take each medication, explained in Spanish",
+      "Review of the medications you already take",
     ],
-    longDescription: `Salir de la consulta con el medicamento en la mano, sin buscar otra farmacia, sin esperar y con la explicación en español de cómo tomarlo. En Clínica Hispana Nueva Salud Pasadena los medicamentos que el médico te receta en la visita se entregan en la misma clínica.
+    longDescription: `En Clínica Hispana Nueva Salud Pasadena no tenemos farmacia dentro de la clínica. Lo que hacemos resulta más práctico para muchas familias: al terminar tu consulta, el médico envía tu receta de forma electrónica a la farmacia que tú elijas, cerca de tu casa, de tu trabajo o de la escuela de tus hijos, y la recoges allí cuando te quede mejor.
 
-## ¿Qué medicamentos se entregan en la clínica?
+## ¿Cómo funciona la receta electrónica?
 
-Los de la receta emitida en tu consulta: antibióticos, antiinflamatorios y analgésicos, medicamentos para presión, diabetes y colesterol, antialérgicos, tratamientos para infecciones vaginales y urinarias y otros de uso frecuente, en versión genérica siempre que exista, y también productos de venta libre para gripe, dolor, alergia y estómago. Si un medicamento no está disponible ese día, te damos la receta para surtirla en la farmacia de tu preferencia.
+Durante la consulta nos dices a qué farmacia quieres que llegue: basta con el nombre y la dirección o el cruce de calles. Al terminar, el médico la envía desde la clínica y sales con la explicación en español de cómo tomar cada medicamento. No cargas un papel que se puede perder ni tienes que volver por una receta impresa.
+
+## ¿Qué tratamientos se recetan así?
+
+Los que el médico indique en tu visita: antibióticos, antiinflamatorios y analgésicos, medicamentos para presión, diabetes y colesterol, antialérgicos, tratamientos para infecciones vaginales y urinarias y otros de uso frecuente. Cuando existe versión genérica, puedes pedirla en la farmacia.
 
 ## ¿Por qué genéricos?
 
-Contienen el mismo principio activo, en la misma dosis y con los mismos controles de calidad que el de marca, y cuestan una fracción. Cuando hay diferencia relevante entre marca y genérico, el médico te lo dice; si no la hay, el genérico es la opción que cuida tu bolsillo.
+Contienen el mismo principio activo, en la misma dosis y con los mismos controles de calidad que el de marca, y suelen costar menos. Cuando hay diferencia relevante entre marca y genérico, el médico te lo dice; si no la hay, el genérico es la opción que cuida tu bolsillo.
 
 ## ¿Me explican cómo tomarlo?
 
-Sí, antes de salir: dosis, horarios, con o sin alimento, cuántos días, qué hacer si olvidas una toma y qué efectos secundarios son normales y cuáles no. Se revisa además que el medicamento nuevo no interfiera con los que ya tomas, por eso es importante traer siempre tu lista o tus frascos.
+Sí, antes de salir de la consulta: dosis, horarios, con o sin alimento, cuántos días, qué hacer si olvidas una toma y qué efectos secundarios son normales y cuáles no. Se revisa además que el medicamento nuevo no interfiera con los que ya tomas, por eso es importante traer siempre tu lista o tus frascos.
 
-## ¿Puedo comprar sin consulta?
+## ¿Puedo cambiar de farmacia después?
 
-Los productos de venta libre, sí. Los medicamentos de receta requieren consulta con el médico de la clínica, porque la receta se emite aquí y se entrega en la misma visita. Si necesitas renovar un tratamiento crónico, la consulta de seguimiento es rápida y sin cita.
-
-## ¿Cuánto cuestan los medicamentos en Pasadena?
-
-Cada medicamento tiene su precio y se te informa antes de entregarlo, junto con el de la consulta, para que decidas. Puedes llamar al (281) 747-8817 para preguntar si un medicamento está disponible. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+Sí. Si prefieres otra farmacia o la que elegiste te dice que no tiene el medicamento, llama al (281) 747-8817 y lo revisamos contigo. Para renovar un tratamiento crónico hace falta una consulta de seguimiento, que es rápida y sin cita. No necesitas seguro médico para la consulta; aceptamos efectivo y tarjeta.
 
 ## ¿Qué debo saber sobre antibióticos?
 
@@ -3322,30 +3322,30 @@ Se toman completos, los días indicados, aunque te sientas bien antes; no se gua
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, pasas a consulta y, si el médico receta, recoges el medicamento en la clínica antes de irte. Trae tu lista de medicamentos y tus alergias. El control de tratamientos de largo plazo se hace en [condiciones crónicas](/services/condiciones-cronicas); los análisis que a veces se piden para vigilar un medicamento, en [exámenes de sangre](/services/examenes-sangre).
+Llegas sin cita de 9 AM a 9 PM, pasas a consulta y, si el médico receta, al terminar envía la receta a la farmacia que elegiste. Trae tu lista de medicamentos, tus alergias y el nombre de tu farmacia. El control de tratamientos de largo plazo se hace en [condiciones crónicas](/services/condiciones-cronicas); los análisis que a veces se piden para vigilar un medicamento, en [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Leaving the visit with your medication in hand, without looking for another pharmacy, without waiting and with an explanation in Spanish or English of how to take it. At Clínica Hispana Nueva Salud Pasadena the medications the physician prescribes at your visit are provided at the same clinic.
+    longDescriptionEn: `At Clínica Hispana Nueva Salud Pasadena there is no pharmacy inside the clinic. What we do is more practical for many families: after your visit, the physician sends your prescription electronically to the pharmacy you choose, near your home, your work or your kids' school, and you pick it up there whenever it suits you.
 
-## Which medications are provided at the clinic?
+## How do e-prescriptions work?
 
-Those on the prescription written at your visit: antibiotics, anti-inflammatories and pain relievers, medications for blood pressure, diabetes and cholesterol, allergy medications, treatments for vaginal and urinary infections and other commonly used ones, in generic form whenever one exists, plus over-the-counter products for colds, pain, allergies and stomach upset. If a medication is not available that day, we give you the prescription to fill at the pharmacy of your choice.
+During the visit, tell us which pharmacy it should go to: the name and the address or nearest cross streets are enough. When the visit ends, the physician sends it from the clinic and you leave with an explanation in Spanish or English of how to take each medication. No paper slip to lose and no trip back for a printed prescription.
+
+## Which treatments are prescribed this way?
+
+Whatever the physician prescribes at your visit: antibiotics, anti-inflammatories and pain relievers, medications for blood pressure, diabetes and cholesterol, allergy medications, treatments for vaginal and urinary infections and other commonly used ones. When a generic version exists, you can ask for it at the pharmacy.
 
 ## Why generics?
 
-They contain the same active ingredient, in the same dose and with the same quality controls as the brand, and cost a fraction. When there is a relevant difference between brand and generic, the physician tells you; when there is not, the generic is the option that protects your wallet.
+They contain the same active ingredient, in the same dose and with the same quality controls as the brand, and usually cost less. When there is a relevant difference between brand and generic, the physician tells you; when there is not, the generic is the option that protects your wallet.
 
 ## Will they explain how to take it?
 
-Yes, before you leave: dose, times, with or without food, for how many days, what to do if you miss a dose and which side effects are normal and which are not. It is also checked that the new medication does not interfere with the ones you already take, which is why it is important to always bring your list or your bottles.
+Yes, before you leave the visit: dose, times, with or without food, for how many days, what to do if you miss a dose and which side effects are normal and which are not. It is also checked that the new medication does not interfere with the ones you already take, which is why it is important to always bring your list or your bottles.
 
-## Can I buy without a visit?
+## Can I switch pharmacies later?
 
-Over-the-counter products, yes. Prescription medications require a visit with the clinic's physician, because the prescription is written here and provided at the same visit. If you need to renew a long-term treatment, the follow-up visit is quick and needs no appointment.
-
-## How much do medications cost in Pasadena?
-
-Each medication has its price and you are told before it is handed over, along with the visit price, so you can decide. You can call (281) 747-8817 to ask whether a medication is available. No health insurance is needed; we accept cash and cards.
+Yes. If you prefer another pharmacy, or the one you chose tells you it doesn't have the medication, call (281) 747-8817 and we'll sort it out with you. Renewing a long-term treatment requires a follow-up visit, which is quick and needs no appointment. No health insurance is needed for the visit; we accept cash and cards.
 
 ## What should I know about antibiotics?
 
@@ -3353,7 +3353,7 @@ Take the full course, for the days indicated, even if you feel better sooner; do
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, see the physician and, if a medication is prescribed, pick it up at the clinic before you leave. Bring your medication list and your allergies. Long-term treatments are managed under [chronic conditions](/en/services/condiciones-cronicas); the lab tests sometimes ordered to monitor a medication, under [blood tests](/en/services/examenes-sangre).
+Walk in from 9 AM to 9 PM, see the physician and, if a medication is prescribed, the prescription is sent to the pharmacy you picked when the visit ends. Bring your medication list, your allergies and the name of your pharmacy. Long-term treatments are managed under [chronic conditions](/en/services/condiciones-cronicas); the lab tests sometimes ordered to monitor a medication, under [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
