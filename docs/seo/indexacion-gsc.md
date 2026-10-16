@@ -6,18 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-13: antiguos (2026-10-13): --sin-fetch):** 87 de 92 URLs del sitemap indexadas · 5 sin indexar (4 rastreada sin indexar · 1 descubierta sin indexar).
+**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-13: antiguos (2026-10-13): --sin-fetch):** 87 de 92 URLs del sitemap indexadas · 5 sin indexar (4 rastreada sin indexar · 1 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 18 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 15/10/2026
+## Tanda 18 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 16/10/2026
 
 - [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-15
 - [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-15
 
-## Tanda 15
+## Tanda 19
 
 - [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 55 impr.
@@ -30,7 +30,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 
-## Tanda 16
+## Tanda 20
 
 - [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-10-05 · rastreada 2026-10-03 · indexada · 0 impr.
@@ -43,7 +43,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
 
-## Tanda 17
+## Tanda 21
 
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
