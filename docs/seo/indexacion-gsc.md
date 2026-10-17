@@ -12,12 +12,15 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 18 — cambios del 2026-10-15 (receta electrónica (sin farmacia) + post del blog semanal)  📨 ENVIADA 16/10/2026
+## Tanda 18 — cambios del 2026-10-15 (receta electrónica (sin farmacia) + post del blog semanal)  ✅ PEDIDA 16/10/2026
+
+- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-15
+
+## Tanda 22 — pendientes de la tanda anterior (no salieron el 16/10)
 
 - [ ] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — post nuevo 2026-10-16 (blog semanal)
 - [ ] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — post nuevo 2026-10-16 (blog semanal)
-- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-10-15
 
 ## Tanda 19
 
