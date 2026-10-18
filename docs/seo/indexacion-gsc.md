@@ -12,10 +12,10 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
+## Tanda 23 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 
 ## Tanda 24
 
