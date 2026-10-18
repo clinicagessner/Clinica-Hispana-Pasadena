@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-13: antiguos (2026-10-13): --sin-fetch):** 87 de 94 URLs del sitemap indexadas · 7 sin indexar (4 rastreada sin indexar · 2 sin datos · 1 descubierta sin indexar).
+**Estado (actualizado 2026-10-18; URL Inspection API, datos ANTIGUOS del 2026-10-13: antiguos (2026-10-13): --sin-fetch):** 87 de 94 URLs del sitemap indexadas · 7 sin indexar (4 rastreada sin indexar · 2 sin datos · 1 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 23 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 17/10/2026
+## Tanda 23 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
 
 - [ ] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
