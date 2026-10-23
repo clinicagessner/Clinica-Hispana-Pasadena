@@ -3,7 +3,7 @@ title: "Orinar a cada rato: ¿infección, diabetes o vejiga?"
 relatedServices: ["infecciones-urinarias", "examenes-sangre", "condiciones-cronicas"]
 description: "Orinar a cada rato o con urgencia tiene varias causas: infección, azúcar alta, vejiga hiperactiva, cafeína. Cómo distinguirlas y qué revisar en Pasadena."
 date: "2026-10-16"
-dateModified: "2026-10-16"
+dateModified: "2026-10-23"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -87,7 +87,7 @@ En la visita, el equipo médico de la clínica pregunta desde cuándo empezó, c
 
 Para quien llega con ardor, orina turbia y ganas de ir a cada rato, en la consulta de Spencer Hwy hacemos el examen de orina en la clínica y, si hay infección, ese mismo día enviamos tu receta a la farmacia que elijas, sea la que te queda junto a la casa o la del súper donde haces el mandado, y te explicamos qué mejoría esperar en las siguientes jornadas mientras el cultivo, si se pidió, sigue su curso.
 
-Si lo que aparece es azúcar alta, no se queda en un número suelto: el seguimiento de diabetes y presión se lleva en [condiciones crónicas](/services/condiciones-cronicas), con metas y fechas de revisión. Y si el examen de orina sale limpio y el diario habla de urgencia sin infección, se conversa sobre la vejiga hiperactiva, hábitos de líquidos y, cuando un resultado lo requiere, se orienta la referencia a un urólogo como parte de la atención.
+Si lo que aparece es azúcar alta, no se queda en un número suelto: el seguimiento de diabetes y presión se lleva en [condiciones crónicas](/services/condiciones-cronicas), con metas y fechas de revisión. Y si el examen de orina sale limpio y el diario habla de urgencia sin infección, se conversa sobre la vejiga hiperactiva y los hábitos de líquidos.
 
 ## Mientras tanto, en casa
 

@@ -3,7 +3,7 @@ title: "Urinating all the time: infection, diabetes or bladder?"
 relatedServices: ["infecciones-urinarias", "examenes-sangre", "condiciones-cronicas"]
 description: "Frequent or urgent trips to the bathroom have several causes: infection, high blood sugar, overactive bladder, caffeine. How to tell them apart in Pasadena."
 date: "2026-10-16"
-dateModified: "2026-10-16"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Nueva Salud Pasadena Team"
 category: "Health"
 cover: "/images/services/infecciones-urinarias.webp"
@@ -87,7 +87,7 @@ At the visit, the clinic's medical team asks when this started, what your patter
 
 When someone walks into our Spencer Hwy office with burning, cloudy urine and constant urges, the urine test is run right at the clinic and, if it shows an infection, your prescription goes out electronically that very day to whichever pharmacy you pick, whether it is the one near your house or the one at the store where you shop, and we explain what improvement to expect over the next few days while any culture that was ordered is still being processed.
 
-If high sugar turns up, it does not stay a loose number on a page: diabetes and blood pressure follow-up is handled under [chronic conditions](/en/services/condiciones-cronicas), with targets and check-in dates. And when the urine test comes back clean and the diary shows urgency without infection, the conversation turns to overactive bladder and fluid habits and, when a result calls for it, the referral to a urologist is arranged as part of your care.
+If high sugar turns up, it does not stay a loose number on a page: diabetes and blood pressure follow-up is handled under [chronic conditions](/en/services/condiciones-cronicas), with targets and check-in dates. And when the urine test comes back clean and the diary shows urgency without infection, the conversation turns to overactive bladder and fluid habits.
 
 ## In the meantime, at home
 

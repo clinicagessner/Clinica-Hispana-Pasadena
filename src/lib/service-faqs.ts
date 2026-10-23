@@ -136,9 +136,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué pasa si sale positiva?",
-      answer: "Se confirma, se calcula la fecha probable de parto, se indican ácido fólico y vitaminas prenatales y se programa un ultrasonido entre las 6 y las 8 semanas. Para el control prenatal completo te orientamos con una referencia a obstetricia.",
+      answer: "Se confirma, se calcula la fecha probable de parto, se indican ácido fólico y vitaminas prenatales y se programa un ultrasonido entre las 6 y las 8 semanas.",
       questionEn: "What happens if it is positive?",
-      answerEn: "It is confirmed, the due date is estimated, folic acid and prenatal vitamins are started and an ultrasound is scheduled between 6 and 8 weeks. For full prenatal care we guide you with an obstetrics referral.",
+      answerEn: "It is confirmed, the due date is estimated, folic acid and prenatal vitamins are started and an ultrasound is scheduled between 6 and 8 weeks.",
     },
     {
       question: "¿El resultado es confidencial?",

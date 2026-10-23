@@ -869,7 +869,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué servicios ginecológicos ofrece la clínica?
 
-Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y tratamiento de infecciones vaginales por hongos o bacterias y de infecciones urinarias; pruebas de infecciones de transmisión sexual; prueba de embarazo y consulta prenatal inicial; consulta de anticoncepción con inicio de pastillas o inyección y orientación sobre los demás métodos; retiro del implante subdérmico; ultrasonido pélvico; y evaluación de la menopausia. Si un caso requiere cirugía o un especialista, se orienta la referencia.
+Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y tratamiento de infecciones vaginales por hongos o bacterias y de infecciones urinarias; pruebas de infecciones de transmisión sexual; prueba de embarazo y consulta prenatal inicial; consulta de anticoncepción con inicio de pastillas o inyección y orientación sobre los demás métodos; retiro del implante subdérmico; ultrasonido pélvico; y evaluación de la menopausia.
 
 ## ¿Cada cuánto se hace el Papanicolaou?
 
@@ -900,7 +900,7 @@ ${AREAS_ES}`,
 
 ## Which gynecology services does the clinic offer?
 
-Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of yeast or bacterial vaginal infections and urinary infections; sexually transmitted infection tests; pregnancy test and initial prenatal visit; contraception counseling with pills or the injection started here and guidance on the other methods; subdermal implant removal; pelvic ultrasound; and menopause evaluation. If a case requires surgery or a specialist, we guide the referral.
+Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of yeast or bacterial vaginal infections and urinary infections; sexually transmitted infection tests; pregnancy test and initial prenatal visit; contraception counseling with pills or the injection started here and guidance on the other methods; subdermal implant removal; pelvic ultrasound; and menopause evaluation.
 
 ## How often is a Pap smear done?
 
@@ -976,7 +976,7 @@ La prueba de orina detecta la hormona del embarazo (hCG) y es confiable desde el
 
 ## ¿Qué pasa si la prueba sale positiva?
 
-Se confirma el resultado, se calcula la fecha probable de parto a partir de tu último periodo y se revisan tus antecedentes: presión, diabetes, medicamentos que tomas y embarazos previos. Se indica ácido fólico y vitaminas prenatales desde ese día, se piden los análisis iniciales si lo deseas, y se programa un [ultrasonido](/services/ultrasonido) entre las 6 y las 8 semanas para confirmar que el embarazo está en el útero y ver el latido. Para el control prenatal completo te orientamos con una referencia a obstetricia.
+Se confirma el resultado, se calcula la fecha probable de parto a partir de tu último periodo y se revisan tus antecedentes: presión, diabetes, medicamentos que tomas y embarazos previos. Se indica ácido fólico y vitaminas prenatales desde ese día, se piden los análisis iniciales si lo deseas, y se programa un [ultrasonido](/services/ultrasonido) entre las 6 y las 8 semanas para confirmar que el embarazo está en el útero y ver el latido.
 
 ## ¿Y si sale negativa pero el periodo no llega?
 
@@ -1007,7 +1007,7 @@ The urine test detects the pregnancy hormone (hCG) and is reliable from the firs
 
 ## What happens if the test is positive?
 
-The result is confirmed, the due date is estimated from your last period and your history is reviewed: blood pressure, diabetes, medications you take and previous pregnancies. Folic acid and prenatal vitamins are started that day, initial lab work is ordered if you wish, and an [ultrasound](/en/services/ultrasonido) is scheduled between 6 and 8 weeks to confirm the pregnancy is in the uterus and see the heartbeat. For full prenatal care we guide you with an obstetrics referral.
+The result is confirmed, the due date is estimated from your last period and your history is reviewed: blood pressure, diabetes, medications you take and previous pregnancies. Folic acid and prenatal vitamins are started that day, initial lab work is ordered if you wish, and an [ultrasound](/en/services/ultrasonido) is scheduled between 6 and 8 weeks to confirm the pregnancy is in the uterus and see the heartbeat.
 
 ## What if it is negative but the period does not come?
 
@@ -1186,7 +1186,7 @@ Se localiza el implante al tacto en la cara interna del brazo, se limpia la zona
 
 ## ¿Duele?
 
-El piquete de la anestesia es lo que más se siente; después, solo presión. En los días siguientes puede haber un moretón y sensibilidad en la zona, que se controlan con hielo y un analgésico común. Si el implante está muy profundo o no se palpa, no se intenta a ciegas: se pide un [ultrasonido](/services/ultrasonido) para localizarlo y, si es necesario, se refiere a un especialista.
+El piquete de la anestesia es lo que más se siente; después, solo presión. En los días siguientes puede haber un moretón y sensibilidad en la zona, que se controlan con hielo y un analgésico común. Si el implante está muy profundo o no se palpa, no se intenta a ciegas: se pide un [ultrasonido](/services/ultrasonido) para localizarlo.
 
 ## ¿Cuándo vuelve la fertilidad?
 
@@ -1217,7 +1217,7 @@ The implant is located by touch on the inner arm, the area is cleaned and local 
 
 ## Does it hurt?
 
-The prick of the anesthesia is what you feel most; after that, only pressure. In the following days there may be a bruise and tenderness, managed with ice and a common pain reliever. If the implant is very deep or cannot be felt, it is not attempted blind: an [ultrasound](/en/services/ultrasonido) is ordered to locate it and, if necessary, you are referred to a specialist.
+The prick of the anesthesia is what you feel most; after that, only pressure. In the following days there may be a bruise and tenderness, managed with ice and a common pain reliever. If the implant is very deep or cannot be felt, it is not attempted blind: an [ultrasound](/en/services/ultrasonido) is ordered to locate it.
 
 ## When does fertility return?
 
@@ -1302,7 +1302,7 @@ Los precios publicados son los de las promociones vigentes: Revisa tu Testostero
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM; si vienes por testosterona, mejor por la mañana. Se toma la muestra y, cuando el resultado está listo, lo revisas con el equipo médico y sales con tu plan por escrito. Si algo requiere un urólogo o un cardiólogo, se orienta la referencia.
+Llegas sin cita de 9 AM a 9 PM; si vienes por testosterona, mejor por la mañana. Se toma la muestra y, cuando el resultado está listo, lo revisas con el equipo médico y sales con tu plan por escrito.
 
 ## Servicios relacionados
 
@@ -1333,7 +1333,7 @@ The published prices are those of the current promotions: Check Your Testosteron
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM; if you come for testosterone, morning is best. The sample is drawn and, when the result is ready, you review it with the medical team and leave with your plan in writing. If something calls for a urologist or cardiologist, we guide the referral.
+Walk in from 9 AM to 9 PM; if you come for testosterone, morning is best. The sample is drawn and, when the result is ready, you review it with the medical team and leave with your plan in writing.
 
 ## Related services
 
