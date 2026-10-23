@@ -58,7 +58,7 @@ La página de [ultrasonido](/services/ultrasonido) de la clínica incluye los ri
 
 Aquí está la confusión más común. Una imagen normal no quiere decir que no haya infección, porque **el ultrasonido no ve bacterias**. La infección se confirma con el examen de orina, y para saber qué bacteria es y a qué antibiótico responde se necesita el urocultivo, cuyo resultado tarda unos días. Las tres cosas se complementan; ninguna reemplaza a las otras.
 
-Tampoco es perfecto para todo: una piedra muy pequeña, sobre todo si va bajando por el conducto entre el riñón y la vejiga, puede no verse bien. Si con lo encontrado hace falta otro tipo de estudio o una valoración especializada, el equipo médico te explica por qué y orienta la referencia.
+Tampoco es perfecto para todo: una piedra muy pequeña, sobre todo si va bajando por el conducto entre el riñón y la vejiga, puede no verse bien. Si con lo encontrado hace falta otro tipo de estudio o una valoración especializada, el equipo médico te explica por qué.
 
 ## Cómo llegar preparado
 

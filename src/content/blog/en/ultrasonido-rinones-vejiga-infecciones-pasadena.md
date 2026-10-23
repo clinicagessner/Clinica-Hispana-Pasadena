@@ -58,7 +58,7 @@ On the clinic's [ultrasound](/en/services/ultrasonido) page, the kidneys are par
 
 This is where most of the confusion lives. A normal scan doesn't rule out an infection, because **ultrasound can't see bacteria**. An infection is confirmed with the urine test, and finding out which germ it is and which antibiotic works against it takes a urine culture, whose result needs a few days. The three pieces fit together; none of them replaces the others.
 
-It isn't flawless either: a very small stone, especially one traveling down the tube between kidney and bladder, may be hard to spot. If what turns up calls for a different kind of study or a specialized evaluation, the medical team explains why and guides the referral.
+It isn't flawless either: a very small stone, especially one traveling down the tube between kidney and bladder, may be hard to spot. If what turns up calls for a different kind of study or a specialized evaluation, the medical team explains why.
 
 ## Showing up ready
 
