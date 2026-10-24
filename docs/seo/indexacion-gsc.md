@@ -12,10 +12,10 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 27 — cambios del 2026-10-23 (post del blog semanal)  📨 ENVIADA 23/10/2026
+## Tanda 27 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanans4.com/en/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
+- [x] https://www.clinicahispanans4.com/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
+- [x] https://www.clinicahispanans4.com/en/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
 
 ## Tanda 28 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
 
