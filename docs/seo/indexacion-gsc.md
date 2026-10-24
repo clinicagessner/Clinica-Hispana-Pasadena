@@ -6,18 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-23; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 87 de 96 URLs del sitemap indexadas · 9 sin indexar (6 rastreada sin indexar · 2 sin datos · 1 desconocida).
+**Estado (actualizado 2026-10-24; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 87 de 96 URLs del sitemap indexadas · 9 sin indexar (6 rastreada sin indexar · 2 sin datos · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 24 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-07).
 <!-- /tandas:auto -->
 
-## Tanda 27 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
-
-- [x] https://www.clinicahispanans4.com/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
-- [x] https://www.clinicahispanans4.com/en/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
-
-## Tanda 28 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología))
+## Tanda 28 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 24/10/2026
 
 - [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-10-23
@@ -27,6 +23,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-10-23
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 - [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-10-23
+
+## Tanda 32 — cambios del 2026-10-23 (resto de la regla Ads = referencia; cupo del 24/10 ya usado)
+
 - [ ] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-10-23
 - [ ] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-23
 
@@ -136,3 +135,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
 - [x] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-16 · sin datos de inspección · 0 impr.
+
+## Tanda 27 — cambios del 2026-10-23 (post del blog semanal)  ✅ PEDIDA 24/10/2026
+
+- [x] https://www.clinicahispanans4.com/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
+- [x] https://www.clinicahispanans4.com/en/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23
