@@ -6,7 +6,7 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (5 rastreada sin indexar · 1 descubierta sin indexar).
+**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (5 rastreada sin indexar · 1 descubierta sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 24 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
