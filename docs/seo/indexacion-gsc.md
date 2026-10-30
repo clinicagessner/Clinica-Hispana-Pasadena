@@ -12,22 +12,22 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 32 — cambios del 2026-10-30 (análisis diario: ginecología y urología alineadas con sus anuncios, post orinar a cada rato)
+## Tanda 32 — cambios del 2026-10-30 (análisis diario: ginecología y urología alineadas con sus anuncios, post orinar a cada rato)  ✅ PEDIDA 30/10/2026
 
-- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-10-30 · rastreada 2026-10-12 · indexada · 1 impr.
+- [x] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-10-30 · rastreada 2026-10-12 · indexada · 1 impr.
 
 ## Tanda 36 — cambios del 2026-10-30 (post del blog semanal)  📨 ENVIADA 30/10/2026
 
 - [ ] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
 - [ ] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · desconocida · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · 9 impr.
+- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · desconocida · 0 impr.
+- [x] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · 9 impr.
 
 ## Tanda 37
 
