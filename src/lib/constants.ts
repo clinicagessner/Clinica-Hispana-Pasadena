@@ -429,7 +429,7 @@ ${AREAS_EN}`,
       "hipotiroidismo tratamiento pasadena",
       "doctor tiroides español pasadena",
       "que doctor atiende la tiroides",
-      "especialista en tiroides pasadena",
+      "control de tiroides pasadena",
     ],
     keywordsEn: [
       "thyroid testing pasadena",
@@ -823,49 +823,51 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-09-12",
+    dateModified: "2026-10-30",
     order: 6,
     category: "salud-mujer",
     icon: "Flower2",
     highlighted: true,
-    title: "Atención Ginecológica: Papanicolaou y Cultivos",
-    titleEn: "Gynecology Care: Pap Smear & Cultures",
+    title: "Clínica para la Mujer: Ginecología, Papanicolaou y Ultrasonido",
+    titleEn: "Women's Clinic: Gynecology, Pap Smear & Ultrasound",
+    seoTitle: "Clínica para la Mujer y Ginecología en Pasadena, TX",
+    seoTitleEn: "Women's Clinic & Gynecology in Pasadena, TX",
     shortDescription:
-      "Papanicolaou, cultivos vaginales y tratamiento de infecciones vaginales, con privacidad y en español.",
+      "Ginecología en español y con privacidad: papanicolaou y VPH, cultivos vaginales, ultrasonido pélvico e inyección anticonceptiva.",
     shortDescriptionEn:
-      "Pap smear, vaginal cultures and treatment of vaginal infections, with privacy and in Spanish.",
+      "Gynecology in Spanish and in private: Pap smear and HPV, vaginal cultures, pelvic ultrasound and the birth control shot.",
     description:
-      "Ginecología en Pasadena, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. Atención en español, sin cita y con precios accesibles.",
+      "Clínica para la mujer en Pasadena, TX: ginecología, papanicolaou, ultrasonido pélvico e inyección anticonceptiva. Consulta inicial gratis, sin cita o con cita.",
     descriptionEn:
-      "Gynecology at your Hispanic clinic in Pasadena, TX, near Houston: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
+      "Women's clinic in Pasadena, TX: gynecology with Pap smear, pelvic ultrasound and the birth control shot. Free initial consultation; walk in or book a visit.",
     keywords: [
-      "ginecologo pasadena español",
-      "ginecologos hispanos cerca de mi",
+      "clinica para la mujer pasadena",
+      "ginecologia en español cerca de mi",
       "clinica hispana ginecologia houston tx",
       "papanicolaou pasadena",
       "cultivo vaginal pasadena",
       "infeccion vaginal tratamiento pasadena",
     ],
     keywordsEn: [
-      "gynecologist pasadena spanish",
-      "hispanic gynecologist near me",
+      "women's clinic pasadena",
+      "spanish speaking gynecology near me",
       "pap smear pasadena",
       "vaginal culture pasadena",
       "vaginal infection treatment pasadena",
     ],
     features: [
-      "Papanicolaou y chequeo ginecológico",
-      "Cultivos vaginales",
-      "Tratamiento de infecciones vaginales",
-      "Atención privada en español",
+      "Papanicolaou y prueba de VPH",
+      "Cultivos y tratamiento de infecciones vaginales",
+      "Ultrasonido pélvico en la clínica",
+      "Inyección anticonceptiva y orientación",
     ],
     featuresEn: [
-      "Pap smear and gynecological checkup",
-      "Vaginal cultures",
-      "Treatment of vaginal infections",
-      "Private care in Spanish",
+      "Pap smear and HPV test",
+      "Vaginal cultures and infection treatment",
+      "Pelvic ultrasound at the clinic",
+      "Birth control shot and counseling",
     ],
-    longDescription: `Atención ginecológica en español, sin cita y con la privacidad que corresponde. En Clínica Hispana Nueva Salud Pasadena el Papanicolaou, los cultivos, las pruebas y el tratamiento de infecciones se hacen en la misma visita, y cada paso se explica antes de hacerlo.
+    longDescription: `Clínica para la mujer en Pasadena, a un paso de South Houston: la consulta de ginecología es en español y con la privacidad que corresponde, llegas sin cita o, si prefieres, llamas y agendas tu cita, y en tu primera visita la consulta inicial es gratis. En Clínica Hispana Nueva Salud Pasadena el Papanicolaou, los cultivos, el ultrasonido pélvico, la inyección anticonceptiva y el tratamiento de infecciones se resuelven bajo el mismo techo, y cada paso se explica antes de hacerlo.
 
 ## ¿Qué servicios ginecológicos ofrece la clínica?
 
@@ -873,11 +875,15 @@ Papanicolaou y prueba de VPH; cultivos vaginales y de orina; diagnóstico y trat
 
 ## ¿Cada cuánto se hace el Papanicolaou?
 
-Desde los 21 años, cada 3 años si el resultado es normal. Entre los 30 y los 65, puede combinarse con la prueba de VPH y espaciarse a cada 5 años. Después de los 65, con resultados previos normales, suele suspenderse. Si tuviste un resultado anormal, el intervalo lo fija el médico. Para la toma, evita relaciones, duchas vaginales y óvulos 48 horas antes y procura no venir con el periodo.
+Desde los 21 años, cada 3 años si el resultado es normal. Entre los 30 y los 65, puede combinarse con la prueba de VPH y espaciarse a cada 5 años. Después de los 65, con resultados previos normales, suele suspenderse. Si tuviste un resultado anormal, el intervalo lo fija el equipo médico de la clínica. Para la toma, evita relaciones, duchas vaginales y óvulos 48 horas antes y procura no venir con el periodo.
 
 ## ¿Qué pasa si tengo flujo, comezón o ardor?
 
 Se toma un cultivo o una prueba rápida y en la mayoría de los casos el tratamiento empieza el mismo día: óvulos, crema o pastillas según la causa. Los síntomas que se confunden entre sí, como hongos, vaginosis bacteriana e infección urinaria, se distinguen con la prueba, no a ojo, para no tratar mal. Si la infección se repite, se buscan causas como diabetes o cambios hormonales.
+
+## ¿El ultrasonido y la inyección anticonceptiva se hacen aquí mismo?
+
+Sí. El ultrasonido pélvico se hace en la clínica cuando un dolor en el bajo vientre, una regla que se alarga o un sangrado entre periodos piden mirar el útero y los ovarios, y lo que muestra la imagen te lo explicamos en español (detalles en [ultrasonido](/services/ultrasonido)). La inyección anticonceptiva, la que se pone cada 3 meses, se aplica en la misma visita una vez que se descarta un embarazo; si prefieres pastillas, te enviamos la receta a la farmacia que elijas (opciones en [anticonceptivos](/services/anticonceptivos)).
 
 ## ¿Atienden pruebas y tratamiento de ETS?
 
@@ -889,14 +895,14 @@ Los precios publicados son los de las promociones vigentes: Chequeo Completo de 
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM. La consulta empieza con una conversación sobre tu ciclo, tu método anticonceptivo y tus molestias; el examen se hace solo si es necesario y se explica antes. Puedes venir acompañada. Sales con el tratamiento o con la fecha para revisar resultados.
+Llegas sin cita de 9 AM a 9 PM. La consulta empieza con una conversación sobre tu ciclo, tu método anticonceptivo y tus molestias; el examen se hace solo si es necesario y se explica antes. Puedes venir acompañada. Sales con la receta enviada a la farmacia que elijas, con la inyección aplicada si la escogiste o con la fecha para revisar resultados.
 
 ## Servicios relacionados
 
 Si buscas confirmar un embarazo, empieza por la [prueba de embarazo](/services/prueba-embarazo). Para elegir o cambiar método, consulta [anticonceptivos](/services/anticonceptivos); para retirar el implante, [extracción de implantes](/services/extraccion-implantes). El estudio por imagen se hace en [ultrasonido](/services/ultrasonido).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Gynecological care in Spanish or English, with no appointment and the privacy it deserves. At Clínica Hispana Nueva Salud Pasadena the Pap smear, cultures, testing and treatment of infections are done at the same visit, and each step is explained before it happens.
+    longDescriptionEn: `A women's clinic in Pasadena, a short drive from South Houston: gynecology visits are in Spanish or English and in private, you can walk in or call to book a visit, and on your first visit the initial consultation is free. At Clínica Hispana Nueva Salud Pasadena the Pap smear, cultures, pelvic ultrasound, birth control shot and treatment of infections are all handled under one roof, and each step is explained before it happens.
 
 ## Which gynecology services does the clinic offer?
 
@@ -904,11 +910,15 @@ Pap smear and HPV test; vaginal and urine cultures; diagnosis and treatment of y
 
 ## How often is a Pap smear done?
 
-From age 21, every 3 years if the result is normal. Between 30 and 65 it can be combined with an HPV test and spaced to every 5 years. After 65, with previous normal results, it is usually stopped. If you had an abnormal result, the physician sets the interval. Before the sample, avoid sex, douching and vaginal suppositories for 48 hours and try not to come during your period.
+From age 21, every 3 years if the result is normal. Between 30 and 65 it can be combined with an HPV test and spaced to every 5 years. After 65, with previous normal results, it is usually stopped. If you had an abnormal result, the clinic's medical team sets the interval. Before the sample, avoid sex, douching and vaginal suppositories for 48 hours and try not to come during your period.
 
 ## What if I have discharge, itching or burning?
 
 A culture or rapid test is taken and in most cases treatment starts the same day: suppositories, cream or pills depending on the cause. Symptoms that mimic each other, such as yeast, bacterial vaginosis and urinary infection, are told apart by the test, not by eye, so you are not treated for the wrong thing. If the infection keeps coming back, causes such as diabetes or hormonal changes are looked for.
+
+## Are the ultrasound and the birth control shot done here?
+
+Yes. The pelvic ultrasound is done at the clinic when lower belly pain, a period that drags on or bleeding between periods calls for a look at the uterus and ovaries, and we explain what the image shows in Spanish (details under [ultrasound](/en/services/ultrasonido)). The birth control shot, the one given every 3 months, is given at the same visit once pregnancy has been ruled out; if you prefer the pill, we send the prescription to the pharmacy you choose (options under [birth control](/en/services/anticonceptivos)).
 
 ## Do you test and treat STIs?
 
@@ -920,7 +930,7 @@ The published prices are those of the current promotions: Complete Women's Check
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM. The visit starts with a conversation about your cycle, your birth control and your symptoms; the exam is done only if needed and is explained first. You may bring someone with you. You leave with treatment or with the date to review results.
+Walk in from 9 AM to 9 PM. The visit starts with a conversation about your cycle, your birth control and your symptoms; the exam is done only if needed and is explained first. You may bring someone with you. You leave with the prescription sent to the pharmacy you choose, with the shot given if you chose it, or with the date to review results.
 
 ## Related services
 
@@ -1463,23 +1473,23 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-09-12",
+    dateModified: "2026-10-30",
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
     title: "Urología: Examen de Orina e Infecciones Urinarias",
     titleEn: "Urology: Urinalysis & Urinary Infections",
     shortDescription:
-      "Atención de urología general: examen de orina y tratamiento de infecciones urinarias el mismo día, en español.",
+      "Consulta de urología en español: examen de orina, infección urinaria tratada el mismo día y vejiga hiperactiva.",
     shortDescriptionEn:
-      "General urology care: urinalysis and same-day urinary infection treatment, in Spanish.",
+      "Urology visits in Spanish: urinalysis, same-day urinary infection treatment and overactive bladder.",
     description:
-      "Examen de orina y tratamiento de infecciones urinarias el mismo día en Pasadena, TX. Atención en español, sin cita y con precios accesibles.",
+      "Consulta de urología en Pasadena, TX: examen de orina, infección urinaria tratada el mismo día y vejiga hiperactiva. Sin seguro y sin cita, o agenda tu cita.",
     descriptionEn:
-      "Urology at your Hispanic clinic in Pasadena, TX, near Houston: urinalysis and same-day urinary infection treatment. In Spanish, with affordable pricing.",
+      "Urology visits in Pasadena, TX: urinalysis, same-day urinary infection treatment and overactive bladder care. No insurance needed; walk in or book a visit.",
     keywords: [
       "urologia pasadena",
-      "urologo en español cerca de mi",
+      "vejiga hiperactiva pasadena",
       "examen de orina pasadena",
       "infeccion urinaria pasadena",
       "tratamiento infeccion urinaria pasadena",
@@ -1488,6 +1498,7 @@ ${AREAS_EN}`,
     keywordsEn: [
       "urology pasadena",
       "spanish speaking urology near me",
+      "overactive bladder pasadena",
       "urinalysis pasadena",
       "urinary tract infection pasadena",
       "uti treatment pasadena",
@@ -1495,17 +1506,17 @@ ${AREAS_EN}`,
     ],
     features: [
       "Examen de orina en la clínica",
-      "Diagnóstico de infección urinaria",
-      "Tratamiento el mismo día",
-      "Atención sin cita en español",
+      "Infección urinaria: tratamiento el mismo día",
+      "Valoración de vejiga hiperactiva",
+      "Sin cita y sin seguro, en español",
     ],
     featuresEn: [
       "In-clinic urinalysis",
-      "Diagnosis of urinary infection",
-      "Same-day treatment",
-      "Walk-in care in Spanish",
+      "Urinary infection: same-day treatment",
+      "Overactive bladder assessment",
+      "Walk-in, no insurance needed, in Spanish",
     ],
-    longDescription: `Ardor al orinar, ganas constantes y orina turbia: una infección urinaria no espera a la cita del mes que viene. En Clínica Hispana Nueva Salud Pasadena el examen de orina se hace en la clínica, sin cita, y el tratamiento empieza el mismo día cuando el resultado lo confirma.
+    longDescription: `Ardor al orinar, ganas constantes y orina turbia: una infección urinaria no espera a la cita del mes que viene. En Clínica Hispana Nueva Salud Pasadena el examen de orina se hace en la clínica, sin cita, y el tratamiento empieza el mismo día cuando el resultado lo confirma. Es también la consulta de urología de la clínica: además de las infecciones, aquí se valoran la vejiga hiperactiva y otras molestias al orinar, sin seguro y sin cita, o con cita si llamas antes.
 
 ## ¿Cómo sé si tengo infección urinaria?
 
@@ -1523,20 +1534,24 @@ Un antibiótico elegido según los síntomas, tu historial y, si existe, el cult
 
 Las causas más comunes son aguantar la orina, poca ingesta de agua, relaciones sexuales sin orinar después, diabetes mal controlada, cambios hormonales de la menopausia y, en el hombre, crecimiento de la próstata. Tres o más infecciones al año merecen un estudio: cultivo, glucosa y, en algunos casos, ultrasonido de vías urinarias.
 
+## ¿Y si no es infección sino vejiga hiperactiva?
+
+Cuando las ganas llegan de golpe, vas muchas veces de día y te levantas de noche, pero el examen de orina sale limpio, puede tratarse de vejiga hiperactiva. En la consulta primero se descartan la infección, el azúcar alta y, en el hombre, el crecimiento de la próstata; luego se repasa cuánto líquido, café y refresco tomas y se arma un plan con horarios para ir al baño, ejercicios de piso pélvico y, si hace falta, un medicamento cuya receta enviamos a la farmacia que elijas. Ayuda traer anotado durante dos o tres días lo que bebes y cada vez que vas al baño (más pistas en [orinar a cada rato](/blog/orinar-a-cada-rato-causas-pasadena)).
+
 ## ¿Cuánto cuesta atender una infección urinaria en Pasadena?
 
 La consulta con examen de orina se cotiza por teléfono al (281) 747-8817 antes de venir; el cultivo, si se necesita, va aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta. El examen general de orina está incluido en el Chequeo General Completo por $99 junto con el examen general de sangre, A1C y consulta.
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, de preferencia sin haber orinado en la última hora para poder dar la muestra. Se analiza en la clínica, el médico te examina y sales con la receta y las indicaciones. Si se envió cultivo, te avisamos con el resultado.
+Llegas sin cita de 9 AM a 9 PM, de preferencia sin haber orinado en la última hora para poder dar la muestra. Se analiza en la clínica, el equipo médico de la clínica te revisa el vientre y la espalda baja y, si hay infección, ese mismo día enviamos tu receta electrónica a la farmacia que elijas, junto con cuántos días tomarla y qué señales te obligan a volver, todo explicado en español. Si se envió cultivo, te avisamos con el resultado.
 
 ## Servicios relacionados
 
 Las infecciones vaginales que se confunden con las urinarias se atienden en [ginecología](/services/ginecologia). Si la infección viene con diabetes descontrolada, el seguimiento está en [condiciones crónicas](/services/condiciones-cronicas). Las pruebas de infecciones de transmisión sexual, que pueden dar síntomas parecidos, se hacen en [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Burning when you urinate, a constant urge and cloudy urine: a urinary infection does not wait for next month's appointment. At Clínica Hispana Nueva Salud Pasadena the urine test is done in the clinic, with no appointment, and treatment starts the same day once the result confirms it.
+    longDescriptionEn: `Burning when you urinate, a constant urge and cloudy urine: a urinary infection does not wait for next month's appointment. At Clínica Hispana Nueva Salud Pasadena the urine test is done in the clinic, with no appointment, and treatment starts the same day once the result confirms it. This is also the clinic's urology visit: besides infections, overactive bladder and other urinary complaints are assessed here, with no insurance needed and no appointment, or with one if you call ahead.
 
 ## How do I know if I have a urinary infection?
 
@@ -1554,13 +1569,17 @@ An antibiotic chosen according to your symptoms, your history and, if there is o
 
 The most common causes are holding urine, drinking little water, sex without urinating afterward, poorly controlled diabetes, hormonal changes of menopause and, in men, prostate enlargement. Three or more infections a year deserve a workup: culture, glucose and, in some cases, an ultrasound of the urinary tract.
 
+## What if it is not an infection but an overactive bladder?
+
+When the urge hits suddenly, you go many times a day and get up at night, yet the urine test comes back clean, it may be an overactive bladder. At the visit, infection, high sugar and, in men, an enlarged prostate are ruled out first; then we go over how much fluid, coffee and soda you drink and put together a plan with bathroom schedules, pelvic floor exercises and, if needed, a medication whose prescription we send to the pharmacy you choose. It helps to bring two or three days of notes on what you drink and each bathroom trip (more clues in [peeing all the time](/en/blog/orinar-a-cada-rato-causas-pasadena)).
+
 ## How much does treating a urinary infection cost in Pasadena?
 
 The visit with urine test is quoted by phone at (281) 747-8817 before you come; the culture, if needed, is separate. No health insurance is needed; we accept cash and cards. The general urine test is included in the Complete General Checkup for $99 along with the general blood test, A1C and visit.
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, preferably without having urinated in the last hour so you can give the sample. It is analyzed in the clinic, the physician examines you and you leave with the prescription and instructions. If a culture was sent, we let you know the result.
+Walk in from 9 AM to 9 PM, preferably without having urinated in the last hour so you can give the sample. It is analyzed in the clinic, the clinic's medical team examines you and, if there is an infection, we send your e-prescription to the pharmacy you choose that same day, with the instructions explained in Spanish. If a culture was sent, we let you know the result.
 
 ## Related services
 

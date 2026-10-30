@@ -110,9 +110,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "ginecologia": [
     {
       question: "¿Cada cuánto se hace el Papanicolaou?",
-      answer: "Desde los 21 años, cada 3 años si sale normal; entre los 30 y los 65 puede combinarse con la prueba de VPH y espaciarse a cada 5 años. Si tuviste un resultado anormal, el médico fija el intervalo.",
+      answer: "Desde los 21 años, cada 3 años si sale normal; entre los 30 y los 65 puede combinarse con la prueba de VPH y espaciarse a cada 5 años. Si tuviste un resultado anormal, el equipo médico de la clínica fija el intervalo.",
       questionEn: "How often is a Pap smear done?",
-      answerEn: "From age 21, every 3 years if normal; between 30 and 65 it can be combined with an HPV test and spaced to every 5 years. If you had an abnormal result, the physician sets the interval.",
+      answerEn: "From age 21, every 3 years if normal; between 30 and 65 it can be combined with an HPV test and spaced to every 5 years. If you had an abnormal result, the clinic's medical team sets the interval.",
     },
     {
       question: "¿Tratan las infecciones vaginales el mismo día?",
@@ -230,9 +230,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "infecciones-urinarias": [
     {
       question: "¿Puedo recibir tratamiento el mismo día?",
-      answer: "Sí. El examen de orina se analiza en la clínica y, si confirma infección, sales con el antibiótico ese día. Si se envía cultivo por infección repetida, fiebre, embarazo o diabetes, te avisamos con el resultado.",
+      answer: "Sí. La tira y el análisis de orina se leen en la clínica mientras esperas y, si confirman infección, ese mismo día enviamos tu receta electrónica a la farmacia que elijas para que empieces el antibiótico en cuanto la recojas, sin regresar por ella. Si se envía cultivo por infección repetida, fiebre, embarazo o diabetes, te avisamos con el resultado.",
       questionEn: "Can I get treatment the same day?",
-      answerEn: "Yes. The urine test is analyzed in the clinic and, if it confirms infection, you leave with the antibiotic that day. If a culture is sent because of recurrent infection, fever, pregnancy or diabetes, we let you know the result.",
+      answerEn: "Yes. The urine test is analyzed in the clinic and, if it confirms infection, we send your e-prescription to the pharmacy you choose that same day so you can start the antibiotic. If a culture is sent because of recurrent infection, fever, pregnancy or diabetes, we let you know the result.",
     },
     {
       question: "¿Cómo doy la muestra de orina?",
