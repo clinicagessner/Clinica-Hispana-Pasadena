@@ -8,7 +8,7 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 <!-- tandas:auto -->
 **Estado (actualizado 2026-10-30; URL Inspection API, datos de hoy 2026-10-30):** 90 de 96 URLs del sitemap indexadas · 6 sin indexar (5 rastreada sin indexar · 1 desconocida).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 25 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 23 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
@@ -22,6 +22,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-10-30
 - [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · desconocida · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · 9 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-10-30 · rastreada 2026-10-12 · indexada · 1 impr.
+
 
 ## Tanda 33
 
@@ -33,24 +35,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-10-05 · rastreada 2026-10-03 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 1 impr.
 
 ## Tanda 34
 
-- [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-10-30 · rastreada 2026-10-12 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · indexada · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
 
 ## Tanda 35
 
-- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
