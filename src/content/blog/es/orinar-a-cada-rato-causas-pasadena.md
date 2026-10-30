@@ -1,9 +1,10 @@
 ---
 title: "Orinar a cada rato: ¿infección, diabetes o vejiga?"
 relatedServices: ["infecciones-urinarias", "examenes-sangre", "condiciones-cronicas"]
-description: "Orinar a cada rato o con urgencia tiene varias causas: infección, azúcar alta, vejiga hiperactiva, cafeína. Cómo distinguirlas y qué revisar en Pasadena."
+metaTitle: "¿Por qué orino tanto? Diabetes, infección o vejiga"
+description: "¿Por qué un diabético orina mucho? El azúcar alta arrastra agua a la orina. Cómo distinguirlo de una infección o de la vejiga hiperactiva, en Pasadena."
 date: "2026-10-16"
-dateModified: "2026-10-23"
+dateModified: "2026-10-30"
 author: "Equipo Clínica Hispana Nueva Salud Pasadena"
 category: "Salud"
 cover: "/images/services/infecciones-urinarias.webp"
