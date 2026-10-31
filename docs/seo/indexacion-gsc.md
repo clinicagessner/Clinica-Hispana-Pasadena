@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-13).
 <!-- /tandas:auto -->
 
-## Tanda 36 — cambios del 2026-10-30 (post del blog semanal)  📨 ENVIADA 31/10/2026
+## Tanda 36 — cambios del 2026-10-30 (post del blog semanal)  ✅ PEDIDA 31/10/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
-- [ ] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
 
 ## Tanda 41
 
