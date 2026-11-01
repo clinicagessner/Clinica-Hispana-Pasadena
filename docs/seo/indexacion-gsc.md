@@ -6,17 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-31; URL Inspection API, datos ANTIGUOS del 2026-10-30: antiguos (2026-10-30): --sin-fetch):** 90 de 98 URLs del sitemap indexadas · 8 sin indexar (5 rastreada sin indexar · 2 sin datos · 1 desconocida).
+**Estado (actualizado 2026-11-01; URL Inspection API, datos ANTIGUOS del 2026-10-30: antiguos (2026-10-30): --sin-fetch):** 90 de 98 URLs del sitemap indexadas · 8 sin indexar (5 rastreada sin indexar · 2 sin datos · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 22 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-13).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-13).
 <!-- /tandas:auto -->
-
-## Tanda 36 — cambios del 2026-10-30 (post del blog semanal)  ✅ PEDIDA 31/10/2026
-
-- [x] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
-- [x] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
 
 ## Tanda 41
 
@@ -143,6 +138,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 32 — cambios del 2026-10-30 (análisis diario: ginecología y urología alineadas con sus anuncios, post orinar a cada rato)  ✅ PEDIDA 30/10/2026
 
 - [x] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-10-30 · rastreada 2026-10-12 · indexada · 1 impr.
+
+## Tanda 36 — cambios del 2026-10-30 (post del blog semanal)  ✅ PEDIDA 31/10/2026
+
+- [x] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
+- [x] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30
 
 ## Tanda 40 — cambios del 2026-10-30 (las pedidas de la tanda 36)  ✅ PEDIDA 30/10/2026
 
