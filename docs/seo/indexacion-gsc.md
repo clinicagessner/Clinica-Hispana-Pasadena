@@ -8,11 +8,11 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 <!-- tandas:auto -->
 **Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 92 de 98 URLs del sitemap indexadas · 6 sin indexar (6 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 22 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 21 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 44 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red))
+## Tanda 44 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red); home y servicios también por anuncios = referencia)
 
 - [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-02
@@ -25,7 +25,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanans4.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
 
-## Tanda 45
+## Tanda 48 — cambios del 2026-11-02 (anuncios = referencia (barrido completo: home, ginecología, urología))
+
+- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanans4.com/blog  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-11-02
+
+## Tanda 49
 
 - [ ] https://www.clinicahispanans4.com/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03 · rastreada 2026-10-29 · indexada · 669 impr.
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 56 impr.
@@ -38,9 +47,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 4 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 4 impr.
 
-## Tanda 46
+## Tanda 50
 
-- [ ] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-10-05 · rastreada 2026-10-03 · indexada · 3 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 3 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 3 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 2 impr.
@@ -50,10 +58,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 0 impr.
-
-## Tanda 47
-
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
+
+## Tanda 51
+
 - [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
 - [ ] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-09-12 · rastreada 2026-06-25 · rastreada sin indexar · pedida 2026-10-06 · 13 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-06 · rastreada sin indexar · 11 impr.
