@@ -823,7 +823,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-10-30",
+    dateModified: "2026-11-02",
     order: 6,
     category: "salud-mujer",
     icon: "Flower2",
@@ -860,14 +860,23 @@ ${AREAS_EN}`,
       "Cultivos y tratamiento de infecciones vaginales",
       "Ultrasonido pélvico en la clínica",
       "Inyección anticonceptiva y orientación",
+      "Anticoncepción hormonal: pastillas o inyección",
     ],
     featuresEn: [
       "Pap smear and HPV test",
       "Vaginal cultures and infection treatment",
       "Pelvic ultrasound at the clinic",
       "Birth control shot and counseling",
+      "Hormonal birth control: pill or shot",
     ],
     longDescription: `Clínica para la mujer en Pasadena, a un paso de South Houston: la consulta de ginecología es en español y con la privacidad que corresponde, llegas sin cita o, si prefieres, llamas y agendas tu cita, y en tu primera visita la consulta inicial es gratis. En Clínica Hispana Nueva Salud Pasadena el Papanicolaou, los cultivos, el ultrasonido pélvico, la inyección anticonceptiva y el tratamiento de infecciones se resuelven bajo el mismo techo, y cada paso se explica antes de hacerlo.
+
+## Clínica para mujeres: consulta ginecológica, Papanicolaou y ultrasonido en un mismo lugar
+
+- **Consulta ginecológica, Papanicolaou y ultrasonido en un mismo lugar**, sin ir de una oficina a otra.
+- **Anticoncepción hormonal:** pastillas o la inyección anticonceptiva de cada 3 meses, que se aplica en la misma visita.
+- **Un espacio cómodo, seguro y confidencial**, con un equipo hispano que te atiende en español.
+- **Consulta inicial gratis** en tu primera visita: llega sin cita o agenda tu cita hoy al (281) 747-8817.
 
 ## ¿Qué servicios ginecológicos ofrece la clínica?
 
@@ -903,6 +912,13 @@ Si buscas confirmar un embarazo, empieza por la [prueba de embarazo](/services/p
 
 ${AREAS_ES}`,
     longDescriptionEn: `A women's clinic in Pasadena, a short drive from South Houston: gynecology visits are in Spanish or English and in private, you can walk in or call to book a visit, and on your first visit the initial consultation is free. At Clínica Hispana Nueva Salud Pasadena the Pap smear, cultures, pelvic ultrasound, birth control shot and treatment of infections are all handled under one roof, and each step is explained before it happens.
+
+## Women's clinic: gynecology visit, Pap smear and ultrasound in one place
+
+- **Gynecology visit, Pap smear and ultrasound in one place**, with no running from one office to another.
+- **Hormonal birth control:** the pill or the birth control shot every 3 months, given at the same visit.
+- **A comfortable, safe and confidential space**, with a Hispanic team that cares for you in Spanish.
+- **Free initial consultation** on your first visit: walk in or schedule your visit today at (281) 747-8817.
 
 ## Which gynecology services does the clinic offer?
 
@@ -1473,7 +1489,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-10-30",
+    dateModified: "2026-11-02",
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
@@ -1509,14 +1525,23 @@ ${AREAS_EN}`,
       "Infección urinaria: tratamiento el mismo día",
       "Valoración de vejiga hiperactiva",
       "Sin cita y sin seguro, en español",
+      "Clínica de urología: examen y problemas urológicos",
     ],
     featuresEn: [
       "In-clinic urinalysis",
       "Urinary infection: same-day treatment",
       "Overactive bladder assessment",
       "Walk-in, no insurance needed, in Spanish",
+      "Urology clinic: exam and urologic problems",
     ],
     longDescription: `Ardor al orinar, ganas constantes y orina turbia: una infección urinaria no espera a la cita del mes que viene. En Clínica Hispana Nueva Salud Pasadena el examen de orina se hace en la clínica, sin cita, y el tratamiento empieza el mismo día cuando el resultado lo confirma. Es también la consulta de urología de la clínica: además de las infecciones, aquí se valoran la vejiga hiperactiva y otras molestias al orinar, sin seguro y sin cita, o con cita si llamas antes.
+
+## Clínica de urología en español: examen y problemas urológicos
+
+- **Examen de urología:** examen de orina en la clínica y revisión en la consulta, con todo explicado en español.
+- **Problemas urológicos que se valoran aquí:** infección urinaria, ardor o dolor al orinar, ganas constantes y vejiga hiperactiva. Para la próstata y el PSA, mira [salud del hombre](/services/salud-hombre).
+- **Servicios médicos accesibles y en español. Sin seguro, sin problema, y no se necesita cita.**
+- **Un espacio cómodo, seguro y confidencial**, con un equipo hispano. Agenda tu cita hoy o llámanos ahora al (281) 747-8817.
 
 ## ¿Cómo sé si tengo infección urinaria?
 
@@ -1552,6 +1577,13 @@ Las infecciones vaginales que se confunden con las urinarias se atienden en [gin
 
 ${AREAS_ES}`,
     longDescriptionEn: `Burning when you urinate, a constant urge and cloudy urine: a urinary infection does not wait for next month's appointment. At Clínica Hispana Nueva Salud Pasadena the urine test is done in the clinic, with no appointment, and treatment starts the same day once the result confirms it. This is also the clinic's urology visit: besides infections, overactive bladder and other urinary complaints are assessed here, with no insurance needed and no appointment, or with one if you call ahead.
+
+## Urology clinic in Spanish: exam and urologic problems
+
+- **Urology exam:** an in-clinic urine test and a check at the visit, with everything explained in Spanish.
+- **Urologic problems assessed here:** urinary infection, burning or pain when urinating, a constant urge and overactive bladder. For the prostate and PSA, see [men's health](/en/services/salud-hombre).
+- **Affordable medical services in Spanish. No insurance, no problem, and no appointment needed.**
+- **A comfortable, safe and confidential space**, with a Hispanic team. Schedule your visit today or call us now at (281) 747-8817.
 
 ## How do I know if I have a urinary infection?
 

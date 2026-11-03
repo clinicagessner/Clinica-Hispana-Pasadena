@@ -126,6 +126,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       questionEn: "How should I prepare for a Pap smear?",
       answerEn: "Avoid sex, douching and vaginal suppositories for 48 hours beforehand and try not to come during your period. Bring the date of your last period and your medication list. You may bring someone with you.",
     },
+    {
+      question: "¿La consulta de ginecología es gratis?",
+      answer: "En tu primera visita la consulta inicial es gratis. El Papanicolaou, el ultrasonido y las demás pruebas tienen su precio, que te decimos antes; los paquetes con precio publicado están en promociones. Llega sin cita o agenda tu cita hoy al (281) 747-8817.",
+      questionEn: "Is the gynecology visit free?",
+      answerEn: "On your first visit the initial consultation is free. The Pap smear, ultrasound and other tests have their own price, which we tell you beforehand; packages with a published price are on the promotions page. Walk in or schedule your visit today at (281) 747-8817.",
+    },
   ],
   "prueba-embarazo": [
     {
@@ -245,6 +251,12 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
       answer: "Cuando además del ardor hay fiebre, escalofríos, dolor en la espalda baja o a un lado, o náusea: puede haber llegado al riñón. Ven el mismo día, sin cita.",
       questionEn: "When is a urinary infection urgent?",
       answerEn: "When besides the burning there is fever, chills, pain in the lower back or one side, or nausea: it may have reached the kidney. Come the same day, no appointment needed.",
+    },
+    {
+      question: "¿Necesito seguro o cita para la consulta de urología?",
+      answer: "No. Sin seguro, sin problema: cada servicio tiene un precio directo y accesible, en efectivo o tarjeta. No se necesita cita (9 AM a 9 PM, todos los días), aunque puedes agendar tu cita hoy llamando al (281) 747-8817.",
+      questionEn: "Do I need insurance or an appointment for a urology visit?",
+      answerEn: "No. No insurance, no problem: each service has a direct, affordable price, in cash or by card. No appointment is needed (9 AM to 9 PM, every day), though you can schedule your visit today by calling (281) 747-8817.",
     },
   ],
   "examen-heces": [

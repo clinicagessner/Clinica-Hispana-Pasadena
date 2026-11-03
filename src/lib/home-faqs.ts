@@ -9,6 +9,12 @@ export const HOME_FAQS: ServiceFaq[] = [
     answerEn: "No. We see patients in order of arrival every day from 9 AM to 9 PM, Saturdays and Sundays included. If you prefer, call (281) 747-8817 or message us on WhatsApp at (346) 222-1006 to ask about prices or how busy it is before coming.",
   },
   {
+    question: "¿La consulta médica es gratis?",
+    answer: "La consulta inicial es gratis en tu primera visita. Las pruebas y los tratamientos tienen su precio directo, que te decimos antes de pasar; los paquetes con precio publicado están en promociones. Ven sin cita de 9 AM a 9 PM o programa tu cita hoy llamando al (281) 747-8817.",
+    questionEn: "Is the medical visit free?",
+    answerEn: "The initial consultation is free on your first visit. Tests and treatments have a direct price we tell you before you go in; packages with a published price are on the promotions page. Walk in from 9 AM to 9 PM or schedule your visit today by calling (281) 747-8817.",
+  },
+  {
     question: "¿Cuánto cuesta una consulta si no tengo seguro médico?",
     answer: "No necesitas seguro. Cada servicio tiene un precio directo que te decimos en recepción antes de pasar, y se paga en efectivo o con tarjeta. Los paquetes con precio publicado, como el Chequeo General Completo por $99, están en la página de promociones.",
     questionEn: "How much does a visit cost if I have no health insurance?",
