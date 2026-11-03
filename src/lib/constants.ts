@@ -1428,7 +1428,7 @@ Una identificación con foto, la lista de medicamentos que tomas y, si los tiene
 
 ## Servicios relacionados
 
-Si el resultado muestra la tiroides alterada, seguimos el caso en [pruebas y tratamiento de tiroides](/services/tiroides). Para glucosa, presión o colesterol fuera de rango, el control continúa en [condiciones crónicas](/services/condiciones-cronicas). Los hombres que piden PSA o testosterona pueden completar su chequeo en [salud del hombre](/services/salud-hombre), y la inyección de B12 forma parte de [sueros vitaminados](/services/sueros-vitaminados).
+Si el resultado muestra la tiroides alterada, seguimos el caso en [pruebas y tratamiento de tiroides](/services/tiroides). Para glucosa, presión o colesterol fuera de rango, el control continúa en [condiciones crónicas](/services/condiciones-cronicas). Los hombres que piden PSA o testosterona pueden completar su chequeo en [salud del hombre](/services/salud-hombre), y la inyección de B12 forma parte de [vitamina B12 en suero e inyección](/services/sueros-vitaminados).
 
 ${AREAS_ES}`,
     longDescriptionEn: `A blood test with no appointment, drawn at the clinic and explained in your language. You walk in, give your sample, and the medical team tells you what each number means once the result is ready.
@@ -1467,7 +1467,7 @@ A photo ID, the list of medications you take and, if you have them, previous res
 
 ## Related services
 
-If the result shows an altered thyroid, we follow the case in [thyroid testing and treatment](/en/services/tiroides). For glucose, blood pressure or cholesterol out of range, care continues in [chronic conditions](/en/services/condiciones-cronicas). Men who request PSA or testosterone can complete their checkup in [men's health](/en/services/salud-hombre), and the B12 injection is part of [IV vitamin therapy](/en/services/sueros-vitaminados).
+If the result shows an altered thyroid, we follow the case in [thyroid testing and treatment](/en/services/tiroides). For glucose, blood pressure or cholesterol out of range, care continues in [chronic conditions](/en/services/condiciones-cronicas). Men who request PSA or testosterone can complete their checkup in [men's health](/en/services/salud-hombre), and the B12 injection is part of [vitamin B12 by IV and injection](/en/services/sueros-vitaminados).
 
 ${AREAS_EN}`,
   },
@@ -2656,54 +2656,54 @@ ${AREAS_EN}`,
   },
   {
     slug: "sueros-vitaminados",
-    dateModified: "2026-09-12",
+    dateModified: "2026-11-02",
     order: 23,
     category: "tratamientos",
     icon: "Droplets",
-    title: "Sueros Vitaminados (Terapia IV)",
-    seoTitle: "Sueros Vitaminados en Pasadena, TX: Cuánto Dura",
-    titleEn: "Vitamin IV Therapy",
+    title: "Suero de Vitamina B12 (Terapia IV)",
+    seoTitle: "Suero de Vitamina B12 en Pasadena, TX: Cuánto Dura",
+    titleEn: "Vitamin B12 IV Therapy",
     shortDescription:
-      "Sueros vitaminados intravenosos para hidratación y energía, aplicados por personal médico.",
+      "Suero intravenoso de vitamina B12, aplicado por personal médico.",
     shortDescriptionEn:
-      "Intravenous vitamin drips for hydration and energy, administered by medical staff.",
+      "Intravenous vitamin B12 drip, administered by medical staff.",
     description:
-      "Suero vitaminado (terapia IV) en Pasadena, TX: la infusión dura de 30 a 60 minutos, con evaluación previa por personal médico. Sin cita y en español.",
+      "Suero de vitamina B12 (terapia IV) en Pasadena, TX: la infusión dura de 30 a 60 minutos, con evaluación previa por personal médico. Sin cita y en español.",
     descriptionEn:
-      "Vitamin IV therapy in Pasadena, TX. Hydration and vitamins in Spanish, with affordable pricing.",
+      "Vitamin B12 IV therapy in Pasadena, TX. In Spanish, with affordable pricing.",
     keywords: [
       "sueros vitaminados pasadena",
       "terapia iv pasadena",
       "suero de vitaminas pasadena",
-      "hidratacion intravenosa pasadena",
+      "suero de vitamina b12 pasadena",
     ],
     keywordsEn: [
       "vitamin iv therapy pasadena",
       "iv drip pasadena",
-      "iv hydration pasadena",
+      "vitamin b12 iv pasadena",
       "vitamin drip pasadena",
     ],
     features: [
-      "Hidratación intravenosa",
-      "Vitaminas y minerales",
+      "Suero de vitamina B12",
+      "Evaluación antes de aplicarlo",
       "Aplicación por personal médico",
       "Atención en español",
     ],
     featuresEn: [
-      "Intravenous hydration",
-      "Vitamins and minerals",
+      "Vitamin B12 IV drip",
+      "Evaluation before starting",
       "Administered by medical staff",
       "Care in Spanish",
     ],
-    longDescription: `Un suero vitaminado es una infusión intravenosa aplicada por personal médico en unos 30 a 60 minutos. En Clínica Hispana Nueva Salud Pasadena se indica después de una evaluación breve, sin cita, y se acompaña de la inyección de vitamina B12 cuando hace falta.
+    longDescription: `El suero de vitamina B12 es una infusión intravenosa aplicada por personal médico en unos 30 a 60 minutos. En Clínica Hispana Nueva Salud Pasadena se indica después de una evaluación breve, sin cita, y se acompaña de la inyección de vitamina B12 cuando hace falta.
 
-## ¿Qué es un suero vitaminado?
+## ¿Qué es el suero de vitamina B12?
 
-Una infusión que entra por una vía en el brazo y llega directamente a la sangre, sin pasar por el estómago. El equipo médico la indica según el motivo de la visita y tu historial, después de una evaluación breve; no es la misma para todos ni se aplica sin revisar antes.
+Una infusión de vitamina B12 que entra por una vía en el brazo y llega directamente a la sangre, sin pasar por el estómago. El equipo médico la indica según el motivo de la visita y tu historial, después de una evaluación breve; no se aplica sin revisar antes.
 
 ## ¿Cuándo puede ayudar?
 
-Cuando hay deshidratación por calor, vómito, diarrea o exceso de alcohol; después de una gripe o una infección que dejó debilidad; en periodos de cansancio con mala alimentación; y en personas con deficiencia de vitaminas confirmada que no absorben bien las pastillas. En esos casos repone líquidos y vitaminas más rápido que por la boca. No sustituye el tratamiento de una enfermedad ni una alimentación adecuada, y no "quema grasa" ni "desintoxica": eso no lo prometemos.
+En personas con deficiencia de vitamina B12 confirmada que no absorben bien las pastillas. No sustituye el tratamiento de una enfermedad ni una alimentación adecuada, y no "quema grasa" ni "desintoxica": eso no lo prometemos.
 
 ## ¿Quién no debe recibirlo?
 
@@ -2717,24 +2717,24 @@ Se siente el piquete de la vía y, a veces, frío en el brazo mientras pasa la i
 
 Se aplica en el músculo en segundos y está indicada cuando la B12 en sangre sale baja o hay factores de riesgo: dieta vegetariana, más de 50 años, metformina, antiácidos o cirugía de estómago. El paquete de Examen General de Sangre con Vitamina B12 cuesta $99 e incluye el examen general de sangre, la inyección de B12 y la orientación de resultados. Si quieres saber cómo es la inyección y cada cuánto se pone, lee nuestra [guía de la vitamina B12](/blog/vitamina-b12-beneficios-inyecciones-pasadena).
 
-## ¿Cuánto cuesta el suero vitaminado en Pasadena?
+## ¿Cuánto cuesta el suero de vitamina B12 en Pasadena?
 
-El precio depende de la mezcla; te lo damos por teléfono al (281) 747-8817 antes de venir. No necesitas seguro médico; aceptamos efectivo y tarjeta.
+Te damos el precio por teléfono al (281) 747-8817 antes de venir. No necesitas seguro médico; aceptamos efectivo y tarjeta.
 
 ## ¿Cómo es la visita?
 
 Llegas sin cita de 9 AM a 9 PM, hidratado y habiendo comido algo. Tras la evaluación, te sientas cómodo durante la infusión, entre 30 y 60 minutos, y sales caminando. Si el médico detecta una causa de fondo, como anemia o [tiroides](/services/tiroides) alterada, se estudia con [análisis de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `An IV vitamin drip is an intravenous infusion given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
+    longDescriptionEn: `The vitamin B12 drip is an intravenous infusion given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
 
-## What is an IV vitamin drip?
+## What is the vitamin B12 drip?
 
-An infusion that enters through an IV line in the arm and goes straight into the blood, bypassing the stomach. The medical team orders it according to the reason for the visit and your history, after a brief evaluation; it is not the same for everyone and is never given without that review.
+A vitamin B12 infusion that enters through an IV line in the arm and goes straight into the blood, bypassing the stomach. The medical team orders it according to the reason for the visit and your history, after a brief evaluation; it is never given without that review.
 
 ## When can it help?
 
-With dehydration from heat, vomiting, diarrhea or too much alcohol; after a flu or infection that left you weak; during periods of tiredness with poor eating; and in people with a confirmed vitamin deficiency who do not absorb pills well. In those cases it replaces fluids and vitamins faster than by mouth. It does not replace treatment for an illness or a proper diet, and it does not "burn fat" or "detox": we do not promise that.
+In people with a confirmed vitamin B12 deficiency who do not absorb pills well. It does not replace treatment for an illness or a proper diet, and it does not "burn fat" or "detox": we do not promise that.
 
 ## Who should not receive it?
 
@@ -2748,9 +2748,9 @@ You feel the prick of the IV line and sometimes coolness in the arm while the in
 
 It is given into the muscle in seconds and is indicated when blood B12 is low or there are risk factors: a vegetarian diet, age over 50, metformin, antacids or stomach surgery. The General Blood Test with Vitamin B12 package costs $99 and includes the general blood test, the B12 injection and a review of your results. To learn what the shot is like and how often it is given, read our [vitamin B12 guide](/en/blog/vitamina-b12-beneficios-inyecciones-pasadena).
 
-## How much does an IV vitamin drip cost in Pasadena?
+## How much does the vitamin B12 drip cost in Pasadena?
 
-The price depends on the mix; we give it to you by phone at (281) 747-8817 before you come. No health insurance is needed; we accept cash and cards.
+We give you the price by phone at (281) 747-8817 before you come. No health insurance is needed; we accept cash and cards.
 
 ## What is the visit like?
 

@@ -46,4 +46,4 @@ El paquete de Examen General de Sangre con Vitamina B12 cuesta $99 e incluye el 
 
 ## ¿Qué esperar en la visita?
 
-Llegas sin cita, de 9 AM a 9 PM. Cuentas tus síntomas, se toma la muestra de sangre y, si el médico lo indica, se aplica la inyección en la misma visita. El resultado se revisa contigo en español y sales con tu esquema por escrito. Las inyecciones de B12 forman parte de [sueros vitaminados](/services/sueros-vitaminados); el análisis, de [exámenes de sangre](/services/examenes-sangre).
+Llegas sin cita, de 9 AM a 9 PM. Cuentas tus síntomas, se toma la muestra de sangre y, si el médico lo indica, se aplica la inyección en la misma visita. El resultado se revisa contigo en español y sales con tu esquema por escrito. Las inyecciones de B12 forman parte de [vitamina B12 en suero e inyección](/services/sueros-vitaminados); el análisis, de [exámenes de sangre](/services/examenes-sangre).

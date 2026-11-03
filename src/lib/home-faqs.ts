@@ -22,9 +22,9 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Qué servicios ofrece la clínica?",
-    answer: "Consulta general, control de diabetes, presión y colesterol, tiroides, ginecología y planificación familiar, salud del hombre, análisis de sangre y orina, ultrasonido, electrocardiograma, vacunas, sueros vitaminados, curación de heridas y cirugías menores, y los exámenes con formulario: DOT para licencia CDL, físico escolar y examen médico de inmigración.",
+    answer: "Consulta general, control de diabetes, presión y colesterol, tiroides, ginecología y planificación familiar, salud del hombre, análisis de sangre y orina, ultrasonido, electrocardiograma, vacunas, suero de vitamina B12, curación de heridas y cirugías menores, y los exámenes con formulario: DOT para licencia CDL, físico escolar y examen médico de inmigración.",
     questionEn: "Which services does the clinic offer?",
-    answerEn: "General visits, diabetes, blood pressure and cholesterol care, thyroid, gynecology and family planning, men's health, blood and urine tests, ultrasound, EKG, vaccines, IV vitamin therapy, wound care and minor surgery, and the exams that come with a form: DOT physical for a CDL, school physical and the immigration medical exam.",
+    answerEn: "General visits, diabetes, blood pressure and cholesterol care, thyroid, gynecology and family planning, men's health, blood and urine tests, ultrasound, EKG, vaccines, vitamin B12 IV therapy, wound care and minor surgery, and the exams that come with a form: DOT physical for a CDL, school physical and the immigration medical exam.",
   },
   {
     question: "¿Dónde está la clínica y cómo llego?",

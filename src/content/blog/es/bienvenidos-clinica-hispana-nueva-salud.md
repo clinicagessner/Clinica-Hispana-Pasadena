@@ -30,7 +30,7 @@ Estamos en 1101 Spencer Hwy, Suite H, South Houston, TX 77587, sobre Spencer Hwy
 
 ## ¿Qué puedes resolver aquí?
 
-Lo cotidiano y lo específico: consulta general para niños y adultos, control de diabetes, presión alta, colesterol y tiroides, ginecología y planificación familiar, salud del hombre, laboratorio de sangre y orina, ultrasonido y electrocardiograma, vacunas, sueros vitaminados, curación de heridas y cirugías menores. También los exámenes con formulario: el físico DOT para licencia CDL, el escolar y deportivo, y el examen médico de inmigración con médico autorizado por USCIS.
+Lo cotidiano y lo específico: consulta general para niños y adultos, control de diabetes, presión alta, colesterol y tiroides, ginecología y planificación familiar, salud del hombre, laboratorio de sangre y orina, ultrasonido y electrocardiograma, vacunas, suero de vitamina B12, curación de heridas y cirugías menores. También los exámenes con formulario: el físico DOT para licencia CDL, el escolar y deportivo, y el examen médico de inmigración con médico autorizado por USCIS.
 
 ## ¿Y si no tengo seguro?
 

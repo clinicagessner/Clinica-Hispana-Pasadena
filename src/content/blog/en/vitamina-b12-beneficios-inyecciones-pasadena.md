@@ -45,4 +45,4 @@ The General Blood Test with Vitamin B12 package costs $99 and includes the gener
 
 ## What to expect at the visit
 
-Walk in, 9 AM to 9 PM. You describe your symptoms, the blood sample is drawn and, if the physician orders it, the shot is given at the same visit. The result is reviewed with you in Spanish or English and you leave with your schedule in writing. B12 injections are part of [IV vitamin therapy](/en/services/sueros-vitaminados); the test, of [blood tests](/en/services/examenes-sangre).
+Walk in, 9 AM to 9 PM. You describe your symptoms, the blood sample is drawn and, if the physician orders it, the shot is given at the same visit. The result is reviewed with you in Spanish or English and you leave with your schedule in writing. B12 injections are part of [vitamin B12 by IV and injection](/en/services/sueros-vitaminados); the test, of [blood tests](/en/services/examenes-sangre).

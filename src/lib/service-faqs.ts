@@ -449,15 +449,15 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "sueros-vitaminados": [
     {
-      question: "¿Quién aplica el suero vitaminado?",
+      question: "¿Quién aplica el suero de vitamina B12?",
       answer: "Personal médico de la clínica, después de una evaluación breve de tu presión, antecedentes y medicamentos. La infusión dura entre 30 y 60 minutos con personal presente todo el tiempo.",
-      questionEn: "Who gives the IV vitamin drip?",
+      questionEn: "Who gives the vitamin B12 drip?",
       answerEn: "The clinic's medical staff, after a brief evaluation of your blood pressure, history and medications. The infusion takes 30 to 60 minutes with staff present the whole time.",
     },
     {
-      question: "¿Quién no debe recibir un suero vitaminado?",
+      question: "¿Quién no debe recibir el suero de vitamina B12?",
       answer: "Personas con insuficiencia renal o cardiaca, embarazadas sin indicación médica y quien tenga alergia a algún componente. Por eso siempre hay evaluación antes; no se aplica sin revisar.",
-      questionEn: "Who should not receive an IV vitamin drip?",
+      questionEn: "Who should not receive the vitamin B12 drip?",
       answerEn: "People with kidney or heart failure, pregnant women without a medical indication and anyone allergic to a component. That is why there is always an evaluation first; it is never given without that review.",
     },
     {

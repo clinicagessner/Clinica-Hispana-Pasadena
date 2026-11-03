@@ -30,7 +30,7 @@ We are at 1101 Spencer Hwy, Suite H, South Houston, TX 77587, on Spencer Hwy in 
 
 ## What can you take care of here?
 
-The everyday and the specific: general visits for children and adults, diabetes, high blood pressure, cholesterol and thyroid care, gynecology and family planning, men's health, blood and urine lab work, ultrasound and EKG, vaccines, IV vitamin therapy, wound care and minor surgery. Also the exams that come with a form: the DOT physical for a CDL, school and sports physicals, and the immigration medical exam with a USCIS-authorized physician.
+The everyday and the specific: general visits for children and adults, diabetes, high blood pressure, cholesterol and thyroid care, gynecology and family planning, men's health, blood and urine lab work, ultrasound and EKG, vaccines, vitamin B12 IV therapy, wound care and minor surgery. Also the exams that come with a form: the DOT physical for a CDL, school and sports physicals, and the immigration medical exam with a USCIS-authorized physician.
 
 ## What if I have no insurance?
 
