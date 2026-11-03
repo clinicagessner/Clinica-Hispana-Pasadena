@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 44 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red); home y servicios también por anuncios = referencia)  📨 ENVIADA 03/11/2026
+## Tanda 44 — cambios del 2026-11-02 (sueros solo vitamina B12 (orden de red); home y servicios también por anuncios = referencia)  ✅ PEDIDA 03/11/2026
 
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/services  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanans4.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/en/services  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
+- [x] https://www.clinicahispanans4.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02
 
 ## Tanda 48 — cambios del 2026-11-02 (anuncios = referencia (barrido completo: home, ginecología, urología))
 
