@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 52 — cambios del 2026-11-03 (sueros: post de B12)  📨 ENVIADA 06/11/2026
 
+- [ ] https://www.clinicahispanans4.com/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
+- [ ] https://www.clinicahispanans4.com/en/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
 - [ ] https://www.clinicahispanans4.com/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
 - [ ] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
 
