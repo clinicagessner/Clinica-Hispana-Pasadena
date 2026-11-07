@@ -6,19 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-06; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 92 de 98 URLs del sitemap indexadas · 6 sin indexar (6 rastreada sin indexar).
+**Estado (actualizado 2026-11-07; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 92 de 100 URLs del sitemap indexadas · 8 sin indexar (6 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 19 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
+3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
-
-## Tanda 52 — cambios del 2026-11-03 (sueros: post de B12)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
-
-- [x] https://www.clinicahispanans4.com/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
-- [x] https://www.clinicahispanans4.com/en/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
-- [x] https://www.clinicahispanans4.com/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
-- [x] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
 
 ## Tanda 53
 
@@ -181,3 +174,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
 - [x] https://www.clinicahispanans4.com/blog  — cambiada 2026-11-02
 - [x] https://www.clinicahispanans4.com/en/blog  — cambiada 2026-11-02
+
+## Tanda 52 — cambios del 2026-11-03 (sueros: post de B12)  📨 ENVIADA 06/11/2026  ✅ PEDIDA 06/11/2026
+
+- [x] https://www.clinicahispanans4.com/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
+- [x] https://www.clinicahispanans4.com/en/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · post del blog semanal
+- [x] https://www.clinicahispanans4.com/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
+- [x] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-03
