@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
+## Tanda 56 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 13/11/2026
+
+- [ ] https://www.clinicahispanans4.com/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
+- [ ] https://www.clinicahispanans4.com/en/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
+
 ## Tanda 53
 
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 59 impr.
