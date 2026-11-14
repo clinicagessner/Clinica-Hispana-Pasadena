@@ -2,7 +2,7 @@ import { useLocale, useTranslations } from "next-intl";
 import { Mail, MapPin, Phone, Clock } from "lucide-react";
 import {
   FacebookLogo,
-  InstagramLogo,
+  InstagramLogo, YoutubeLogo,
 } from "@phosphor-icons/react/dist/ssr";
 import { Link } from "@/i18n/navigation";
 import { Logo } from "@/components/shared/logo";
@@ -72,6 +72,17 @@ export function Footer() {
                       className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 ring-1 ring-white/10 transition-colors hover:bg-teal hover:text-blue-deep"
                     >
                       <InstagramLogo className="h-4 w-4" weight="fill" />
+                    </a>
+                  )}
+                  {SOCIAL_LINKS.youtube && (
+                    <a
+                      href={SOCIAL_LINKS.youtube}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="YouTube"
+                      className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 ring-1 ring-white/10 transition-colors hover:bg-teal hover:text-blue-deep"
+                    >
+                      <YoutubeLogo className="h-4 w-4" weight="fill" />
                     </a>
                   )}
                 </div>

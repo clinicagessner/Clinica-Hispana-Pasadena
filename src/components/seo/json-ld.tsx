@@ -33,7 +33,7 @@ const postalAddress = {
 const CLINIC_ID = `${SITE_CONFIG.baseUrl}/#clinic`;
 
 // Perfiles reales verificados (GBP, Facebook, Instagram). No inventar más.
-const SAME_AS = [SOCIAL_LINKS.facebook, SOCIAL_LINKS.instagram];
+const SAME_AS = [SOCIAL_LINKS.facebook, SOCIAL_LINKS.instagram, SOCIAL_LINKS.youtube];
 
 // Ciudades del área de servicio, en el mismo orden que el bloque AREAS del
 // sitio. Pasadena es la ciudad de marca; la postal (GBP y USPS) es South Houston.

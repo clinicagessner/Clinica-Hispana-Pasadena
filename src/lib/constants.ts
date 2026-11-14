@@ -82,6 +82,7 @@ export const OPENING_HOURS = [
 export const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/clinicahispanansaludpasadena",
   instagram: "https://www.instagram.com/clinicahispanansaludpasadena",
+  youtube: "https://www.youtube.com/@NuevaSaludPasadena",
 } as const;
 
 // Fallback de build para rating/reseñas. La data en vivo la trae

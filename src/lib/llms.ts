@@ -102,7 +102,7 @@ export function buildLlmsTxt(): string {
     const q = getLocalizedFaq(f, "en");
     L.push(`Q: ${q.question}`, `A: ${q.answer}`, "");
   }
-  L.push("## Social media", "", `- [Facebook](${SOCIAL_LINKS.facebook})`, `- [Instagram](${SOCIAL_LINKS.instagram})`, "");
+  L.push("## Social media", "", `- [Facebook](${SOCIAL_LINKS.facebook})`, `- [Instagram](${SOCIAL_LINKS.instagram})`, `- [YouTube](${SOCIAL_LINKS.youtube})`, "");
   L.push("## Full descriptions", "", `- [llms-full.txt](${url("/llms-full.txt")}): every service in Spanish and English with its FAQ, promotions and guides`, "");
   L.push(`Last updated: ${lastUpdated()}`, "");
   return L.join("\n");
