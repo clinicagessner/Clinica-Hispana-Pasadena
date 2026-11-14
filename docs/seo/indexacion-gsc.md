@@ -18,6 +18,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
 - [ ] https://www.clinicahispanans4.com/en/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
 
+## Tanda 57 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinicahispanans4.com/es  — cambiada 2026-11-14
+
 ## Tanda 53
 
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 59 impr.
