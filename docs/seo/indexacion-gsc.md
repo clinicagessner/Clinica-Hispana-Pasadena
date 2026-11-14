@@ -13,15 +13,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 56 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026
+## Tanda 56 — cambios del 2026-11-13 (post del blog semanal)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
-- [ ] https://www.clinicahispanans4.com/en/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
+- [x] https://www.clinicahispanans4.com/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
+- [x] https://www.clinicahispanans4.com/en/blog/puntos-de-sutura-cuidados-casa-retiro-pasadena  — cambiada 2026-11-13
 
-## Tanda 57 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026
+## Tanda 57 — cambios del 2026-11-14 (YouTube en el footer de toda la web)  📨 ENVIADA 14/11/2026  ✅ PEDIDA 14/11/2026
 
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-14 (YouTube en el footer)
 
 ## Tanda 58
 
