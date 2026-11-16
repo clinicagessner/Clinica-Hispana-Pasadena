@@ -877,6 +877,7 @@ ${AREAS_EN}`,
 - **Consulta ginecológica, Papanicolaou y ultrasonido en un mismo lugar**, sin ir de una oficina a otra.
 - **Anticoncepción hormonal:** pastillas o la inyección anticonceptiva de cada 3 meses, que se aplica en la misma visita.
 - **Un espacio cómodo, seguro y confidencial**, con un equipo hispano que te atiende en español.
+- **Clínica hispana de ginecología, con consulta gratis:** la consulta inicial de ginecología es gratis; los exámenes y el tratamiento se pagan aparte.
 - **Consulta inicial gratis** en tu primera visita: llega sin cita o agenda tu cita hoy al (281) 747-8817.
 
 ## ¿Qué servicios ginecológicos ofrece la clínica?
@@ -919,6 +920,7 @@ ${AREAS_ES}`,
 - **Gynecology visit, Pap smear and ultrasound in one place**, with no running from one office to another.
 - **Hormonal birth control:** the pill or the birth control shot every 3 months, given at the same visit.
 - **A comfortable, safe and confidential space**, with a Hispanic team that cares for you in Spanish.
+- **Hispanic gynecology clinic, with a free visit:** the initial gynecology consultation is free; tests and treatment are paid separately.
 - **Free initial consultation** on your first visit: walk in or schedule your visit today at (281) 747-8817.
 
 ## Which gynecology services does the clinic offer?
