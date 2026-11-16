@@ -1,5 +1,5 @@
 ---
-title: "Ginecólogos hispanos en Pasadena que hablan español"
+title: "Ginecología en español en Pasadena: cómo es la consulta"
 relatedServices: ["ginecologia", "prueba-embarazo", "anticonceptivos"]
 description: "Encuentra atención ginecológica en español en Pasadena: papanicolaou, chequeos y salud de la mujer con privacidad y respeto."
 date: "2026-03-05"
@@ -9,7 +9,7 @@ category: "Salud de la mujer"
 cover: "/images/blog/ginecologos-hispanos-pasadena-hablan-espanol.webp"
 coverAlt: "Consulta de ginecología en español para la mujer hispana en Pasadena"
 keywords:
-  - "ginecólogo pasadena español"
+  - "ginecología en español pasadena"
   - "clínica de la mujer pasadena"
   - "papanicolaou pasadena"
 ---

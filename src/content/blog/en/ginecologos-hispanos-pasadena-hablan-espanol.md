@@ -1,5 +1,5 @@
 ---
-title: "Hispanic gynecologists in Pasadena who speak Spanish"
+title: "Gynecology in Spanish in Pasadena: what the visit is like"
 relatedServices: ["ginecologia", "prueba-embarazo", "anticonceptivos"]
 description: "Find gynecological care in Spanish in Pasadena: Pap smears, checkups and women's health with privacy and respect."
 date: "2026-03-05"
@@ -9,7 +9,7 @@ category: "Women's health"
 cover: "/images/blog/ginecologos-hispanos-pasadena-hablan-espanol.webp"
 coverAlt: "Gynecology visit in Spanish for Hispanic women in Pasadena"
 keywords:
-  - "gynecologist pasadena spanish"
+  - "gynecology in spanish pasadena"
   - "womens clinic pasadena"
   - "pap smear pasadena"
 ---
