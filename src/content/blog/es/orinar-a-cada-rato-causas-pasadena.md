@@ -1,7 +1,7 @@
 ---
 title: "Orinar a cada rato: ¿infección, diabetes o vejiga?"
 relatedServices: ["infecciones-urinarias", "examenes-sangre", "condiciones-cronicas"]
-metaTitle: "¿Por qué orino tanto? Diabetes, infección o vejiga"
+metaTitle: "¿Por qué un diabético orina mucho? Causas y señales"
 description: "¿Por qué un diabético orina mucho? El azúcar alta arrastra agua a la orina. Cómo distinguirlo de una infección o de la vejiga hiperactiva, en Pasadena."
 date: "2026-10-16"
 dateModified: "2026-10-30"
@@ -35,7 +35,7 @@ Orinar poquito y seguido, con molestia, suele hablar de una vejiga irritada. Ori
 
 Las bacterias irritan la vejiga y por eso piden vaciarla aunque esté casi vacía. Lo típico es ir a cada rato y que salgan unas gotas, con ardor, orina turbia o de olor fuerte y una presión baja en el vientre. Aparece en pocos días, no en meses. Es mucho más común en mujeres, aunque los hombres también la tienen.
 
-### Azúcar alta o diabetes sin diagnosticar
+### Azúcar alta o diabetes: por qué un diabético orina mucho
 
 Cuando la glucosa en la sangre sube de más, los riñones tratan de sacar el exceso por la orina y arrastran agua con él. El resultado es orinar mucho, en cantidad abundante, con una sed que obliga a tener la botella de agua siempre a la mano. Puede sumarse cansancio, visión borrosa, hambre frecuente o bajar de peso sin intentarlo. Muchas personas descubren su diabetes justamente por este patrón de sed y baño.
 
