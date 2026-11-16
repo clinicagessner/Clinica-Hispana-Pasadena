@@ -656,7 +656,7 @@ ${AREAS_EN}`,
       "Treatment of flu, cough and bronchitis",
       "Walk-in care in Spanish",
     ],
-    longDescription: `Fiebre, tos y cuerpo cortado se parecen en la gripe, el COVID-19 y un resfriado fuerte, pero el tratamiento no es el mismo. En Clínica Hispana Nueva Salud Pasadena las pruebas rápidas se hacen en la clínica, sin cita, y sales con el diagnóstico y el tratamiento en la misma visita.
+    longDescription: `Fiebre, tos y cuerpo cortado se parecen en la gripe, el COVID-19 y un resfriado fuerte, pero el tratamiento no es el mismo. En Clínica Hispana Nueva Salud Pasadena las pruebas rápidas se hacen en la clínica, sin cita, y sales con el diagnóstico en la misma visita; si hace falta tratamiento, ese mismo día enviamos tu receta electrónica a la farmacia que elijas.
 
 ## ¿Es gripe, COVID o resfriado?
 
@@ -687,7 +687,7 @@ Te damos el precio de la consulta y de cada prueba por teléfono al (281) 747-88
 Llegas sin cita de 9 AM a 9 PM; si tienes fiebre y tos, pide un cubrebocas en recepción. Se toma la muestra, se espera el resultado en la clínica y el médico te examina el pecho, la garganta y los oídos. Sales con receta, indicaciones y, si lo necesitas, una constancia para el trabajo o la escuela. Las [alergias](/services/alergias) que imitan un resfriado que nunca se quita también se atienden aquí.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Fever, cough and body aches look alike in the flu, COVID-19 and a bad cold, but the treatment is not the same. At Clínica Hispana Nueva Salud Pasadena rapid tests are done in the clinic, with no appointment, and you leave with the diagnosis and treatment at the same visit.
+    longDescriptionEn: `Fever, cough and body aches look alike in the flu, COVID-19 and a bad cold, but the treatment is not the same. At Clínica Hispana Nueva Salud Pasadena rapid tests are done in the clinic, with no appointment, and you leave with the diagnosis at the same visit; if treatment is needed, we send your e-prescription to the pharmacy you choose that same day.
 
 ## Is it the flu, COVID or a cold?
 
