@@ -13,17 +13,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 61 — cambios del 2026-11-16 (análisis diario: frases de los anuncios en home y ginecología, receta en respiratorias, títulos de 2 posts)  📨 ENVIADA 16/11/2026
+## Tanda 61 — cambios del 2026-11-16 (análisis diario: frases de los anuncios en home y ginecología, receta en respiratorias, títulos de 2 posts)  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
 
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
-- [ ] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
 
 ## Tanda 62
 
