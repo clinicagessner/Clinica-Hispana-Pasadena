@@ -6,24 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-16; URL Inspection API, datos de hoy 2026-11-16):** 73 de 102 URLs del sitemap indexadas · 29 sin indexar (29 rastreada sin indexar).
+**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 102 URLs del sitemap indexadas · 29 sin indexar (29 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 16 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 18 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
+3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
-
-## Tanda 61 — cambios del 2026-11-16 (análisis diario: frases de los anuncios en home y ginecología, receta en respiratorias, títulos de 2 posts)  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
-
-- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
-- [x] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
 
 ## Tanda 62
 
@@ -62,12 +50,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-10-05 · rastreada sin indexar · pedida 2026-10-25 · 3 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-12 · rastreada 2026-09-25 · rastreada sin indexar · 2 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-25 · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-03 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-11-03 · 2 impr.
 
 ## Tanda 65
 
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-25 · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-06 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-10-12 · rastreada sin indexar · 0 impr.
 
 ## Historial (tandas pedidas)
@@ -216,3 +206,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
 - [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+
+## Tanda 61 — cambios del 2026-11-16 (análisis diario: frases de los anuncios en home y ginecología, receta en respiratorias, títulos de 2 posts)  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
+
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
+- [x] https://www.clinicahispanans4.com/en/blog/ginecologos-hispanos-pasadena-hablan-espanol  — cambiada 2026-11-16
