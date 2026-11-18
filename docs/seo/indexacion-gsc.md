@@ -13,7 +13,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-30).
 <!-- /tandas:auto -->
 
-## Tanda 66 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+## Tanda 66 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 18/11/2026
 
 - [ ] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-11-18
