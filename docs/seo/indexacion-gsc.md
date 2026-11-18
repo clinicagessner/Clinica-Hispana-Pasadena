@@ -13,52 +13,107 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
 <!-- /tandas:auto -->
 
+## Tanda 66 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/cirugias-menores  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/condiciones-cronicas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/drenaje-abscesos  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
+
+## Tanda 67 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/examen-dot  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
+
+## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-11-18
+
+## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-strep  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/suturas-heridas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/suturas-heridas  — cambiada 2026-11-18
+
+## Tanda 70 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/ultrasonido  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/unas-encarnadas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/vacunas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/vacunas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-11-18
+
+## Tanda 71 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/vitamina-b12-beneficios-inyecciones-pasadena  — cambiada 2026-11-18
+
+## Tanda 72 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
+
+- [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
+
 ## Tanda 62
 
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 5 impr.
 - [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 4 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 2 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/unas-encarnadas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/control-diabetes-pasadena-guia-pacientes  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 1 impr.
 
 ## Tanda 63
 
-- [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-09-12 · rastreada 2026-07-10 · rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/laboratorio-clinico-pasadena-analisis-sangre  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-10 · indexada · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-13 · indexada · 0 impr.
-- [ ] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-06 · 8 impr.
-- [ ] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · pedida 2026-10-06 · 6 impr.
-- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-06 · 6 impr.
 
 ## Tanda 64
 
-- [ ] https://www.clinicahispanans4.com/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 5 impr.
-- [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-09-12 · rastreada 2026-07-09 · rastreada sin indexar · pedida 2026-10-05 · 2 impr.
-- [ ] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-09-12 · rastreada 2026-06-25 · rastreada sin indexar · pedida 2026-10-06 · 1 impr.
-- [ ] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-06 · 1 impr.
 - [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-10-15 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-16 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-10-05 · rastreada sin indexar · pedida 2026-10-25 · 3 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/atencion-medica-sin-seguro-pasadena  — cambiada 2026-09-12 · rastreada 2026-09-25 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-03 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-11-03 · 2 impr.
 
 ## Tanda 65
 
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-10-23 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-25 · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/examen-dot-cdl-camioneros-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-11 · rastreada sin indexar · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/guia-examen-medico-inmigracion-i693-pasadena  — cambiada 2026-09-12 · rastreada 2026-10-06 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/vacunas  — cambiada 2026-09-12 · rastreada 2026-10-12 · rastreada sin indexar · 0 impr.
 
 ## Historial (tandas pedidas)
 
