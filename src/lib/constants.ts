@@ -353,11 +353,11 @@ Diabetes tipo 2 y prediabetes, presión arterial alta, colesterol y triglicérid
 
 ## ¿Cómo es la primera consulta de control?
 
-Se revisa tu historial y tus medicamentos, se toman presión, peso y glucosa, y se ordenan los análisis de base: A1C, perfil de lípidos, función del riñón y del hígado, y examen de orina. Si el médico lo considera, se hace un [electrocardiograma](/services/electrocardiograma) en la misma visita. Con los resultados en mano se fijan tus metas y tu plan: alimentación, actividad, medicamentos y fecha de la siguiente revisión.
+Se revisa tu historial y tus medicamentos, se toman presión, peso y glucosa, y se ordenan los análisis de base: A1C, perfil de lípidos, función del riñón y del hígado, y examen de orina. Si el equipo médico lo considera, se hace un [electrocardiograma](/services/electrocardiograma) en la misma visita. Con los resultados en mano se fijan tus metas y tu plan: alimentación, actividad, medicamentos y fecha de la siguiente revisión.
 
 ## ¿Qué metas se usan?
 
-Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80, colesterol LDL por debajo de 100 y triglicéridos por debajo de 150. Las metas se ajustan por edad y otras condiciones; el médico te dice las tuyas y las anota para compararlas en cada visita.
+Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80, colesterol LDL por debajo de 100 y triglicéridos por debajo de 150. Las metas se ajustan por edad y otras condiciones; el equipo médico te dice las tuyas y las anota para compararlas en cada visita.
 
 ## ¿Cada cuánto debo venir?
 
@@ -384,11 +384,11 @@ Type 2 diabetes and prediabetes, high blood pressure, high cholesterol and trigl
 
 ## What is the first follow-up visit like?
 
-Your history and medications are reviewed, blood pressure, weight and glucose are taken, and the baseline tests are ordered: A1C, lipid panel, kidney and liver function, and urinalysis. If the physician sees fit, an [EKG](/en/services/electrocardiograma) is done at the same visit. With results in hand, your targets and plan are set: diet, activity, medications and the date of the next check.
+Your history and medications are reviewed, blood pressure, weight and glucose are taken, and the baseline tests are ordered: A1C, lipid panel, kidney and liver function, and urinalysis. If the medical team sees fit, an [EKG](/en/services/electrocardiograma) is done at the same visit. With results in hand, your targets and plan are set: diet, activity, medications and the date of the next check.
 
 ## Which targets are used?
 
-For most adults: A1C under 7%, blood pressure under 130/80, LDL cholesterol under 100 and triglycerides under 150. Targets are adjusted for age and other conditions; the physician tells you yours and writes them down to compare at each visit.
+For most adults: A1C under 7%, blood pressure under 130/80, LDL cholesterol under 100 and triglycerides under 150. Targets are adjusted for age and other conditions; the medical team tells you yours and writes them down to compare at each visit.
 
 ## How often should I come?
 
@@ -458,7 +458,7 @@ El médico general o de atención primaria. Es quien ordena las pruebas, interpr
 
 ## ¿Qué pruebas se hacen para revisar la tiroides?
 
-La prueba principal es la TSH, la hormona que le ordena a la tiroides trabajar. Si la TSH sale alterada, se completa con T4 libre y, en algunos casos, T3, para saber si la glándula trabaja de menos (hipotiroidismo) o de más (hipertiroidismo). Cuando hay sospecha de causa autoinmune se piden anticuerpos tiroideos, y si el médico palpa un bulto en el cuello, se indica un [ultrasonido de tiroides](/services/ultrasonido). No hace falta ayuno para estas pruebas y la muestra se toma en la clínica, sin cita.
+La prueba principal es la TSH, la hormona que le ordena a la tiroides trabajar. Si la TSH sale alterada, se completa con T4 libre y, en algunos casos, T3, para saber si la glándula trabaja de menos (hipotiroidismo) o de más (hipertiroidismo). Cuando hay sospecha de causa autoinmune se piden anticuerpos tiroideos, y si el equipo médico palpa un bulto en el cuello, se indica un [ultrasonido de tiroides](/services/ultrasonido). No hace falta ayuno para estas pruebas y la muestra se toma en la clínica, sin cita.
 
 ## ¿Cuáles son los síntomas de hipotiroidismo e hipertiroidismo?
 
@@ -466,7 +466,7 @@ Cuando la tiroides trabaja de menos: cansancio, aumento de peso, frío, piel sec
 
 ## ¿Cómo se trata la tiroides?
 
-El hipotiroidismo se trata con levotiroxina, una pastilla diaria que repone la hormona; se toma en ayunas y la dosis se ajusta con controles de TSH cada 6 a 8 semanas hasta encontrar la correcta, y después cada 6 a 12 meses. El hipertiroidismo se trata con medicamentos que frenan la glándula y, según el caso, con referencia al especialista. El tratamiento suele ser de largo plazo; lo importante es no suspenderlo sin hablar con el médico.
+El hipotiroidismo se trata con levotiroxina, una pastilla diaria que repone la hormona; se toma en ayunas y la dosis se ajusta con controles de TSH cada 6 a 8 semanas hasta encontrar la correcta, y después cada 6 a 12 meses. El hipertiroidismo se trata con medicamentos que frenan la glándula y, según el caso, con referencia al especialista. El tratamiento suele ser de largo plazo; lo importante es no suspenderlo sin hablar con el equipo médico.
 
 ## ¿Cuánto cuesta revisar la tiroides en Pasadena?
 
@@ -474,7 +474,7 @@ Te damos el precio de la prueba de TSH y del panel completo por teléfono antes 
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita, de lunes a domingo de 9 AM a 9 PM. El médico revisa tus síntomas y tu cuello, ordena las pruebas y se toma la muestra ese día. Cuando el resultado está listo, te avisamos, lo revisas con el equipo médico y, si hay que tratar, sales con tu receta y tu fecha de control.
+Llegas sin cita, de lunes a domingo de 9 AM a 9 PM. El equipo médico revisa tus síntomas y tu cuello, ordena las pruebas y se toma la muestra ese día. Cuando el resultado está listo, te avisamos, lo revisas con el equipo médico y, si hay que tratar, sales con tu receta y tu fecha de control.
 
 ## Servicios relacionados
 
@@ -489,7 +489,7 @@ The general or primary-care physician. That is who orders the tests, interprets 
 
 ## Which tests check the thyroid?
 
-The main test is TSH, the hormone that tells the thyroid to work. If TSH is off, it is completed with free T4 and, in some cases, T3, to learn whether the gland is underactive (hypothyroidism) or overactive (hyperthyroidism). When an autoimmune cause is suspected, thyroid antibodies are ordered, and if the physician feels a lump in the neck, a [thyroid ultrasound](/en/services/ultrasonido) is indicated. No fasting is needed for these tests, and the sample is drawn at the clinic, no appointment required.
+The main test is TSH, the hormone that tells the thyroid to work. If TSH is off, it is completed with free T4 and, in some cases, T3, to learn whether the gland is underactive (hypothyroidism) or overactive (hyperthyroidism). When an autoimmune cause is suspected, thyroid antibodies are ordered, and if the medical team feels a lump in the neck, a [thyroid ultrasound](/en/services/ultrasonido) is indicated. No fasting is needed for these tests, and the sample is drawn at the clinic, no appointment required.
 
 ## What are the symptoms of hypothyroidism and hyperthyroidism?
 
@@ -497,7 +497,7 @@ When the thyroid is underactive: tiredness, weight gain, feeling cold, dry skin,
 
 ## How is the thyroid treated?
 
-Hypothyroidism is treated with levothyroxine, a daily pill that replaces the hormone; it is taken on an empty stomach, and the dose is adjusted with TSH checks every 6 to 8 weeks until the right one is found, then every 6 to 12 months. Hyperthyroidism is treated with medications that slow the gland and, depending on the case, with a specialist referral. Treatment is usually long term; the key is not to stop it without talking to the physician.
+Hypothyroidism is treated with levothyroxine, a daily pill that replaces the hormone; it is taken on an empty stomach, and the dose is adjusted with TSH checks every 6 to 8 weeks until the right one is found, then every 6 to 12 months. Hyperthyroidism is treated with medications that slow the gland and, depending on the case, with a specialist referral. Treatment is usually long term; the key is not to stop it without talking to the medical team.
 
 ## How much does a thyroid check cost in Pasadena?
 
@@ -505,7 +505,7 @@ We give you the price of the TSH test and of the full panel by phone before you 
 
 ## What is the visit like?
 
-Walk in, Monday to Sunday, 9 AM to 9 PM. The physician reviews your symptoms and your neck, orders the tests, and the sample is drawn that day. When the result is ready we let you know, you review it with the medical team and, if treatment is needed, you leave with your prescription and your follow-up date.
+Walk in, Monday to Sunday, 9 AM to 9 PM. The medical team reviews your symptoms and your neck, orders the tests, and the sample is drawn that day. When the result is ready we let you know, you review it with the medical team and, if treatment is needed, you leave with your prescription and your follow-up date.
 
 ## Related services
 
@@ -664,7 +664,7 @@ El resfriado empieza despacio con congestión y estornudos, casi sin fiebre. La 
 
 ## ¿Qué pruebas se hacen y cuánto tardan?
 
-Prueba rápida de influenza A y B y prueba de COVID-19 con muestra nasal, con resultado en la clínica durante la misma visita. Cuando hay dolor de garganta con placas o fiebre sin tos, se añade la [prueba de estreptococo](/services/prueba-strep). Si la tos lleva más de tres semanas, hay dificultad para respirar o sonidos en el pecho, el médico evalúa bronquitis o neumonía y decide si hace falta una radiografía.
+Prueba rápida de influenza A y B y prueba de COVID-19 con muestra nasal, con resultado en la clínica durante la misma visita. Cuando hay dolor de garganta con placas o fiebre sin tos, se añade la [prueba de estreptococo](/services/prueba-strep). Si la tos lleva más de tres semanas, hay dificultad para respirar o sonidos en el pecho, el equipo médico evalúa bronquitis o neumonía y decide si hace falta una radiografía.
 
 ## ¿Qué tratamiento se da?
 
@@ -684,7 +684,7 @@ Te damos el precio de la consulta y de cada prueba por teléfono al (281) 747-88
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM; si tienes fiebre y tos, pide un cubrebocas en recepción. Se toma la muestra, se espera el resultado en la clínica y el médico te examina el pecho, la garganta y los oídos. Sales con receta, indicaciones y, si lo necesitas, una constancia para el trabajo o la escuela. Las [alergias](/services/alergias) que imitan un resfriado que nunca se quita también se atienden aquí.
+Llegas sin cita de 9 AM a 9 PM; si tienes fiebre y tos, pide un cubrebocas en recepción. Se toma la muestra, se espera el resultado en la clínica y el equipo médico te examina el pecho, la garganta y los oídos. Sales con receta, indicaciones y, si lo necesitas, una constancia para el trabajo o la escuela. Las [alergias](/services/alergias) que imitan un resfriado que nunca se quita también se atienden aquí.
 
 ${AREAS_ES}`,
     longDescriptionEn: `Fever, cough and body aches look alike in the flu, COVID-19 and a bad cold, but the treatment is not the same. At Clínica Hispana Nueva Salud Pasadena rapid tests are done in the clinic, with no appointment, and you leave with the diagnosis at the same visit; if treatment is needed, we send your e-prescription to the pharmacy you choose that same day.
@@ -695,7 +695,7 @@ A cold starts slowly with congestion and sneezing, with little or no fever. The 
 
 ## Which tests are done, and how long do they take?
 
-A rapid influenza A and B test and a COVID-19 test with a nasal swab, with the result in the clinic during the same visit. When there is a sore throat with white patches or fever without cough, the [strep test](/en/services/prueba-strep) is added. If the cough has lasted more than three weeks, there is trouble breathing or sounds in the chest, the physician evaluates for bronchitis or pneumonia and decides whether an X-ray is needed.
+A rapid influenza A and B test and a COVID-19 test with a nasal swab, with the result in the clinic during the same visit. When there is a sore throat with white patches or fever without cough, the [strep test](/en/services/prueba-strep) is added. If the cough has lasted more than three weeks, there is trouble breathing or sounds in the chest, the medical team evaluates for bronchitis or pneumonia and decides whether an X-ray is needed.
 
 ## What treatment is given?
 
@@ -715,7 +715,7 @@ We give you the price of the visit and of each test by phone at (281) 747-8817. 
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM; if you have fever and cough, ask for a mask at the front desk. The sample is taken, the result is awaited in the clinic and the physician examines your chest, throat and ears. You leave with a prescription, instructions and, if needed, a note for work or school. [Allergies](/en/services/alergias) that mimic a cold that never goes away are also seen here.
+Walk in from 9 AM to 9 PM; if you have fever and cough, ask for a mask at the front desk. The sample is taken, the result is awaited in the clinic and the medical team examines your chest, throat and ears. You leave with a prescription, instructions and, if needed, a note for work or school. [Allergies](/en/services/alergias) that mimic a cold that never goes away are also seen here.
 
 ${AREAS_EN}`,
   },
@@ -763,11 +763,11 @@ ${AREAS_EN}`,
 
 ## ¿Qué formularios se llenan?
 
-El de evaluación física previa a la participación deportiva que usan las escuelas de Texas (el formulario de la UIL para deportes escolares), el físico de ingreso que piden algunas escuelas y guarderías, y los formularios de campamentos, ligas y programas. Trae el formulario impreso o en el teléfono; si tu escuela no te dio uno, el médico emite una constancia de examen físico.
+El de evaluación física previa a la participación deportiva que usan las escuelas de Texas (el formulario de la UIL para deportes escolares), el físico de ingreso que piden algunas escuelas y guarderías, y los formularios de campamentos, ligas y programas. Trae el formulario impreso o en el teléfono; si tu escuela no te dio uno, el equipo médico emite una constancia de examen físico.
 
-## ¿Qué revisa el médico?
+## ¿Qué revisa el equipo médico?
 
-Historial de salud y antecedentes familiares, con atención especial a desmayos, dolor de pecho con el ejercicio, asma, alergias, lesiones previas y muertes cardiacas tempranas en la familia; signos vitales con peso, talla y presión arterial; visión y audición; corazón y pulmones; abdomen; columna y articulaciones; y un chequeo general de crecimiento. Si algo requiere estudio, por ejemplo un soplo, el médico lo indica antes de firmar.
+Historial de salud y antecedentes familiares, con atención especial a desmayos, dolor de pecho con el ejercicio, asma, alergias, lesiones previas y muertes cardiacas tempranas en la familia; signos vitales con peso, talla y presión arterial; visión y audición; corazón y pulmones; abdomen; columna y articulaciones; y un chequeo general de crecimiento. Si algo requiere estudio, por ejemplo un soplo, el equipo médico lo indica antes de firmar.
 
 ## ¿El físico deportivo es lo mismo que el escolar?
 
@@ -790,15 +790,15 @@ Te damos el precio por teléfono al (281) 747-8817 antes de venir. No necesitas 
 Si el formulario pide vacunas al día, consulta [vacunas](/services/vacunas). Para un chequeo con análisis de sangre, [exámenes de sangre](/services/examenes-sangre). Si el joven tiene asma o alergias, el seguimiento está en [alergias](/services/alergias) y [enfermedades respiratorias](/services/enfermedades-respiratorias).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Every August brings the same rush: the school or team form, the physician's signature and a deadline running out. At Clínica Hispana Nueva Salud Pasadena the school and sports physical is done with no appointment, in Spanish or English, and you leave with the form completed and signed the same day.
+    longDescriptionEn: `Every August brings the same rush: the school or team form, the medical team's signature and a deadline running out. At Clínica Hispana Nueva Salud Pasadena the school and sports physical is done with no appointment, in Spanish or English, and you leave with the form completed and signed the same day.
 
 ## Which forms are completed?
 
-The pre-participation physical evaluation used by Texas schools (the UIL form for school sports), the entry physical some schools and daycares require, and forms for camps, leagues and programs. Bring the form printed or on your phone; if your school did not give you one, the physician issues a physical exam certificate.
+The pre-participation physical evaluation used by Texas schools (the UIL form for school sports), the entry physical some schools and daycares require, and forms for camps, leagues and programs. Bring the form printed or on your phone; if your school did not give you one, the medical team issues a physical exam certificate.
 
-## What does the physician check?
+## What does the medical team check?
 
-Health history and family history, with special attention to fainting, chest pain with exercise, asthma, allergies, previous injuries and early cardiac deaths in the family; vital signs with weight, height and blood pressure; vision and hearing; heart and lungs; abdomen; spine and joints; and a general growth check. If something needs workup, such as a murmur, the physician orders it before signing.
+Health history and family history, with special attention to fainting, chest pain with exercise, asthma, allergies, previous injuries and early cardiac deaths in the family; vital signs with weight, height and blood pressure; vision and hearing; heart and lungs; abdomen; spine and joints; and a general growth check. If something needs workup, such as a murmur, the medical team orders it before signing.
 
 ## Is the sports physical the same as the school physical?
 
@@ -1001,7 +1001,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué prueba de embarazo se hace y cuándo es confiable?
 
-La prueba de orina detecta la hormona del embarazo (hCG) y es confiable desde el primer día de retraso del periodo; si se hace antes, puede dar negativo aunque haya embarazo. La prueba de sangre detecta la hormona unos días antes que la de orina y, en su versión cuantitativa, mide la cantidad, útil para calcular el tiempo o vigilar un embarazo temprano. El médico te indica cuál conviene según tus fechas.
+La prueba de orina detecta la hormona del embarazo (hCG) y es confiable desde el primer día de retraso del periodo; si se hace antes, puede dar negativo aunque haya embarazo. La prueba de sangre detecta la hormona unos días antes que la de orina y, en su versión cuantitativa, mide la cantidad, útil para calcular el tiempo o vigilar un embarazo temprano. El equipo médico te indica cuál conviene según tus fechas.
 
 ## ¿Qué pasa si la prueba sale positiva?
 
@@ -1032,7 +1032,7 @@ ${AREAS_ES}`,
 
 ## Which pregnancy test is done, and when is it reliable?
 
-The urine test detects the pregnancy hormone (hCG) and is reliable from the first day of a missed period; done earlier, it can be negative even if there is a pregnancy. The blood test detects the hormone a few days before the urine test and, in its quantitative version, measures the amount, useful for dating or monitoring an early pregnancy. The physician tells you which one fits your dates.
+The urine test detects the pregnancy hormone (hCG) and is reliable from the first day of a missed period; done earlier, it can be negative even if there is a pregnancy. The blood test detects the hormone a few days before the urine test and, in its quantitative version, measures the amount, useful for dating or monitoring an early pregnancy. The medical team tells you which one fits your dates.
 
 ## What happens if the test is positive?
 
@@ -1108,7 +1108,7 @@ Pastillas anticonceptivas, combinadas o solo de progestina, y la inyección anti
 
 ## ¿Cómo se elige el método?
 
-Con una conversación sobre tu salud y tu rutina: si fumas, tu presión arterial, migrañas, si estás amamantando, si quieres embarazarte en uno o en cinco años, y qué tan fácil te resulta tomar una pastilla a la misma hora. Las pastillas combinadas no se recomiendan con presión alta sin control, migraña con aura o tabaquismo después de los 35; en esos casos la pastilla de progestina o la inyección son opciones. El médico revisa tu presión y tu historial antes de recetar.
+Con una conversación sobre tu salud y tu rutina: si fumas, tu presión arterial, migrañas, si estás amamantando, si quieres embarazarte en uno o en cinco años, y qué tan fácil te resulta tomar una pastilla a la misma hora. Las pastillas combinadas no se recomiendan con presión alta sin control, migraña con aura o tabaquismo después de los 35; en esos casos la pastilla de progestina o la inyección son opciones. El equipo médico revisa tu presión y tu historial antes de recetar.
 
 ## ¿Cuándo empieza a proteger?
 
@@ -1139,7 +1139,7 @@ Birth control pills, combined or progestin-only, and the contraceptive injection
 
 ## How is the method chosen?
 
-Through a conversation about your health and routine: whether you smoke, your blood pressure, migraines, whether you are breastfeeding, whether you want a pregnancy in one year or five, and how easy it is for you to take a pill at the same time every day. Combined pills are not recommended with uncontrolled high blood pressure, migraine with aura or smoking after 35; in those cases the progestin-only pill or the injection are options. The physician checks your blood pressure and history before prescribing.
+Through a conversation about your health and routine: whether you smoke, your blood pressure, migraines, whether you are breastfeeding, whether you want a pregnancy in one year or five, and how easy it is for you to take a pill at the same time every day. Combined pills are not recommended with uncontrolled high blood pressure, migraine with aura or smoking after 35; in those cases the progestin-only pill or the injection are options. The medical team checks your blood pressure and history before prescribing.
 
 ## When does it start protecting?
 
@@ -1211,7 +1211,7 @@ El implante subdérmico que se usa en Estados Unidos está aprobado para 3 años
 
 ## ¿Cómo es el procedimiento?
 
-Se localiza el implante al tacto en la cara interna del brazo, se limpia la zona y se aplica anestesia local. A través de una incisión de unos milímetros, el médico extrae la varilla con una pinza. Dura entre 10 y 20 minutos. No requiere puntos: se cierra con cinta adhesiva estéril y se coloca una venda compresiva que se deja unas 24 horas. Sales caminando y puedes seguir con tu día.
+Se localiza el implante al tacto en la cara interna del brazo, se limpia la zona y se aplica anestesia local. A través de una incisión de unos milímetros, el equipo médico extrae la varilla con una pinza. Dura entre 10 y 20 minutos. No requiere puntos: se cierra con cinta adhesiva estéril y se coloca una venda compresiva que se deja unas 24 horas. Sales caminando y puedes seguir con tu día.
 
 ## ¿Duele?
 
@@ -1242,7 +1242,7 @@ The subdermal implant used in the United States is approved for 3 years; after t
 
 ## What is the procedure like?
 
-The implant is located by touch on the inner arm, the area is cleaned and local anesthesia is applied. Through an incision of a few millimeters, the physician removes the rod with forceps. It takes 10 to 20 minutes. No stitches are needed: it is closed with sterile adhesive strips and a pressure bandage is placed for about 24 hours. You walk out and can go on with your day.
+The implant is located by touch on the inner arm, the area is cleaned and local anesthesia is applied. Through an incision of a few millimeters, the medical team removes the rod with forceps. It takes 10 to 20 minutes. No stitches are needed: it is closed with sterile adhesive strips and a pressure bandage is placed for about 24 hours. You walk out and can go on with your day.
 
 ## Does it hurt?
 
@@ -1311,11 +1311,11 @@ ${AREAS_EN}`,
 
 ## ¿Qué incluye el chequeo del hombre?
 
-Consulta con revisión de presión, peso y síntomas; análisis de sangre con glucosa, colesterol, función de riñón e hígado; antígeno prostático (PSA) cuando corresponde por edad o antecedentes; medición de testosterona si hay síntomas; examen de orina; y, si el médico lo indica, un electrocardiograma. Los resultados se explican con calma y se traducen a un plan: qué repetir, qué tratar y cuándo volver.
+Consulta con revisión de presión, peso y síntomas; análisis de sangre con glucosa, colesterol, función de riñón e hígado; antígeno prostático (PSA) cuando corresponde por edad o antecedentes; medición de testosterona si hay síntomas; examen de orina; y, si el equipo médico lo indica, un electrocardiograma. Los resultados se explican con calma y se traducen a un plan: qué repetir, qué tratar y cuándo volver.
 
 ## ¿A qué edad se revisa la próstata?
 
-La prueba de PSA se conversa con el médico a partir de los 50 años, y desde los 45 si tu padre o un hermano tuvieron cáncer de próstata. Un PSA elevado no significa cáncer: sube también con infección, inflamación o crecimiento benigno de la próstata, que es muy común después de los 50. Síntomas como levantarse varias veces a orinar, chorro débil o goteo merecen consulta a cualquier edad.
+La prueba de PSA se conversa con el equipo médico a partir de los 50 años, y desde los 45 si tu padre o un hermano tuvieron cáncer de próstata. Un PSA elevado no significa cáncer: sube también con infección, inflamación o crecimiento benigno de la próstata, que es muy común después de los 50. Síntomas como levantarse varias veces a orinar, chorro débil o goteo merecen consulta a cualquier edad.
 
 ## ¿Cuándo conviene medir la testosterona?
 
@@ -1338,15 +1338,15 @@ Llegas sin cita de 9 AM a 9 PM; si vienes por testosterona, mejor por la mañana
 Los análisis se toman en [exámenes de sangre](/services/examenes-sangre). Si aparece presión alta, azúcar o colesterol, el seguimiento continúa en [condiciones crónicas](/services/condiciones-cronicas). Las molestias al orinar se atienden en [infecciones urinarias](/services/infecciones-urinarias) y las pruebas de ETS en [enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `Men come to the doctor late, with blood pressure, sugar or the prostate already affected. The men's checkup at Clínica Hispana Nueva Salud Pasadena is built for the man who works all day: no appointment, open until 9 at night, in Spanish or English, and with lab work at the same visit.
+    longDescriptionEn: `Men come to the medical team late, with blood pressure, sugar or the prostate already affected. The men's checkup at Clínica Hispana Nueva Salud Pasadena is built for the man who works all day: no appointment, open until 9 at night, in Spanish or English, and with lab work at the same visit.
 
 ## What does the men's checkup include?
 
-A visit with blood pressure, weight and symptom review; blood tests with glucose, cholesterol, kidney and liver function; prostate-specific antigen (PSA) when age or family history call for it; testosterone if there are symptoms; urinalysis; and, if the physician orders it, an EKG. Results are explained calmly and turned into a plan: what to repeat, what to treat and when to return.
+A visit with blood pressure, weight and symptom review; blood tests with glucose, cholesterol, kidney and liver function; prostate-specific antigen (PSA) when age or family history call for it; testosterone if there are symptoms; urinalysis; and, if the medical team orders it, an EKG. Results are explained calmly and turned into a plan: what to repeat, what to treat and when to return.
 
 ## At what age is the prostate checked?
 
-The PSA test is discussed with the physician from age 50, and from 45 if your father or a brother had prostate cancer. A high PSA does not mean cancer: it also rises with infection, inflammation or benign prostate enlargement, which is very common after 50. Symptoms such as getting up several times at night to urinate, a weak stream or dribbling deserve a visit at any age.
+The PSA test is discussed with the medical team from age 50, and from 45 if your father or a brother had prostate cancer. A high PSA does not mean cancer: it also rises with infection, inflammation or benign prostate enlargement, which is very common after 50. Symptoms such as getting up several times at night to urinate, a weak stream or dribbling deserve a visit at any age.
 
 ## When is testosterone worth measuring?
 
@@ -1415,7 +1415,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué exámenes de sangre se hacen en la clínica?
 
-En Clínica Hispana Nueva Salud Pasadena tomamos la muestra en la clínica y la procesamos con laboratorio clínico. Los estudios más pedidos son: biometría hemática completa, química sanguínea, glucosa en ayunas, hemoglobina glicosilada (A1C), perfil de lípidos (colesterol total, HDL, LDL y triglicéridos), pruebas de tiroides (TSH, T3 y T4), función del hígado y del riñón, vitamina B12, perfil hormonal, testosterona, PSA para próstata y pruebas de infecciones de transmisión sexual. Si necesitas un estudio que no está en la lista, pregúntanos: muchos paneles se arman según lo que el médico quiera revisar.
+En Clínica Hispana Nueva Salud Pasadena tomamos la muestra en la clínica y la procesamos con laboratorio clínico. Los estudios más pedidos son: biometría hemática completa, química sanguínea, glucosa en ayunas, hemoglobina glicosilada (A1C), perfil de lípidos (colesterol total, HDL, LDL y triglicéridos), pruebas de tiroides (TSH, T3 y T4), función del hígado y del riñón, vitamina B12, perfil hormonal, testosterona, PSA para próstata y pruebas de infecciones de transmisión sexual. Si necesitas un estudio que no está en la lista, pregúntanos: muchos paneles se arman según lo que el equipo médico quiera revisar.
 
 ## ¿Necesito ayuno para el análisis?
 
@@ -1431,12 +1431,12 @@ Los precios que publicamos son los de nuestras promociones vigentes. El Chequeo 
 - Si tienes diabetes, presión alta o colesterol y llevas control.
 - Si notas cansancio constante, caída de cabello, aumento o pérdida de peso sin causa, sed excesiva o sueño irregular.
 - Si te lo piden para el trabajo, la escuela, un trámite de inmigración o antes de una cirugía.
-- Si empezaste un medicamento nuevo y el médico quiere vigilar el hígado o el riñón.
+- Si empezaste un medicamento nuevo y el equipo médico quiere vigilar el hígado o el riñón.
 
 ## ¿Cómo funciona la visita?
 
 1. Llegas sin cita en nuestro horario: lunes a domingo de 9 AM a 9 PM.
-2. En recepción indicas qué prueba necesitas o describes tus síntomas; si no sabes cuál te conviene, el médico te orienta.
+2. En recepción indicas qué prueba necesitas o describes tus síntomas; si no sabes cuál te conviene, el equipo médico te orienta.
 3. Se toma la muestra en la clínica. La extracción tarda unos minutos.
 4. La mayoría de los resultados están listos rápido. Te avisamos en cuanto los tenemos y, al tomar la muestra, te decimos cuánto suele tardar tu prueba.
 5. Revisas el resultado con el equipo médico, en español, y sales con un plan: repetir, tratar, o dar seguimiento.
@@ -1454,7 +1454,7 @@ ${AREAS_ES}`,
 
 ## Which blood tests does the clinic run?
 
-At Clínica Hispana Nueva Salud Pasadena we draw the sample in the clinic and process it through a clinical laboratory. The most requested tests are: complete blood count, blood chemistry, fasting glucose, A1C (glycated hemoglobin), lipid panel (total cholesterol, HDL, LDL and triglycerides), thyroid tests (TSH, T3 and T4), liver and kidney function, vitamin B12, hormone panel, testosterone, PSA for the prostate and sexually transmitted infection tests. If you need a test that is not on the list, ask us: many panels are built around what the physician wants to check.
+At Clínica Hispana Nueva Salud Pasadena we draw the sample in the clinic and process it through a clinical laboratory. The most requested tests are: complete blood count, blood chemistry, fasting glucose, A1C (glycated hemoglobin), lipid panel (total cholesterol, HDL, LDL and triglycerides), thyroid tests (TSH, T3 and T4), liver and kidney function, vitamin B12, hormone panel, testosterone, PSA for the prostate and sexually transmitted infection tests. If you need a test that is not on the list, ask us: many panels are built around what the medical team wants to check.
 
 ## Do I need to fast?
 
@@ -1470,12 +1470,12 @@ The prices we publish are those of our current promotions. The Complete General 
 - If you have diabetes, high blood pressure or high cholesterol and are under follow-up.
 - If you notice constant tiredness, hair loss, unexplained weight gain or loss, excessive thirst or irregular sleep.
 - If it is required for work, school, an immigration process or before surgery.
-- If you started a new medication and the physician wants to monitor your liver or kidneys.
+- If you started a new medication and the medical team wants to monitor your liver or kidneys.
 
 ## How does the visit work?
 
 1. Walk in during our hours: Monday to Sunday, 9 AM to 9 PM.
-2. At the front desk, say which test you need or describe your symptoms; if you are unsure, the physician guides you.
+2. At the front desk, say which test you need or describe your symptoms; if you are unsure, the medical team guides you.
 3. The sample is drawn in the clinic. The draw takes a few minutes.
 4. Most results are ready quickly. We let you know as soon as we have them and, when we draw the sample, we tell you how long your test usually takes.
 5. You review the result with the medical team, in Spanish or English, and leave with a plan: repeat, treat or follow up.
@@ -1666,7 +1666,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué detecta el examen de heces?
 
-Parásitos y sus huevos (amebas, giardia, lombrices), infecciones bacterianas intestinales, sangre oculta que no se ve a simple vista, y signos de mala absorción o inflamación. Según los síntomas, el médico pide el examen general (coproparasitoscópico), la prueba de sangre oculta, un coprocultivo para identificar bacterias o, según la disponibilidad del laboratorio, pruebas específicas como la de *H. pylori* en heces.
+Parásitos y sus huevos (amebas, giardia, lombrices), infecciones bacterianas intestinales, sangre oculta que no se ve a simple vista, y signos de mala absorción o inflamación. Según los síntomas, el equipo médico pide el examen general (coproparasitoscópico), la prueba de sangre oculta, un coprocultivo para identificar bacterias o, según la disponibilidad del laboratorio, pruebas específicas como la de *H. pylori* en heces.
 
 ## ¿Cómo se recolecta la muestra en casa?
 
@@ -1694,14 +1694,14 @@ Te damos el precio de cada prueba por teléfono al (281) 747-8817. No necesitas 
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, el médico evalúa los síntomas y te entrega el recipiente con las instrucciones; traes la muestra y te avisamos con el resultado para revisarlo juntos. Si el cuadro viene con vómito o deshidratación, los [análisis de sangre](/services/examenes-sangre) y la hidratación se atienden en la misma clínica.
+Llegas sin cita de 9 AM a 9 PM, el equipo médico evalúa los síntomas y te entrega el recipiente con las instrucciones; traes la muestra y te avisamos con el resultado para revisarlo juntos. Si el cuadro viene con vómito o deshidratación, los [análisis de sangre](/services/examenes-sangre) y la hidratación se atienden en la misma clínica.
 
 ${AREAS_ES}`,
     longDescriptionEn: `Diarrhea that will not go away, recurring stomach pain, a child who is not gaining weight or a suspicion of parasites: the stool test answers questions the visit alone cannot. At Clínica Hispana Nueva Salud Pasadena we give you the container and instructions, analyze the sample and explain the result in Spanish or English.
 
 ## What does the stool test detect?
 
-Parasites and their eggs (amoebas, giardia, worms), bacterial intestinal infections, hidden blood that is not visible to the eye, and signs of malabsorption or inflammation. Depending on symptoms, the physician orders the general exam (ova and parasites), the occult blood test, a stool culture to identify bacteria, or, depending on lab availability, specific tests such as *H. pylori* in stool.
+Parasites and their eggs (amoebas, giardia, worms), bacterial intestinal infections, hidden blood that is not visible to the eye, and signs of malabsorption or inflammation. Depending on symptoms, the medical team orders the general exam (ova and parasites), the occult blood test, a stool culture to identify bacteria, or, depending on lab availability, specific tests such as *H. pylori* in stool.
 
 ## How is the sample collected at home?
 
@@ -1729,7 +1729,7 @@ We give you the price of each test by phone at (281) 747-8817. No health insuran
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, the physician evaluates the symptoms and gives you the container with instructions; you bring the sample and we let you know the result to review it together. If the illness comes with vomiting or dehydration, [blood tests](/en/services/examenes-sangre) and hydration are handled at the same clinic.
+Walk in from 9 AM to 9 PM, the medical team evaluates the symptoms and gives you the container with instructions; you bring the sample and we let you know the result to review it together. If the illness comes with vomiting or dehydration, [blood tests](/en/services/examenes-sangre) and hydration are handled at the same clinic.
 
 ${AREAS_EN}`,
   },
@@ -1801,7 +1801,7 @@ Te damos el precio de la consulta con prueba rápida por teléfono al (281) 747-
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, se toma la muestra, esperas el resultado en la clínica y el médico revisa garganta, oídos y cuello. Sales con receta y, si lo necesitas, constancia para el trabajo o la escuela. Si además hay tos y cuerpo cortado, la prueba de [influenza y COVID](/services/enfermedades-respiratorias) se hace en la misma visita; las [vacunas](/services/vacunas) de temporada también.
+Llegas sin cita de 9 AM a 9 PM, se toma la muestra, esperas el resultado en la clínica y el equipo médico revisa garganta, oídos y cuello. Sales con receta y, si lo necesitas, constancia para el trabajo o la escuela. Si además hay tos y cuerpo cortado, la prueba de [influenza y COVID](/services/enfermedades-respiratorias) se hace en la misma visita; las [vacunas](/services/vacunas) de temporada también.
 
 ${AREAS_ES}`,
     longDescriptionEn: `A severe sore throat, fever and white patches on the tonsils: it may be strep, and that one does need an antibiotic. At Clínica Hispana Nueva Salud Pasadena the rapid test is done in the clinic, with no appointment, and the result and treatment come out at the same visit.
@@ -1832,7 +1832,7 @@ We give you the price of the visit with rapid test by phone at (281) 747-8817; t
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, the sample is taken, you wait for the result in the clinic and the physician checks your throat, ears and neck. You leave with a prescription and, if needed, a note for work or school. If there is also cough and body aches, the [flu and COVID](/en/services/enfermedades-respiratorias) test is done at the same visit; seasonal [vaccines](/en/services/vacunas) too.
+Walk in from 9 AM to 9 PM, the sample is taken, you wait for the result in the clinic and the medical team checks your throat, ears and neck. You leave with a prescription and, if needed, a note for work or school. If there is also cough and body aches, the [flu and COVID](/en/services/enfermedades-respiratorias) test is done at the same visit; seasonal [vaccines](/en/services/vacunas) too.
 
 ${AREAS_EN}`,
   },
@@ -1983,7 +1983,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué pruebas de ETS se hacen?
 
-Clamidia y gonorrea en muestra de orina o hisopado; sífilis y VIH en sangre; hepatitis B y C en sangre; y, cuando hay lesiones o flujo, evaluación de herpes, tricomonas y otras infecciones. El médico elige el panel según tus síntomas, tus prácticas y tu última prueba; no hace falta pedirlas una por una.
+Clamidia y gonorrea en muestra de orina o hisopado; sífilis y VIH en sangre; hepatitis B y C en sangre; y, cuando hay lesiones o flujo, evaluación de herpes, tricomonas y otras infecciones. El equipo médico elige el panel según tus síntomas, tus prácticas y tu última prueba; no hace falta pedirlas una por una.
 
 ## ¿Cuándo debo hacerme la prueba?
 
@@ -2014,7 +2014,7 @@ ${AREAS_ES}`,
 
 ## Which STD tests are done?
 
-Chlamydia and gonorrhea on a urine sample or swab; syphilis and HIV on blood; hepatitis B and C on blood; and, when there are sores or discharge, evaluation for herpes, trichomonas and other infections. The physician chooses the panel based on your symptoms, your practices and your last test; you do not need to ask for them one by one.
+Chlamydia and gonorrhea on a urine sample or swab; syphilis and HIV on blood; hepatitis B and C on blood; and, when there are sores or discharge, evaluation for herpes, trichomonas and other infections. The medical team chooses the panel based on your symptoms, your practices and your last test; you do not need to ask for them one by one.
 
 ## When should I get tested?
 
@@ -2189,7 +2189,7 @@ ${AREAS_EN}`,
 
 ## ¿Para qué sirve un electrocardiograma?
 
-Para detectar arritmias como la fibrilación auricular, signos de un infarto reciente o antiguo, falta de riego al corazón, crecimiento del músculo cardiaco por presión alta de años, y alteraciones por potasio o calcio fuera de rango. También forma parte de exámenes médicos de trabajo, chequeos preoperatorios y evaluaciones deportivas cuando el médico lo indica.
+Para detectar arritmias como la fibrilación auricular, signos de un infarto reciente o antiguo, falta de riego al corazón, crecimiento del músculo cardiaco por presión alta de años, y alteraciones por potasio o calcio fuera de rango. También forma parte de exámenes médicos de trabajo, chequeos preoperatorios y evaluaciones deportivas cuando el equipo médico lo indica.
 
 ## ¿Cuándo debo hacérmelo?
 
@@ -2205,7 +2205,7 @@ No hace falta ayuno. Evita cremas o aceites en el pecho ese día, ven con ropa f
 
 ## ¿Qué pasa si sale alterado?
 
-Muchas alteraciones son variantes normales o se explican por la presión, el pulso rápido o un medicamento. Cuando el trazo muestra algo que requiere estudio, el médico ordena análisis, ajusta el tratamiento de [presión, diabetes o colesterol](/services/condiciones-cronicas) y, si corresponde, orienta la referencia a cardiología para un ecocardiograma, un Holter o una prueba de esfuerzo. Si el hallazgo es urgente, se indica ir a emergencias ese momento.
+Muchas alteraciones son variantes normales o se explican por la presión, el pulso rápido o un medicamento. Cuando el trazo muestra algo que requiere estudio, el equipo médico ordena análisis, ajusta el tratamiento de [presión, diabetes o colesterol](/services/condiciones-cronicas) y, si corresponde, orienta la referencia a cardiología para un ecocardiograma, un Holter o una prueba de esfuerzo. Si el hallazgo es urgente, se indica ir a emergencias ese momento.
 
 ## ¿Cuánto cuesta un electrocardiograma en Pasadena?
 
@@ -2213,14 +2213,14 @@ Te damos el precio por teléfono al (281) 747-8817. No necesitas seguro médico;
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, el médico revisa tus síntomas y tu presión, se hace el estudio y se interpreta en la misma visita. Sales con tu resultado y las indicaciones. Los [análisis de sangre](/services/examenes-sangre) que suelen acompañarlo, como colesterol y glucosa, se toman al mismo tiempo; para el [examen DOT](/services/examen-dot) o el [chequeo del hombre](/services/salud-hombre) se incluye cuando el médico lo indica.
+Llegas sin cita de 9 AM a 9 PM, el equipo médico revisa tus síntomas y tu presión, se hace el estudio y se interpreta en la misma visita. Sales con tu resultado y las indicaciones. Los [análisis de sangre](/services/examenes-sangre) que suelen acompañarlo, como colesterol y glucosa, se toman al mismo tiempo; para el [examen DOT](/services/examen-dot) o el [chequeo del hombre](/services/salud-hombre) se incluye cuando el equipo médico lo indica.
 
 ${AREAS_ES}`,
     longDescriptionEn: `An electrocardiogram records in a few minutes how your heart beats: the rhythm, the rate and the signs that the muscle is under strain. At Clínica Hispana Nueva Salud Pasadena it is done in the clinic, with no appointment, and the medical team interprets it with you at the same visit.
 
 ## What is an electrocardiogram for?
 
-To detect arrhythmias such as atrial fibrillation, signs of a recent or old heart attack, poor blood flow to the heart, thickening of the heart muscle from years of high blood pressure, and changes caused by potassium or calcium out of range. It is also part of work physicals, pre-surgery checkups and sports evaluations when the physician orders it.
+To detect arrhythmias such as atrial fibrillation, signs of a recent or old heart attack, poor blood flow to the heart, thickening of the heart muscle from years of high blood pressure, and changes caused by potassium or calcium out of range. It is also part of work physicals, pre-surgery checkups and sports evaluations when the medical team orders it.
 
 ## When should I have one?
 
@@ -2236,7 +2236,7 @@ No fasting is needed. Avoid creams or oils on the chest that day, wear clothing 
 
 ## What if it is abnormal?
 
-Many abnormalities are normal variants or are explained by blood pressure, a fast pulse or a medication. When the tracing shows something that needs workup, the physician orders labs, adjusts treatment for [blood pressure, diabetes or cholesterol](/en/services/condiciones-cronicas) and, when appropriate, guides a cardiology referral for an echocardiogram, a Holter monitor or a stress test. If the finding is urgent, you are sent to the emergency room right then.
+Many abnormalities are normal variants or are explained by blood pressure, a fast pulse or a medication. When the tracing shows something that needs workup, the medical team orders labs, adjusts treatment for [blood pressure, diabetes or cholesterol](/en/services/condiciones-cronicas) and, when appropriate, guides a cardiology referral for an echocardiogram, a Holter monitor or a stress test. If the finding is urgent, you are sent to the emergency room right then.
 
 ## How much does an electrocardiogram cost in Pasadena?
 
@@ -2244,7 +2244,7 @@ We give you the price by phone at (281) 747-8817. No health insurance is needed;
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, the physician reviews your symptoms and blood pressure, the study is done and interpreted at the same visit. You leave with your result and instructions. The [blood tests](/en/services/examenes-sangre) that usually go with it, such as cholesterol and glucose, are drawn at the same time; for the [DOT physical](/en/services/examen-dot) or the [men's checkup](/en/services/salud-hombre) it is included when the physician orders it.
+Walk in from 9 AM to 9 PM, the medical team reviews your symptoms and blood pressure, the study is done and interpreted at the same visit. You leave with your result and instructions. The [blood tests](/en/services/examenes-sangre) that usually go with it, such as cholesterol and glucose, are drawn at the same time; for the [DOT physical](/en/services/examen-dot) or the [men's checkup](/en/services/salud-hombre) it is included when the medical team orders it.
 
 ${AREAS_EN}`,
   },
@@ -2297,7 +2297,7 @@ ${AREAS_EN}`,
 - **De embarazo:** confirma el embarazo, calcula la edad gestacional, revisa el latido y el crecimiento del bebé y sirve de control durante el seguimiento prenatal.
 - **De tiroides y tejidos blandos:** estudia nódulos en el cuello, bultos bajo la piel o ganglios inflamados.
 
-Si el médico necesita un estudio distinto, te lo indica y te orienta a dónde hacerlo.
+Si el equipo médico necesita un estudio distinto, te lo indica y te orienta a dónde hacerlo.
 
 ## ¿Cómo debo prepararme?
 
@@ -2317,7 +2317,7 @@ El precio varía según la zona que se estudia; te lo confirmamos por teléfono 
 
 ## ¿Necesito orden médica?
 
-No es obligatoria. Puedes llegar sin cita, de lunes a domingo de 9 AM a 9 PM, y el médico decide contigo qué estudio corresponde según tus síntomas. Si traes una orden de otro doctor, la seguimos tal cual.
+No es obligatoria. Puedes llegar sin cita, de lunes a domingo de 9 AM a 9 PM, y el equipo médico decide contigo qué estudio corresponde según tus síntomas. Si traes una orden de otro doctor, la seguimos tal cual.
 
 ## Servicios relacionados
 
@@ -2333,7 +2333,7 @@ ${AREAS_ES}`,
 - **Pregnancy:** confirms the pregnancy, estimates gestational age, checks the heartbeat and the baby's growth and serves as a check during prenatal follow-up.
 - **Thyroid and soft tissue:** studies neck nodules, lumps under the skin or swollen lymph nodes.
 
-If the physician needs a different study, they tell you and guide you on where to get it.
+If the medical team needs a different study, they tell you and guide you on where to get it.
 
 ## How should I prepare?
 
@@ -2353,7 +2353,7 @@ The price varies with the area studied; we confirm it by phone before you come. 
 
 ## Do I need a doctor's order?
 
-It is not required. You can walk in, Monday to Sunday, 9 AM to 9 PM, and the physician decides with you which study fits your symptoms. If you bring an order from another doctor, we follow it as written.
+It is not required. You can walk in, Monday to Sunday, 9 AM to 9 PM, and the medical team decides with you which study fits your symptoms. If you bring an order from another doctor, we follow it as written.
 
 ## Related services
 
@@ -2406,15 +2406,15 @@ ${AREAS_EN}`,
 
 ## ¿Qué se revisa en el examen físico DOT?
 
-El examen sigue el formato que exige la FMCSA (la agencia federal de transporte). Incluye: cuestionario de salud e historial médico; medición de presión arterial y pulso; examen de visión, donde se pide ver al menos 20/40 en cada ojo, con o sin lentes, y distinguir colores de semáforo; prueba de audición, con capacidad de oír un susurro a 5 pies; análisis de orina para detectar proteína, sangre o azúcar (no es una prueba de drogas); y un examen físico general que revisa corazón, pulmones, abdomen, columna y extremidades. Al final el médico decide si calificas y por cuánto tiempo.
+El examen sigue el formato que exige la FMCSA (la agencia federal de transporte). Incluye: cuestionario de salud e historial médico; medición de presión arterial y pulso; examen de visión, donde se pide ver al menos 20/40 en cada ojo, con o sin lentes, y distinguir colores de semáforo; prueba de audición, con capacidad de oír un susurro a 5 pies; análisis de orina para detectar proteína, sangre o azúcar (no es una prueba de drogas); y un examen físico general que revisa corazón, pulmones, abdomen, columna y extremidades. Al final el equipo médico decide si calificas y por cuánto tiempo.
 
 ## ¿Cuánto dura el certificado DOT?
 
-Hasta 24 meses cuando no hay condiciones que vigilar. Si tienes presión alta, diabetes, apnea del sueño u otra condición controlada, el certificado puede ser de un año, tres meses o menos, para que el médico revise tu control con más frecuencia. La presión arterial es la causa más común de certificados cortos: una lectura de 140/90 o más suele acortar la vigencia, y de 180/110 o más descalifica hasta que baje.
+Hasta 24 meses cuando no hay condiciones que vigilar. Si tienes presión alta, diabetes, apnea del sueño u otra condición controlada, el certificado puede ser de un año, tres meses o menos, para que el equipo médico revise tu control con más frecuencia. La presión arterial es la causa más común de certificados cortos: una lectura de 140/90 o más suele acortar la vigencia, y de 180/110 o más descalifica hasta que baje.
 
 ## ¿Qué pasa si tengo diabetes o presión alta?
 
-Puedes aprobar el examen si tu condición está controlada. Trae tus medicamentos y, si tienes diabetes, tu último resultado de A1C; si usas insulina, la FMCSA pide un formulario adicional de tu médico tratante. Si tu presión sale alta el día del examen, el médico puede repetir la medición o darte un certificado corto mientras la controlas; en la misma clínica tratamos [presión alta y diabetes](/services/condiciones-cronicas).
+Puedes aprobar el examen si tu condición está controlada. Trae tus medicamentos y, si tienes diabetes, tu último resultado de A1C; si usas insulina, la FMCSA pide un formulario adicional de tu médico tratante. Si tu presión sale alta el día del examen, el equipo médico puede repetir la medición o darte un certificado corto mientras la controlas; en la misma clínica tratamos [presión alta y diabetes](/services/condiciones-cronicas).
 
 ## ¿Cuánto cuesta el examen DOT en Pasadena?
 
@@ -2431,7 +2431,7 @@ Te damos el precio por teléfono antes de venir; no necesitas seguro médico y a
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita en nuestro horario de 9 AM a 9 PM, todos los días. Llenas el cuestionario de salud, pasas a las mediciones y luego al examen con el médico. Si calificas, sales con tu certificado médico firmado, listo para presentarlo en el DPS de Texas y para tu empleador.
+Llegas sin cita en nuestro horario de 9 AM a 9 PM, todos los días. Llenas el cuestionario de salud, pasas a las mediciones y luego al examen con el equipo médico. Si calificas, sales con tu certificado médico firmado, listo para presentarlo en el DPS de Texas y para tu empleador.
 
 ## Servicios relacionados
 
@@ -2442,15 +2442,15 @@ ${AREAS_ES}`,
 
 ## What is checked in the DOT physical?
 
-The exam follows the format required by the FMCSA (the federal transportation agency). It includes: a health questionnaire and medical history; blood pressure and pulse; a vision test, where you need at least 20/40 in each eye, with or without glasses, and must tell traffic-light colors apart; a hearing test, with the ability to hear a forced whisper at 5 feet; a urinalysis to detect protein, blood or sugar (it is not a drug test); and a general physical exam covering heart, lungs, abdomen, spine and limbs. At the end the physician decides whether you qualify and for how long.
+The exam follows the format required by the FMCSA (the federal transportation agency). It includes: a health questionnaire and medical history; blood pressure and pulse; a vision test, where you need at least 20/40 in each eye, with or without glasses, and must tell traffic-light colors apart; a hearing test, with the ability to hear a forced whisper at 5 feet; a urinalysis to detect protein, blood or sugar (it is not a drug test); and a general physical exam covering heart, lungs, abdomen, spine and limbs. At the end the medical team decides whether you qualify and for how long.
 
 ## How long is the DOT certificate valid?
 
-Up to 24 months when there are no conditions to monitor. If you have high blood pressure, diabetes, sleep apnea or another controlled condition, the certificate may be for one year, three months or less, so the physician can recheck your control more often. Blood pressure is the most common reason for short certificates: a reading of 140/90 or higher usually shortens it, and 180/110 or higher disqualifies you until it comes down.
+Up to 24 months when there are no conditions to monitor. If you have high blood pressure, diabetes, sleep apnea or another controlled condition, the certificate may be for one year, three months or less, so the medical team can recheck your control more often. Blood pressure is the most common reason for short certificates: a reading of 140/90 or higher usually shortens it, and 180/110 or higher disqualifies you until it comes down.
 
 ## What if I have diabetes or high blood pressure?
 
-You can pass the exam if your condition is controlled. Bring your medications and, if you have diabetes, your latest A1C result; if you use insulin, the FMCSA requires an additional form from your treating physician. If your blood pressure is high on exam day, the physician can repeat the reading or issue a short certificate while you get it under control; at the same clinic we treat [high blood pressure and diabetes](/en/services/condiciones-cronicas).
+You can pass the exam if your condition is controlled. Bring your medications and, if you have diabetes, your latest A1C result; if you use insulin, the FMCSA requires an additional form from your treating physician. If your blood pressure is high on exam day, the medical team can repeat the reading or issue a short certificate while you get it under control; at the same clinic we treat [high blood pressure and diabetes](/en/services/condiciones-cronicas).
 
 ## How much does the DOT exam cost in Pasadena?
 
@@ -2467,7 +2467,7 @@ We give you the price by phone before you come; no health insurance is needed, a
 
 ## What is the visit like?
 
-Walk in during our hours, 9 AM to 9 PM every day. You fill out the health questionnaire, go through the measurements and then see the physician. If you qualify, you leave with your signed medical certificate, ready for Texas DPS and your employer.
+Walk in during our hours, 9 AM to 9 PM every day. You fill out the health questionnaire, go through the measurements and then see the medical team. If you qualify, you leave with your signed medical certificate, ready for Texas DPS and your employer.
 
 ## Related services
 
@@ -2517,13 +2517,13 @@ ${AREAS_EN}`,
     ],
     longDescription: `El examen médico de inmigración es el paso médico del ajuste de estatus: un médico autorizado por USCIS (civil surgeon) revisa tu salud, verifica tus vacunas y llena el Formulario I-693. En Clínica Hispana Nueva Salud Pasadena lo hacemos completo, en español, y te entregamos el sobre sellado listo para tu trámite.
 
-## ¿Qué revisa el médico en el examen I-693?
+## ¿Qué revisa el equipo médico en el examen I-693?
 
-El examen tiene cuatro partes. Primero, tu historial: enfermedades previas, medicamentos y vacunas. Segundo, un examen físico general. Tercero, las pruebas que exige USCIS: la de tuberculosis, que para mayores de 2 años se hace con una prueba de sangre (IGRA) y, si sale positiva, una radiografía de tórax; y, según tu edad, pruebas de sífilis y gonorrea. Cuarto, la revisión de vacunas: se comparan las que tienes con las que USCIS pide para tu edad y se aplican las que falten. Todo se registra en el I-693, que el médico firma y sella.
+El examen tiene cuatro partes. Primero, tu historial: enfermedades previas, medicamentos y vacunas. Segundo, un examen físico general. Tercero, las pruebas que exige USCIS: la de tuberculosis, que para mayores de 2 años se hace con una prueba de sangre (IGRA) y, si sale positiva, una radiografía de tórax; y, según tu edad, pruebas de sífilis y gonorrea. Cuarto, la revisión de vacunas: se comparan las que tienes con las que USCIS pide para tu edad y se aplican las que falten. Todo se registra en el I-693, que el equipo médico firma y sella.
 
 ## ¿Qué vacunas piden para inmigración?
 
-Depende de la edad, y la lista la fija USCIS con base en el calendario del CDC. Las más comunes para adultos son tétanos y difteria (Td o Tdap), sarampión, paperas y rubéola (MMR), varicela, hepatitis B, y la de influenza durante la temporada de gripe. Los mayores de 65 años suelen necesitar también la vacuna contra el neumococo. Si traes tu cartilla o registro de vacunas, solo se aplican las que falten; si no tienes registro, el médico decide qué corresponde. La vacuna contra COVID-19 ya no es requisito del I-693.
+Depende de la edad, y la lista la fija USCIS con base en el calendario del CDC. Las más comunes para adultos son tétanos y difteria (Td o Tdap), sarampión, paperas y rubéola (MMR), varicela, hepatitis B, y la de influenza durante la temporada de gripe. Los mayores de 65 años suelen necesitar también la vacuna contra el neumococo. Si traes tu cartilla o registro de vacunas, solo se aplican las que falten; si no tienes registro, el equipo médico decide qué corresponde. La vacuna contra COVID-19 ya no es requisito del I-693.
 
 ## ¿Cuánto tarda y cuándo me entregan el sobre?
 
@@ -2552,13 +2552,13 @@ Las vacunas que falten se aplican en la misma visita: consulta [vacunas](/servic
 ${AREAS_ES}`,
     longDescriptionEn: `The immigration medical exam is the medical step of adjustment of status: a USCIS-authorized physician (civil surgeon) reviews your health, checks your vaccines and completes Form I-693. At Clínica Hispana Nueva Salud Pasadena we do the whole process, in Spanish or English, and hand you the sealed envelope ready for your case.
 
-## What does the physician check in the I-693 exam?
+## What does the medical team check in the I-693 exam?
 
-The exam has four parts. First, your history: previous illnesses, medications and vaccines. Second, a general physical exam. Third, the tests USCIS requires: tuberculosis screening, done for everyone over 2 years old with a blood test (IGRA) and, if positive, a chest X-ray; and, depending on your age, syphilis and gonorrhea tests. Fourth, the vaccine review: the vaccines you have are compared with those USCIS requires for your age, and any missing ones are given. Everything is recorded on the I-693, which the physician signs and seals.
+The exam has four parts. First, your history: previous illnesses, medications and vaccines. Second, a general physical exam. Third, the tests USCIS requires: tuberculosis screening, done for everyone over 2 years old with a blood test (IGRA) and, if positive, a chest X-ray; and, depending on your age, syphilis and gonorrhea tests. Fourth, the vaccine review: the vaccines you have are compared with those USCIS requires for your age, and any missing ones are given. Everything is recorded on the I-693, which the medical team signs and seals.
 
 ## Which vaccines are required for immigration?
 
-It depends on age, and USCIS sets the list based on the CDC schedule. The most common ones for adults are tetanus and diphtheria (Td or Tdap), measles, mumps and rubella (MMR), varicella, hepatitis B and the flu shot during flu season. People over 65 usually also need the pneumococcal vaccine. If you bring your vaccine card or record, only the missing ones are given; without a record, the physician decides what applies. The COVID-19 vaccine is no longer an I-693 requirement.
+It depends on age, and USCIS sets the list based on the CDC schedule. The most common ones for adults are tetanus and diphtheria (Td or Tdap), measles, mumps and rubella (MMR), varicella, hepatitis B and the flu shot during flu season. People over 65 usually also need the pneumococcal vaccine. If you bring your vaccine card or record, only the missing ones are given; without a record, the medical team decides what applies. The COVID-19 vaccine is no longer an I-693 requirement.
 
 ## How long does it take, and when do I get the envelope?
 
@@ -2642,7 +2642,7 @@ Un refuerzo de Td cada 10 años. Se recomienda una dosis de Tdap, que además pr
 
 ## ¿Qué necesito para el examen de inmigración?
 
-Traer tu registro de vacunas en cualquier idioma. El médico compara lo que tienes con la lista de USCIS para tu edad y aplica solo lo que falta; algunas vacunas van en series de dos o tres dosis y la siguiente se programa. El detalle del proceso está en [examen médico de inmigración](/services/examenes-inmigracion).
+Traer tu registro de vacunas en cualquier idioma. El equipo médico compara lo que tienes con la lista de USCIS para tu edad y aplica solo lo que falta; algunas vacunas van en series de dos o tres dosis y la siguiente se programa. El detalle del proceso está en [examen médico de inmigración](/services/examenes-inmigracion).
 
 ## ¿Quién no debe vacunarse o debe esperar?
 
@@ -2673,7 +2673,7 @@ A Td booster every 10 years. One dose of Tdap, which also protects against whoop
 
 ## What do I need for the immigration exam?
 
-Bring your vaccine record in any language. The physician compares what you have with the USCIS list for your age and gives only what is missing; some vaccines come in series of two or three doses, and the next one is scheduled. The process is detailed under [immigration medical exam](/en/services/examenes-inmigracion).
+Bring your vaccine record in any language. The medical team compares what you have with the USCIS list for your age and gives only what is missing; some vaccines come in series of two or three doses, and the next one is scheduled. The process is detailed under [immigration medical exam](/en/services/examenes-inmigracion).
 
 ## Who should not be vaccinated, or should wait?
 
@@ -2758,7 +2758,7 @@ Te damos el precio por teléfono al (281) 747-8817 antes de venir. No necesitas 
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, hidratado y habiendo comido algo. Tras la evaluación, te sientas cómodo durante la infusión, entre 30 y 60 minutos, y sales caminando. Si el médico detecta una causa de fondo, como anemia o [tiroides](/services/tiroides) alterada, se estudia con [análisis de sangre](/services/examenes-sangre).
+Llegas sin cita de 9 AM a 9 PM, hidratado y habiendo comido algo. Tras la evaluación, te sientas cómodo durante la infusión, entre 30 y 60 minutos, y sales caminando. Si el equipo médico detecta una causa de fondo, como anemia o [tiroides](/services/tiroides) alterada, se estudia con [análisis de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
     longDescriptionEn: `The vitamin B12 drip is an intravenous infusion given by medical staff in about 30 to 60 minutes. At Clínica Hispana Nueva Salud Pasadena it is ordered after a brief evaluation, with no appointment, and paired with a vitamin B12 injection when needed.
@@ -2789,7 +2789,7 @@ We give you the price by phone at (281) 747-8817 before you come. No health insu
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, hydrated and having eaten something. After the evaluation, you sit comfortably during the infusion, 30 to 60 minutes, and walk out afterward. If the physician detects an underlying cause, such as anemia or an altered [thyroid](/en/services/tiroides), it is studied with [blood tests](/en/services/examenes-sangre).
+Walk in from 9 AM to 9 PM, hydrated and having eaten something. After the evaluation, you sit comfortably during the infusion, 30 to 60 minutes, and walk out afterward. If the medical team detects an underlying cause, such as anemia or an altered [thyroid](/en/services/tiroides), it is studied with [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
@@ -2841,7 +2841,7 @@ Las que abren la piel y no juntan sus bordes solas, las de más de un centímetr
 
 ## ¿Cuánto tiempo tengo para suturar?
 
-Lo ideal es dentro de las primeras 6 a 8 horas; en cara y cuero cabelludo, donde la circulación es buena, se puede hasta 24 horas. Pasado ese tiempo, cerrar la herida aumenta el riesgo de infección y el médico puede optar por dejarla abierta y curarla. Mientras vienes, presiona con una gasa limpia y no apliques remedios caseros.
+Lo ideal es dentro de las primeras 6 a 8 horas; en cara y cuero cabelludo, donde la circulación es buena, se puede hasta 24 horas. Pasado ese tiempo, cerrar la herida aumenta el riesgo de infección y el equipo médico puede optar por dejarla abierta y curarla. Mientras vienes, presiona con una gasa limpia y no apliques remedios caseros.
 
 ## ¿Cómo es el procedimiento?
 
@@ -2872,7 +2872,7 @@ Those that open the skin and whose edges do not come together on their own, thos
 
 ## How long do I have to get stitches?
 
-Ideally within the first 6 to 8 hours; on the face and scalp, where circulation is good, up to 24 hours. After that, closing the wound raises the risk of infection and the physician may choose to leave it open and treat it. On your way, press with a clean gauze and do not apply home remedies.
+Ideally within the first 6 to 8 hours; on the face and scalp, where circulation is good, up to 24 hours. After that, closing the wound raises the risk of infection and the medical team may choose to leave it open and treat it. On your way, press with a clean gauze and do not apply home remedies.
 
 ## What is the procedure like?
 
@@ -2944,7 +2944,7 @@ Raspones y cortes superficiales; quemaduras de primer grado y de segundo grado p
 
 ## ¿Cómo es una curación?
 
-Se lava la herida con solución estéril, se retiran restos y tejido muerto si los hay, se aplica el antiséptico o el apósito indicado según el tipo de herida y se cubre. El médico revisa si hay signos de infección y decide si hace falta antibiótico. Se te explica cómo cambiar el vendaje en casa y cada cuánto volver: heridas simples, cada 2 a 3 días hasta cerrar; úlceras, según evolución.
+Se lava la herida con solución estéril, se retiran restos y tejido muerto si los hay, se aplica el antiséptico o el apósito indicado según el tipo de herida y se cubre. El equipo médico revisa si hay signos de infección y decide si hace falta antibiótico. Se te explica cómo cambiar el vendaje en casa y cada cuánto volver: heridas simples, cada 2 a 3 días hasta cerrar; úlceras, según evolución.
 
 ## ¿Qué señales indican infección?
 
@@ -2975,7 +2975,7 @@ Scrapes and shallow cuts; first-degree and small second-degree burns; blisters; 
 
 ## What is a wound-care visit like?
 
-The wound is washed with sterile solution, debris and dead tissue are removed if present, the antiseptic or dressing suited to the wound type is applied and it is covered. The physician checks for signs of infection and decides whether an antibiotic is needed. You are shown how to change the dressing at home and how often to return: simple wounds every 2 to 3 days until closed; ulcers according to progress.
+The wound is washed with sterile solution, debris and dead tissue are removed if present, the antiseptic or dressing suited to the wound type is applied and it is covered. The medical team checks for signs of infection and decides whether an antibiotic is needed. You are shown how to change the dressing at home and how often to return: simple wounds every 2 to 3 days until closed; ulcers according to progress.
 
 ## Which signs point to infection?
 
@@ -3043,7 +3043,7 @@ ${AREAS_EN}`,
 
 ## ¿Qué procedimientos se hacen?
 
-Extracción de lunares y de verrugas o acrocordones (las "bolitas" de piel del cuello y las axilas); extracción de quistes sebáceos y de lipomas, las bolas de grasa bajo la piel; retiro de cuerpos extraños como astillas o vidrio; y biopsia de lesiones de piel cuando el médico necesita saber qué son. Los [abscesos](/services/drenaje-abscesos) y las [uñas encarnadas](/services/unas-encarnadas) tienen su propia página.
+Extracción de lunares y de verrugas o acrocordones (las "bolitas" de piel del cuello y las axilas); extracción de quistes sebáceos y de lipomas, las bolas de grasa bajo la piel; retiro de cuerpos extraños como astillas o vidrio; y biopsia de lesiones de piel cuando el equipo médico necesita saber qué son. Los [abscesos](/services/drenaje-abscesos) y las [uñas encarnadas](/services/unas-encarnadas) tienen su propia página.
 
 ## ¿Cómo se decide si un lunar se quita?
 
@@ -3074,7 +3074,7 @@ ${AREAS_ES}`,
 
 ## Which procedures are done?
 
-Removal of moles and of warts or skin tags (the small "bumps" on the neck and armpits); removal of sebaceous cysts and lipomas, the fatty lumps under the skin; removal of foreign bodies such as splinters or glass; and biopsy of skin lesions when the physician needs to know what they are. [Abscesses](/en/services/drenaje-abscesos) and [ingrown toenails](/en/services/unas-encarnadas) have their own pages.
+Removal of moles and of warts or skin tags (the small "bumps" on the neck and armpits); removal of sebaceous cysts and lipomas, the fatty lumps under the skin; removal of foreign bodies such as splinters or glass; and biopsy of skin lesions when the medical team needs to know what they are. [Abscesses](/en/services/drenaje-abscesos) and [ingrown toenails](/en/services/unas-encarnadas) have their own pages.
 
 ## How is it decided whether a mole comes off?
 
@@ -3142,7 +3142,7 @@ ${AREAS_EN}`,
       "Local anesthesia",
       "After-care instructions",
     ],
-    longDescription: `Un grano que creció, se puso duro, rojo y caliente, y ahora late de dolor: es un absceso, una bolsa de pus que no se cura con antibiótico solo. Hay que abrirlo y vaciarlo. En Clínica Hispana Nueva Salud Pasadena se drena con anestesia local, sin cita, y sales aliviado el mismo día.
+    longDescription: `Un grano que creció, se puso duro, rojo y caliente, y ahora late de dolor: es un absceso, una bolsa de pus que no se cura con antibiótico solo. Hay que abrirlo y vaciarlo. En Clínica Hispana Nueva Salud Pasadena se drena en la consulta con anestesia local, sin cita, y te explicamos los cuidados para tu casa.
 
 ## ¿Cómo sé si es un absceso?
 
@@ -3154,7 +3154,7 @@ Porque el pus está encapsulado y el medicamento no llega bien adentro. El trata
 
 ## ¿Cómo es el drenaje?
 
-Se limpia la zona y se anestesia con una inyección local; el médico hace una pequeña incisión, vacía el pus, lava la cavidad y, si es grande, deja una gasa dentro (mecha) para que siga drenando y no cierre en falso. Se cubre con un vendaje. Toma entre 15 y 30 minutos. El alivio del dolor es casi inmediato porque desaparece la presión.
+Se limpia la zona y se anestesia con una inyección local; el equipo médico hace una pequeña incisión, vacía el pus, lava la cavidad y, si es grande, deja una gasa dentro (mecha) para que siga drenando y no cierre en falso. Se cubre con un vendaje. Toma entre 15 y 30 minutos. El alivio del dolor es casi inmediato porque desaparece la presión.
 
 ## ¿Qué cuidados hay después?
 
@@ -3170,10 +3170,10 @@ Te damos el precio por teléfono al (281) 747-8817. Las revisiones de seguimient
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM; no hace falta ayuno. Trae la lista de tus medicamentos y avisa si tomas anticoagulantes o tienes alergia a la anestesia local. Las curaciones posteriores se hacen en [curación de heridas](/services/curacion-heridas). Si un absceso está en la cara, cerca del ano o es muy grande y profundo, el médico puede indicarte emergencias o cirugía.
+Llegas sin cita de 9 AM a 9 PM; no hace falta ayuno. Trae la lista de tus medicamentos y avisa si tomas anticoagulantes o tienes alergia a la anestesia local. Las curaciones posteriores se hacen en [curación de heridas](/services/curacion-heridas). Si un absceso está en la cara, cerca del ano o es muy grande y profundo, el equipo médico puede indicarte emergencias o cirugía.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `A pimple that grew, turned hard, red and hot, and now throbs with pain: it is an abscess, a pocket of pus that antibiotics alone will not cure. It has to be opened and emptied. At Clínica Hispana Nueva Salud Pasadena it is drained under local anesthesia, with no appointment, and you leave relieved the same day.
+    longDescriptionEn: `A pimple that grew, turned hard, red and hot, and now throbs with pain: it is an abscess, a pocket of pus that antibiotics alone will not cure. It has to be opened and emptied. At Clínica Hispana Nueva Salud Pasadena it is drained during the visit under local anesthesia, with no appointment, and we explain how to care for it at home.
 
 ## How do I know it is an abscess?
 
@@ -3185,7 +3185,7 @@ Because the pus is walled off and the medication does not reach well inside. The
 
 ## What is the drainage like?
 
-The area is cleaned and numbed with a local injection; the physician makes a small incision, empties the pus, washes the cavity and, if it is large, leaves a gauze inside (packing) so it keeps draining and does not close falsely. It is covered with a dressing. It takes 15 to 30 minutes. Pain relief is almost immediate because the pressure is gone.
+The area is cleaned and numbed with a local injection; the medical team makes a small incision, empties the pus, washes the cavity and, if it is large, leaves a gauze inside (packing) so it keeps draining and does not close falsely. It is covered with a dressing. It takes 15 to 30 minutes. Pain relief is almost immediate because the pressure is gone.
 
 ## What care is needed afterward?
 
@@ -3201,7 +3201,7 @@ We give you the price by phone at (281) 747-8817. Follow-up checks are quoted as
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM; no fasting needed. Bring your medication list and say if you take blood thinners or are allergic to local anesthesia. Later dressings are done under [wound care](/en/services/curacion-heridas). If an abscess is on the face, near the anus or very large and deep, the physician may direct you to the emergency room or surgery.
+Walk in from 9 AM to 9 PM; no fasting needed. Bring your medication list and say if you take blood thinners or are allergic to local anesthesia. Later dressings are done under [wound care](/en/services/curacion-heridas). If an abscess is on the face, near the anus or very large and deep, the medical team may direct you to the emergency room or surgery.
 
 ${AREAS_EN}`,
   },
@@ -3245,7 +3245,7 @@ ${AREAS_EN}`,
       "Pain relief",
       "After-care instructions",
     ],
-    longDescription: `El borde de la uña del dedo gordo se clava en la piel, duele al caminar, se hincha y a veces supura. Una uña encarnada no se arregla sola cuando ya está infectada. En Clínica Hispana Nueva Salud Pasadena se trata con anestesia local, sin cita, y sales caminando con alivio ese mismo día.
+    longDescription: `El borde de la uña del dedo gordo se clava en la piel, duele al caminar, se hincha y a veces supura. Una uña encarnada no se arregla sola cuando ya está infectada. En Clínica Hispana Nueva Salud Pasadena se trata en la consulta con anestesia local, sin cita, y te explicamos los cuidados para tu casa.
 
 ## ¿Por qué se encarna la uña?
 
@@ -3257,7 +3257,7 @@ Si solo hay enrojecimiento leve y sin pus, sirve remojar el pie en agua tibia co
 
 ## ¿Cómo es el procedimiento?
 
-Se anestesia el dedo con dos pequeñas inyecciones en la base; a partir de ahí no se siente dolor. El médico levanta y retira la porción de uña encarnada, limpia el tejido inflamado y drena el pus si lo hay. Dura entre 15 y 30 minutos. Cuando el problema se repite, se puede tratar la raíz de ese borde para que no vuelva a crecer, lo que el médico decide según el caso. Se cubre con un vendaje y sales caminando con calzado holgado.
+Se anestesia el dedo con dos pequeñas inyecciones en la base; a partir de ahí no se siente dolor. El equipo médico levanta y retira la porción de uña encarnada, limpia el tejido inflamado y drena el pus si lo hay. Dura entre 15 y 30 minutos. Cuando el problema se repite, se puede tratar la raíz de ese borde para que no vuelva a crecer, lo que el equipo médico decide según el caso. Se cubre con un vendaje y sales caminando con calzado holgado.
 
 ## ¿Qué cuidados hay después?
 
@@ -3276,7 +3276,7 @@ Te damos el precio por teléfono al (281) 747-8817. No necesitas seguro médico;
 Llegas sin cita de 9 AM a 9 PM con calzado que puedas quitarte fácil. Trae la lista de tus medicamentos y avisa si tomas anticoagulantes o eres alérgico a la anestesia local. El seguimiento se hace en [curación de heridas](/services/curacion-heridas); si tienes diabetes, el control del azúcar en [condiciones crónicas](/services/condiciones-cronicas) forma parte del tratamiento.
 
 ${AREAS_ES}`,
-    longDescriptionEn: `The edge of the big toenail digs into the skin, it hurts to walk, it swells and sometimes oozes. An ingrown toenail does not fix itself once it is infected. At Clínica Hispana Nueva Salud Pasadena it is treated under local anesthesia, with no appointment, and you walk out relieved the same day.
+    longDescriptionEn: `The edge of the big toenail digs into the skin, it hurts to walk, it swells and sometimes oozes. An ingrown toenail does not fix itself once it is infected. At Clínica Hispana Nueva Salud Pasadena it is treated during the visit under local anesthesia, with no appointment, and we explain how to care for it at home.
 
 ## Why does the nail grow in?
 
@@ -3288,7 +3288,7 @@ If there is only mild redness and no pus, soaking the foot in warm salt water fo
 
 ## What is the procedure like?
 
-The toe is numbed with two small injections at the base; from then on there is no pain. The physician lifts and removes the ingrown portion of the nail, cleans the inflamed tissue and drains pus if present. It takes 15 to 30 minutes. When the problem keeps coming back, the root of that edge can be treated so it does not grow again, which the physician decides case by case. It is covered with a dressing and you walk out in loose footwear.
+The toe is numbed with two small injections at the base; from then on there is no pain. The medical team lifts and removes the ingrown portion of the nail, cleans the inflamed tissue and drains pus if present. It takes 15 to 30 minutes. When the problem keeps coming back, the root of that edge can be treated so it does not grow again, which the medical team decides case by case. It is covered with a dressing and you walk out in loose footwear.
 
 ## What care is needed afterward?
 
@@ -3348,19 +3348,19 @@ ${AREAS_EN}`,
       "How to take each medication, explained in Spanish",
       "Review of the medications you already take",
     ],
-    longDescription: `En Clínica Hispana Nueva Salud Pasadena no tenemos farmacia dentro de la clínica. Lo que hacemos resulta más práctico para muchas familias: al terminar tu consulta, el médico envía tu receta de forma electrónica a la farmacia que tú elijas, cerca de tu casa, de tu trabajo o de la escuela de tus hijos, y la recoges allí cuando te quede mejor.
+    longDescription: `En Clínica Hispana Nueva Salud Pasadena no tenemos farmacia dentro de la clínica. Lo que hacemos resulta más práctico para muchas familias: al terminar tu consulta, el equipo médico envía tu receta de forma electrónica a la farmacia que tú elijas, cerca de tu casa, de tu trabajo o de la escuela de tus hijos, y la recoges allí cuando te quede mejor.
 
 ## ¿Cómo funciona la receta electrónica?
 
-Durante la consulta nos dices a qué farmacia quieres que llegue: basta con el nombre y la dirección o el cruce de calles. Al terminar, el médico la envía desde la clínica y sales con la explicación en español de cómo tomar cada medicamento. No cargas un papel que se puede perder ni tienes que volver por una receta impresa.
+Durante la consulta nos dices a qué farmacia quieres que llegue: basta con el nombre y la dirección o el cruce de calles. Al terminar, el equipo médico la envía desde la clínica y sales con la explicación en español de cómo tomar cada medicamento. No cargas un papel que se puede perder ni tienes que volver por una receta impresa.
 
 ## ¿Qué tratamientos se recetan así?
 
-Los que el médico indique en tu visita: antibióticos, antiinflamatorios y analgésicos, medicamentos para presión, diabetes y colesterol, antialérgicos, tratamientos para infecciones vaginales y urinarias y otros de uso frecuente. Cuando existe versión genérica, puedes pedirla en la farmacia.
+Los que el equipo médico indique en tu visita: antibióticos, antiinflamatorios y analgésicos, medicamentos para presión, diabetes y colesterol, antialérgicos, tratamientos para infecciones vaginales y urinarias y otros de uso frecuente. Cuando existe versión genérica, puedes pedirla en la farmacia.
 
 ## ¿Por qué genéricos?
 
-Contienen el mismo principio activo, en la misma dosis y con los mismos controles de calidad que el de marca, y suelen costar menos. Cuando hay diferencia relevante entre marca y genérico, el médico te lo dice; si no la hay, el genérico es la opción que cuida tu bolsillo.
+Contienen el mismo principio activo, en la misma dosis y con los mismos controles de calidad que el de marca, y suelen costar menos. Cuando hay diferencia relevante entre marca y genérico, el equipo médico te lo dice; si no la hay, el genérico es la opción que cuida tu bolsillo.
 
 ## ¿Me explican cómo tomarlo?
 
@@ -3376,22 +3376,22 @@ Se toman completos, los días indicados, aunque te sientas bien antes; no se gua
 
 ## ¿Cómo es la visita?
 
-Llegas sin cita de 9 AM a 9 PM, pasas a consulta y, si el médico receta, al terminar envía la receta a la farmacia que elegiste. Trae tu lista de medicamentos, tus alergias y el nombre de tu farmacia. El control de tratamientos de largo plazo se hace en [condiciones crónicas](/services/condiciones-cronicas); los análisis que a veces se piden para vigilar un medicamento, en [exámenes de sangre](/services/examenes-sangre).
+Llegas sin cita de 9 AM a 9 PM, pasas a consulta y, si el equipo médico receta, al terminar envía la receta a la farmacia que elegiste. Trae tu lista de medicamentos, tus alergias y el nombre de tu farmacia. El control de tratamientos de largo plazo se hace en [condiciones crónicas](/services/condiciones-cronicas); los análisis que a veces se piden para vigilar un medicamento, en [exámenes de sangre](/services/examenes-sangre).
 
 ${AREAS_ES}`,
-    longDescriptionEn: `At Clínica Hispana Nueva Salud Pasadena there is no pharmacy inside the clinic. What we do is more practical for many families: after your visit, the physician sends your prescription electronically to the pharmacy you choose, near your home, your work or your kids' school, and you pick it up there whenever it suits you.
+    longDescriptionEn: `At Clínica Hispana Nueva Salud Pasadena there is no pharmacy inside the clinic. What we do is more practical for many families: after your visit, the medical team sends your prescription electronically to the pharmacy you choose, near your home, your work or your kids' school, and you pick it up there whenever it suits you.
 
 ## How do e-prescriptions work?
 
-During the visit, tell us which pharmacy it should go to: the name and the address or nearest cross streets are enough. When the visit ends, the physician sends it from the clinic and you leave with an explanation in Spanish or English of how to take each medication. No paper slip to lose and no trip back for a printed prescription.
+During the visit, tell us which pharmacy it should go to: the name and the address or nearest cross streets are enough. When the visit ends, the medical team sends it from the clinic and you leave with an explanation in Spanish or English of how to take each medication. No paper slip to lose and no trip back for a printed prescription.
 
 ## Which treatments are prescribed this way?
 
-Whatever the physician prescribes at your visit: antibiotics, anti-inflammatories and pain relievers, medications for blood pressure, diabetes and cholesterol, allergy medications, treatments for vaginal and urinary infections and other commonly used ones. When a generic version exists, you can ask for it at the pharmacy.
+Whatever the medical team prescribes at your visit: antibiotics, anti-inflammatories and pain relievers, medications for blood pressure, diabetes and cholesterol, allergy medications, treatments for vaginal and urinary infections and other commonly used ones. When a generic version exists, you can ask for it at the pharmacy.
 
 ## Why generics?
 
-They contain the same active ingredient, in the same dose and with the same quality controls as the brand, and usually cost less. When there is a relevant difference between brand and generic, the physician tells you; when there is not, the generic is the option that protects your wallet.
+They contain the same active ingredient, in the same dose and with the same quality controls as the brand, and usually cost less. When there is a relevant difference between brand and generic, the medical team tells you; when there is not, the generic is the option that protects your wallet.
 
 ## Will they explain how to take it?
 
@@ -3407,7 +3407,7 @@ Take the full course, for the days indicated, even if you feel better sooner; do
 
 ## What is the visit like?
 
-Walk in from 9 AM to 9 PM, see the physician and, if a medication is prescribed, the prescription is sent to the pharmacy you picked when the visit ends. Bring your medication list, your allergies and the name of your pharmacy. Long-term treatments are managed under [chronic conditions](/en/services/condiciones-cronicas); the lab tests sometimes ordered to monitor a medication, under [blood tests](/en/services/examenes-sangre).
+Walk in from 9 AM to 9 PM, see the medical team and, if a medication is prescribed, the prescription is sent to the pharmacy you picked when the visit ends. Bring your medication list, your allergies and the name of your pharmacy. Long-term treatments are managed under [chronic conditions](/en/services/condiciones-cronicas); the lab tests sometimes ordered to monitor a medication, under [blood tests](/en/services/examenes-sangre).
 
 ${AREAS_EN}`,
   },
@@ -3425,8 +3425,8 @@ export const FALLBACK_TESTIMONIALS: Testimonial[] = [
   {
     author: "José R.",
     rating: 5,
-    text: "Llegué sin cita por una infección y me atendieron rápido. El doctor muy amable y los precios accesibles.",
-    textEn: "I walked in without an appointment for an infection and was seen quickly. The doctor was very kind and the prices affordable.",
+    text: "Llegué sin cita por una infección y me atendieron rápido. El equipo médico muy amable y los precios accesibles.",
+    textEn: "I walked in without an appointment for an infection and was seen quickly. The medical team was very kind and the prices affordable.",
     relativeTime: "Hace 1 mes",
   },
   {

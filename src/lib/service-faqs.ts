@@ -16,9 +16,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Qué metas de azúcar, presión y colesterol se usan?",
-      answer: "Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80, colesterol LDL por debajo de 100 y triglicéridos por debajo de 150. El médico las ajusta según tu edad y otras condiciones.",
+      answer: "Para la mayoría de los adultos: A1C por debajo de 7 %, presión por debajo de 130/80, colesterol LDL por debajo de 100 y triglicéridos por debajo de 150. El equipo médico las ajusta según tu edad y otras condiciones.",
       questionEn: "Which sugar, blood pressure and cholesterol targets are used?",
-      answerEn: "For most adults: A1C under 7%, blood pressure under 130/80, LDL cholesterol under 100 and triglycerides under 150. The physician adjusts them for your age and other conditions.",
+      answerEn: "For most adults: A1C under 7%, blood pressure under 130/80, LDL cholesterol under 100 and triglycerides under 150. The medical team adjusts them for your age and other conditions.",
     },
     {
       question: "¿Pueden ajustar los medicamentos que ya tomo?",
@@ -42,9 +42,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cada cuánto se controla la tiroides en tratamiento?",
-      answer: "Con TSH cada 6 a 8 semanas mientras se ajusta la dosis de levotiroxina y, una vez estable, cada 6 a 12 meses. El tratamiento suele ser de largo plazo y no debe suspenderse sin hablar con el médico.",
+      answer: "Con TSH cada 6 a 8 semanas mientras se ajusta la dosis de levotiroxina y, una vez estable, cada 6 a 12 meses. El tratamiento suele ser de largo plazo y no debe suspenderse sin hablar con el equipo médico.",
       questionEn: "How often is the thyroid checked during treatment?",
-      answerEn: "With a TSH every 6 to 8 weeks while the levothyroxine dose is adjusted and, once stable, every 6 to 12 months. Treatment is usually long term and should not be stopped without talking to the physician.",
+      answerEn: "With a TSH every 6 to 8 weeks while the levothyroxine dose is adjusted and, once stable, every 6 to 12 months. Treatment is usually long term and should not be stopped without talking to the medical team.",
     },
   ],
   "alergias": [
@@ -90,9 +90,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "examen-fisico-escolar": [
     {
       question: "¿Llenan el formulario de la escuela o del equipo?",
-      answer: "Sí. Trae el formulario impreso o en el teléfono con la parte del padre o tutor firmada; el médico lo completa y firma en la misma visita. Si tu escuela no te dio uno, se emite una constancia de examen físico.",
+      answer: "Sí. Trae el formulario impreso o en el teléfono con la parte del padre o tutor firmada; el equipo médico lo completa y firma en la misma visita. Si tu escuela no te dio uno, se emite una constancia de examen físico.",
       questionEn: "Do you complete the school or team form?",
-      answerEn: "Yes. Bring the form printed or on your phone with the parent or guardian section signed; the physician completes and signs it at the same visit. If your school did not give you one, a physical exam certificate is issued.",
+      answerEn: "Yes. Bring the form printed or on your phone with the parent or guardian section signed; the medical team completes and signs it at the same visit. If your school did not give you one, a physical exam certificate is issued.",
     },
     {
       question: "¿Cada cuánto se renueva el físico deportivo escolar en Texas?",
@@ -196,9 +196,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "salud-hombre": [
     {
       question: "¿A qué edad se revisa la próstata con PSA?",
-      answer: "Se conversa con el médico a partir de los 50 años, y desde los 45 si tu padre o un hermano tuvieron cáncer de próstata. Un PSA alto no significa cáncer: también sube con infección, inflamación o crecimiento benigno.",
+      answer: "Se conversa con el equipo médico a partir de los 50 años, y desde los 45 si tu padre o un hermano tuvieron cáncer de próstata. Un PSA alto no significa cáncer: también sube con infección, inflamación o crecimiento benigno.",
       questionEn: "At what age is the prostate checked with PSA?",
-      answerEn: "It is discussed with the physician from age 50, and from 45 if your father or a brother had prostate cancer. A high PSA does not mean cancer: it also rises with infection, inflammation or benign enlargement.",
+      answerEn: "It is discussed with the medical team from age 50, and from 45 if your father or a brother had prostate cancer. A high PSA does not mean cancer: it also rises with infection, inflammation or benign enlargement.",
     },
     {
       question: "¿Cuándo conviene medir la testosterona?",
@@ -268,9 +268,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Por qué piden tres muestras para parásitos?",
-      answer: "Porque los parásitos y sus huevos no se eliminan todos los días; muestras de tres días distintos aumentan la probabilidad de encontrarlos. El médico te dice si tu caso lo requiere.",
+      answer: "Porque los parásitos y sus huevos no se eliminan todos los días; muestras de tres días distintos aumentan la probabilidad de encontrarlos. El equipo médico te dice si tu caso lo requiere.",
       questionEn: "Why are three samples requested for parasites?",
-      answerEn: "Because parasites and their eggs are not shed every day; samples from three different days raise the chance of finding them. The physician tells you whether your case requires it.",
+      answerEn: "Because parasites and their eggs are not shed every day; samples from three different days raise the chance of finding them. The medical team tells you whether your case requires it.",
     },
     {
       question: "¿Cuándo llevar a un niño por un examen de heces?",
@@ -394,9 +394,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Necesito orden médica para un ultrasonido?",
-      answer: "No es obligatoria. Puedes llegar sin cita y el médico decide contigo qué estudio corresponde según tus síntomas. Si traes una orden de otro doctor, se sigue tal cual.",
+      answer: "No es obligatoria. Puedes llegar sin cita y el equipo médico decide contigo qué estudio corresponde según tus síntomas. Si traes una orden de otro doctor, se sigue tal cual.",
       questionEn: "Do I need a doctor's order for an ultrasound?",
-      answerEn: "It is not required. You can walk in and the physician decides with you which study fits your symptoms. If you bring an order from another doctor, it is followed as written.",
+      answerEn: "It is not required. You can walk in and the medical team decides with you which study fits your symptoms. If you bring an order from another doctor, it is followed as written.",
     },
   ],
   "examen-dot": [
@@ -421,9 +421,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   ],
   "examenes-inmigracion": [
     {
-      question: "¿El médico está autorizado por USCIS?",
+      question: "¿El examen lo hace un Civil Surgeon autorizado por USCIS?",
       answer: "Sí. El examen lo realiza un médico designado por USCIS (civil surgeon), único que puede firmar y sellar el Formulario I-693. Puedes verificar cualquier médico en la herramienta pública de búsqueda de USCIS.",
-      questionEn: "Is the physician authorized by USCIS?",
+      questionEn: "Is the exam done by a USCIS-authorized civil surgeon?",
       answerEn: "Yes. The exam is performed by a USCIS-designated physician (civil surgeon), the only one who can sign and seal Form I-693. You can verify any physician in the public USCIS search tool.",
     },
     {
@@ -482,9 +482,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "suturas-heridas": [
     {
       question: "¿Cuánto tiempo tengo para que me pongan puntos?",
-      answer: "Lo ideal es dentro de las primeras 6 a 8 horas; en cara y cuero cabelludo, hasta 24. Pasado ese tiempo, el médico puede optar por dejar la herida abierta y curarla. Mientras vienes, presiona con una gasa limpia.",
+      answer: "Lo ideal es dentro de las primeras 6 a 8 horas; en cara y cuero cabelludo, hasta 24. Pasado ese tiempo, el equipo médico puede optar por dejar la herida abierta y curarla. Mientras vienes, presiona con una gasa limpia.",
       questionEn: "How long do I have to get stitches?",
-      answerEn: "Ideally within the first 6 to 8 hours; on the face and scalp, up to 24. After that, the physician may choose to leave the wound open and treat it. On your way, press with a clean gauze.",
+      answerEn: "Ideally within the first 6 to 8 hours; on the face and scalp, up to 24. After that, the medical team may choose to leave the wound open and treat it. On your way, press with a clean gauze.",
     },
     {
       question: "¿Cuándo se quitan los puntos?",
@@ -522,9 +522,9 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
   "cirugias-menores": [
     {
       question: "¿Qué cirugías menores realizan?",
-      answer: "Extracción de lunares, verrugas y acrocordones, quistes sebáceos y lipomas, retiro de cuerpos extraños como astillas o vidrio, y biopsia de lesiones de piel cuando el médico necesita saber qué son. Todo con anestesia local, en la clínica.",
+      answer: "Extracción de lunares, verrugas y acrocordones, quistes sebáceos y lipomas, retiro de cuerpos extraños como astillas o vidrio, y biopsia de lesiones de piel cuando el equipo médico necesita saber qué son. Todo con anestesia local, en la clínica.",
       questionEn: "Which minor surgeries do you perform?",
-      answerEn: "Removal of moles, warts and skin tags, sebaceous cysts and lipomas, removal of foreign bodies such as splinters or glass, and biopsy of skin lesions when the physician needs to know what they are. All under local anesthesia, at the clinic.",
+      answerEn: "Removal of moles, warts and skin tags, sebaceous cysts and lipomas, removal of foreign bodies such as splinters or glass, and biopsy of skin lesions when the medical team needs to know what they are. All under local anesthesia, at the clinic.",
     },
     {
       question: "¿Qué lunares conviene revisar?",
@@ -574,23 +574,23 @@ export const SERVICE_FAQS: Record<string, ServiceFaq[]> = {
     },
     {
       question: "¿Cómo evito que vuelva a encarnarse?",
-      answer: "Corta la uña recta, sin redondear las esquinas ni dejarla muy corta; usa zapatos con espacio para los dedos y mantén los pies secos. Cuando se repite, el médico puede tratar la raíz de ese borde.",
+      answer: "Corta la uña recta, sin redondear las esquinas ni dejarla muy corta; usa zapatos con espacio para los dedos y mantén los pies secos. Cuando se repite, el equipo médico puede tratar la raíz de ese borde.",
       questionEn: "How do I keep it from growing in again?",
-      answerEn: "Cut the nail straight across, without rounding the corners or leaving it too short; wear shoes with room for the toes and keep your feet dry. When it keeps recurring, the physician can treat the root of that edge.",
+      answerEn: "Cut the nail straight across, without rounding the corners or leaving it too short; wear shoes with room for the toes and keep your feet dry. When it keeps recurring, the medical team can treat the root of that edge.",
     },
   ],
   "farmacia": [
     {
       question: "¿La clínica tiene farmacia?",
-      answer: "No. Al terminar la consulta, el médico envía tu receta de forma electrónica a la farmacia que prefieras, y la recoges allí cuando te convenga. Solo dinos el nombre y la dirección de la farmacia.",
+      answer: "No. Al terminar la consulta, el equipo médico envía tu receta de forma electrónica a la farmacia que prefieras, y la recoges allí cuando te convenga. Solo dinos el nombre y la dirección de la farmacia.",
       questionEn: "Does the clinic have a pharmacy?",
-      answerEn: "No. After your visit, the physician sends your prescription electronically to the pharmacy you prefer, and you pick it up there when it suits you. Just give us the pharmacy's name and address.",
+      answerEn: "No. After your visit, the medical team sends your prescription electronically to the pharmacy you prefer, and you pick it up there when it suits you. Just give us the pharmacy's name and address.",
     },
     {
       question: "¿Puedo pedir el genérico?",
-      answer: "Sí: tiene el mismo principio activo, la misma dosis y los mismos controles de calidad. Pídelo en tu farmacia; cuando hay una diferencia relevante con el de marca, el médico te lo dice.",
+      answer: "Sí: tiene el mismo principio activo, la misma dosis y los mismos controles de calidad. Pídelo en tu farmacia; cuando hay una diferencia relevante con el de marca, el equipo médico te lo dice.",
       questionEn: "Can I ask for the generic?",
-      answerEn: "Yes: it has the same active ingredient, the same dose and the same quality controls. Ask for it at your pharmacy; when there is a relevant difference from the brand, the physician tells you.",
+      answerEn: "Yes: it has the same active ingredient, the same dose and the same quality controls. Ask for it at your pharmacy; when there is a relevant difference from the brand, the medical team tells you.",
     },
     {
       question: "¿Y si después quiero cambiar de farmacia?",

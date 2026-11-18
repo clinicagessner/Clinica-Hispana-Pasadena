@@ -26,11 +26,11 @@ El examen DOT no es para reprobar a nadie: es para comprobar que puedes manejar 
 
 ## ¿Qué acorta el certificado o lo niega?
 
-El certificado dura hasta 24 meses, pero el médico examinador puede darlo por menos cuando hay algo que vigilar. Los motivos más frecuentes:
+El certificado dura hasta 24 meses, pero el equipo médico examinador puede darlo por menos cuando hay algo que vigilar. Los motivos más frecuentes:
 
 1. **Presión alta.** De 140/90 en adelante suele dar un certificado de un año; de 160/100, de tres meses para que la controles; de 180/110 no se certifica hasta que baje.
 2. **Diabetes.** Con control por pastillas y buena A1C se certifica; con insulina hace falta el formulario MCSA-5870 llenado por tu médico tratante en los últimos 45 días.
-3. **Apnea del sueño.** Si usas CPAP, trae el reporte de uso; sin tratamiento, el médico puede pedir un estudio antes de certificar.
+3. **Apnea del sueño.** Si usas CPAP, trae el reporte de uso; sin tratamiento, el equipo médico puede pedir un estudio antes de certificar.
 4. **Problemas de visión no corregidos**, pérdida auditiva sin aparato o una condición cardiaca reciente sin autorización del cardiólogo.
 
 ## ¿Qué documentos llevo?
@@ -43,7 +43,7 @@ En Texas, el DPS exige que registres tu certificado médico para mantener la CDL
 
 ## ¿Puedo volver si no aprobé?
 
-Sí. Si la presión salió alta, se puede repetir la medición el mismo día o en una visita corta después de unos días de control. Si faltó un documento, se completa el examen cuando lo traigas. El médico te dice exactamente qué necesitas para certificarte, y en la misma clínica se puede empezar el tratamiento de [presión alta o diabetes](/services/condiciones-cronicas).
+Sí. Si la presión salió alta, se puede repetir la medición el mismo día o en una visita corta después de unos días de control. Si faltó un documento, se completa el examen cuando lo traigas. El equipo médico te dice exactamente qué necesitas para certificarte, y en la misma clínica se puede empezar el tratamiento de [presión alta o diabetes](/services/condiciones-cronicas).
 
 ## En Pasadena
 

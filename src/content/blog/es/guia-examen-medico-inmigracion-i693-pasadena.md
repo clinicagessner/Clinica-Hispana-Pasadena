@@ -19,7 +19,7 @@ El examen médico de inmigración tiene tres momentos: lo que preparas antes de 
 ## Antes de la visita: ¿qué preparo?
 
 1. **Tu registro de vacunas.** Busca la cartilla de tu país, el carnet escolar de tus hijos o cualquier constancia, en el idioma que sea. Cada vacuna que puedas comprobar es una que no tendrás que repetir.
-2. **Tus resultados médicos recientes.** Una radiografía de tórax, una prueba de tuberculosis o análisis de los últimos meses pueden servir; el médico decide cuáles acepta.
+2. **Tus resultados médicos recientes.** Una radiografía de tórax, una prueba de tuberculosis o análisis de los últimos meses pueden servir; el equipo médico decide cuáles acepta.
 3. **Tu lista de medicamentos y diagnósticos.** Diabetes, presión alta, tratamientos psiquiátricos o cualquier condición crónica deben constar en el formulario.
 4. **Tu nombre exacto.** Anota cómo aparece en tu solicitud ante USCIS, porque debe coincidir letra por letra en el I-693.
 5. **El precio.** Llama antes para saber qué incluye: consulta, pruebas de laboratorio, vacunas y llenado del formulario.
@@ -28,19 +28,19 @@ No necesitas ayuno ni cita. La clínica abre de 9 AM a 9 PM todos los días.
 
 ## Durante la visita: ¿qué me hacen?
 
-El médico autorizado por USCIS revisa tu identidad y tu historial, te hace un examen físico y comprueba tus vacunas contra la lista de USCIS para tu edad. Luego se toman las pruebas de laboratorio que exige la ley: la de tuberculosis en sangre (IGRA) para todos los mayores de 2 años y, según la edad, las de sífilis y gonorrea. Si te faltan vacunas, se aplican en la misma visita, salvo las que por razones médicas deban esperar; en ese caso el médico lo anota en el formulario. Todo el proceso se explica en español.
+El Civil Surgeon autorizado por USCIS revisa tu identidad y tu historial, te hace un examen físico y comprueba tus vacunas contra la lista de USCIS para tu edad. Luego se toman las pruebas de laboratorio que exige la ley: la de tuberculosis en sangre (IGRA) para todos los mayores de 2 años y, según la edad, las de sífilis y gonorrea. Si te faltan vacunas, se aplican en la misma visita, salvo las que por razones médicas deban esperar; en ese caso el equipo médico lo anota en el formulario. Todo el proceso se explica en español.
 
 ## ¿Qué vacunas me van a pedir?
 
-Depende de la edad. Para adultos, las habituales son Td o Tdap, sarampión-paperas-rubéola (MMR), varicela, hepatitis B y, en temporada, la de influenza; a partir de los 65, también la del neumococo. La de COVID-19 ya no está en la lista. Si estás embarazada o tienes una condición que contraindique alguna vacuna, el médico documenta la excepción; no se aplica nada que no corresponda.
+Depende de la edad. Para adultos, las habituales son Td o Tdap, sarampión-paperas-rubéola (MMR), varicela, hepatitis B y, en temporada, la de influenza; a partir de los 65, también la del neumococo. La de COVID-19 ya no está en la lista. Si estás embarazada o tienes una condición que contraindique alguna vacuna, el equipo médico documenta la excepción; no se aplica nada que no corresponda.
 
 ## ¿Y si la prueba de tuberculosis sale positiva?
 
-Una prueba de sangre positiva no significa que tengas la enfermedad activa; significa que hay que descartarla con una radiografía de tórax. Si la radiografía es normal, el proceso sigue y el médico lo registra como infección latente, que no impide el trámite. Si hubiera signos de enfermedad activa, primero se trata y después se completa el examen. Es la razón más común por la que un I-693 tarda más de lo previsto, así que conviene hacer la prueba cuanto antes.
+Una prueba de sangre positiva no significa que tengas la enfermedad activa; significa que hay que descartarla con una radiografía de tórax. Si la radiografía es normal, el proceso sigue y el equipo médico lo registra como infección latente, que no impide el trámite. Si hubiera signos de enfermedad activa, primero se trata y después se completa el examen. Es la razón más común por la que un I-693 tarda más de lo previsto, así que conviene hacer la prueba cuanto antes.
 
 ## Después de la visita: el sobre sellado
 
-Cuando llegan los resultados y las vacunas están completas, el médico llena el I-693, lo firma y lo sella en un sobre. Te avisan para recogerlo. Reglas simples: pide una copia antes del sellado, no abras el sobre y entrégalo a USCIS junto con tu solicitud o cuando te lo pidan. Según la política vigente de USCIS, los formularios firmados a partir del 1 de noviembre de 2023 no vencen mientras se usen para una solicitud; confirma la regla actual en uscis.gov.
+Cuando llegan los resultados y las vacunas están completas, el Civil Surgeon llena el I-693, lo firma y lo sella en un sobre. Te avisan para recogerlo. Reglas simples: pide una copia antes del sellado, no abras el sobre y entrégalo a USCIS junto con tu solicitud o cuando te lo pidan. Según la política vigente de USCIS, los formularios firmados a partir del 1 de noviembre de 2023 no vencen mientras se usen para una solicitud; confirma la regla actual en uscis.gov.
 
 ## ¿Cuánto tarda todo el proceso?
 

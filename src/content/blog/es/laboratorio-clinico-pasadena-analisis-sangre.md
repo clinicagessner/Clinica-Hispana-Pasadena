@@ -18,7 +18,7 @@ Tienes tu hoja de resultados y una columna de números con flechas. Esta guía e
 
 ## ¿Qué dice la biometría hemática?
 
-Es el conteo de las células de la sangre. **Hemoglobina** baja indica anemia, la causa más común de cansancio en mujeres; alta puede verse en fumadores o por deshidratación. **Glóbulos blancos** altos sugieren infección o inflamación; muy bajos, que las defensas están débiles. **Plaquetas** fuera de rango se relacionan con sangrado o coagulación. Un solo valor alterado rara vez es grave por sí mismo; el médico lo cruza con tus síntomas.
+Es el conteo de las células de la sangre. **Hemoglobina** baja indica anemia, la causa más común de cansancio en mujeres; alta puede verse en fumadores o por deshidratación. **Glóbulos blancos** altos sugieren infección o inflamación; muy bajos, que las defensas están débiles. **Plaquetas** fuera de rango se relacionan con sangrado o coagulación. Un solo valor alterado rara vez es grave por sí mismo; el equipo médico lo cruza con tus síntomas.
 
 ## ¿Cómo leer la glucosa y la A1C?
 

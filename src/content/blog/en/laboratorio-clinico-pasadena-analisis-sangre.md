@@ -18,7 +18,7 @@ You have your results sheet and a column of numbers with arrows. This guide expl
 
 ## What does the complete blood count say?
 
-It counts the cells in your blood. Low **hemoglobin** means anemia, the most common cause of tiredness in women; high can be seen in smokers or with dehydration. High **white blood cells** suggest infection or inflammation; very low, weakened defenses. **Platelets** out of range relate to bleeding or clotting. A single altered value is rarely serious on its own; the physician reads it against your symptoms.
+It counts the cells in your blood. Low **hemoglobin** means anemia, the most common cause of tiredness in women; high can be seen in smokers or with dehydration. High **white blood cells** suggest infection or inflammation; very low, weakened defenses. **Platelets** out of range relate to bleeding or clotting. A single altered value is rarely serious on its own; the medical team reads it against your symptoms.
 
 ## How do I read glucose and A1C?
 

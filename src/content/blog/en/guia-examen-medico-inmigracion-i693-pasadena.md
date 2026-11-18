@@ -19,7 +19,7 @@ The immigration medical exam has three moments: what you prepare before going, w
 ## Before the visit: what do I prepare?
 
 1. **Your vaccine record.** Look for your home-country card, your children's school record or any proof, in any language. Every vaccine you can document is one you will not have to repeat.
-2. **Your recent medical results.** A chest X-ray, a tuberculosis test or lab work from the last few months may count; the physician decides which to accept.
+2. **Your recent medical results.** A chest X-ray, a tuberculosis test or lab work from the last few months may count; the medical team decides which to accept.
 3. **Your list of medications and diagnoses.** Diabetes, high blood pressure, psychiatric treatment or any chronic condition must appear on the form.
 4. **Your exact name.** Write down how it appears on your USCIS application, because it must match letter for letter on the I-693.
 5. **The price.** Call ahead to learn what it includes: the visit, lab tests, vaccines and form completion.
@@ -28,19 +28,19 @@ No fasting or appointment is needed. The clinic is open 9 AM to 9 PM every day.
 
 ## During the visit: what is done?
 
-The USCIS-authorized physician verifies your identity and history, performs a physical exam and checks your vaccines against the USCIS list for your age. Then the lab tests required by law are taken: the tuberculosis blood test (IGRA) for everyone over 2 years old and, depending on age, syphilis and gonorrhea tests. If you are missing vaccines, they are given at the same visit, except those that must wait for medical reasons; in that case the physician notes it on the form. The whole process is explained in Spanish or English.
+The USCIS-authorized physician verifies your identity and history, performs a physical exam and checks your vaccines against the USCIS list for your age. Then the lab tests required by law are taken: the tuberculosis blood test (IGRA) for everyone over 2 years old and, depending on age, syphilis and gonorrhea tests. If you are missing vaccines, they are given at the same visit, except those that must wait for medical reasons; in that case the medical team notes it on the form. The whole process is explained in Spanish or English.
 
 ## Which vaccines will they ask for?
 
-It depends on age. For adults, the usual ones are Td or Tdap, measles-mumps-rubella (MMR), varicella, hepatitis B and, in season, the flu shot; from 65, the pneumococcal vaccine as well. COVID-19 is no longer on the list. If you are pregnant or have a condition that rules out a vaccine, the physician documents the exception; nothing is given that does not apply.
+It depends on age. For adults, the usual ones are Td or Tdap, measles-mumps-rubella (MMR), varicella, hepatitis B and, in season, the flu shot; from 65, the pneumococcal vaccine as well. COVID-19 is no longer on the list. If you are pregnant or have a condition that rules out a vaccine, the medical team documents the exception; nothing is given that does not apply.
 
 ## What if the tuberculosis test is positive?
 
-A positive blood test does not mean you have active disease; it means it must be ruled out with a chest X-ray. If the X-ray is normal, the process continues and the physician records it as latent infection, which does not block your case. If there were signs of active disease, it is treated first and the exam is completed afterward. This is the most common reason an I-693 takes longer than expected, so it is worth doing the test as soon as possible.
+A positive blood test does not mean you have active disease; it means it must be ruled out with a chest X-ray. If the X-ray is normal, the process continues and the medical team records it as latent infection, which does not block your case. If there were signs of active disease, it is treated first and the exam is completed afterward. This is the most common reason an I-693 takes longer than expected, so it is worth doing the test as soon as possible.
 
 ## After the visit: the sealed envelope
 
-Once results are in and vaccines are complete, the physician fills out the I-693, signs it and seals it in an envelope. You are told when to pick it up. Simple rules: ask for a copy before sealing, do not open the envelope and deliver it to USCIS with your application or when requested. Under current USCIS policy, forms signed on or after November 1, 2023 do not expire while used for an application; confirm the current rule at uscis.gov.
+Once results are in and vaccines are complete, the civil surgeon fills out the I-693, signs it and seals it in an envelope. You are told when to pick it up. Simple rules: ask for a copy before sealing, do not open the envelope and deliver it to USCIS with your application or when requested. Under current USCIS policy, forms signed on or after November 1, 2023 do not expire while used for an application; confirm the current rule at uscis.gov.
 
 ## How long does the whole process take?
 

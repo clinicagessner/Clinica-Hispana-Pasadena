@@ -24,7 +24,7 @@ Managing diabetes is not about giving up the food you love: it is about knowing 
 - **Blood pressure:** under 130/80.
 - **LDL cholesterol:** below 100, and lower if there has already been a heart problem.
 
-Targets are adjusted for age and other conditions; the physician tells you yours. What matters is knowing them and writing down your readings to compare at each visit.
+Targets are adjusted for age and other conditions; the medical team tells you yours. What matters is knowing them and writing down your readings to compare at each visit.
 
 ## Which checks should I have every year?
 
@@ -49,4 +49,4 @@ Metformin is usually the first medication and is adjusted based on A1C; others a
 
 ## How is follow-up handled at the clinic?
 
-At Clínica Hispana Nueva Salud Pasadena, follow-up for [diabetes, blood pressure and cholesterol](/en/services/condiciones-cronicas) is done without an appointment, with the [A1C and blood test](/en/services/examenes-sangre) drawn at the same visit and explained in Spanish or English. The Complete General Checkup for $99 includes a general blood test, A1C, urine test and the visit, and works as a starting point if you have no diagnosis yet or have gone a while without follow-up. If the physician orders it, the [EKG](/en/services/electrocardiograma) is also done here.
+At Clínica Hispana Nueva Salud Pasadena, follow-up for [diabetes, blood pressure and cholesterol](/en/services/condiciones-cronicas) is done without an appointment, with the [A1C and blood test](/en/services/examenes-sangre) drawn at the same visit and explained in Spanish or English. The Complete General Checkup for $99 includes a general blood test, A1C, urine test and the visit, and works as a starting point if you have no diagnosis yet or have gone a while without follow-up. If the medical team orders it, the [EKG](/en/services/electrocardiograma) is also done here.

@@ -11,14 +11,13 @@ coverAlt: "Paciente recibiendo atención médica sin seguro en una clínica hisp
 keywords:
   - "atención médica sin seguro pasadena"
   - "clínica sin seguro pasadena"
-  - "doctor barato pasadena español"
 ---
 
 Muchos adultos hispanos en Texas no tienen seguro médico y posponen la consulta por miedo a la cuenta. Hay más opciones de las que parece. Esta guía las ordena de la más inmediata a la más lenta, para que sepas a dónde ir según lo que necesitas hoy.
 
 ## ¿Puedo ver a un médico sin seguro en Pasadena?
 
-Sí, el mismo día. Las clínicas de pago directo, como Clínica Hispana Nueva Salud Pasadena, cobran un precio fijo por consulta o por paquete, sin seguro y sin cita, y te dicen el precio antes de pasar. Sirven para lo que no puede esperar semanas: una infección, un dolor, un chequeo, un análisis, un examen para el trabajo o para inmigración. Se paga en efectivo o con tarjeta y no hay facturas posteriores.
+Sí, el mismo día. Las clínicas de pago directo, como Clínica Hispana Nueva Salud Pasadena, cobran por consulta o por paquete, sin seguro y sin cita, y te informan el precio antes de empezar. Sirven para lo que no puede esperar semanas: una infección, un dolor, un chequeo, un análisis, un examen para el trabajo o para inmigración. Se paga en efectivo o con tarjeta y no hay facturas posteriores.
 
 ## ¿Qué cuesta una consulta sin seguro?
 

@@ -18,7 +18,7 @@ Many Hispanic adults in Texas have no health insurance and put off a visit for f
 
 ## Can I see a doctor without insurance in Pasadena?
 
-Yes, the same day. Direct-pay clinics, like Clínica Hispana Nueva Salud Pasadena, charge a fixed price per visit or package, with no insurance and no appointment, and tell you the price before you go in. They are for what cannot wait weeks: an infection, pain, a checkup, lab work, an exam for work or immigration. You pay in cash or by card and there are no bills afterward.
+Yes, the same day. Direct-pay clinics, like Clínica Hispana Nueva Salud Pasadena, charge per visit or package, with no insurance and no appointment, and tell you the price before you go in. They are for what cannot wait weeks: an infection, pain, a checkup, lab work, an exam for work or immigration. You pay in cash or by card and there are no bills afterward.
 
 ## What does a visit cost without insurance?
 

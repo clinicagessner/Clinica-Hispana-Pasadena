@@ -24,7 +24,7 @@ Controlar la diabetes no es dejar de comer lo que te gusta: es conocer tus núme
 - **Presión arterial:** menos de 130/80.
 - **Colesterol LDL:** por debajo de 100, y más bajo si ya hubo un problema del corazón.
 
-Las metas se ajustan por edad y otras condiciones; el médico te dice las tuyas. Lo importante es conocerlas y anotar tus mediciones para compararlas en cada visita.
+Las metas se ajustan por edad y otras condiciones; el equipo médico te dice las tuyas. Lo importante es conocerlas y anotar tus mediciones para compararlas en cada visita.
 
 ## ¿Qué controles debo hacerme cada año?
 
@@ -49,4 +49,4 @@ La metformina suele ser el primer medicamento y se ajusta según la A1C; hay otr
 
 ## ¿Cómo se lleva el control en la clínica?
 
-En Clínica Hispana Nueva Salud Pasadena el seguimiento de [diabetes, presión y colesterol](/services/condiciones-cronicas) se hace sin cita, con el [análisis de A1C y sangre](/services/examenes-sangre) tomado en la misma visita y explicado en español. El Chequeo General Completo por $99 incluye examen general de sangre, A1C, examen de orina y consulta, y sirve como punto de partida si aún no tienes diagnóstico o llevas tiempo sin control. Si el médico lo indica, el [electrocardiograma](/services/electrocardiograma) también se hace aquí.
+En Clínica Hispana Nueva Salud Pasadena el seguimiento de [diabetes, presión y colesterol](/services/condiciones-cronicas) se hace sin cita, con el [análisis de A1C y sangre](/services/examenes-sangre) tomado en la misma visita y explicado en español. El Chequeo General Completo por $99 incluye examen general de sangre, A1C, examen de orina y consulta, y sirve como punto de partida si aún no tienes diagnóstico o llevas tiempo sin control. Si el equipo médico lo indica, el [electrocardiograma](/services/electrocardiograma) también se hace aquí.
