@@ -6,11 +6,11 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 102 URLs del sitemap indexadas · 29 sin indexar (29 rastreada sin indexar).
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 102 URLs del sitemap indexadas · 29 sin indexar (29 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 17 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 18 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-18).
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-30).
 <!-- /tandas:auto -->
 
 ## Tanda 66 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
@@ -96,24 +96,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 
-## Tanda 62
+## Tanda 73
 
+- [ ] https://www.clinicahispanans4.com  — cambiada 2026-11-18 · rastreada 2026-11-15 · indexada · pedida 2026-11-16 · 3583 impr.
+- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-18 · rastreada 2026-11-14 · indexada · pedida 2026-11-16 · 2399 impr.
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 5 impr.
 - [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 4 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 2 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · 1 impr.
-
-## Tanda 63
-
 - [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
-
-## Tanda 64
-
 - [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-
-## Tanda 65
-
 - [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-10-30 · rastreada 2026-09-22 · rastreada sin indexar · pedida 2026-11-04 · 0 impr.
 
 ## Historial (tandas pedidas)
 
