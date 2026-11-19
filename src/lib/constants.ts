@@ -1268,7 +1268,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "salud-hombre",
-    dateModified: "2026-09-12",
+    dateModified: "2026-11-19",
     order: 10,
     category: "medicina-general",
     icon: "Mars",
@@ -1327,7 +1327,7 @@ Pruebas de clamidia, gonorrea, sífilis y VIH, con tratamiento en la misma clín
 
 ## ¿Cuánto cuestan los exámenes del hombre en Pasadena?
 
-Los precios publicados son los de las promociones vigentes: Revisa tu Testosterona por $79, que incluye examen de testosterona, examen de orina y consulta médica gratis; y el Perfil Hormonal para Hombres por $200. Para el PSA suelto o un chequeo con análisis completos, llama al (281) 747-8817 y te damos el precio. No necesitas seguro médico.
+Los precios publicados son los de las promociones vigentes: Chequeo Completo del Hombre por $89, que incluye PSA (próstata), testosterona, examen de orina y consulta médica gratis; Salud Íntima Masculina por $69 (precio regular $220), con cultivo uretral, examen general de orina y consulta médica gratis; Revisa tu Testosterona por $79, que incluye examen de testosterona, examen de orina y consulta médica gratis; y el Perfil Hormonal para Hombres por $200. Para el PSA suelto o un chequeo con análisis completos, llama al (281) 747-8817 y te damos el precio. No necesitas seguro médico.
 
 ## ¿Cómo es la visita?
 
@@ -1358,7 +1358,7 @@ Tests for chlamydia, gonorrhea, syphilis and HIV, with treatment at the same cli
 
 ## How much do men's exams cost in Pasadena?
 
-The published prices are those of the current promotions: Check Your Testosterone for $79, which includes a testosterone test, urine test and a free medical visit; and the Men's Hormone Panel for $200. For a stand-alone PSA or a checkup with full labs, call (281) 747-8817 and we give you the price. No health insurance is needed.
+The published prices are those of the current promotions: Complete Men's Checkup for $89, which includes PSA (prostate), testosterone, a urine test and a free medical visit; Men's Intimate Health for $69 (regular price $220), with a urethral culture, a general urine test and a free medical visit; Check Your Testosterone for $79, which includes a testosterone test, urine test and a free medical visit; and the Men's Hormone Panel for $200. For a stand-alone PSA or a checkup with full labs, call (281) 747-8817 and we give you the price. No health insurance is needed.
 
 ## What is the visit like?
 
