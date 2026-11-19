@@ -96,10 +96,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 
+## Tanda 74 — cambios del 2026-11-19 (Promos de los anuncios activos (mujer $79, hombre $89 y $69) y FAQ digestiva de la home)
+
+- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-11-19
+- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-11-19
+
 ## Tanda 73
 
-- [ ] https://www.clinicahispanans4.com  — cambiada 2026-11-18 · rastreada 2026-11-15 · indexada · pedida 2026-11-16 · 3583 impr.
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-18 · rastreada 2026-11-14 · indexada · pedida 2026-11-16 · 2399 impr.
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 5 impr.
 - [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 4 impr.
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 2 impr.
@@ -107,7 +114,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
 - [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
 - [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-10-30 · rastreada 2026-09-22 · rastreada sin indexar · pedida 2026-11-04 · 0 impr.
 
 ## Historial (tandas pedidas)
 
