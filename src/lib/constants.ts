@@ -1492,7 +1492,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "infecciones-urinarias",
-    dateModified: "2026-11-02",
+    dateModified: "2026-11-19",
     order: 12,
     category: "tratamientos",
     icon: "Droplet",
@@ -1568,7 +1568,7 @@ Cuando las ganas llegan de golpe, vas muchas veces de día y te levantas de noch
 
 ## ¿Cuánto cuesta atender una infección urinaria en Pasadena?
 
-La consulta con examen de orina se cotiza por teléfono al (281) 747-8817 antes de venir; el cultivo, si se necesita, va aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta. El examen general de orina está incluido en el Chequeo General Completo por $99 junto con el examen general de sangre, A1C y consulta.
+La consulta con examen de orina se cotiza por teléfono al (281) 747-8817 antes de venir; el cultivo, si se necesita, va aparte. No necesitas seguro médico; aceptamos efectivo y tarjeta. El examen general de orina está incluido en el Chequeo General Completo por $99 junto con el examen general de sangre, A1C y consulta. Si hay ardor al orinar o molestias íntimas, hay dos promociones por $69: Salud Íntima Masculina (cultivo uretral, examen general de orina y consulta médica gratis) y Salud Íntima Femenina (cultivo íntimo, consulta médica y examen de orina gratis).
 
 ## ¿Cómo es la visita?
 
@@ -1610,7 +1610,7 @@ When the urge hits suddenly, you go many times a day and get up at night, yet th
 
 ## How much does treating a urinary infection cost in Pasadena?
 
-The visit with urine test is quoted by phone at (281) 747-8817 before you come; the culture, if needed, is separate. No health insurance is needed; we accept cash and cards. The general urine test is included in the Complete General Checkup for $99 along with the general blood test, A1C and visit.
+The visit with urine test is quoted by phone at (281) 747-8817 before you come; the culture, if needed, is separate. No health insurance is needed; we accept cash and cards. The general urine test is included in the Complete General Checkup for $99 along with the general blood test, A1C and visit. If there is burning when urinating or intimate discomfort, there are two $69 promotions: Men's Intimate Health (urethral culture, general urine test and a free medical visit) and Women's Intimate Health (intimate culture, medical visit and a free urine test).
 
 ## What is the visit like?
 
