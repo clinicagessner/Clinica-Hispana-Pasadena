@@ -56,4 +56,10 @@ export const HOME_FAQS: ServiceFaq[] = [
     questionEn: "Do you perform the I-693 immigration medical exam?",
     answerEn: "Yes, with a USCIS-authorized physician. The physical exam, lab tests and any missing vaccines are done at the same clinic, and Form I-693 is delivered in a sealed envelope once results are complete. Bring your vaccine record.",
   },
+  {
+    question: "Tengo dolor de estómago que no se quita, sangre en las heces o estoy bajando de peso sin razón: ¿me pueden atender?",
+    answer: "Sí, entra sin cita de 9 AM a 9 PM; no hace falta seguro. Esos síntomas merecen una revisión pronto. En la consulta te preguntamos desde cuándo pasa y te examinamos, y si se necesita, el estudio de heces (sangre oculta, parásitos, bacterias) o el ultrasonido del abdomen se hacen aquí en Spencer Hwy. Con dolor intenso o mucha sangre, ve directo a la sala de emergencias.",
+    questionEn: "I have stomach pain that won't go away, blood in my stool or I'm losing weight for no reason: can you see me?",
+    answerEn: "Yes, walk in from 9 AM to 9 PM; no insurance needed. Those symptoms deserve a prompt checkup. At the visit we ask how long it has been going on and examine you, and if needed, the stool study (hidden blood, parasites, bacteria) or the belly ultrasound is done here on Spencer Hwy. With intense pain or a lot of blood, go straight to the ER.",
+  },
 ];
