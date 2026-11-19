@@ -824,7 +824,7 @@ ${AREAS_EN}`,
   },
   {
     slug: "ginecologia",
-    dateModified: "2026-11-02",
+    dateModified: "2026-11-19",
     order: 6,
     category: "salud-mujer",
     icon: "Flower2",
@@ -902,7 +902,7 @@ Sí, con la misma confidencialidad que el resto de la consulta. Se hacen pruebas
 
 ## ¿Cuánto cuesta la consulta ginecológica en Pasadena?
 
-Los precios publicados son los de las promociones vigentes: Chequeo Completo de la Mujer por $179, que incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis; y Salud Íntima Femenina por $69, con cultivo íntimo, consulta médica y examen de orina gratis. Para una consulta o prueba suelta, llama al (281) 747-8817. No necesitas seguro médico.
+Los precios publicados son los de las promociones vigentes: Chequeo de la Mujer por $79, que incluye Papanicolaou, consulta ginecológica gratis, examen de orina y orden para mamografía; Chequeo Completo de la Mujer por $179, que incluye ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis; y Salud Íntima Femenina por $69, con cultivo íntimo, consulta médica y examen de orina gratis. Para una consulta o prueba suelta, llama al (281) 747-8817. No necesitas seguro médico.
 
 ## ¿Cómo es la visita?
 
@@ -945,7 +945,7 @@ Yes, with the same confidentiality as the rest of the visit. Tests for chlamydia
 
 ## How much does a gynecology visit cost in Pasadena?
 
-The published prices are those of the current promotions: Complete Women's Checkup for $179, which includes a pelvic ultrasound, Pap smear, urine test and a free medical visit; and Women's Intimate Health for $69, with an intimate culture, medical visit and free urine test. For a single visit or test, call (281) 747-8817. No health insurance is needed.
+The published prices are those of the current promotions: Women's Checkup for $79, which includes a Pap smear, a free gynecology visit, a urine test and a mammogram order; Complete Women's Checkup for $179, which includes a pelvic ultrasound, Pap smear, urine test and a free medical visit; and Women's Intimate Health for $69, with an intimate culture, medical visit and free urine test. For a single visit or test, call (281) 747-8817. No health insurance is needed.
 
 ## What is the visit like?
 
