@@ -92,18 +92,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 
-## Tanda 74 — cambios del 2026-11-19 (Promos de los anuncios activos (mujer $79, hombre $89 y $69) y FAQ digestiva de la home)  📨 ENVIADA 19/11/2026
+## Tanda 74 — cambios del 2026-11-19 (Promos de los anuncios activos (mujer $79, hombre $89 y $69) y FAQ digestiva de la home)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-11-19
-- [ ] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/en  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/services/ginecologia  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/en/services/ginecologia  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/services/infecciones-urinarias  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/en/services/infecciones-urinarias  — cambiada 2026-11-19
+- [x] https://www.clinicahispanans4.com/services/anticonceptivos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/anticonceptivos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/cirugias-menores  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/cirugias-menores  — cambiada 2026-11-18
 
 ## Tanda 75
 
