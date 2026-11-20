@@ -92,6 +92,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 
+## Tanda 76 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 20/11/2026
+
+- [ ] https://www.clinicahispanans4.com/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
+- [ ] https://www.clinicahispanans4.com/en/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
+
 ## Tanda 75
 
 - [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 5 impr.
