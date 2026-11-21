@@ -81,18 +81,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 
-## Tanda 76 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026
+## Tanda 76 — cambios del 2026-11-20 (post del blog semanal)  📨 ENVIADA 21/11/2026  ✅ PEDIDA 21/11/2026
 
-- [ ] https://www.clinicahispanans4.com/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
-- [ ] https://www.clinicahispanans4.com/en/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
-- [ ] https://www.clinicahispanans4.com/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/drenaje-abscesos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
+- [x] https://www.clinicahispanans4.com/en/blog/chequeo-antes-de-buscar-embarazo-pasadena  — cambiada 2026-11-20
+- [x] https://www.clinicahispanans4.com/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/condiciones-cronicas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/curacion-heridas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/curacion-heridas  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/drenaje-abscesos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/drenaje-abscesos  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/electrocardiograma  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/electrocardiograma  — cambiada 2026-11-18
 
 ## Tanda 77
 
