@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-22; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 73 de 104 URLs del sitemap indexadas · 31 sin indexar (29 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-23; URL Inspection API, datos de hoy 2026-11-23):** 62 de 104 URLs del sitemap indexadas · 42 sin indexar (42 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-10 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-30).
+11 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 67 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 22/11/2026
+## Tanda 67 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 23/11/2026
 
 - [ ] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
@@ -23,11 +23,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
 
 ## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
-- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
@@ -83,13 +83,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 77
 
-- [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 5 impr.
-- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 4 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 2 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · 1 impr.
+- [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 62 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · 15 impr.
+- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 14 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-17 · rastreada sin indexar · 9 impr.
 - [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispanans4.com/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · rastreada sin indexar · pedida 2026-10-11 · 6 impr.
 - [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 9 impr.
 
 ## Historial (tandas pedidas)
 
