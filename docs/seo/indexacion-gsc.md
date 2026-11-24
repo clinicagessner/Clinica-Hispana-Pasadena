@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 11 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 67 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 24/11/2026
+## Tanda 67 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
 
-- [ ] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/examen-dot  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examen-dot  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examen-dot  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
 
 ## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
