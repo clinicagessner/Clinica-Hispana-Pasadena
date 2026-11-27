@@ -6,28 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-26; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 62 de 104 URLs del sitemap indexadas · 42 sin indexar (42 rastreada sin indexar).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 62 de 104 URLs del sitemap indexadas · 42 sin indexar (42 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
+25 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
-
-- [x] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-11-18
-- [x] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
-
-## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
-
+## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 27/11/2026
 - [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-strep  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-11-18
@@ -36,11 +22,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/suturas-heridas  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/suturas-heridas  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-18
 
 ## Tanda 70 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
-- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/ultrasonido  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/ultrasonido  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/unas-encarnadas  — cambiada 2026-11-18
@@ -250,6 +236,19 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanans4.com/en/services/examen-fisico-escolar  — cambiada 2026-11-18
 - [x] https://www.clinicahispanans4.com/services/examen-heces  — cambiada 2026-11-18
 - [x] https://www.clinicahispanans4.com/en/services/examen-heces  — cambiada 2026-11-18
+
+## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
+
+- [x] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
 
 ## Tanda 74 — cambios del 2026-11-19 (Promos de los anuncios activos (mujer $79, hombre $89 y $69) y FAQ digestiva de la home)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
