@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 17 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 26/11/2026
+## Tanda 68 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 26/11/2026  ✅ PEDIDA 26/11/2026
 
-- [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/examenes-sangre  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/extraccion-implantes  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/extraccion-implantes  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/farmacia  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/services/prueba-embarazo  — cambiada 2026-11-18
+- [x] https://www.clinicahispanans4.com/en/services/prueba-embarazo  — cambiada 2026-11-18
 
 ## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
