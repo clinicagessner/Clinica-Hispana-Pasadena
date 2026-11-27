@@ -27,6 +27,8 @@ import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
+import { AvisoPausaI693 } from "@/components/ui/aviso-pausa";
+import { I693_SERVICE_SLUGS } from "@/lib/pausas";
 
 export function generateStaticParams() {
   const slugs = getAllServiceSlugs();
@@ -210,6 +212,10 @@ export default async function ServiceDetailPage({
                 </li>
               ))}
             </ul>
+
+            {I693_SERVICE_SLUGS.includes(slug) && (
+              <AvisoPausaI693 locale={loc} className="mt-10" />
+            )}
 
             {/* Long description (markdown) */}
             <div

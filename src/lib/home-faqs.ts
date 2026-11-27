@@ -52,9 +52,9 @@ export const HOME_FAQS: ServiceFaq[] = [
   },
   {
     question: "¿Hacen el examen médico de inmigración I-693?",
-    answer: "Sí, con un médico autorizado por USCIS. Se hace el examen físico, las pruebas de laboratorio y las vacunas que falten en la misma clínica, y se entrega el Formulario I-693 en sobre sellado cuando los resultados están completos. Trae tu registro de vacunas.",
+    answer: "Sí, con un médico autorizado por USCIS. Se hace el examen físico, las pruebas de laboratorio y las vacunas que falten en la misma clínica, y se entrega el Formulario I-693 en sobre sellado cuando los resultados están completos. Trae tu registro de vacunas. Aviso: este servicio está temporalmente pausado hasta nuevo aviso.",
     questionEn: "Do you perform the I-693 immigration medical exam?",
-    answerEn: "Yes, with a USCIS-authorized physician. The physical exam, lab tests and any missing vaccines are done at the same clinic, and Form I-693 is delivered in a sealed envelope once results are complete. Bring your vaccine record.",
+    answerEn: "Yes, with a USCIS-authorized physician. The physical exam, lab tests and any missing vaccines are done at the same clinic, and Form I-693 is delivered in a sealed envelope once results are complete. Bring your vaccine record. Notice: this service is temporarily paused until further notice.",
   },
   {
     question: "Tengo dolor de estómago que no se quita, sangre en las heces o estoy bajando de peso sin razón: ¿me pueden atender?",

@@ -22,6 +22,8 @@ import { ctaButton } from "@/lib/button-styles";
 import { cn } from "@/lib/utils";
 import { routing } from "@/i18n/routing";
 import type { Locale } from "@/types";
+import { AvisoPausaI693 } from "@/components/ui/aviso-pausa";
+import { I693_POST_SLUGS } from "@/lib/pausas";
 
 export function generateStaticParams() {
   const slugs = getPostSlugs();
@@ -131,6 +133,9 @@ export default async function BlogPostPage({
       {/* Contenido */}
       <section className="bg-white py-14 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+          {I693_POST_SLUGS.includes(slug) && (
+            <AvisoPausaI693 locale={loc} className="mb-6" />
+          )}
           {/* Portada enmarcada (si existe) */}
           {post.hasCover && (
             <div className="mb-10 overflow-hidden rounded-3xl border border-blue-deep/10 shadow-xl shadow-blue-deep/10">
