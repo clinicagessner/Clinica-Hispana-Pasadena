@@ -14,6 +14,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 <!-- /tandas:auto -->
 
 ## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 27/11/2026
+- [ ] https://www.clinicahispanans4.com/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
+- [ ] https://www.clinicahispanans4.com/en/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
 - [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/prueba-strep  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-11-18
@@ -22,8 +24,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/suturas-heridas  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/suturas-heridas  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-18
 
 ## Tanda 70 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
@@ -53,6 +53,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispanans4.com/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/blog/medicos-autorizados-uscis-pasadena-civil-surgeon  — cambiada 2026-11-18
+
+## Tanda 78 — cambios del 2026-11-27 (devueltas de la tanda 69 por el post del blog semanal)
+
+- [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-27
 
 ## Tanda 77
 
