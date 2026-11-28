@@ -6,21 +6,15 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanans4.com/`, cuenta **clinicamolina04@gmail.com** (confirmada por el usuario, 2026-10-05). Token `pasadena` reautorizado el 2026-09-25 (app de Cloud ya en producción).
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-09-30: antiguos (2026-09-30): --sin-fetch):** 87 de 106 URLs del sitemap indexadas · 19 sin indexar (16 sin datos · 3 rastreada sin indexar).
+**Estado (actualizado 2026-11-28; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 62 de 106 URLs del sitemap indexadas · 44 sin indexar (42 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 7 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 5 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-28).
+24 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-03).
 <!-- /tandas:auto -->
 
-## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)  📨 ENVIADA 27/11/2026
+## Tanda 69 — cambios del 2026-11-18 (textos §9: equipo médico, sin plazos ni precio fijo)
 
-- [ ] https://www.clinicahispanans4.com/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
-- [ ] https://www.clinicahispanans4.com/en/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
-- [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-strep  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-11-18
-- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/en/services/sueros-vitaminados  — cambiada 2026-11-18
 - [ ] https://www.clinicahispanans4.com/services/suturas-heridas  — cambiada 2026-11-18
@@ -60,35 +54,28 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanans4.com/services/tiroides  — cambiada 2026-11-27
 - [ ] https://www.clinicahispanans4.com/en/services/tiroides  — cambiada 2026-11-27
 
-## Tanda 79 — cambios del 2026-11-27 (aviso I-693 pausado)
-
+## Tanda 79 — cambios del 2026-11-27 (aviso I-693 pausado)  📨 ENVIADA 28/11/2026
 - [ ] https://www.clinicahispanans4.com/services/examenes-inmigracion  — cambiada 2026-11-27
 - [ ] https://www.clinicahispanans4.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
 - [ ] https://www.clinicahispanans4.com/  — cambiada 2026-11-27
 - [ ] https://www.clinicahispanans4.com/en  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanans4.com/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
+- [ ] https://www.clinicahispanans4.com/en/blog/chorro-debil-goteo-orinar-hombre-pasadena  — cambiada 2026-11-27 (post del blog semanal)
+- [ ] https://www.clinicahispanans4.com/services/prueba-strep  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-strep  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/services/salud-hombre  — cambiada 2026-11-18
+- [ ] https://www.clinicahispanans4.com/en/services/salud-hombre  — cambiada 2026-11-18
 
 ## Tanda 80
 
-- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · indexada · 16 impr.
-- [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 15 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · indexada · 13 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · indexada · 9 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · indexada · 3 impr.
-- [ ] https://www.clinicahispanans4.com/en/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · indexada · 1 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanans4.com/blog/antivirales-gripe-consultar-primeros-dias  — cambiada 2026-10-09 · sin datos de inspección · pedida 2026-10-30 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
-
-## Tanda 81
-
-- [ ] https://www.clinicahispanans4.com/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/bienvenidos-clinica-hispana-nueva-salud  — cambiada 2026-11-02 · rastreada 2026-09-27 · rastreada sin indexar · pedida 2026-11-03 · 111 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/salud-mujer-pasadena-servicios-ginecologia  — cambiada 2026-09-12 · rastreada 2026-09-28 · rastreada sin indexar · 5 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/dolor-de-barriga-estrenimiento-ninos-pasadena  — cambiada 2026-11-06 · sin datos de inspección · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/orinar-a-cada-rato-causas-pasadena  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/sindrome-metabolico-cintura-corazon-pasadena  — cambiada 2026-10-30 · sin datos de inspección · pedida 2026-10-31 · 0 impr.
-- [ ] https://www.clinicahispanans4.com/en/blog/ultrasonido-rinones-vejiga-infecciones-pasadena  — cambiada 2026-10-23 · sin datos de inspección · pedida 2026-10-24 · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/promociones  — cambiada 2026-10-05 · rastreada 2026-09-26 · indexada · pedida 2026-09-25 · 62 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/alergias  — cambiada 2026-09-12 · rastreada 2026-07-05 · rastreada sin indexar · 15 impr.
+- [ ] https://www.clinicahispanans4.com/en/walk-in  — cambiada 2026-10-05 · rastreada 2026-07-08 · rastreada sin indexar · 14 impr.
+- [ ] https://www.clinicahispanans4.com/en/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-17 · rastreada sin indexar · 9 impr.
+- [ ] https://www.clinicahispanans4.com/en/blog/salud-hombre-pasadena-chequeos-preventivos  — cambiada 2026-09-12 · rastreada 2026-07-24 · rastreada sin indexar · 0 impr.
+- [ ] https://www.clinicahispanans4.com/services/prueba-tuberculosis  — cambiada 2026-09-12 · rastreada 2026-07-16 · rastreada sin indexar · pedida 2026-10-11 · 6 impr.
+- [ ] https://www.clinicahispanans4.com/services/examen-alcohol-drogas  — cambiada 2026-09-12 · rastreada 2026-07-08 · rastreada sin indexar · pedida 2026-10-11 · 0 impr.
+- [ ] https://www.clinicahispanans4.com/en/services  — cambiada 2026-10-05 · rastreada 2026-09-20 · rastreada sin indexar · pedida 2026-11-03 · 9 impr.
 
 ## Historial (tandas pedidas)
 
